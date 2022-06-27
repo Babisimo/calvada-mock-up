@@ -1,21 +1,26 @@
 import React from "react"
+import {Link, useMatch, useResolvedPath} from "react-router-dom"
 
 export default function NavBar() {
     return (
         <nav className="nav">
-            <a href="/" className="site-title">
+            <Link to="/" className="site-title">
                 <img alt="logo" src={require("./imgs/logo.png")}></img>
-            </a>
+            </Link>
             <ul>
-                <li className="active">
-                    <a href="/">Home</a>
-                </li>
-
-                <li>
-                    <a href="/states">States</a>
-                </li>
-                
+                <CustomLink to="/">Home</CustomLink>
+                <CustomLink to="/statesPage">States</CustomLink>                
             </ul>
         </nav>
+    )
+}
+
+function CustomLink({ to, children, ...props}){
+    const resolvedPath = useResolvedPath(to)
+    const isActive = useMatch({path: resolvedPath.pathname, end:true})
+    return (
+        <li className={isActive ? "active" : ""}>
+            <Link to={to} {...props}>{children}</Link>
+        </li>
     )
 }

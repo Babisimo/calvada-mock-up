@@ -2,28 +2,21 @@ import React from "react"
 import './App.css';
 import NavBar from './NavBar'
 import Home from './pages/Home';
-import States from './pages/States';
+import StatesPage from './pages/StatesPage';
+import {Route, Routes} from 'react-router-dom'
 
 function App() {
-
-  let component  
-  switch(window.location.pathname) {
-    case "/":
-      component = <Home />
-      break
-      
-    case "/states":
-      component = <States />
-      break
-
-    default:
-      break
-  }
-
   return (
     <>
       <NavBar />
-      {component}
+      <div className="container">
+
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/statesPage" element={<StatesPage />} />
+        </Routes>
+
+      </div>
     </>
   );
 }
