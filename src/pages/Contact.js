@@ -1,5 +1,5 @@
 const Contact = () => {
-    return(
+    return (
         <div className="contactDiv">
             <form className="form">
                 <h1 className="title">Contact Form</h1>
@@ -14,7 +14,7 @@ const Contact = () => {
                 <label>Message</label>
                 <textarea placeholder="Message"></textarea>
 
-                <button>Submit</button>                
+                <button>Submit</button>
 
             </form>
         </div>

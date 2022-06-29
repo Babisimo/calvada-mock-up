@@ -1,6 +1,8 @@
 import React from "react"
 import {Link, useMatch, useResolvedPath} from "react-router-dom"
 
+// let states = []
+
 export default function StatesNavBar() {
     return (
         <nav className="navigator">
