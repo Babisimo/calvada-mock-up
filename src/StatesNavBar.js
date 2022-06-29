@@ -1,16 +1,14 @@
 import React from "react"
 import {Link, useMatch, useResolvedPath} from "react-router-dom"
 
-export default function NavBar() {
+export default function StatesNavBar() {
     return (
-        <nav className="nav">
-            <Link to="/" className="site-title">
-                <img alt="logo" src={require("./imgs/logo.png")}></img>
-            </Link>
+        <nav className="navigator">
             <ul>
-                <CustomLink to="/">Home</CustomLink>
-                <CustomLink to="/states">States</CustomLink>             
-                <CustomLink to="/contact">Contact</CustomLink>   
+                <CustomLink to="/california">California</CustomLink>
+                <CustomLink to="/arizona">Arizona</CustomLink>             
+                <CustomLink to="/nevada">Nevada</CustomLink>
+                <CustomLink to="/texas">Texas</CustomLink>   
             </ul>
         </nav>
     )

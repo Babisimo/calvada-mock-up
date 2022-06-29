@@ -1,14 +1,11 @@
 import React from "react"
-import States from "./StatesFolder/States" 
+import StatesNavBar from "../StatesNavBar"
 
 export default function StatesPage() { 
     return(
-        <>
-            <h1>
-                States
-            </h1>
-            <br/>
-            <States />
-        </>
+        <div>
+            <h1 className="title">States</h1>
+            <StatesNavBar />
+        </div>
     )
 }

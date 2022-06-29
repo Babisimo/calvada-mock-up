@@ -12,9 +12,9 @@ body {
 }
 
 .nav { 
-    background-color: #d3ebd3;
+    background-color: #F3EFCC;
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
-    color: darkolivegreen;
+    color: #406343;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
@@ -44,9 +44,22 @@ body {
 }
 
 .nav li.active { 
-    background-color: #e2ffe2;
+    background-color: #F0BB62;
+    color: #F3EFCC;
 }
 
 .nav li:hover { 
-    background-color: white;
+    background-color: #F1F7E7;
+}
+
+.nav li:hover.active { 
+    color: #406343;
+}
+
+.title { 
+    color: #ECE7B4;
+}
+
+.para { 
+    color: rgb(241, 255, 225);
 }

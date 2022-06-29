@@ -4,6 +4,9 @@ import NavBar from './NavBar'
 import Home from './pages/Home';
 import StatesPage from './pages/StatesPage';
 import {Route, Routes} from 'react-router-dom'
+import California from "./pages/StatesFolder/California";
+import Nevada from "./pages/StatesFolder/Nevada";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -13,7 +16,10 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/statesPage" element={<StatesPage />} />
+          <Route path="/states" element={<StatesPage />} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/california" element={<California/>} />
+          <Route path="/nevada" element={<Nevada />} />
         </Routes>
 
       </div>
