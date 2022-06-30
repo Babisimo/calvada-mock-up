@@ -49,16 +49,12 @@ strong {
 }
 
 .nav li.active { 
-    background-color: #F0BB62;
-    color: #F3EFCC;
+    background-color: #F1F7E7;
+    color: #406343;
 }
 
 .nav li:hover { 
     background-color: #F1F7E7;
-}
-
-.nav li:hover.active { 
-    color: #406343;
 }
 
 .title { 
