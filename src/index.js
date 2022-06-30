@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './App.css';
 import './index.css';
+import './pages/styles/counties.css'
 import './pages/styles/stateStyle.css'
 import App from './App';
 import './style.css'

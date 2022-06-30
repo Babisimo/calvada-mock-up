@@ -1,5 +1,5 @@
 import React from "react";
-import StatesNavBar from '../StatesNavBar'
+import StatesNavBar from './StatesFolder/StatesNavBar'
 
 export default function Counties () { 
     return(
