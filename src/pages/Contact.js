@@ -11,8 +11,8 @@ const Contact = () => {
                 <label>Email</label>
                 <input placeholder="Email"></input>
 
-                <label>Message</label>
-                <textarea placeholder="Message"></textarea>
+                <label>Message + <strong>Job Number</strong></label>
+                <textarea placeholder="Message + Job Number"></textarea>
 
                 <button>Submit</button>
 

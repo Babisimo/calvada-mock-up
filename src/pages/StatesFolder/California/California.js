@@ -4,7 +4,7 @@ export default function California() {
     return (
         <div>
             <h1 className="title">California</h1>
-            {/* <Link>Back</Link> */}
+            
         </div>
     )
 }
