@@ -2,7 +2,7 @@ import React from 'react'
 
 const Alpine = () => {
   return (
-    <div>Alpine</div>
+    <h1 className='title'>Alpine</h1>
   )
 }
 

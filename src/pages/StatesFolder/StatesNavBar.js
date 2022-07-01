@@ -7,8 +7,8 @@ export default function StatesNavBar() {
     return (
         <nav className="navigator">
             <ul>
-                <CustomLink to="/california">California</CustomLink>
                 <CustomLink to="/arizona">Arizona</CustomLink>             
+                <CustomLink to="/california">California</CustomLink>
                 <CustomLink to="/nevada">Nevada</CustomLink>
                 <CustomLink to="/texas">Texas</CustomLink>   
             </ul>

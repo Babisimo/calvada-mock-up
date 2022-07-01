@@ -2,7 +2,7 @@ import React from 'react'
 
 const Amador = () => {
   return (
-    <div>Amador</div>
+    <h1 className='title'>Amador</h1>
   )
 }
 
