@@ -5,8 +5,12 @@ export default function Alameda() {
     <div className='county-info'>
       <h1 className='title'>Alameda County</h1>
 
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
       <div className='apn-format'>
-        <h4>APN Formats:</h4>
+        <h3>APN Formats:</h3>
         <p>85-1601-6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(085-1601-006)</p>
         <p>482-52-101 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(482-0052-101)</p>
         <p>48E-7334-63 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(048E-7334-063)   </p>
@@ -20,7 +24,7 @@ export default function Alameda() {
 
       <span className='span'>
 
-        <h4>Links:</h4>
+        <h3>Links:</h3>
 
         <a href='http://www.acgov.org/' target={'_blank'} rel="noreferrer">Official Site</a>
 
@@ -50,7 +54,7 @@ export default function Alameda() {
       {/* Border To Separate Information */}
 
       <span className='span'>
-        <h4>Public Works:</h4>
+        <h3>Public Works:</h3>
         <span>
           <p>399 Elmhurst Street</p>
           <p>Hayward California, 94544</p>
@@ -62,10 +66,6 @@ export default function Alameda() {
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
-
-
-
-
 
     </div>
 
