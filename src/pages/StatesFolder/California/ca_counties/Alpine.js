@@ -5,8 +5,8 @@ const Alpine = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/counties'}><button>Counties</button></Link>
-        <h1 className='title'>Alpine</h1>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
+        <h1 className='title'>Alpine County</h1>
       </div>
 
       {/* Border To Separate Information */}
@@ -22,10 +22,23 @@ const Alpine = () => {
       <p className='border'></p>
       {/* Border To Separate Information */}
 
-      <div className='span'>
+      <span className='span'>
         <h3>Links:</h3>
         <a href='http://www.alpinecountyca.gov/145/Maps-Property-Information' target={'_blank'} rel="noreferrer">Official Website</a>
-      </div>
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Caltrans:</h3>
+        {/* LINK NOT WORKING */}
+        <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 10</a>
+        <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd</p>
+        <p>Stockton, CA 95205</p>
+        <p>Public Information Office: (209) 948-7543</p>
+      </span>
 
     </div>
   )

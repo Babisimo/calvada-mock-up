@@ -6,7 +6,7 @@ export default function California() {
     return (
         <div>
             <div className='county-btn'>
-                <Link to={'/counties'}><button>Counties</button></Link>
+                <Link to={'/counties'}><button>Back to Counties</button></Link>
                 <h1 className='title'>California</h1>
             </div>
 
