@@ -5,7 +5,7 @@ export default function Alameda() {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/counties'}><button>Counties</button></Link>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
         <h1 className='title'>Alameda County</h1>
       </div>
 
@@ -31,11 +31,6 @@ export default function Alameda() {
         <h3>Links:</h3>
 
         <a href='http://www.acgov.org/' target={'_blank'} rel="noreferrer">Official Site</a>
-
-        <br />
-        <br />
-
-        <a href='https://us-places.com/California/maps/Alameda-County-map.htm' target={'_blank'} rel="noreferrer">Map Showing Alameda County</a>
 
         <br />
         <br />
@@ -70,6 +65,8 @@ export default function Alameda() {
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
+
+
 
     </div>
 
