@@ -1,9 +1,13 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Alameda() {
   return (
     <div className='county-info'>
-      <h1 className='title'>Alameda County</h1>
+      <div className='county-btn'>
+        <Link to={'/counties'}><button>Counties</button></Link>
+        <h1 className='title'>Alameda County</h1>
+      </div>
 
       {/* Border To Separate Information */}
       <p className='border'></p>
