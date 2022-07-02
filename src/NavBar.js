@@ -5,7 +5,7 @@ export default function NavBar() {
     return (
         <nav className="nav">
             <Link to="/" className="site-title">
-                <img alt="logo" src={require("./images/logo.png")}></img>
+                <img alt="logo" src={require("./imgs/logo.png")}></img>
             </Link>
             <ul>
                 <CustomLink to="/">Home</CustomLink>
