@@ -34,3 +34,33 @@
     color: #406343;
 }
   
+/* Actual County Information */
+.county-info a{ 
+  color: #f3efcc;
+  text-decoration: underline;
+}
+
+.county-info a:hover { 
+  color: blueviolet;
+}
+
+.span { 
+  color: #f3efcc;
+  margin-left: 10px;
+}
+
+.border { 
+  margin: 20px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.331);
+  width: 100%;
+}
+
+.apn-format {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.apn-format {
+
+}
