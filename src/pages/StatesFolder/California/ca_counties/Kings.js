@@ -25,15 +25,12 @@ const Kings = () => {
       <span className='span'>
         <h3>Links:</h3>
         <a href='https://assr.parcelquest.com/Home/Disclaimer' target={"_blank"} rel='noreferrer'>Parcel Search</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-      </span>
-
-      {/* Border To Separate Information */}
-      <p className='border'></p>
-      {/* Border To Separate Information */}
-
-      <span className='span'>
-        <h3>Public Works:</h3>
-
+        <br />
+        <br />
+        <a href='http://kingscountygis.com/parcel_query/' target={"_blank"} rel='noreferrer'>GIS Viewer</a>&nbsp;&nbsp;&nbsp;(Link Not Working)
+        <br />
+        <br />
+        <a href='https://www.countyofkings.com/departments/public-works' target={"_blank"} rel='noreferrer'>Public Works</a>
       </span>
 
       {/* Border To Separate Information */}

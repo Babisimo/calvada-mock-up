@@ -118,3 +118,8 @@ strong {
 .buttons button:hover {
   background-color: white;
 }
+
+strong {
+  text-decoration: none;
+  font-weight: bolder;
+}
