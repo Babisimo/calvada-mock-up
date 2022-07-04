@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom'
 
 // Importing California Counties
-import { Alameda, Alpine, Amador, Butte, ContraCosta, Fresno, Kern, Kings, Lake, LosAngeles, Marin, Merced, Monterrey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFransisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo } from "../pages/StatesFolder/California/CA_Components/c_exports"
+import { Alameda, Alpine, Amador, Butte, ContraCosta, Fresno, Kern, Kings, Lake, LosAngeles, Marin, Merced, Monterey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFransisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo } from "../pages/StatesFolder/California/CA_Components/c_exports"
 
 // Importing Arizona Counties
 import { Maricopa, Pima } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
@@ -30,7 +30,7 @@ export default function CountiesRoutes() {
                 <Route path="/losangeles" element={<LosAngeles />} />
                 <Route path="/marin" element={<Marin />} />
                 <Route path="/merced" element={<Merced />} />
-                <Route path="/monterrey" element={<Monterrey />} />
+                <Route path="/monterrey" element={<Monterey />} />
                 <Route path="/orange" element={<Orange />} />
                 <Route path="/placer" element={<Placer />} />
                 <Route path="/riverside" element={<Riverside />} />

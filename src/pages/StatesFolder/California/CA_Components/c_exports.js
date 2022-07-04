@@ -10,7 +10,7 @@ import { Lake } from "../ca_counties/Lake";
 import LosAngeles from "../ca_counties/LosAngeles";
 import Marin from "../ca_counties/Marin";
 import Merced from "../ca_counties/Merced";
-import Monterrey from "../ca_counties/Monterrey";
+import Monterey from "../ca_counties/Monterey";
 import Orange from "../ca_counties/Orange";
 import Placer from "../ca_counties/Placer";
 import Riverside from "../ca_counties/Riverside";
@@ -45,7 +45,7 @@ export {
     LosAngeles,
     Marin,
     Merced,
-    Monterrey,
+    Monterey,
     Orange,
     Placer,
     Riverside,
