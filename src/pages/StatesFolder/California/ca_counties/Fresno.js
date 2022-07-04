@@ -52,7 +52,7 @@ const Fresno = () => {
       <span className='span'>
         <h3>Caltrans:</h3>
         {/* LINK DONT WORK */}
-        <a href='http://www.dot.ca.gov/dist6/' target={"_blank"} rel='noreferrer'>Caltrans District 6</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <a href='http://www.dot.ca.gov/dist6/' target={"_blank"} rel='noreferrer'>Caltrans District 6</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
         <p>Fresno Fair Grounds, Educational Building</p>
         <p>1121 S. Chance Avenue, Fresno, California 93702</p>
         <h4>Telephone:</h4>

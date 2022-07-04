@@ -33,8 +33,7 @@ const Alpine = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        {/* LINK NOT WORKING */}
-        <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 10</a>
+        <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 10</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
         <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd</p>
         <p>Stockton, CA 95205</p>
         <p>Public Information Office: (209) 948-7543</p>
