@@ -1,8 +1,76 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Sacramento = () => {
   return (
-    <div>Sacramento</div>
+    <div className='county-info'>
+      <div className='county-btn'>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
+        <h1 className='title'>Sacramento County</h1>
+      </div>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <div className='apn-format'>
+        <h3>APN Format:</h3>
+        <p>013-0244-025-0000</p>
+      </div>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Links:</h3>
+        <a href='https://www.saccounty.gov/Pages/default.aspx' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <br />
+        <br />
+        <a href='https://assessorparcelviewer.saccounty.gov/JSViewer/assessor.html' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <br />
+        <br />
+        <a href='https://assr.parcelquest.com/Statewide/Disclaimer' target={"_blank"} rel='noreferrer'>APNS</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <br />
+        <br />
+        <a href='http://www.sacmaps.com/' target={"_blank"} rel='noreferrer'>County Maps</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
+        <br />
+        <br />
+        <a href='http://www.sacmaps.com/NAVD%2088%20Database/Sacramento%20County%20BM%27s%20NAVD%2088.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Public Works:</h3>
+        <strong>Municipal Services Agency:</strong>
+        <p>700 H St. Room 6720</p>
+        <p><strong>Phone: </strong> (916) 876-5928</p>
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Caltrans:</h3>
+        <a href='https://www.dot.ca.gov/dist3' target={"_blank"} rel='noreferrer'>Caltrans District 3</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <p>703 B Street</p>
+        <p>Marysville, California 95901</p>
+        <p>Monday - Friday 7:30 AM - 5:30 PM</p>
+
+        <p><strong>E-Mail:</strong> DSSSurveys@SacCounty.net</p>
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+
+      <p></p>
+    </div>
   )
 }
 

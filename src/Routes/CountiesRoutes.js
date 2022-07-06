@@ -30,7 +30,7 @@ export default function CountiesRoutes() {
                 <Route path="/losangeles" element={<LosAngeles />} />
                 <Route path="/marin" element={<Marin />} />
                 <Route path="/merced" element={<Merced />} />
-                <Route path="/monterrey" element={<Monterey />} />
+                <Route path="/monterey" element={<Monterey />} />
                 <Route path="/orange" element={<Orange />} />
                 <Route path="/placer" element={<Placer />} />
                 <Route path="/riverside" element={<Riverside />} />

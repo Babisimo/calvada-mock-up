@@ -17,7 +17,7 @@ export default function CaCountiesNavBar() {
                 <CustomLink to="/losangeles">Los Angeles</CustomLink>
                 <CustomLink to="/marin">Marin</CustomLink>
                 <CustomLink to="/merced">Merced</CustomLink>
-                <CustomLink to="/monterrey">Monterrey</CustomLink>
+                <CustomLink to="/monterey">Monterey</CustomLink>
                 <CustomLink to="/orange">Orange</CustomLink>
                 <CustomLink to="/placer">Placer</CustomLink>
                 <CustomLink to="/riverside">Riverside</CustomLink>
@@ -38,7 +38,7 @@ export default function CaCountiesNavBar() {
                 <CustomLink to="/tulare">Tulare</CustomLink>
                 <CustomLink to="/ventura">Ventura</CustomLink>
                 <CustomLink to="/yolo">Yolo</CustomLink>
-                
+
             </ul>
         </nav>
     )
