@@ -71,6 +71,10 @@ const Butte = () => {
         <p>Joe Von Kleist | Survey Party Chief | (530) 538-7681 x2031 | jvonkleist@buttecounty.net</p>
         <p>Dave Landon | Survey Party Chief  | (530) 538-7681 x2035 | dlandon@buttecounty.net</p>
       </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
     </div>
   )
 }

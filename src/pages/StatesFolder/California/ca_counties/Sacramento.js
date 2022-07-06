@@ -67,9 +67,6 @@ const Sacramento = () => {
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
-
-
-      <p></p>
     </div>
   )
 }

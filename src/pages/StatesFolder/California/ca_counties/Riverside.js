@@ -67,7 +67,6 @@ const Riverside = () => {
       <p className='border'></p>
       {/* Border To Separate Information */}
 
-
     </div>
   )
 }
