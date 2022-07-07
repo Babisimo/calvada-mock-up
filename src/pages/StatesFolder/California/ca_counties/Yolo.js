@@ -6,7 +6,7 @@ const Yolo = () => {
     <div className='county-info'>
       <div className='county-btn'>
         <Link to={'/california'}><button>Back to California Counties</button></Link>
-        <h1 className='title'>County</h1>
+        <h1 className='title'>Yolo County</h1>
       </div>
 
       {/* Border To Separate Information */}
