@@ -40,7 +40,7 @@ export default function Alameda() {
         <br />
         <br />
 
-        <a href="http://gis.acgov.org/Html5Viewer/index.html?viewer=parcel_viewer" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;{"(Free Record Maps)"}
+        <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;{"(Free Record Maps)"}
 
         <br />
         <br />
