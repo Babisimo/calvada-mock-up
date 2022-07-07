@@ -19,6 +19,9 @@ const Yolo = () => {
         <br />
         <br />
         <a href='https://www.yolocounty.org/community-development/planning-public-works/geographic-information-system-gis-/use-gis' target={"_blank"} rel='noreferrer'>GIS Property Information</a>&nbsp;&nbsp;&nbsp;(Free APNS | <strong>LINK NOT WORKING</strong>)
+        <br />
+        <br />
+        <a href='https://camapsource.com/yolo-county/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Assessment Maps, Map Books, Parcel Maps, etc)
       </span>
 
       {/* Border To Separate Information */}

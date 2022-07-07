@@ -31,6 +31,9 @@ const SanJoaquin = () => {
         <br />
         <br />
         <a href='https://www.sjgov.org/department/pwk/home' target={"_blank"} rel='noreferrer'>Surveyor Land Records System</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <br />
+        <br />
+        <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
       </span>
 
       {/* Border To Separate Information */}

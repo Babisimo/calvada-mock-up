@@ -34,6 +34,9 @@ const Placer = () => {
         <br />
         <br />
         <a href='https://www.placer.ca.gov/3701/Zoning-Ordinance' target={"_blank"} rel='noreferrer'>Zoning Maps</a>
+        <br />
+        <br />
+        <a href='https://camapsource.com/placer/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Parcel Maps, Map Locator, Corner Records, etc.)
       </span>
 
       {/* Border To Separate Information */}

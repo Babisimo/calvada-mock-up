@@ -33,7 +33,7 @@ const Shasta = () => {
         <a href='https://www.co.shasta.ca.us/index/gis' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;(APNS, Zoning)
         <br />
         <br />
-        <a href='https://www.co.shasta.ca.us/index/gis/Data_Download.aspx' target={"_blank"} rel='noreferrer'>GIS Download Data Sets</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <a href='https://camapsource.com/shasta-county/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
       </span>
 
       {/* Border To Separate Information */}

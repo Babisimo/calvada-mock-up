@@ -1,8 +1,70 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+import PDF from '../../../../PDF/NDOT/PublicRecordsRequestForm.pdf'
 
 const Clark = () => {
   return (
-    <h1 className='title'>Clark</h1>
+    <div className='county-info'>
+      <div className='county-btn'>
+        <Link to={'/nevada'}><button>Back to Nevada Counties</button></Link>
+        <h1 className='title'>Clark County</h1>
+      </div>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <div className='apn-format'>
+        <h3>APN Format:</h3>
+        <p>16223812002 &nbsp;&nbsp;&nbsp; (162-23-812-002)</p>
+      </div>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Links:</h3>
+        <a href='https://www.clarkcountynv.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <br />
+        <br />
+        <a href='https://www.clarkcountynv.gov/Depts/assessor/Pages/PropertyRecords.aspx?H=sandgate&P=ParcelMaps/Prclinq.htm' target={"_blank"} rel='noreferrer'>Assessor Records and Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS | <strong>LINK NOT WORKING</strong>)
+        <br />
+        <br />
+        <a href='http://gisgate.co.clark.nv.us/assessor/webimages/' target={"_blank"} rel='noreferrer'>Assessor | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Deeds)
+        <br />
+        <br />
+        <a href='http://gisgate.co.clark.nv.us/openweb/?@782884,26762114,6' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
+        <br />
+        <br />
+        <a href='https://www.clarkcountynv.gov/Depts/public_works/surveyors_office/Pages/benchmark.aspx' target={"_blank"} rel='noreferrer'>Benchmarks</a>&nbsp;&nbsp;&nbsp;(Vertical Control | <strong>LINK NOT WORKING</strong>)
+      </span>
+
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Highway:</h3>
+        <a href='https://www.dot.nv.gov/' target={'_blank'} rel='noreferrer'><img alt='NDOT' src={require('../../../../imgs/ndot.png')}></img></a>
+        <br />
+        <h4>Request Row Maps:</h4>
+        <a href={PDF} target="_blank" rel='noreferrer'>Download Request Form</a>
+        <br />
+        <br />
+        <p><strong>Jason Knoff Email:</strong>&nbsp;&nbsp; JKnoff@dot.state.nv.us</p>
+        <p>Tech IV Right-Of-Way Engineering</p>
+        <p>Nevada Dept. of Transportation</p>
+        <p><strong>Phone: </strong>(775) 888-7493</p>
+
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+    </div>
   )
 }
 

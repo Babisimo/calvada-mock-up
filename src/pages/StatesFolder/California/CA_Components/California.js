@@ -7,7 +7,7 @@ export default function California() {
         <div>
             <div className='county-btn'>
                 <Link to={'/counties'}><button>Back to Counties</button></Link>
-                <h1 className='title'>California</h1>
+                <h1 className='title'>California Counties</h1>
             </div>
 
             {/* Border To Separate Information */}
