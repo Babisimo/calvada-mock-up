@@ -30,7 +30,7 @@ const ContraCosta = () => {
         <a href='https://ccmap.cccounty.us/Html5/index.html?viewer=CCMAP' target={"_blank"} rel="noreferrer">GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />
         <br />
-        <a href='http://records.pw.contra-costa.org/WebLink/Welcome.aspx?cr=1' target={"_blank"} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Record Maps & Benchmarks)
+        <a href='http://records.pw.contra-costa.org/WebLink/CustomSearch.aspx?SearchName=RecordedMaps&dbid=0&cr=1' target={"_blank"} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Record Maps & Benchmarks)
       </span>
 
       {/* Border To Separate Information */}
@@ -41,8 +41,8 @@ const ContraCosta = () => {
         <h3>Public Works:</h3>
         <p>255 Glacier Drive</p>
         <p>Martinez California, 94553</p>
-        <p>Phone: (925) 313-2000</p>
-        <p>Fax: (925) 313-2333</p>
+        <p><strong>Phone:</strong> (925) 313-2000</p>
+        <p><strong>Fax:</strong> (925) 313-2333</p>
 
       </span>
 
@@ -53,7 +53,7 @@ const ContraCosta = () => {
       <span className='span'>
         <h3>County Surveyor:</h3>
         <p>Jim Stein</p>
-        <p>Phone: (925) 313-2343</p>
+        <p><strong>Phone:</strong> (925) 313-2343</p>
       </span>
 
       {/* Border To Separate Information */}

@@ -44,8 +44,8 @@ const Marin = () => {
         <p>P.O. Box 4186</p>
         <p>San Rafael, California 94913-4186</p>
         <br />
-        <p>Telephone: (415) 499-7877</p>
-        <p>Fax: (415) 473-3232</p>
+        <p><strong>Phone:</strong> (415) 499-7877</p>
+        <p><strong>Fax:</strong> (415) 473-3232</p>
 
       </span>
 

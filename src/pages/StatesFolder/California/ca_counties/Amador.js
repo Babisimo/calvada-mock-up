@@ -31,6 +31,9 @@ const Amador = () => {
         <br />
         <br />
         <a href='amadorgov.org/departments/information-technology/gis/gis-viewer-and-parcel-search' target={'_blank'} rel='noreferrer'>GIS Viewer</a>
+        <br />
+        <br />
+        <a href='https://camapsource.com/amador-county/' target={'_blank'} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Plats, Subdivisions)
       </span>
 
       {/* Border To Separate Information */}
@@ -41,8 +44,8 @@ const Amador = () => {
         <h3>Public Works:</h3>
         <p>810 Court Street</p>
         <p>Jackson California, 95642</p>
-        <p>Phone: (209) 223-6371</p>
-        <p>Department Hours: Monday - Friday 8:00 AM to 5:00 PM</p>
+        <p><strong>Phone:</strong> (209) 223-6371</p>
+        <p><strong>Department Hours:</strong> Monday - Friday 8:00 AM to 5:00 PM</p>
       </span>
 
       {/* Border To Separate Information */}
@@ -54,7 +57,7 @@ const Amador = () => {
         <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 10</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
         <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd</p>
         <p>Stockton, CA 95205</p>
-        <p>Public Information Office: (209) 948-7543</p>
+        <p><strong>Public Information Office:</strong> (209) 948-7543</p>
       </span>
 
     </div>

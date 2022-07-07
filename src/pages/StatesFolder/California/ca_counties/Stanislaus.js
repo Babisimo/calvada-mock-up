@@ -25,16 +25,13 @@ const Stanislaus = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='' target={"_blank"} rel='noreferrer'></a>
-      </span>
-
-      {/* Border To Separate Information */}
-      <p className='border'></p>
-      {/* Border To Separate Information */}
-
-      <span className='span'>
-        <h3>Public Works:</h3>
-
+        <a href='https://www.stancounty.com/' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <br />
+        <br />
+        <a href='http://sbtapp1.co.stanislaus.ca.us/AssessorWeb/public/MapBooks' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <br />
+        <br />
+        <a href='http://gis.stancounty.com/giscentral/public/disclaimer.jsp?targetUrl=%2Fpublic%2Fmap%2Fesri%2Fflex%2Frecordedmaps%2Fflex%2Findex.jsp' target={"_blank"} rel='noreferrer'>County Records</a>&nbsp;&nbsp;&nbsp;(Free Maps)
       </span>
 
       {/* Border To Separate Information */}
@@ -43,6 +40,9 @@ const Stanislaus = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
+        <a href='https://www.dot.ca.gov/dist10/' target={"_blank"} rel='noreferrer'>Caltrans Disctrict 10</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd.</p>
+        <p>Stockton, CA 95205</p>
 
       </span>
 

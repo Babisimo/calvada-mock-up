@@ -57,8 +57,8 @@ export default function Alameda() {
         <span>
           <p>399 Elmhurst Street</p>
           <p>Hayward California, 94544</p>
-          <p>Phone: (510) 670-5480</p>
-          <p>Department Hours: Monday - Friday 8:00 AM to 5:00 PM</p>
+          <p><strong>Phone:</strong> (510) 670-5480</p>
+          <p><strong>Department Hours:</strong> Monday - Friday 8:00 AM to 5:00 PM</p>
         </span>
       </span>
 

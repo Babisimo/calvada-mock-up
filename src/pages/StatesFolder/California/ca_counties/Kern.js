@@ -44,16 +44,16 @@ const Kern = () => {
       <span className='span'>
         <h3>Public Works:</h3>
         <h4>Engineering & Survey Services Department</h4>
-        <p>Charles Lackey: Director</p>
+        <p>Charles Lackey, Director</p>
         <br />
         <h4>Public Services Building Address:</h4>
         <p>2700 "M" Street, Suite 570</p>
         <p>Bakersfield, California 93301-2370</p>
         <p>Monday - Friday 8:00 AM - 5:00 PM</p>
-        <p>Phone: (661) 862-5510</p>
-        <p>Fax: (661) 862-5101</p>
-        <p>TTY Relay: 1-800-735-2929</p>
-        <p>Email: ess@co.kern.ca.us</p>
+        <p><strong>Phone:</strong> (661) 862-5510</p>
+        <p><strong>Fax:</strong> (661) 862-5101</p>
+        <p><strong>TTY Relay:</strong> 1-800-735-2929</p>
+        <p><strong>Email:</strong> ess@co.kern.ca.us</p>
 
       </span>
 

@@ -27,10 +27,10 @@ const Butte = () => {
         <a href='http://www.buttecounty.net/' target={'_blank'} rel="noreferrer">Official Website</a>
         <br />
         <br />
-        <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;Free Benchmarks
+        <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Benchmarks)
         <br />
         <br />
-        <a href='https://assr.parcelquest.com/Home/Disclaimer' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;Free APNs
+        <a href='https://camapsource.com/butte/' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />
         <br />
         <a href='http://gis.buttecounty.net/Public/index.html?viewer=dssearch' target={'_blank'} rel="noreferrer">GIS Mapping</a>
@@ -44,9 +44,9 @@ const Butte = () => {
         <h3>Public Works:</h3>
         <p>7 County Center Drive</p>
         <p>Oroville California, 95965</p>
-        <p>Phone: (530) 538-7681</p>
-        <p>Fax: (530) 538-7171</p>
-        <p>Department Hours: Monday-Friday 7:30 AM to 4:00 PM</p>
+        <p><strong>Phone:</strong> (530) 538-7681</p>
+        <p><strong>Fax:</strong> (530) 538-7171</p>
+        <p><strong>Department Hours:</strong> Monday-Friday 7:30 AM to 4:00 PM</p>
       </span>
 
       {/* Border To Separate Information */}

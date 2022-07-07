@@ -25,6 +25,9 @@ const Alpine = () => {
       <span className='span'>
         <h3>Links:</h3>
         <a href='http://www.alpinecountyca.gov/145/Maps-Property-Information' target={'_blank'} rel="noreferrer">Official Website</a>
+        <br />
+        <br />
+        <a href='https://camapsource.com/alpine/' target={'_blank'} rel="noreferrer">Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS, Record Maps)
       </span>
 
       {/* Border To Separate Information */}
@@ -36,7 +39,7 @@ const Alpine = () => {
         <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 10</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
         <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd</p>
         <p>Stockton, CA 95205</p>
-        <p>Public Information Office: (209) 948-7543</p>
+        <p><strong>Public Information Office:</strong> (209) 948-7543</p>
       </span>
 
     </div>

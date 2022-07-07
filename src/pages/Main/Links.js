@@ -10,6 +10,8 @@ export default function Links() {
             <a href="https://www.earthpoint.us/Townships.aspx" target={"_blank"} rel="noreferrer">Township and Range - Public Land Survey System</a>
             <a href="https://glorecords.blm.gov/search/default.aspx" target={"_blank"} rel="noreferrer"><img alt="BEREAU" src={require("../../imgs/blm_banner_home_abbreviated.png")}></img></a>
             <a href="https://dna.firstam.com/property-research" target={"_blank"} rel="noreferrer"><img alt="DATATREE" src={require("../../imgs/logo-FADNA@2x.png")}></img></a>
+            <a href="https://www.courthousedirect.com/" target={"_blank"} rel="noreferrer"><img alt="Courthouse Direct" src={require("../../imgs/courthouse_direct_logo.png")} width="180px"></img></a>
+            <a href="https://camapsource.com/" target={"_blank"} rel="noreferrer"><img alt="Courthouse Direct" src={require("../../imgs/CA-Map-Source_Logo-Small-PNG.png")} width="280px"></img></a>
         </div>
     )
 }
