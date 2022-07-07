@@ -5,7 +5,7 @@ const SanBernardino = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/counties'}><button>Back to Counties</button></Link>
+        <Link to={'/california'}><button>Back to California Counties</button></Link>
         <h1 className='title'>San Bernardino County</h1>
       </div>
 
