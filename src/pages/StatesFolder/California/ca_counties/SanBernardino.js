@@ -24,7 +24,7 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <a href='https://www.sbcity.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
         <br />
         <a href='http://www.sbcounty.gov/assessor/pims/(S(z2yqm24244gskf1mzepvqq2a))/PIMSINTERFACE.ASPX' target={"_blank"} rel='noreferrer'>Property Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
@@ -55,7 +55,7 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='' target={"_blank"} rel='noreferrer'>Caltrans Disctrict 8</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <a href='http://localhost:3000/california' target={"_blank"} rel='noreferrer'>Caltrans Disctrict 8</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
         <p>464 West 4th Street San Bernardino, California 92401</p>
 
         <p><strong>Contact: </strong> (866) 383-4631 | (909) 383-4631 </p>

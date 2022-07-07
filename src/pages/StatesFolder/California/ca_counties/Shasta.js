@@ -15,7 +15,7 @@ const Shasta = () => {
 
       <div className='apn-format'>
         <h3>APN Format:</h3>
-        <p>006-380-001</p>
+        <p>077-490-005</p>
       </div>
 
       {/* Border To Separate Information */}
@@ -24,33 +24,22 @@ const Shasta = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='' target={"_blank"} rel='noreferrer'></a>
+        <a href='https://www.co.shasta.ca.us/index.aspx' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <br />
+        <br />
+        <a href='https://www.co.shasta.ca.us/index/assessor/assessment-inquiry' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <br />
+        <br />
+        <a href='https://www.co.shasta.ca.us/index/gis' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;(APNS, Zoning)
+        <br />
+        <br />
+        <a href='https://www.co.shasta.ca.us/index/gis/Data_Download.aspx' target={"_blank"} rel='noreferrer'>GIS Download Data Sets</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
       </span>
 
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
 
-      <span className='span'>
-        <h3>Public Works:</h3>
-
-      </span>
-
-      {/* Border To Separate Information */}
-      <p className='border'></p>
-      {/* Border To Separate Information */}
-
-      <span className='span'>
-        <h3>Caltrans:</h3>
-
-      </span>
-
-      {/* Border To Separate Information */}
-      <p className='border'></p>
-      {/* Border To Separate Information */}
-
-
-      <p></p>
     </div>
   )
 }

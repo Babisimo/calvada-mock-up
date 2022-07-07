@@ -15,7 +15,7 @@ const Solano = () => {
 
       <div className='apn-format'>
         <h3>APN Format:</h3>
-        <p>006-380-001</p>
+        <p>003-042-360</p>
       </div>
 
       {/* Border To Separate Information */}
@@ -24,7 +24,16 @@ const Solano = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='' target={"_blank"} rel='noreferrer'></a>
+        <a href='https://www.solanocounty.com/default.asp' target={"_blank"} rel='noreferrer'>Official Site</a>
+        <br />
+        <br />
+        <a href='http://www.solanocounty.com/depts/ar/viewparcelmaps.asp' target={"_blank"} rel='noreferrer'>Assessor Maps Retrieval System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <br />
+        <br />
+        <a href='https://www.solanocounty.com/depts/ar/asr_filedmaps.asp' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <br />
+        <br />
+        <a href='http://gis.solanocounty.com/solanomaps/' target={"_blank"} rel='noreferrer'>GIS</a>
       </span>
 
       {/* Border To Separate Information */}
@@ -33,6 +42,10 @@ const Solano = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
+        <p>675 Texas Street, Suite 5500</p>
+        <p>Fairfield, CA 94533</p>
+        <p><strong>Phone:</strong> (707) 784-6765</p>
+        <p><strong>Fax:</strong> (707) 784-2894</p>
 
       </span>
 
@@ -42,6 +55,7 @@ const Solano = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
+        <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=04efb9a9f14c4da2aabd9ce36b7dda48' target={"_blank"} rel='noreferrer'>Caltrans Disctrict 4</a>
 
       </span>
 
