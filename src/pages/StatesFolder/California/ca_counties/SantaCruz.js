@@ -26,7 +26,6 @@ const SantaCruz = () => {
         <h3>Links:</h3>
         <a href='https://www.co.santa-cruz.ca.us/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://gis.santacruzcounty.us/gisweb/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS, Record Maps, Zoning, Benchmarks, etc.)
       </span>
 
@@ -38,6 +37,9 @@ const SantaCruz = () => {
         <h3>Caltrans:</h3>
         <h4>Request ROW Maps by Email</h4>
         <a href='https://www.dot.ca.gov/cpra/cpraform' target={"_blank"} rel='noreferrer'>Request Form</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING | Caltrans District 5)
+
+        <br />
+        <br />
 
         <h4>Contact:</h4>
         <p>Tim Romano | Transportation Surveyor</p>

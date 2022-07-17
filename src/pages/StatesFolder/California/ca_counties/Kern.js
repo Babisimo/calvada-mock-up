@@ -26,12 +26,9 @@ const Kern = () => {
         <h3>Links:</h3>
         <a href='https://www.kerncounty.com/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='http://assessor.co.kern.ca.us/prop_search.php' target={"_blank"} rel='noreferrer'>Assessor's Office</a>&nbsp;&nbsp;&nbsp;(Link Not Working)
         <br />
-        <br />
         <a href='https://kernpublicworks.com/maps/' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
-        <br />
         <br />
         <a href='https://maps.kerncounty.com/H5/index.html?viewer=KCPublic' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
 

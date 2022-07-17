@@ -26,12 +26,9 @@ const Butte = () => {
         <h3>Links:</h3>
         <a href='http://www.buttecounty.net/' target={'_blank'} rel="noreferrer">Official Website</a>
         <br />
-        <br />
         <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Benchmarks)
         <br />
-        <br />
         <a href='https://camapsource.com/butte/' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
-        <br />
         <br />
         <a href='http://gis.buttecounty.net/Public/index.html?viewer=dssearch' target={'_blank'} rel="noreferrer">GIS Mapping</a>
       </span>

@@ -26,7 +26,6 @@ const Alpine = () => {
         <h3>Links:</h3>
         <a href='http://www.alpinecountyca.gov/145/Maps-Property-Information' target={'_blank'} rel="noreferrer">Official Website</a>
         <br />
-        <br />
         <a href='https://camapsource.com/alpine/' target={'_blank'} rel="noreferrer">Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS, Record Maps)
       </span>
 

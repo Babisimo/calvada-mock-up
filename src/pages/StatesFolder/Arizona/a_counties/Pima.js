@@ -17,7 +17,6 @@ const Pima = () => {
         <h3>Links:</h3>
         <a href='https://webcms.pima.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=22235' target={"_blank"} rel='noreferrer'>GIS</a>
       </span>
 

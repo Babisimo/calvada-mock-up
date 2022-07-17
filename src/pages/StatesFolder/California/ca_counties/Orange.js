@@ -26,7 +26,6 @@ const Orange = () => {
         <h3>Links:</h3>
         <a href='https://www.ocgov.com/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.ocgis.com/ocpw/landrecords/' target={"_blank"} rel='noreferrer'>Land Records / Record Maps</a>
       </span>
 

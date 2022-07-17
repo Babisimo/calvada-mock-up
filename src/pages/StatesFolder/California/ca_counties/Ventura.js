@@ -26,9 +26,7 @@ const Ventura = () => {
         <h3>Links:</h3>
         <a href='https://www.ventura.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://assessor.countyofventura.org/research/mappage.asp' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='https://maps.ventura.org/Html5Viewer/index.html?viewer=CountyView.CountyView_gvh' target={"_blank"} rel='noreferrer'>County Records</a>&nbsp;&nbsp;&nbsp;(Free Maps, Benchmarks, Corner Records)
       </span>

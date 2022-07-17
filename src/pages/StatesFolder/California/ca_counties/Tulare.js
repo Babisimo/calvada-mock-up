@@ -26,9 +26,7 @@ const Tulare = () => {
         <h3>Links:</h3>
         <a href='https://tularecounty.ca.gov/county/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='http://maps.tularecounty.ca.gov/SearchbyList/searchbylist.html' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='http://publicdocs.co.tulare.ca.us/Questys.CMx.Surveyorweb/Browse/Default.aspx' target={"_blank"} rel='noreferrer'>Surveyor Documents</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, Benchmarks, etc.)
       </span>

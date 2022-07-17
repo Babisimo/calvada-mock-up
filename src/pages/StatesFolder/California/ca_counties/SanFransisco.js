@@ -26,9 +26,7 @@ const SanFransisco = () => {
         <h3>Links:</h3>
         <a href='https://sf.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://sfplanninggis.org/PIM/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='https://bsm.sfdpw.org/subdivision/' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
       </span>

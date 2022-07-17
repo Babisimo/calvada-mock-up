@@ -26,9 +26,7 @@ const Sonoma = () => {
         <h3>Links:</h3>
         <a href='https://sonomacounty.ca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://common1.mptsweb.com/mbap/SONOMA/asr' target={"_blank"} rel='noreferrer'>Public Assessor Services</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='http://www.sonoma-county.org/prmd/docs/zoning_data/index.htm' target={"_blank"} rel='noreferrer'>Zoning Database</a>&nbsp;&nbsp;&nbsp;(Free Zoning Maps | LINK NOT WORKING)
       </span>

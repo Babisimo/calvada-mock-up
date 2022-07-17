@@ -26,15 +26,11 @@ const Sacramento = () => {
         <h3>Links:</h3>
         <a href='https://www.saccounty.gov/Pages/default.aspx' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://assessorparcelviewer.saccounty.gov/JSViewer/assessor.html' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
-        <br />
         <br />
         <a href='https://assr.parcelquest.com/Statewide/Disclaimer' target={"_blank"} rel='noreferrer'>APNS</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <br />
         <a href='http://www.sacmaps.com/' target={"_blank"} rel='noreferrer'>County Maps</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
-        <br />
         <br />
         <a href='http://www.sacmaps.com/NAVD%2088%20Database/Sacramento%20County%20BM%27s%20NAVD%2088.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>
       </span>

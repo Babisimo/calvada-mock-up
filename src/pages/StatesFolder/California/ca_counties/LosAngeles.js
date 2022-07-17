@@ -26,12 +26,9 @@ const LosAngeles = () => {
         <h3>Links:</h3>
         <a href='https://maps.assessor.lacounty.gov/m/' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <br />
         <a href='https://dpw.lacounty.gov/smpm/landrecords/' target={"_blank"} rel='noreferrer'>Land Records / Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records, Field Books)
         <br />
-        <br />
         <a href='https://ladpw.org/sur/benchmark/' target={"_blank"} rel='noreferrer'>Benchmarks</a>
-        <br />
         <br />
         <a href='https://planning.lacounty.gov/gis/interactive' target={"_blank"} rel='noreferrer'>Interactive GIS Web Mapping</a>
       </span>

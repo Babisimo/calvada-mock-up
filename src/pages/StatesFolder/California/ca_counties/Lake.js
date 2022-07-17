@@ -26,12 +26,9 @@ export const Lake = () => {
         <h3>Links:</h3>
         <a href='https://www.lakecountyca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://common2.mptsweb.com/megabytecommonsite/(S(kpg23ve1aizmlo3f3ovnolov))/PublicInquiry/Inquiry.aspx?CN=Lake&SITE=Public&DEPT=Tax&PG=Search' target={"_blank"} rel='noreferrer'>Parcel Search</a>
         <br />
-        <br />
         <a href='http://gispublic.co.lake.ca.us/flexviewer/index.html' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
-        <br />
         <br />
         <h4>Request Record Maps:</h4>
         <p>Cara Bowin | Cara.Bowin@lakecountyca.gov</p>

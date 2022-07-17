@@ -26,9 +26,7 @@ const Merced = () => {
         <h3>Links:</h3>
         <a href='http://apps.co.merced.ca.us/PublicApplets/pages/assessor/parcelmap.aspx' target={"_blank"} rel='noreferrer'>Assessor's Office</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <br />
         <a href='https://web2.co.merced.ca.us/files/Surveyor/01-RECORDED-MAPS/' target={"_blank"} rel='noreferrer'>Recorded Maps</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
-        <br />
         <br />
         <a href='https://www.countyofmerced.com/654/County-Surveyor' target={"_blank"} rel='noreferrer'>County Surveyor</a>
       </span>

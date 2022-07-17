@@ -26,7 +26,6 @@ const Maricopa = () => {
         <h3>Links:</h3>
         <a href='https://maps.mcassessor.maricopa.gov/' target={"_blank"} rel='noreferrer'>Land Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS & Maps)
         <br />
-        <br />
         <a href='https://www.maricopa.gov/3942/GIS-Mapping-Applications' target={"_blank"} rel='noreferrer'>Land Survey Interactive Map</a>&nbsp;&nbsp;&nbsp;(NGS Control)
       </span>
 

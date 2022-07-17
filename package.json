@@ -1,5 +1,6 @@
 {
   "name": "calvada-mock-up",
+  "homepage": "http://research.calvada.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

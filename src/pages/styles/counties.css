@@ -38,7 +38,7 @@
 
 .county-info a {
   color: #f3efcc;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .county-info a:hover {
@@ -49,6 +49,14 @@
   color: #f3efcc;
 }
 
+.span h3 {
+  font-size: 1.5rem;
+}
+
+.span a {
+  text-decoration: underline;
+}
+
 .border {
   margin: 20px 0;
   border-bottom: 2px solid rgba(255, 255, 255, 0.331);
@@ -56,6 +64,7 @@
 }
 
 .apn-format {
+  text-align: center;
   margin: 20px 0;
   padding: 10px;
   color: #f3efcc;
@@ -68,6 +77,13 @@
   align-items: center;
 }
 
+.county-btn a {
+  text-decoration: none;
+  width: max-content;
+  margin: 0 1rem;
+  border-radius: 20px;
+}
+
 .county-btn button {
   font-weight: bold;
   border: none;
@@ -76,7 +92,6 @@
   background-color: #f3efcc;
   box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
   color: #406343;
-  margin: 0 1rem;
   padding: 8px 30px;
 }
 

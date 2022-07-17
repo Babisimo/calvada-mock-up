@@ -26,12 +26,9 @@ const Riverside = () => {
         <h3>Links:</h3>
         <a href='https://rivco.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://gis1.countyofriverside.us/Html5Viewer/?viewer=MMC_Public' target={"_blank"} rel='noreferrer'>Assessor County Clerk Recorder</a>&nbsp;&nbsp;&nbsp; (Free APNS)
         <br />
-        <br />
         <a href='http://weblink.rctlma.org/WebLink/Search_tran.aspx?cr=1' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
-        <br />
         <br />
         <a href='https://rctlma.org/trans/Survey/Records-of-Survey-Corner-Records-Monument-Inspections' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(Free Maps)
 

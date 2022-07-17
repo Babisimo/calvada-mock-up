@@ -26,9 +26,7 @@ const SantaClara = () => {
         <h3>Links:</h3>
         <a href='https://home.sccgov.org/home' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.sccassessor.org/index.php/online-services/property-search/real-property' target={"_blank"} rel='noreferrer'>Assessor Maps Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='https://sccplanning.maps.arcgis.com/apps/webappviewer/index.html?id=bc21a949580746968cb7139386996978' target={"_blank"} rel='noreferrer'>GIS County Surveyors</a>&nbsp;&nbsp;&nbsp;(Free APNS, Corner Records)
       </span>

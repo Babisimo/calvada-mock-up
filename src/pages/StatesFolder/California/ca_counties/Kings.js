@@ -26,9 +26,7 @@ const Kings = () => {
         <h3>Links:</h3>
         <a href='https://assr.parcelquest.com/Home/Disclaimer' target={"_blank"} rel='noreferrer'>Parcel Search</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <br />
         <a href='http://kingscountygis.com/parcel_query/' target={"_blank"} rel='noreferrer'>GIS Viewer</a>&nbsp;&nbsp;&nbsp;(Link Not Working)
-        <br />
         <br />
         <a href='https://www.countyofkings.com/departments/public-works' target={"_blank"} rel='noreferrer'>Public Works</a>
       </span>

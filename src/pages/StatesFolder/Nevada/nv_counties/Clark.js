@@ -27,15 +27,11 @@ const Clark = () => {
         <h3>Links:</h3>
         <a href='https://www.clarkcountynv.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.clarkcountynv.gov/Depts/assessor/Pages/PropertyRecords.aspx?H=sandgate&P=ParcelMaps/Prclinq.htm' target={"_blank"} rel='noreferrer'>Assessor Records and Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS | <strong>LINK NOT WORKING</strong>)
-        <br />
         <br />
         <a href='http://gisgate.co.clark.nv.us/assessor/webimages/' target={"_blank"} rel='noreferrer'>Assessor | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Deeds)
         <br />
-        <br />
         <a href='http://gisgate.co.clark.nv.us/openweb/?@782884,26762114,6' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
-        <br />
         <br />
         <a href='https://www.clarkcountynv.gov/Depts/public_works/surveyors_office/Pages/benchmark.aspx' target={"_blank"} rel='noreferrer'>Benchmarks</a>&nbsp;&nbsp;&nbsp;(Vertical Control | <strong>LINK NOT WORKING</strong>)
       </span>

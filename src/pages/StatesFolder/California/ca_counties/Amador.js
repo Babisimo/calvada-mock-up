@@ -26,12 +26,9 @@ const Amador = () => {
         <h3>Links:</h3>
         <a href='https://www.amadorgov.org/home' target={'_blank'} rel='noreferrer'>Official Website</a>
         <br />
-        <br />
         <a href='https://www.amadorgov.org/assessor-parcel-maps' target={'_blank'} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;&nbsp;{"(Free PDF Assessors Parcel Maps)"}
         <br />
-        <br />
         <a href='amadorgov.org/departments/information-technology/gis/gis-viewer-and-parcel-search' target={'_blank'} rel='noreferrer'>GIS Viewer</a>
-        <br />
         <br />
         <a href='https://camapsource.com/amador-county/' target={'_blank'} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Plats, Subdivisions)
       </span>

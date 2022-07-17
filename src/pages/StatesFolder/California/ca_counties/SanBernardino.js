@@ -26,12 +26,9 @@ const SanBernardino = () => {
         <h3>Links:</h3>
         <a href='https://www.sbcity.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='http://www.sbcounty.gov/assessor/pims/(S(z2yqm24244gskf1mzepvqq2a))/PIMSINTERFACE.ASPX' target={"_blank"} rel='noreferrer'>Property Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <br />
         <a href='https://sbcountydpw.maps.arcgis.com/apps/webappviewer/index.html?id=998f9db88f77437cbb0842885685fd87' target={"_blank"} rel='noreferrer'>Surveyor's Public Map</a>&nbsp;&nbsp;&nbsp;( Parcel Maps | Record Of Survey | Tract Maps | Corner Record | Miscellaneous Survey | Vertical & Horizontal Control ) - Free
-        <br />
         <br />
         <a href='http://www.sbcounty.gov/assessor/pims/(S(z2yqm24244gskf1mzepvqq2a))/PIMSINTERFACE.ASPX' target={"_blank"} rel='noreferrer'>Land Use</a>&nbsp;&nbsp;&nbsp;(General Plan Update | Mapping | Land Use Zoning Disctrict Maps) <strong>LINK NOT WORKING</strong>
       </span>

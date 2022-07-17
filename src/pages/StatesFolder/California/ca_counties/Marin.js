@@ -26,9 +26,7 @@ const Marin = () => {
         <h3>Links:</h3>
         <a href='https://www.marincounty.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.marincounty.org/depts/AR' target={"_blank"} rel='noreferrer'>Assessor's Mapbooks</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='https://www.marinmap.org/Html5Viewer/Index.html?viewer=smmdataviewer' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
       </span>

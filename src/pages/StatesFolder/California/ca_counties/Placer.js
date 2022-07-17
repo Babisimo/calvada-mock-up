@@ -26,15 +26,11 @@ const Placer = () => {
         <h3>Links:</h3>
         <a href='https://www.placer.ca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.placer.ca.gov/5866/Property-Details' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
         <br />
         <a href='https://maps.placer.ca.gov/Html5viewer/Index.html?viewer=LIS_Public.LIS_Base-Public' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
         <br />
-        <br />
         <a href='https://www.placer.ca.gov/3701/Zoning-Ordinance' target={"_blank"} rel='noreferrer'>Zoning Maps</a>
-        <br />
         <br />
         <a href='https://camapsource.com/placer/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Parcel Maps, Map Locator, Corner Records, etc.)
       </span>

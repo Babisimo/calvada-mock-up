@@ -26,9 +26,7 @@ const Fresno = () => {
         <h3>Links:</h3>
         <a href='https://www.co.fresno.ca.us/home' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <br />
         <a href='https://www.co.fresno.ca.us/departments/assessor/mapping/parcel-map-lookup' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNs)
-        <br />
         <br />
         <a href='https://www.co.fresno.ca.us/departments/public-works-planning/surveyor-s-office/surveyors-map-search' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
       </span>

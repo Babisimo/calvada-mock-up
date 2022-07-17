@@ -26,9 +26,7 @@ const ContraCosta = () => {
         <h3>Links:</h3>
         <a href='https://www.contracosta.ca.gov/' target={"_blank"} rel="noreferrer">Official Site</a>
         <br />
-        <br />
         <a href='https://ccmap.cccounty.us/Html5/index.html?viewer=CCMAP' target={"_blank"} rel="noreferrer">GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNs)
-        <br />
         <br />
         <a href='http://records.pw.contra-costa.org/WebLink/CustomSearch.aspx?SearchName=RecordedMaps&dbid=0&cr=1' target={"_blank"} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Record Maps & Benchmarks)
       </span>
