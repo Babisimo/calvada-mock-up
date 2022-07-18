@@ -43,7 +43,7 @@ const Clark = () => {
 
       <span className='span'>
         <h3>Highway:</h3>
-        <a href='https://www.dot.nv.gov/' target={'_blank'} rel='noreferrer'><img alt='NDOT' src={require('../../../../imgs/ndot.png')}></img></a>
+        <a href='https://www.dot.nv.gov/' target={'_blank'} rel='noreferrer'><img alt='NDOT' src={'https://imgs.search.brave.com/adM8XFzknNGw3BPtGPLoMPEATxrQwX6_Xid-D-eWsvo/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/ZnhXRllMbDZyNFJx/X1hHbVhPOFdnSGFF/eSZwaWQ9QXBp'} width='200px'></img></a>
         <br />
         <h4>Request Row Maps:</h4>
         <a href={PDF} target="_blank" rel='noreferrer'>Download Request Form</a>
@@ -60,7 +60,7 @@ const Clark = () => {
       <p className='border'></p>
       {/* Border To Separate Information */}
 
-    </div>
+    </div >
   )
 }
 

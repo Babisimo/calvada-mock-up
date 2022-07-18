@@ -12,6 +12,7 @@ export default function Cities() {
             <h2 className="city-title">California Cities</h2>
             <div className="cities">
                 <Link to={'#'}>Corona</Link>
+
             </div>
         </div>
     )
