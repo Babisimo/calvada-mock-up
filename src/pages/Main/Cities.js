@@ -1,5 +1,6 @@
 import React from "react";
-import { Link } from 'react-router-dom'
+import CACities from "../StatesFolder/California/CA_Components/CACities";
+// import { Link } from 'react-router-dom'
 
 export default function Cities() {
     return (
@@ -10,11 +11,10 @@ export default function Cities() {
             {/* Border To Separate Information */}
 
             <h2 className="city-title">California Cities</h2>
-            <div className="cities">
-                <Link to={'#'}>Corona</Link>
+            <CACities />
 
-            </div>
         </div>
     )
 }
+
 

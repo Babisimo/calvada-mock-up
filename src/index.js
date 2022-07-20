@@ -6,6 +6,7 @@ import App from './App';
 import './style.css'
 import './pages/styles/contact.css'
 import './pages/styles/city.css'
+import './pages/styles/dropdown.css'
 import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
