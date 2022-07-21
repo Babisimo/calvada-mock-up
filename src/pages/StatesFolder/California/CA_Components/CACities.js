@@ -7,8 +7,8 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Adelanto</button>
                 <div className='dropdown-content'>
-                    <a href='http://ci.adelanto.ca.us' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='http://ci.adelanto.ca.us' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://www.ci.adelanto.ca.us/401/GIS-MAPS' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://codelibrary.amlegal.com/codes/adelanto/latest/adelanto_ca/0-0-0-20747' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -16,7 +16,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Anaheim</button>
                 <div className='dropdown-content'>
-                    <a href='http://gis.anaheim.net/BenchmarkViewer/' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                    <a href='https://data-anaheim.opendata.arcgis.com/datasets/79ec6a37bb5641a3a3a67bb6661927f9/explore?location=33.833447%2C-117.863250%2C12.55' target={'_blank'} rel='noreferrer'>Benchmarks</a>
                     <a href='https://gis.anaheim.net/portal/home/' target={'_blank'} rel='noreferrer'>GIS</a>
                     <a href='http://gis.anaheim.net/ParcelInfo/Default.aspx' target={'_blank'} rel='noreferrer'>Zoning</a>
                 </div>
@@ -26,17 +26,18 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Aliso Viejo</button>
                 <div className='dropdown-content'>
-                    <a href='http://gis.anaheim.net/BenchmarkViewer/' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='https://gis.anaheim.net/portal/home/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
-                    <a href='http://gis.anaheim.net/ParcelInfo/Default.aspx' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://avcity.org/283/Aliso-Viejo-City-GIS' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://www.codepublishing.com/CA/AlisoViejo/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://avcity.org/BusinessDirectoryII.aspx?lngBusinessCategoryID=26' target={'_blank'} rel='noreferrer'>Utilities</a>
                 </div>
             </div>
 
-            {/* Aliso Viejo */}
+            {/* Apple Valley */}
             <div className='dropdown'>
                 <button className='dropbtn'>Apple Valley</button>
                 <div className='dropdown-content'>
                     <a href='http://gis.anaheim.net/BenchmarkViewer/' target={'_blank'} rel='noreferrer'>Zoning Map & Municipal Code</a>
+                    <a href='https://www.applevalley.org/services/planning-division/zoning-map-permitted-use' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -44,7 +45,8 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Artesia</button>
                 <div className='dropdown-content'>
-                    <a href='http://www.cityofartesia.us/404.aspx?aspxerrorpath=/cityDepartments/planning.html' target={'_blank'} rel='noreferrer'>Zoning Map & Municipal Code</a>
+                    <a href='https://www.cityofartesia.us/112/Planning-Zoning' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://library.qcode.us/lib/artesia_ca/pub/municipal_code' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -52,7 +54,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Azusa</button>
                 <div className='dropdown-content'>
-                    <a href='https://www.ci.azusa.ca.us/718/Interactive-MapsGIS' target={'_blank'} rel='noreferrer'>Zoning & Parcels</a>
+                    <a href='https://azusaca.gov/1892/City-Maps' target={'_blank'} rel='noreferrer'>Zoning & Parcels</a>
                     <a href='https://library.municode.com/ca/azusa/codes/code_of_ordinances' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
@@ -61,9 +63,10 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Bakersfield</button>
                 <div className='dropdown-content'>
-                    <a href='http://maps.bakersfieldgis.us/CityInformationServices/index.html' target={'_blank'} rel='noreferrer'>GIS</a>
-                    <a href='https://www.bakersfieldcity.us/weblink7/Browse.aspx?dbid=0' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='http://www.qcode.us/codes/bakersfield/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f
+' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://bakersfield.municipal.codes/Code/17
+' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -71,9 +74,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Beaumont</button>
                 <div className='dropdown-content'>
-                    <a href='http://pmcmaps.com/beaupublic/' target={'_blank'} rel='noreferrer'>GIS</a>
+                    <a href='https://www.beaumontca.gov/983/GIS' target={'_blank'} rel='noreferrer'>GIS</a>
                     <a href='http://pmcmaps.com/beaupublic/' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='http://pmcmaps.com/beaupublic/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://library.municode.com/ca/beaumont/codes/code_of_ordinances' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -81,10 +84,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Berkeley</button>
                 <div className='dropdown-content'>
-                    <a href='https://berkeleyca.gov/ContentDisplay.aspx?id=57976' target={'_blank'} rel='noreferrer'>GIS</a>
-                    <a href='https://berkeleyca.gov/ContentDisplay.aspx?id=57976' target={'_blank'} rel='noreferrer'>Utilities</a>
-                    <a href='https://berkeleyca.gov/ContentDisplay.aspx?id=57976' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='https://berkeley.municipal.codes/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://gis2.cityofberkeley.info/?config=config_PlanningandProperty.json' target={'_blank'} rel='noreferrer'>GIS & Zoning Maps</a>
+                    <a href='https://berkeleyca.gov/city-services/streets-sidewalks-sewers-and-utilities/utility-services' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://berkeleyca.gov/construction-development/land-use-development/zoning-lookup' target={'_blank'} rel='noreferrer'>Zoning Map</a>
                 </div>
             </div>
 
