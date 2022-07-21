@@ -9,6 +9,8 @@ export default function NavBar() {
             </Link>
             <ul>
                 <CustomLink to="/">Home</CustomLink>
+                <CustomLink to="/cities">Cities</CustomLink>
+                <CustomLink to="/counties">Counties</CustomLink>
                 <CustomLink to="/links">Links</CustomLink>
                 <CustomLink to="/contact">Contact</CustomLink>
             </ul>

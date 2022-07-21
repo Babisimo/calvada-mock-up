@@ -41,7 +41,7 @@ textarea:focus {
   font-weight: bold;
 }
 
-.form > button {
+.form > .send {
   padding: 20px;
   border: none;
   background-color: #f3efcc;
@@ -54,6 +54,11 @@ textarea:focus {
   margin-top: 10px;
 }
 
-.form > button:hover {
+.form > .send:hover {
   background-color: #ffffff;
+}
+
+.result {
+  text-align: center;
+  color: #ffffff;
 }
