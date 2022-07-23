@@ -119,10 +119,15 @@ strong {
 .buttons {
   display: flex;
   justify-content: center;
-  align-items: center;
+}
+
+.buttons a {
+  text-decoration: none;
+  color: #406343;
 }
 
 .buttons button {
+  /* width: 4rem; */
   font-size: large;
   border: none;
   border-radius: 20px;
