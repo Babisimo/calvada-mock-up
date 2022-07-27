@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "react-router-dom"
 
 import AzCountiesNavBar from "./Arizona/AZ_Components/AzCountiesNavbar"
 import CaCountiesNavBar from './California/CA_Components/CaCountiesNavBar'
@@ -9,7 +8,6 @@ import TxCountiesNavBar from './Texas/TX_Components/TxCountiesNavbar'
 export default function StatesNavBar() {
     return (
         <div className="county">
-
             {/* Arizona */}
             <div className="dropdown">
                 <button className="dropbtn">Arizona</button>
