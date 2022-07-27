@@ -63,10 +63,8 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Bakersfield</button>
                 <div className='dropdown-content'>
-                    <a href='https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f
-' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
-                    <a href='https://bakersfield.municipal.codes/Code/17
-' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://bakersfield.municipal.codes/Code/17' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -103,8 +101,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Camarillo</button>
                 <div className='dropdown-content'>
-                    <a href='https://www.ci.camarillo.ca.us/residents/utility_customer_services/index.php
-' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://www.ci.camarillo.ca.us/residents/utility_customer_services/index.php' target={'_blank'} rel='noreferrer'>Utilities</a>
                     <a href='https://cms7files.revize.com/camarilloca/Departments/Community%20Development/Zoning/Zoning_April25_22_24x52_wall.pdf' target={'_blank'} rel='noreferrer'>Zoning Map</a>
                     <a href='https://library.municode.com/ca/camarillo/codes/code_of_ordinances?nodeId=TIT19ZO' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
@@ -234,9 +231,5 @@ export default function CACities() {
             </div>
 
         </div>
-
-
     )
 }
-
-// <a href='' target={'_blank'} rel='noreferrer'></a>

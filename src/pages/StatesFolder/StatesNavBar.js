@@ -1,27 +1,46 @@
 import React from "react"
-import { Link, useMatch, useResolvedPath } from "react-router-dom"
+import { Link } from "react-router-dom"
 
-// let states = []
+import AzCountiesNavBar from "./Arizona/AZ_Components/AzCountiesNavbar"
+import CaCountiesNavBar from './California/CA_Components/CaCountiesNavBar'
+import NvCountiesNavBar from './Nevada/NV_Components/NvCountiesNavbar'
+import TxCountiesNavBar from './Texas/TX_Components/TxCountiesNavbar'
 
 export default function StatesNavBar() {
     return (
-        <nav className="navigator">
-            <ul>
-                <CustomLink to="/arizona">Arizona</CustomLink>
-                <CustomLink to="/california">California</CustomLink>
-                <CustomLink to="/nevada">Nevada</CustomLink>
-                <CustomLink to="/texas">Texas</CustomLink>
-            </ul>
-        </nav>
-    )
-}
+        <div className="county">
 
-function CustomLink({ to, children, ...props }) {
-    const resolvedPath = useResolvedPath(to)
-    const isActive = useMatch({ path: resolvedPath.pathname, end: true })
-    return (
-        <li className={isActive ? "active" : ""}>
-            <Link to={to} {...props}>{children}</Link>
-        </li>
+            {/* Arizona */}
+            <div className="dropdown">
+                <button className="dropbtn">Arizona</button>
+                <div className="dropdown-content">
+                    <AzCountiesNavBar />
+                </div>
+            </div>
+
+            {/* California */}
+            <div className="dropdown">
+                <button className="dropbtn">California</button>
+                <div className="dropdown-content">
+                    <CaCountiesNavBar />
+                </div>
+            </div>
+
+            {/* Nevada */}
+            <div className="dropdown">
+                <button className="dropbtn">Nevada</button>
+                <div className="dropdown-content">
+                    <NvCountiesNavBar />
+                </div>
+            </div>
+
+            {/* Texas */}
+            <div className="dropdown">
+                <button className="dropbtn">Texas</button>
+                <div className="dropdown-content">
+                    <TxCountiesNavBar />
+                </div>
+            </div>
+        </div>
     )
 }
