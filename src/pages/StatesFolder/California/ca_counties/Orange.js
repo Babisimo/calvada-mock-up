@@ -5,7 +5,7 @@ const Orange = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/california'}><button>Back to California Counties</button></Link>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
         <h1 className='title'>Orange County</h1>
       </div>
 

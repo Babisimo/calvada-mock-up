@@ -6,7 +6,7 @@ export default function Home() {
         <div>
             <h1 className="title">Home</h1>
             <div className="buttons">
-                <Link className="link-component" to={'/counties'}><button>Counties</button></Link>
+                <Link to={'/counties'}><button>Counties</button></Link>
                 <Link to={'/cities'}><button>Cities</button></Link>
                 {/* <Link to={'/caltrans'}><button>Caltrans</button></Link> */}
             </div>

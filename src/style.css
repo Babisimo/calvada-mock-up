@@ -127,7 +127,8 @@ strong {
 }
 
 .buttons button {
-  /* width: 4rem; */
+  width: 11rem;
+  height: 5rem;
   font-size: large;
   border: none;
   border-radius: 20px;
@@ -136,7 +137,7 @@ strong {
   box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
   color: #406343;
   margin: 0 1rem;
-  padding: 2rem 5rem;
+  /* padding: 2rem 5rem; */
 }
 
 .buttons button:hover {

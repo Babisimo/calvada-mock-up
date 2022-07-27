@@ -5,7 +5,7 @@ const Maricopa = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/arizona'}><button>Back to Arizona Counties</button></Link>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
         <h1 className='title'>Maricopa County</h1>
       </div>
 

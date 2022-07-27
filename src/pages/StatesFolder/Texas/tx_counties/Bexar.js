@@ -5,7 +5,7 @@ const Bexar = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/texas'}><button>Back to Texas Counties</button></Link>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
         <h1 className='title'>Bexar County</h1>
       </div>
 

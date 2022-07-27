@@ -6,7 +6,7 @@ const Clark = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
-        <Link to={'/nevada'}><button>Back to Nevada Counties</button></Link>
+        <Link to={'/counties'}><button>Back to Counties</button></Link>
         <h1 className='title'>Clark County</h1>
       </div>
 
