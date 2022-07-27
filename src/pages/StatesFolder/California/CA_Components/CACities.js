@@ -93,9 +93,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Beverly Hills</button>
                 <div className='dropdown-content'>
-                    <a href='https://gis.beverlyhills.org/VBH/Main/' target={'_blank'} rel='noreferrer'>GIS</a>
-                    <a href='http://www.sterlingcodifiers.com/codebook/index.php?book_id=466' target={'_blank'} rel='noreferrer'>Municipal Code</a>
-                    <a href='https://www.beverlyhills.org/search/website/?Q=default.asp&NFR=1' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://gis.beverlyhills.org/vbh/benchmarksTies/' target={'_blank'} rel='noreferrer'>Benchmarks & Centerline Ties</a>
+                    <a href='https://cs.beverlyhills.org/cs/' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://codelibrary.amlegal.com/codes/beverlyhillsca/latest/beverlyhills_ca/0-0-0-12820' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -103,9 +103,10 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Camarillo</button>
                 <div className='dropdown-content'>
-                    <a href='https://www.ci.camarillo.ca.us/i3.aspx?p=21' target={'_blank'} rel='noreferrer'>Utilities</a>
-                    <a href='https://www.ci.camarillo.ca.us/i3.aspx?p=318' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='https://www.ci.camarillo.ca.us/i3.aspx?p=962' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://www.ci.camarillo.ca.us/residents/utility_customer_services/index.php
+' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://cms7files.revize.com/camarilloca/Departments/Community%20Development/Zoning/Zoning_April25_22_24x52_wall.pdf' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://library.municode.com/ca/camarillo/codes/code_of_ordinances?nodeId=TIT19ZO' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -113,9 +114,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Carlsbad</button>
                 <div className='dropdown-content'>
-                    <a href='https://carlsbad.maps.arcgis.com/apps/webappviewer/index.html?id=0de9b47631654fa490dd1abb829dac45' target={'_blank'} rel='noreferrer'>GIS</a>
-                    <a href='https://www.carlsbadca.gov/services/depts/pw/utils/default.asp' target={'_blank'} rel='noreferrer'>Utilities</a>
-                    <a href='https://www.carlsbadca.gov/services/depts/planning/zoning.asp' target={'_blank'} rel='noreferrer'>Map & Municipal Code</a>
+                    <a href='https://www.carlsbadca.gov/departments/utilities' target={'_blank'} rel='noreferrer'>Utilities</a>
+                    <a href='https://www.carlsbadca.gov/home/showpublisheddocument/246/637638645128870000' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://library.qcode.us/lib/carlsbad_ca/pub/municipal_code/item/title_21' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -123,8 +124,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Carson</button>
                 <div className='dropdown-content'>
-                    <a href='https://ci.carson.ca.us/content/department/interactivemaps.asp' target={'_blank'} rel='noreferrer'>Zoning & Parcels</a>
-                    <a href='https://www.codepublishing.com/CA/CarsonPlanning/html/Carson09/Carson0901.html#1' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://gis.carson.ca.us/' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://gis.carson.ca.us/pdfs/mapgallery/Zoning_24x36.pdf' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://www.codepublishing.com/CA/Carson/#!/Carson09/Carson09010000.html' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -144,10 +146,9 @@ export default function CACities() {
                 <button className='dropbtn'>Corona</button>
                 <div className='dropdown-content'>
                     <a href='https://www.coronaca.gov/government/departments-divisions/public-works/development-and-permits/benchmarks' target={'_blank'} rel='noreferrer'>Benchmarks</a>
-                    <a href='http://www7.discovercorona.com/Public%20Works/centerlineties.cfm' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
-                    <a href='https://www.coronaca.gov/City-Departments/Community-Development/Planning-Division/Zoning.aspx' target={'_blank'} rel='noreferrer'>By APN or Address</a>
-                    <a href='https://www.coronaca.gov/City-Departments/Community-Development/Planning-Division/General-Plan-and-Zoning-Maps.aspx' target={'_blank'} rel='noreferrer'>Zoning Map</a>
-                    <a href='https://codelibrary.amlegal.com/codes/corona/latest/overview' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://centerlineties.coronaca.gov/' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
+                    <a href='https://www.coronaca.gov/government/departments/community-development/planning-division/general-plan-and-zoning-maps' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://www.coronaca.gov/government/mayor-city-council/zoning-code' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
