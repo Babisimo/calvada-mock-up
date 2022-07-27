@@ -18,7 +18,6 @@
 
 .counties li {
   cursor: pointer;
-  width: max-content;
 }
 
 .counties a {

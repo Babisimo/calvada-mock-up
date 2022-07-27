@@ -1,5 +1,6 @@
 /* Dropdown Button */
 .dropbtn {
+  font: inherit;
   background-color: #f3efcc;
   cursor: pointer;
   color: black;
