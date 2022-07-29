@@ -63,7 +63,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Bakersfield</button>
                 <div className='dropdown-content'>
-                    <a href='https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                     <a href='https://bakersfield.municipal.codes/Code/17' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
@@ -72,7 +72,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Beaumont</button>
                 <div className='dropdown-content'>
-                    <a href='https://www.beaumontca.gov/983/GIS' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://www.beaumontca.gov/983/GIS' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                     <a href='https://library.municode.com/ca/beaumont/codes/code_of_ordinances' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
@@ -81,7 +81,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Berkeley</button>
                 <div className='dropdown-content'>
-                    <a href='https://gis2.cityofberkeley.info/?config=config_PlanningandProperty.json' target={'_blank'} rel='noreferrer'>GIS & Zoning Maps</a>
+                    <a href='https://gis2.cityofberkeley.info/?config=config_PlanningandProperty.json' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                     <a href='https://berkeleyca.gov/city-services/streets-sidewalks-sewers-and-utilities/utility-services' target={'_blank'} rel='noreferrer'>Utilities</a>
                     <a href='https://berkeleyca.gov/construction-development/land-use-development/zoning-lookup' target={'_blank'} rel='noreferrer'>Zoning Map</a>
                 </div>
@@ -121,7 +121,7 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Carson</button>
                 <div className='dropdown-content'>
-                    <a href='https://gis.carson.ca.us/' target={'_blank'} rel='noreferrer'>GIS & Zoning Map</a>
+                    <a href='https://gis.carson.ca.us/' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                     <a href='https://gis.carson.ca.us/pdfs/mapgallery/Zoning_24x36.pdf' target={'_blank'} rel='noreferrer'>Zoning Map</a>
                     <a href='https://www.codepublishing.com/CA/Carson/#!/Carson09/Carson09010000.html' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
@@ -153,7 +153,10 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Glendale</button>
                 <div className='dropdown-content'>
-                    <a href='http://www.ci.glendale.ca.us/maps.asp' target={'_blank'} rel='noreferrer'>Zoning Map & Municipal Code</a>
+                    <a href='https://cog-gis.maps.arcgis.com/apps/webappviewer/index.html?id=096fdb68fd5a4717a1b6e02883482a4f' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
+                    <a href='https://library.municode.com/az/glendale/codes/code_of_ordinances?nodeId=COGLAR1985' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=522eebe33b0548649688b17c0dec0e53&extent=-118.4547,34.0651,-117.964,34.3116' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                    <a href='https://www2.glendaleca.gov/centerline_survey/centerlinetiesurveys.aspx' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
                 </div>
             </div>
 
@@ -161,8 +164,8 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Hun Beach</button>
                 <div className='dropdown-content'>
-                    <a href='https://library.qcode.us/lib/huntington_beach_ca/pub/municipal_code/item/zoning_code' target={'_blank'} rel='noreferrer'>Zoning Map & Municipal Code</a>
-                    <a href='https://www.huntingtonbeachca.gov/Government/Departments/Planning/sp/index.cfm' target={'_blank'} rel='noreferrer'>Specific Maps</a>
+                    <a href='https://huntingtonbeach.maps.arcgis.com/apps/webappviewer/index.html?id=7ab822c02ded4940acd7e4593bba7cb7' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
+                    <a href='https://library.qcode.us/lib/huntington_beach_ca/pub/municipal_code/item/zoning_code?view=expand' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -170,11 +173,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>LA</button>
                 <div className='dropdown-content'>
-                    <a href='https://eng.lacity.org/techdocs/benchmarks/index.htm' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                    <a href='https://eng2.lacity.org/techdocs/benchmarks/control.cfm?action=search_by&frames=2' target={'_blank'} rel='noreferrer'>Benchmarks</a>
                     <a href='http://zimas.lacity.org/' target={'_blank'} rel='noreferrer'>GIS</a>
                     <a href='https://navigatela.lacity.org/navigatela/' target={'_blank'} rel='noreferrer'>Navigate LA</a>
-                    <a href='http://navigatela.lacity.org/search/vault_search.cfm' target={'_blank'} rel='noreferrer'>Plans</a>
-                    <a href='https://navigatela.lacity.org/pwrsviewer/?source=default' target={'_blank'} rel='noreferrer'>Public Works</a>
                 </div>
             </div>
 
@@ -182,7 +183,12 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Long Beach</button>
                 <div className='dropdown-content'>
-                    <a href='https://www.longbeach.gov/pw/engineering/survey/default.asp' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                    <a href='https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=17b68e7082ef4a4ea8ba6b0d04729758' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
+                    <a href='https://longbeach.gov/lbds/planning/advance/maps/zoning/' target={'_blank'} rel='noreferrer'>Zoning Maps</a>
+                    <a href='https://library.municode.com/ca/long_beach/codes/municipal_code?nodeId=TIT21ZO' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/benchmarkmap_website' target={'_blank'} rel='noreferrer'>Benchmarks Map</a>
+                    <a href='https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/survey-benchmark-book' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                    <a href='https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=e41479af7f154bc584c384cd17440364' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
                 </div>
             </div>
 
@@ -190,7 +196,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Ontario</button>
                 <div className='dropdown-content'>
-                    <a href='https://cityofontario.maps.arcgis.com/sharing/oauth2/authorize?canHandleCrossOrgSignin=true&client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fcityofontario.maps.arcgis.com%22%2C%22uid%22%3A%22tR2Gngr5GhJkdJqpVDua0pekKcErD3IBpYxxuG6k01w%22%7D&expiration=20160&redirect_uri=https%3A%2F%2Fcityofontario.maps.arcgis.com%2Fapps%2Fwebappviewer%2Findex.html%3Fid%3D3af211cda27d4c12a74e0d49261284bd&redirectToUserOrgUrl=true&code_challenge=dlQIj_znSzevv3D_5jg1Ea-VtX_2TQPRUv-nGzJnzyQ&code_challenge_method=S256' target={'_blank'} rel='noreferrer'>Benchmarks & City Ties</a>
+                    <a href='https://www.ontarioca.gov/sites/default/files/Ontario-Files/Planning/Documents/Zoning%20Map/Zoning_20220415.pdf' target={'_blank'} rel='noreferrer'>Zoning Map</a>
+                    <a href='https://www.ontarioca.gov/sites/default/files/Ontario-Files/Planning/Documents/chapter_5.0_-_zoning_and_land_use_20180501.pdf' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://gisportal.ontarioca.gov/arcgis/apps/webappviewer/index.html?id=853ea4f34b6842feb7facca802f9e201' target={'_blank'} rel='noreferrer'>Benchmarks & Centerline Ties</a>
                 </div>
             </div>
 
@@ -198,7 +206,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Pasadena</button>
                 <div className='dropdown-content'>
+                    <a href='https://www.arcgis.com/apps/Embed/index.html?webmap=2c3295b27e0649a181db3512bf0940d4&extent=-118.1904,34.1223,-118.0637,34.1933&zoom=true&previewImage=false&scale=false&search=true&searchextent=true&details=true&legend=true&active_panel=details&disable_scroll=true&theme=light' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                     <a href='https://egov1.cityofpasadena.net/apps/csWeb/DrawingSearch.aspx' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
+                    <a href='https://library.municode.com/ca/pasadena/codes/code_of_ordinances?nodeId=TIT17ZOCO' target={'_blank'} rel='noreferrer'>Municipal Code</a>
                 </div>
             </div>
 
@@ -218,7 +228,9 @@ export default function CACities() {
             <div className='dropdown'>
                 <button className='dropbtn'>Santa Monica</button>
                 <div className='dropdown-content'>
-                    <a href='https://smgov.maps.arcgis.com/apps/Viewer/index.html?appid=3968ee4b0f694f17aa60da85a54d6e1d' target={'_blank'} rel='noreferrer'>Benchmarks & Ties</a>
+                    <a href='https://www.arcgis.com/apps/mapviewer/index.html?webmap=7a65c2c884b241938011c9c702ee697c' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
+                    <a href='https://qcode.us/codes/santamonica/' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                    <a href='https://www.arcgis.com/apps/mapviewer/index.html?layers=d85b82ca3796410d8d350a1a139417ab' target={'_blank'} rel='noreferrer'>Benchmarks & Centerline Ties</a>
                 </div>
             </div>
 

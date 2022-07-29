@@ -2,7 +2,8 @@ import React from "react"
 import NavBar from './NavBar'
 import Home from './pages/Main/Home';
 import Links from "./pages/Main/Links";
-import Contact from "./pages/Main/Contact";
+// import Contact from "./ContactForm/Contact";
+import Form from "./ContactForm/Form";
 import { Route, Routes } from 'react-router-dom'
 
 // Main Imports
@@ -19,24 +20,20 @@ function App() {
 
         {/* Main Routes */}
         <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/links" element={<Links />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/california" element={<California />} />
-            <Route path="/nevada" element={<Nevada />} />
-            <Route path="/texas" element={<Texas />} />
-            <Route path="/arizona" element={<Arizona />} />
-            <Route path="/counties" element={<Counties />} />
-            <Route path="/cities" element={<Cities />} />
-            <Route path="/caltrans" element={<Caltrans />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/links" element={<Links />} />
+          <Route path="/form" element={<Form />} />
+          <Route path="/california" element={<California />} />
+          <Route path="/nevada" element={<Nevada />} />
+          <Route path="/texas" element={<Texas />} />
+          <Route path="/arizona" element={<Arizona />} />
+          <Route path="/counties" element={<Counties />} />
+          <Route path="/cities" element={<Cities />} />
+          <Route path="/caltrans" element={<Caltrans />} />
         </Routes>
 
         {/* Routes for Counties */}
         <CountiesRoutes />
-
-        {/* Routes For Cities */}
-
-        {/* Routes for Caltrans */}
 
       </div>
     </>

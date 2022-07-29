@@ -16,17 +16,11 @@ textarea {
   font-family: inherit;
   padding: 20px;
   border-radius: 3px;
-  margin-bottom: 20px;
   border: 1px solid lightgray;
   background: #fff;
   font-size: 16px;
   color: rgb(0, 0, 32);
   outline: none;
-}
-
-.form > input:focus,
-textarea:focus {
-  border: 1px solid rgb(0, 0, 196);
 }
 
 .form > textarea {
@@ -59,6 +53,14 @@ textarea:focus {
 }
 
 .result {
+  padding-bottom: 1rem;
+  margin: 0;
+  color: rgb(168, 27, 27);
+}
+
+.form-success {
   text-align: center;
-  color: white;
+  margin-top: 3rem;
+  color: #ece7b4;
+  font-size: large;
 }

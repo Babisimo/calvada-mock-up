@@ -30,9 +30,7 @@ const SanDiego = () => {
         <br />
         <a href='https://srs.sandiegocounty.gov/' target={"_blank"} rel='noreferrer'>Survey Records System</a><p>(Parcel Maps, Record of Survey, Tract Maps, Corner Record, Miscellaneous Map, Record Survey, Miscellaneous Survey, Official Center Line <strong><em>Credit Card Required</em></strong>)</p>
         <br />
-        <a href='http://www.sdcdpw.org/surveyor/quads.html' target={"_blank"} rel='noreferrer'>Vertical Datum</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <br />
-        <a href='https://www.sandiegocounty.gov/dpw/standards/standards.html' target={"_blank"} rel='noreferrer'>Standards</a>&nbsp;&nbsp;&nbsp;(Design Standards, CADD Drafring Standards, Private and Public Road Standards)
+        <a href='https://www.sandiegocounty.gov/content/sdc/dpw/surveyor/vertcontrol.html' target={"_blank"} rel='noreferrer'>Vertical Datum</a>
       </span>
 
       {/* Border To Separate Information */}

@@ -12,7 +12,7 @@ export default function NavBar() {
                 <CustomLink to="/cities">Cities</CustomLink>
                 <CustomLink to="/counties">Counties</CustomLink>
                 <CustomLink to="/links">Links</CustomLink>
-                <CustomLink to="/contact">Contact</CustomLink>
+                <CustomLink to="/form">Contact</CustomLink>
             </ul>
         </nav>
     )

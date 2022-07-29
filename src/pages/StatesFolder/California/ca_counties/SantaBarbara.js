@@ -26,9 +26,9 @@ const SantaBarbara = () => {
         <h3>Links:</h3>
         <a href='https://www.countyofsb.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://sbcassessor.com/Assessor/AssessorParcelMap.aspx' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://apps.simplelayers.com/public/viewer/979' target={"_blank"} rel='noreferrer'>County Surveyor GIS</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records)
         <br />
-        <a href='https://www.countyofsb.org/1898/Recorded-Maps' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps, Highway ROW Maps)
+        <a href='https://sbcassessor.com/Assessor/AssessorParcelMap.aspx' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
       </span>
 
       {/* Border To Separate Information */}

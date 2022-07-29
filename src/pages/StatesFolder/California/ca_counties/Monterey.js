@@ -17,7 +17,7 @@ const Monterey = () => {
         <h3>Links:</h3>
         <a href='https://www.co.monterey.ca.us/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://assr.parcelquest.com/Home/Disclaimer' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://assr.parcelquest.com/Home' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://www.co.monterey.ca.us/government/departments-i-z/information-technology/gis-mapping-data' target={"_blank"} rel='noreferrer'>County GIS</a>&nbsp;&nbsp;&nbsp;(Property Information | Free Record Maps)
       </span>
@@ -61,7 +61,6 @@ const Monterey = () => {
         <p><strong>Monterey Pennisula Area:</strong> (831) 372-0862</p>
 
         <h4>Request ROW Maps by Email</h4>
-        <a href='https://www.dot.ca.gov/cpra/cpraform' target={"_blank"} rel='noreferrer'>Request Form</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING | Caltrans District 5)
 
         <h4>Contact:</h4>
         <p>Tim Romano | Transportation Surveyor</p>

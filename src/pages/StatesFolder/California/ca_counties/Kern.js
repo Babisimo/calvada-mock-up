@@ -26,7 +26,7 @@ const Kern = () => {
         <h3>Links:</h3>
         <a href='https://www.kerncounty.com/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='http://assessor.co.kern.ca.us/prop_search.php' target={"_blank"} rel='noreferrer'>Assessor's Office</a>&nbsp;&nbsp;&nbsp;(Link Not Working)
+        <a href='https://www.kerncounty.com/government/departments/assessor-recorder/property/assessor-parcel-map-search' target={"_blank"} rel='noreferrer'>Assessor</a>
         <br />
         <a href='https://kernpublicworks.com/maps/' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />

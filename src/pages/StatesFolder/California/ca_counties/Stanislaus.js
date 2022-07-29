@@ -27,9 +27,11 @@ const Stanislaus = () => {
         <h3>Links:</h3>
         <a href='https://www.stancounty.com/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='http://sbtapp1.co.stanislaus.ca.us/AssessorWeb/public/MapBooks' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='http://qa.co.stanislaus.ca.us/AssessorWeb/public/app.jsp?inquiryType=VALUE_NOTICE_SEARCH' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='http://gis.stancounty.com/giscentral/public/disclaimer.jsp?targetUrl=%2Fpublic%2Fmap%2Fesri%2Fflex%2Frecordedmaps%2Fflex%2Findex.jsp' target={"_blank"} rel='noreferrer'>County Records</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <a href='https://open-data-stancounty-gis.hub.arcgis.com/' target={"_blank"} rel='noreferrer'>GIS</a>
+        <br />
+        <a href='https://stancounty-gis.maps.arcgis.com/apps/webappviewer/index.html?id=8ed16a887b0e49b48e8cdabec45f7e81' target={"_blank"} rel='noreferrer'>Record Maps</a>
       </span>
 
       {/* Border To Separate Information */}

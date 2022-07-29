@@ -26,7 +26,7 @@ const SanLuisObispo = () => {
         <h3>Links:</h3>
         <a href='https://www.slocounty.ca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://assessor.slocounty.ca.gov/assessor/pisa/search.aspx' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://propertyinquiryportal.slocounty.ca.gov/#/property-inquiry' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/Record-Map-Index.aspx' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records)
         <br />

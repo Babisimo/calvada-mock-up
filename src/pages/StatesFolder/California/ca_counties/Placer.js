@@ -28,9 +28,8 @@ const Placer = () => {
         <br />
         <a href='https://www.placer.ca.gov/5866/Property-Details' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://maps.placer.ca.gov/Html5viewer/Index.html?viewer=LIS_Public.LIS_Base-Public' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <a href='https://maps.placer.ca.gov/Html5viewer/Index.html?viewer=LIS_Public.LIS_Base-Public' target={"_blank"} rel='noreferrer'>GIS (Zoning)</a>
         <br />
-        <a href='https://www.placer.ca.gov/3701/Zoning-Ordinance' target={"_blank"} rel='noreferrer'>Zoning Maps</a>
         <br />
         <a href='https://camapsource.com/placer/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Parcel Maps, Map Locator, Corner Records, etc.)
       </span>

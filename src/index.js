@@ -4,7 +4,7 @@ import './pages/styles/counties.css'
 import './pages/styles/stateStyle.css'
 import App from './App';
 import './style.css'
-import './pages/styles/contact.css'
+import './ContactForm/contact.css'
 import './pages/styles/city.css'
 import './pages/styles/dropdown.css'
 import { BrowserRouter } from 'react-router-dom';
