@@ -31,6 +31,35 @@ const Merced = () => {
         <a href='https://www.countyofmerced.com/654/County-Surveyor' target={"_blank"} rel='noreferrer'>County Surveyor</a>
       </span>
 
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Caltrans:</h3>
+
+        <br />
+
+        <h4>Request Record Maps by Email:</h4>
+        <p>Attatch <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+        <br />
+
+        <h4>Contact:</h4>
+        <p>Eddie Young</p>
+        <p>eddie_young@dot.ca.gov</p>
+
+        <br />
+
+        <p><strong>Contact:</strong></p>
+        <p>(866) 383-4631</p>
+        <p>(909) 383-4631</p>
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
     </div>
   )
 }

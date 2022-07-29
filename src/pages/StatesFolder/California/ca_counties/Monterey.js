@@ -40,31 +40,18 @@ const Monterey = () => {
       {/* Border To Separate Information */}
 
       <span className='span'>
-        <h3>Request Record Maps by Email:</h3>
-        <p><strong>Attatch Address & APN Maps</strong></p>
-
-        <h4>Contact:</h4>
-        <p>Camacho, Gerry D</p>
-        <p>Community Development | Department of Public Works</p>
-        <p><strong>Phone:</strong> (831) 755-4800</p>
-        <p><strong>Fax:</strong> (831) 755-4958</p>
-        <p><strong>Email:</strong> CamachoGD@co.monterey.ca.us</p>
-
-      </span>
-
-      {/* Border To Separate Information */}
-      <p className='border'></p>
-      {/* Border To Separate Information */}
-
-      <span className='span'>
         <h3>Caltrans:</h3>
-        <p><strong>Monterey Pennisula Area:</strong> (831) 372-0862</p>
 
-        <h4>Request ROW Maps by Email</h4>
+        <br />
+
+        <h4>Request Record Maps by Email:</h4>
+        <p>Attatch <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+        <br />
 
         <h4>Contact:</h4>
-        <p>Tim Romano | Transportation Surveyor</p>
-        <p>timothy_romano@dot.ca.gov</p>
+        <p>Amar, Jorge </p>
+        <p>Jorge.Amar@dot.ca.gov</p>
         <p>Caltrans District 5 - (805) 549-3060</p>
       </span>
 
@@ -73,7 +60,7 @@ const Monterey = () => {
       {/* Border To Separate Information */}
 
 
-    </div>
+    </div >
   )
 }
 

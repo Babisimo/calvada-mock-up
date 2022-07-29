@@ -55,7 +55,17 @@ const SanJoaquin = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://dot.ca.gov/dist10/' target={"_blank"} rel='noreferrer'>Caltrans District 10</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <h3>Request Record Maps by Email:</h3>
+        <p><strong>Attach Postmile Info <a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Here</a></strong></p>
+
+        <br />
+
+        <h4>Contact:</h4>
+        <p>Eddie Young</p>
+        <p>eddie_young@dot.ca.gov</p>
+
+        <br />
+
         <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd.</p>
         <p>Stockton, CA 95205</p>
         <p><strong>Public Information Office:</strong> (209) 948-7543</p>

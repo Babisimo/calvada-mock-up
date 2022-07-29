@@ -51,11 +51,19 @@ const Riverside = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://www.dot.ca.gov/dist8' target={"_blank"} rel='noreferrer'>Caltrans District 8</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <p>464 West 4th Street</p>
-        <p>San Bernardino, CA 92401</p>
         <br />
-        <p><strong>Contact:</strong></p>
+
+        <h4>Request Record Maps by Email:</h4>
+        <p>Attatch <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+        <br />
+
+        <h4>Contact:</h4>
+        <p>D8RecordMaps@dot.ca.gov</p>
+
+        <br />
+
+        <p><strong>Phone:</strong></p>
         <p>(866) 383-4631</p>
         <p>(909) 383-4631</p>
       </span>

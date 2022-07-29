@@ -52,8 +52,13 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='http://localhost:3000/california' target={"_blank"} rel='noreferrer'>Caltrans Disctrict 8</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <p>464 West 4th Street San Bernardino, California 92401</p>
+        <h3>Request Record Maps by Email:</h3>
+        <p><strong>Attach Postmile Info <a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Here</a></strong></p>
+
+        <br />
+
+        <h4>Contact:</h4>
+        <p>D8RecordMaps@dot.ca.gov</p>
 
         <p><strong>Contact: </strong> (866) 383-4631 | (909) 383-4631 </p>
       </span>

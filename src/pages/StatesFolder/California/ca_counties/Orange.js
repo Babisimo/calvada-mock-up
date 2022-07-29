@@ -48,7 +48,18 @@ const Orange = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://dot.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2fdist12%2f&user=extranet%5cAnonymous&site=Caltrans' target={"_blank"} rel='noreferrer'>Caltrans District 12</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+
+        <br />
+
+        <h4>Request Record Maps by Email:</h4>
+        <p>Attatch <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+        <br />
+
+        <h4>Contact:</h4>
+        <p>Gurucharan Mac</p>
+        <p>gurucharan.mac@dot.ca.gov</p>
+
         <p>3347 Michelson Drive, Suite 100</p>
         <p>Irvine, California 92612</p>
         <p><strong>Phone:</strong> (949) 724-2000</p>
