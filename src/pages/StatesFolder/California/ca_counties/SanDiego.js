@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District11 from '../CaltransDistricts/District11'
 
 const SanDiego = () => {
   return (
@@ -53,23 +54,7 @@ const SanDiego = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-
-        <br />
-
-        <h4>Request Record Maps by Email:</h4>
-        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
-
-        <br />
-
-        <h4>Contact:</h4>
-
-        <p>Ben Sarkisian | <a href='mailto:ben_sarkisian@dot.ca.gov'>ben_sarkisian@dot.ca.gov</a></p>
-
-        <br />
-
-        <strong>San Diego and Imperial Counties</strong>
-        <p>4050 Taylor Street, San Diego, California 92110</p>
-        <p><strong>General Number: </strong>(619) 688-6699</p>
+        <District11 />
 
       </span>
 

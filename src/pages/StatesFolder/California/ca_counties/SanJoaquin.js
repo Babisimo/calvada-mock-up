@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District10 from '../CaltransDistricts/District10'
 
 const SanJoaquin = () => {
   return (
@@ -55,24 +56,7 @@ const SanJoaquin = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-
-        <br />
-
-        <h4>Request Record Maps by Email:</h4>
-        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
-
-        <br />
-
-        <h4>Contact:</h4>
-        <p>Eddie Young</p>
-        <p>eddie_young@dot.ca.gov</p>
-
-        <br />
-
-        <p>1976 East Charter Way / East Dr. Martin Luther King Jr. Blvd.</p>
-        <p>Stockton, CA 95205</p>
-        <p><strong>Public Information Office:</strong> (209) 948-7543</p>
-
+        <District10 />
       </span>
 
       {/* Border To Separate Information */}

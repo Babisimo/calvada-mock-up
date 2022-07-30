@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District4 from '../CaltransDistricts/District4'
 
 const SanFransisco = () => {
   return (
@@ -55,7 +56,7 @@ const SanFransisco = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=04efb9a9f14c4da2aabd9ce36b7dda48' target={"_blank"} rel='noreferrer'>Caltrans District 4</a>
+        <District4 />
       </span>
 
       {/* Border To Separate Information */}

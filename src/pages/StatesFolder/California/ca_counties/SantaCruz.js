@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District5 from '../CaltransDistricts/District5'
 
 const SantaCruz = () => {
   return (
@@ -36,17 +37,7 @@ const SantaCruz = () => {
       <span className='span'>
         <h3>Caltrans:</h3>
 
-        <br />
-
-        <h4>Request Record Maps by Email:</h4>
-        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
-
-        <br />
-
-        <h4>Contact:</h4>
-        <p>Amar, Jorge </p>
-        <p>Jorge.Amar@dot.ca.gov</p>
-        <p>Caltrans District 5 - (805) 549-3060</p>
+        <District5 />
 
       </span>
 

@@ -1,0 +1,19 @@
+import React from 'react'
+
+function District12() {
+    return (
+        <div>
+            <br />
+
+            <h4>Request Record Maps by Email:</h4>
+            <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+            <br />
+
+            <h4>Contact:</h4>
+            <p>Gurucharan Mac | <a href='mailto:gurucharan.mac@dot.ca.gov'>gurucharan.mac@dot.ca.gov</a></p>
+        </div>
+    )
+}
+
+export default District12

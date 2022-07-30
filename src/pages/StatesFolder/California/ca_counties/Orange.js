@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District12 from '../CaltransDistricts/District12'
 
 const Orange = () => {
   return (
@@ -48,23 +49,7 @@ const Orange = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-
-        <br />
-
-        <h4>Request Record Maps by Email:</h4>
-        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
-
-        <br />
-
-        <h4>Contact:</h4>
-        <p>Gurucharan Mac | <a href='mailto:gurucharan.mac@dot.ca.gov'>gurucharan.mac@dot.ca.gov</a></p>
-
-        <br />
-
-        <p>3347 Michelson Drive, Suite 100</p>
-        <p>Irvine, California 92612</p>
-        <p><strong>Phone:</strong> (949) 724-2000</p>
-
+        <District12 />
       </span>
 
       {/* Border To Separate Information */}

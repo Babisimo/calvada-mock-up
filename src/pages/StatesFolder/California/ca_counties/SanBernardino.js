@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District8 from '../CaltransDistricts/District8'
 
 const SanBernardino = () => {
   return (
@@ -52,18 +53,7 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-
-        <br />
-
-        <h4>Request Record Maps by Email:</h4>
-        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
-
-        <br />
-
-        <h4>Contact:</h4>
-        <p><a href='mailto:D8RecordMaps@dot.ca.gov'>D8RecordMaps@dot.ca.gov</a></p>
-
-        <p><strong>Phone: </strong> (866) 383-4631 | (909) 383-4631 </p>
+        <District8 />
       </span>
 
       {/* Border To Separate Information */}
