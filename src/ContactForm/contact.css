@@ -35,21 +35,29 @@ textarea {
   font-weight: bold;
 }
 
-.form > .send {
+.send {
   padding: 20px;
   border: none;
-  background-color: #f3efcc;
   font-weight: 500;
   font-size: 20px;
   border-radius: 3px;
-  color: #406343;
-  cursor: pointer;
-  transition: 0.2s ease-in-out;
   margin-top: 10px;
 }
 
-.form > .send:hover {
+.send:enabled {
+  background-color: #f3efcc;
+  cursor: pointer;
+  color: #406343;
+  transition: 0.2s ease-in-out;
+}
+
+.send:enabled:hover {
   background-color: #ffffff;
+}
+
+.send:disabled {
+  color: #5b5b5b;
+  cursor: default;
 }
 
 .result {

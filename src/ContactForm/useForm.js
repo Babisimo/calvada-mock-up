@@ -1,6 +1,11 @@
 import { useState, useEffect } from "react";
 
 const useForm = (callback, validate) => {
+
+    const state = {
+        disabled: false
+    }
+
     const [values, setValues] = useState({
         name: "",
         email: "",
@@ -16,10 +21,23 @@ const useForm = (callback, validate) => {
     const handleChange = (e) => {
         const { name, value } = e.target
 
+
+
         setValues({
             ...values,
             [name]: value,
         })
+
+        if (values === '') {
+            this.setState({
+                disabled: true
+            })
+        } else {
+            this.setState({
+                disabled: false
+            })
+        }
+
     }
 
     const handleSubmit = (e) => {
@@ -35,7 +53,7 @@ const useForm = (callback, validate) => {
         }
     }, [errors])
 
-    return { handleChange, values, handleSubmit, errors }
+    return { handleChange, values, handleSubmit, errors, state }
 
 }
 

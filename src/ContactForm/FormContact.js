@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import useForm from './useForm'
 import validate from './validateInfo'
 import emailjs from '@emailjs/browser'
 
 const Contact = ({ submitForm }) => {
-    const { handleChange, values, handleSubmit, errors } = useForm(submitForm, validate);
+    const { handleChange, values, handleSubmit, errors, state } = useForm(submitForm, validate);
 
     const sendEmail = (e) => {
         e.preventDefault()
@@ -25,7 +25,7 @@ const Contact = ({ submitForm }) => {
         <div className="contactDiv">
             <form className="form" onSubmit={sendEmail}>
                 <h1 className="title">Contact Form</h1>
-                <p className="title">Contact me for any maps that cannot be found on this website</p>
+                <p className="title">Contact me for any maps that cannot be found on this website or any features you would like to see added.</p>
 
                 {/* Name */}
                 <label htmlFor='name'>Name</label>
@@ -79,7 +79,7 @@ const Contact = ({ submitForm }) => {
                 />
                 {errors.message && <p className='result'>{errors.message}</p>}
 
-                <button className='send' type='submit'>Send</button>
+                <button disabled={state.disabled} className='send' type='submit'>Send</button>
 
 
             </form >
