@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District3 from '../CaltransDistricts/District3'
 
 const Placer = () => {
   return (
@@ -53,9 +54,7 @@ const Placer = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='http://www.dot.ca.gov/dist3/' target={"_blank"} rel='noreferrer'>Caltrans District 3</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <p>703 B Street Marysville, California 95901</p>
-
+        <District3 />
       </span>
 
       {/* Border To Separate Information */}

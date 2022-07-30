@@ -63,10 +63,10 @@ const Butte = () => {
 
       <span className='span'>
         <h3>Contacts:</h3>
-        <p>Anna Cielsa, LS | Surveyor Associate | (530) 538-7681 x2034 | aciesla@buttecounty.net</p>
-        <p>Danny Chow | Engineering Technician Associate | (530) 538-7681 x2033 | dchow@buttecounty.net</p>
-        <p>Joe Von Kleist | Survey Party Chief | (530) 538-7681 x2031 | jvonkleist@buttecounty.net</p>
-        <p>Dave Landon | Survey Party Chief  | (530) 538-7681 x2035 | dlandon@buttecounty.net</p>
+        <p><strong>Anna Cielsa, LS</strong> | Surveyor Associate | (530) 538-7681 x2034 | <a href='mailto:aciesla@buttecounty.net'>aciesla@buttecounty.net</a></p>
+        <p><strong>Danny Chow</strong> | Engineering Technician Associate | (530) 538-7681 x2033 | <a href='mailto:dchow@buttecounty.net'>dchow@buttecounty.net</a></p>
+        <p><strong>Joe Von Kleist</strong> | Survey Party Chief | (530) 538-7681 x2031 | <a href='mailto:jvonkleist@buttecounty.net'>jvonkleist@buttecounty.net</a></p>
+        <p><strong>Dave Landon</strong> | Survey Party Chief  | (530) 538-7681 x2035 | <a href='mailto:dlandon@buttecounty.net'>dlandon@buttecounty.net</a></p>
       </span>
 
       {/* Border To Separate Information */}

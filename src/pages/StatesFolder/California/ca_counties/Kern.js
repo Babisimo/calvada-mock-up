@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District6 from '../CaltransDistricts/District6'
 
 const Kern = () => {
   return (
@@ -40,13 +41,14 @@ const Kern = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <h4>Engineering & Survey Services Department</h4>
-        <p>Charles Lackey, Director</p>
+        <h4>Engineering & Survey Services Department:</h4>
+        <p><strong>Charles Lackey</strong>, Director</p>
         <br />
         <h4>Public Services Building Address:</h4>
         <p>2700 "M" Street, Suite 570</p>
         <p>Bakersfield, California 93301-2370</p>
         <p>Monday - Friday 8:00 AM - 5:00 PM</p>
+        <br />
         <p><strong>Phone:</strong> (661) 862-5510</p>
         <p><strong>Fax:</strong> (661) 862-5101</p>
         <p><strong>TTY Relay:</strong> 1-800-735-2929</p>
@@ -59,15 +61,7 @@ const Kern = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='http://www.dot.ca.gov/dist6/' target={"_blank"} rel='noreferrer'>Caltrans District 6</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <p>Fresno Fair Grounds, Educational Building</p>
-        <p>1121 S. Chance Avenue, Fresno California 93702</p>
-
-        <h4>Telephone:</h4>
-        <p>(559) 444-2409 (Fresno/Madera)</p>
-        <p>(559) 488-4082 (Tulare/Kings)</p>
-        <p>(661) 326-3968 (Kern)</p>
-        <p>(559) 488-4067</p>
+        <District6 />
 
       </span>
 

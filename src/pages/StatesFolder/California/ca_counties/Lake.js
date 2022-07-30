@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District1 from '../CaltransDistricts/District1'
 
 export const Lake = () => {
   return (
@@ -53,12 +54,7 @@ export const Lake = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://dot.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2fdist1%2f&user=extranet%5cAnonymous&site=Caltrans' target={"_blank"} rel='noreferrer'>Caltrans District 1</a>&nbsp;&nbsp;&nbsp;(Link Not Working)
-        <p>1656 Union Street</p>
-        <p>Eureka, California 95501</p>
-
-        <h4>Telephone:</h4>
-        <p>(707) 441-4678</p>
+        <District1 />
       </span>
 
       {/* Border To Separate Information */}
