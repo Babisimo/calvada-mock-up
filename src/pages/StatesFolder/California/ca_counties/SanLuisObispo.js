@@ -42,6 +42,9 @@ const SanLuisObispo = () => {
         <h3>Public Works:</h3>
         <h4>County Government Center</h4>
         <p>1055 Monterey Street, San Luis Obispo, CA 93408</p>
+
+        < br />
+
         <p><strong>Phone: </strong>(805) 781-5000</p>
         <p><strong>Toll Free: </strong>(800) 834-4636</p>
 

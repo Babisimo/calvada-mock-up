@@ -44,9 +44,11 @@ const SanJoaquin = () => {
         <p>PO Box 1810</p>
         <p>Stockton, California 85201</p>
 
+        <br />
+
         <p><strong>Hours: </strong>Monday - Friday 8:00 AM - 5:00 PM</p>
         <p><strong>Main Phone: </strong>(209) 468-3000</p>
-        <p><strong>Email: </strong>PWInfoSupport@sjgov.org</p>
+        <p><strong>Email: </strong><a href='mailto:PWInfoSupport@sjgov.org'>PWInfoSupport@sjgov.org</a></p>
 
       </span>
 

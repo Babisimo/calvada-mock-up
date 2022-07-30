@@ -40,8 +40,8 @@ const Fresno = () => {
         <h3>Public Works:</h3>
         <p>2220 Tulare St. | 6th Floor</p>
         <p>Fresno California, 93721</p>
+        <br />
         <p><strong>Phone:</strong> (559) 262-4078</p>
-
       </span>
 
       {/* Border To Separate Information */}

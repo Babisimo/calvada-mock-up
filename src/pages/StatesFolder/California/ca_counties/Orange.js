@@ -39,6 +39,7 @@ const Orange = () => {
         <p>300 N. Flower Street</p>
         <p>Santa Ana, California 92703</p>
         <p>Monday - Friday 8:00 AM to 5:00 PM</p>
+        <br />
         <p><strong>Phone:</strong> (714) 834-3568</p>
 
       </span>

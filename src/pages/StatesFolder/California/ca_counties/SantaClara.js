@@ -42,12 +42,16 @@ const SantaClara = () => {
         <p>East Wing, 11th Floor</p>
         <p>San Jose, California 95110</p>
 
+        <br />
+
         <h4>General Contact Information:</h4>
         <p><strong>Main Number: </strong>(480) 229-5151</p>
         <p><strong>Media Line: </strong>(480) 229-5119</p>
 
+        <br />
+
         <h4>Office of the County Executive:</h4>
-        <p>SCCPublicAffairs@ceo.sccgov.org</p>
+        <p><a href='mailto:SCCPublicAffairs@ceo.sccgov.org'>SCCPublicAffairs@ceo.sccgov.org</a></p>
 
       </span>
 

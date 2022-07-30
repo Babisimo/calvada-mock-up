@@ -31,7 +31,6 @@ const Placer = () => {
         <br />
         <a href='https://maps.placer.ca.gov/Html5viewer/Index.html?viewer=LIS_Public.LIS_Base-Public' target={"_blank"} rel='noreferrer'>GIS (Zoning)</a>
         <br />
-        <br />
         <a href='https://camapsource.com/placer/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Parcel Maps, Map Locator, Corner Records, etc.)
       </span>
 
@@ -44,6 +43,7 @@ const Placer = () => {
         <strong>Engineering and Surveying:</strong>
         <p>3091 County Center</p>
         <p>Auburn, California 95603</p>
+        <br />
         <p><strong>Phone:</strong> (530)-745-3110</p>
         <p><strong>Fax:</strong> (530)-745-7589</p>
       </span>

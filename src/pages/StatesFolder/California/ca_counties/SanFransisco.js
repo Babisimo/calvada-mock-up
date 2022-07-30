@@ -39,14 +39,16 @@ const SanFransisco = () => {
       <span className='span'>
         <h3>Public Works:</h3>
 
-        <strong>City Administrator</strong>
+        <strong>City Administrator:</strong>
         <p>1 Dr. Carlton B. Goodlett Place</p>
         <p>City Hall Room 362</p>
         <p>San Francisco, CA 94102</p>
         <p>Monday - Friday 8:00 AM - 8:00 PM</p>
 
+        <br />
+
         <p><strong>Phone: </strong>(415) 554-4851 | (415) 554-6920 | (415) 554-6944 | (415) 554-6900</p>
-        <p><strong>Email: </strong>city.administrator@sfgov.org</p>
+        <p><strong>Email: </strong><a href='mailto:city.administrator@sfgov.org'>city.administrator@sfgov.org</a></p>
 
       </span>
 

@@ -31,6 +31,9 @@ const Monterey = () => {
         <h3>Public Works:</h3>
         <p>468 W. Alisal St. | 2nd Floor</p>
         <p>Salinas, California 93901</p>
+
+        <br />
+
         <p><strong>Phone:</strong> (831) 755-4800</p>
         <p><strong>Monterey:</strong> (831) 647-7748</p>
         <p><strong>Fax:</strong> (831) 755-4958</p>

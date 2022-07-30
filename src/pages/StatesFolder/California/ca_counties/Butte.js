@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District3 from '../CaltransDistricts/District3'
 
 const Butte = () => {
   return (
@@ -41,6 +42,7 @@ const Butte = () => {
         <h3>Public Works:</h3>
         <p>7 County Center Drive</p>
         <p>Oroville California, 95965</p>
+        <br />
         <p><strong>Phone:</strong> (530) 538-7681</p>
         <p><strong>Fax:</strong> (530) 538-7171</p>
         <p><strong>Department Hours:</strong> Monday-Friday 7:30 AM to 4:00 PM</p>
@@ -52,9 +54,7 @@ const Butte = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='http://www.dot.ca.gov/dist10/' target={'_blank'} rel="noreferrer">Caltrans District 3</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
-        <p>703 B Street</p>
-        <p>Marysville CA, 95901</p>
+        <District3 />
       </span>
 
       {/* Border To Separate Information */}

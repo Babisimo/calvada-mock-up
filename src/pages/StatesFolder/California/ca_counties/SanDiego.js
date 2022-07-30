@@ -42,9 +42,12 @@ const SanDiego = () => {
         <h3>Public Works:</h3>
         <p>5201 Ruffin Road. Suite P, MS0326</p>
         <p>San Diego, California 92123</p>
+
+        <br />
+
         <p><strong>Phone: </strong>(858) 694-3672</p>
         <p><strong>Fax: </strong>(858) 495-5263</p>
-        <p><strong>E-Mail: </strong>terry.connors@sdcounty.ca.gov</p>
+        <p><strong>E-Mail: </strong><a href='mailto:terry.connors@sdcounty.ca.gov'>terry.connors@sdcounty.ca.gov</a></p>
 
       </span>
 
