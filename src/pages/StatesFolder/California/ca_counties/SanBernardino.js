@@ -52,8 +52,11 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <h3>Request Record Maps by Email:</h3>
-        <p><strong>Attach Postmile Info <a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Here</a></strong></p>
+
+        <br />
+
+        <h4>Request Record Maps by Email:</h4>
+        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
 
         <br />
 

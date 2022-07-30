@@ -45,7 +45,7 @@ const Monterey = () => {
         <br />
 
         <h4>Request Record Maps by Email:</h4>
-        <p>Attatch <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+        <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
 
         <br />
 
