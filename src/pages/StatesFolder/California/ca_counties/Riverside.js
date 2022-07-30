@@ -59,7 +59,7 @@ const Riverside = () => {
         <br />
 
         <h4>Contact:</h4>
-        <p>D8RecordMaps@dot.ca.gov</p>
+        <p><a href='mailto:D8RecordMaps@dot.ca.gov'>D8RecordMaps@dot.ca.gov</a></p>
 
         <br />
 

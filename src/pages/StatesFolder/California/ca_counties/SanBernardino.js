@@ -61,9 +61,9 @@ const SanBernardino = () => {
         <br />
 
         <h4>Contact:</h4>
-        <p>D8RecordMaps@dot.ca.gov</p>
+        <p><a href='mailto:D8RecordMaps@dot.ca.gov'>D8RecordMaps@dot.ca.gov</a></p>
 
-        <p><strong>Contact: </strong> (866) 383-4631 | (909) 383-4631 </p>
+        <p><strong>Phone: </strong> (866) 383-4631 | (909) 383-4631 </p>
       </span>
 
       {/* Border To Separate Information */}

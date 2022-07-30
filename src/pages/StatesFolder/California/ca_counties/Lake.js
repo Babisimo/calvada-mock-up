@@ -31,7 +31,7 @@ export const Lake = () => {
         <a href='http://gispublic.co.lake.ca.us/flexviewer/index.html' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
         <br />
         <h4>Request Record Maps:</h4>
-        <p>Cara Bowin | Cara.Bowin@lakecountyca.gov</p>
+        <p>Cara Bowin | <a href='mailto:Cara.Bowin@lakecountyca.gov'>Cara.Bowin@lakecountyca.gov</a></p>
       </span>
 
       {/* Border To Separate Information */}

@@ -50,8 +50,7 @@ const Kern = () => {
         <p><strong>Phone:</strong> (661) 862-5510</p>
         <p><strong>Fax:</strong> (661) 862-5101</p>
         <p><strong>TTY Relay:</strong> 1-800-735-2929</p>
-        <p><strong>Email:</strong> ess@co.kern.ca.us</p>
-
+        <p><strong>Email: </strong><a href='mailto:ess@co.kern.ca.us'>ess@co.kern.ca.us</a></p>
       </span>
 
       {/* Border To Separate Information */}

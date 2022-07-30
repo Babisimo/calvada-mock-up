@@ -52,12 +52,15 @@ const Sacramento = () => {
 
       <span className='span'>
         <h3>Caltrans:</h3>
-        <a href='https://www.dot.ca.gov/dist3' target={"_blank"} rel='noreferrer'>Caltrans District 3</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+        <br />
+        <p><a href='https://www.dot.ca.gov/dist3' target={"_blank"} rel='noreferrer'>Caltrans District 3</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)</p>
+        <br />
+
         <p>703 B Street</p>
         <p>Marysville, California 95901</p>
         <p>Monday - Friday 7:30 AM - 5:30 PM</p>
 
-        <p><strong>E-Mail:</strong> DSSSurveys@SacCounty.net</p>
+        <p><strong>E-Mail:</strong> <a href='mailto:DSSSurveys@SacCounty.net'>DSSSurveys@SacCounty.net</a></p>
       </span>
 
       {/* Border To Separate Information */}

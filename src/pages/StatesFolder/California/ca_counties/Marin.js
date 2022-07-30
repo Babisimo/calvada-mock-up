@@ -37,7 +37,7 @@ const Marin = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>Ernest Klock - Principal Civil Engineer | eklock@co.marin.ca.us</p>
+        <p>Ernest Klock - Principal Civil Engineer | <a href='mailto:eklock@co.marin.ca.usv'>eklock@co.marin.ca.usv</a></p>
         <p>Room 404 Civic Center Dr</p>
         <p>P.O. Box 4186</p>
         <p>San Rafael, California 94913-4186</p>

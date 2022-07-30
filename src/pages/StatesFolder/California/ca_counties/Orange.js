@@ -57,8 +57,9 @@ const Orange = () => {
         <br />
 
         <h4>Contact:</h4>
-        <p>Gurucharan Mac</p>
-        <p>gurucharan.mac@dot.ca.gov</p>
+        <p>Gurucharan Mac | <a href='mailto:gurucharan.mac@dot.ca.gov'>gurucharan.mac@dot.ca.gov</a></p>
+
+        <br />
 
         <p>3347 Michelson Drive, Suite 100</p>
         <p>Irvine, California 92612</p>

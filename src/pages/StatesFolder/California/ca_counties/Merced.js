@@ -46,9 +46,7 @@ const Merced = () => {
         <br />
 
         <h4>Contact:</h4>
-        <p>Eddie Young</p>
-        <p>eddie_young@dot.ca.gov</p>
-
+        <p>Eddie Young | <a href='mailto:eddie_young@dot.ca.gov'>eddie_young@dot.ca.gov</a></p>
         <br />
 
         <p><strong>Contact:</strong></p>

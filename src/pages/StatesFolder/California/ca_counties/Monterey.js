@@ -50,8 +50,7 @@ const Monterey = () => {
         <br />
 
         <h4>Contact:</h4>
-        <p>Amar, Jorge </p>
-        <p>Jorge.Amar@dot.ca.gov</p>
+        <p>Amar, Jorge | <a href='mailto:Jorge.Amar@dot.ca.gov'>Jorge.Amar@dot.ca.gov</a></p>
         <p>Caltrans District 5 - (805) 549-3060</p>
       </span>
 
