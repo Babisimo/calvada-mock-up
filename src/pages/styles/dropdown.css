@@ -18,7 +18,7 @@
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
-  max-height: 400px;
+  max-height: 42rem;
   overflow-y: scroll;
   border-radius: 10px;
   cursor: pointer;

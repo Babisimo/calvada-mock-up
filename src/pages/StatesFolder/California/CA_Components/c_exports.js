@@ -17,7 +17,7 @@ import Riverside from "../ca_counties/Riverside";
 import Sacramento from "../ca_counties/Sacramento";
 import SanBernardino from "../ca_counties/SanBernardino";
 import SanDiego from "../ca_counties/SanDiego";
-import SanFransisco from "../ca_counties/SanFransisco";
+import SanFrancisco from "../ca_counties/SanFrancisco";
 import SanJoaquin from "../ca_counties/SanJoaquin";
 import SanLuisObispo from "../ca_counties/SanLuisObispo";
 import SanMateo from "../ca_counties/SanMateo";
@@ -52,7 +52,7 @@ export {
     Sacramento,
     SanBernardino,
     SanDiego,
-    SanFransisco,
+    SanFrancisco,
     SanJoaquin,
     SanLuisObispo,
     SanMateo,

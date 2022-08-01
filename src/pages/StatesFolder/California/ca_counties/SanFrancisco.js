@@ -7,7 +7,7 @@ const SanFransisco = () => {
     <div className='county-info'>
       <div className='county-btn'>
         <Link to={'/counties'}><button>Back to Counties</button></Link>
-        <h1 className='title'>San Fransisco County</h1>
+        <h1 className='title'>San Francisco County</h1>
       </div>
 
       {/* Border To Separate Information */}

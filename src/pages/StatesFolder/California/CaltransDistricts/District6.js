@@ -3,7 +3,16 @@ import React from 'react'
 function District6() {
     return (
         <div>
-            <a href='http://www.dot.ca.gov/dist6/' target={"_blank"} rel='noreferrer'>Caltrans District 6</a>&nbsp;&nbsp;&nbsp;(LINK NOT WORKING)
+            <p>(District 6)</p>
+            <br />
+
+            <h4>Request ROW Maps by Email:</h4>
+            <p>Attach <strong><a href='https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?' target={'_blank'} rel='noreferrer'>Postmile Info</a></strong></p>
+
+            <br />
+
+            <h4>Contact:</h4>
+            <p>Bethany Fitch | <a href='mailto:Bethany.Fitch@dot.ca.gov'>Bethany.Fitch@dot.ca.gov</a></p>
         </div>
     )
 }

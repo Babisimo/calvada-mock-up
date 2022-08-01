@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom'
 
 // Importing California Counties
-import { Alameda, Alpine, Amador, Butte, ContraCosta, Fresno, Kern, Kings, Lake, LosAngeles, Marin, Merced, Monterey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFransisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo } from "../pages/StatesFolder/California/CA_Components/c_exports"
+import { Alameda, Alpine, Amador, Butte, ContraCosta, Fresno, Kern, Kings, Lake, LosAngeles, Marin, Merced, Monterey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFrancisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo } from "../pages/StatesFolder/California/CA_Components/c_exports"
 
 // Importing Arizona Counties
 import { Maricopa, Pima } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
@@ -37,7 +37,7 @@ export default function CountiesRoutes() {
                 <Route path="/sacramento" element={<Sacramento />} />
                 <Route path="/sanbernardino" element={<SanBernardino />} />
                 <Route path="/sandiego" element={<SanDiego />} />
-                <Route path="/sanfransisco" element={<SanFransisco />} />
+                <Route path="/sanfransisco" element={<SanFrancisco />} />
                 <Route path="/sanjoaquin" element={<SanJoaquin />} />
                 <Route path="/sanluisobispo" element={<SanLuisObispo />} />
                 <Route path="/sanmateo" element={<SanMateo />} />

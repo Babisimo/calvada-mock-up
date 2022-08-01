@@ -24,11 +24,11 @@ export default function CaCountiesNavBar() {
                 <CustomLink to="/sacramento">Sacramento</CustomLink>
                 <CustomLink to="/sanbernardino">San Bernardino</CustomLink>
                 <CustomLink to="/sandiego">San Diego</CustomLink>
-                <CustomLink to="/sanfransisco">San Fransisco</CustomLink>
+                <CustomLink to="/sanfransisco">San Francisco</CustomLink>
                 <CustomLink to="/sanjoaquin">San Joaquin</CustomLink>
                 <CustomLink to="/sanluisobispo">San Luis Obispo</CustomLink>
                 <CustomLink to="/sanmateo">San Mateo</CustomLink>
-                <CustomLink to="/santabarbara">Santa Barabara</CustomLink>
+                <CustomLink to="/santabarbara">Santa Barbara</CustomLink>
                 <CustomLink to="/santaclara">Santa Clara</CustomLink>
                 <CustomLink to="/santacruz">Santa Cruz</CustomLink>
                 <CustomLink to="/shasta">Shasta</CustomLink>
