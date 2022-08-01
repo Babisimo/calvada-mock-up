@@ -20,7 +20,7 @@ const Yolo = () => {
         <br />
         <a href='https://yolo.maps.arcgis.com/apps/webappviewer/index.html?id=07aafdb9df8b40fea378723de601c69b&extent=-13651962.5683%2C4642419.391%2C-13505203.474%2C4708996.0427%2C102100' target={"_blank"} rel='noreferrer'>GIS Property Information</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://camapsource.com/yolo-county/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Assessment Maps, Map Books, Parcel Maps, etc)
+        <a href='https://camapsource.com/yolo/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Assessment Maps, Map Books, Parcel Maps, etc)
       </span>
 
       {/* Border To Separate Information */}

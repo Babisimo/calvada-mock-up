@@ -29,9 +29,11 @@ const Butte = () => {
         <br />
         <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Benchmarks)
         <br />
-        <a href='https://camapsource.com/butte/' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
+        <a href='https://assr.parcelquest.com/Home' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />
         <a href='http://gis.buttecounty.net/Public/index.html?viewer=dssearch' target={'_blank'} rel="noreferrer">GIS Mapping</a>
+        <br />
+        <a href='https://assr.parcelquest.com/Home' target={'_blank'} rel="noreferrer">CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
       </span>
 
       {/* Border To Separate Information */}
