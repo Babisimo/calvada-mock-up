@@ -26,7 +26,7 @@ const Washoe = () => {
         <h3>Links:</h3>
         <a href='https://gis.washoecounty.us/wrms/survey#' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://www.washoecounty.gov/' target={"_blank"} rel='noreferrer'>Mapping | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & APNS | <strong>LINK NOT WORKING</strong>)
+        <a href='https://www.washoecounty.gov/recorder/mapping/index.php' target={"_blank"} rel='noreferrer'>Mapping | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & APNS)
       </span>
 
       {/* Border To Separate Information */}

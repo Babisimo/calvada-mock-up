@@ -27,13 +27,13 @@ const Clark = () => {
         <h3>Links:</h3>
         <a href='https://www.clarkcountynv.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://www.clarkcountynv.gov/Depts/assessor/Pages/PropertyRecords.aspx?H=sandgate&P=ParcelMaps/Prclinq.htm' target={"_blank"} rel='noreferrer'>Assessor Records and Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS | <strong>LINK NOT WORKING</strong>)
+        <a href='https://maps.clarkcountynv.gov/assessor/AssessorParcelDetail/pcl.aspx' target={"_blank"} rel='noreferrer'>Assessor Records and Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='http://gisgate.co.clark.nv.us/assessor/webimages/' target={"_blank"} rel='noreferrer'>Assessor | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Deeds)
         <br />
         <a href='http://gisgate.co.clark.nv.us/openweb/?@782884,26762114,6' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
         <br />
-        <a href='https://www.clarkcountynv.gov/Depts/public_works/surveyors_office/Pages/benchmark.aspx' target={"_blank"} rel='noreferrer'>Benchmarks</a>&nbsp;&nbsp;&nbsp;(Vertical Control | <strong>LINK NOT WORKING</strong>)
+        <a href='https://www.clarkcountynv.gov/government/departments/public_works_department/professional_services/benchmark_book.php' target={"_blank"} rel='noreferrer'>Benchmarks</a>
       </span>
 
 

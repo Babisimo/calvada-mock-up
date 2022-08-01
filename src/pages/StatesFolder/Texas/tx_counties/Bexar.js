@@ -25,9 +25,6 @@ const Bexar = () => {
       <span className='span'>
         <h3>Links:</h3>
         <a href='https://bexar.trueautomation.com/clientdb/?cid=110' target={"_blank"} rel='noreferrer'>Property Search</a>&nbsp;&nbsp;&nbsp;(Bexar CAD)
-        <br />
-        <br />
-        <a href='https://govapps1.propertyinfo.com/wam3/loginForm.asp?iWAMid=3' target={"_blank"} rel='noreferrer'>Mapping | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps & Deeds | <strong>LINK NOT WORKING</strong>)
       </span>
 
       {/* Border To Separate Information */}
