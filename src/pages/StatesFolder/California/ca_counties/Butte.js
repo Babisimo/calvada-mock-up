@@ -33,7 +33,7 @@ const Butte = () => {
         <br />
         <a href='http://gis.buttecounty.net/Public/index.html?viewer=dssearch' target={'_blank'} rel="noreferrer">GIS Mapping</a>
         <br />
-        <a href='https://assr.parcelquest.com/Home' target={'_blank'} rel="noreferrer">CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
+        <a href='https://camapsource.com/butte/' target={'_blank'} rel="noreferrer">CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
       </span>
 
       {/* Border To Separate Information */}
