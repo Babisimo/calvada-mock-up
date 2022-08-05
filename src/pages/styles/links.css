@@ -1,9 +1,14 @@
+.block {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
+
 .links {
   background-color: #f3efcc;
   border-radius: 7px;
-  max-height: 45rem;
-  max-width: 100%;
-  min-width: 45rem;
+  max-height: 80vh;
+  min-width: 50vh;
   overflow-y: auto;
 }
 

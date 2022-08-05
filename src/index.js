@@ -8,6 +8,7 @@ import './ContactForm/contact.css'
 import './pages/styles/city.css'
 import './pages/styles/dropdown.css'
 import './pages/styles/links.css'
+import './pages/styles/scrollbar.css'
 import { HashRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
