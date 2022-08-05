@@ -2,7 +2,6 @@ import React from "react"
 import NavBar from './NavBar'
 import Home from './pages/Main/Home';
 import Links from "./pages/Main/Links";
-// import Contact from "./ContactForm/Contact";
 import Form from "./ContactForm/Form";
 import { Route, Routes } from 'react-router-dom'
 

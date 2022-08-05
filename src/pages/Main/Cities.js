@@ -10,14 +10,12 @@ export default function Cities() {
 
             {/* Border To Separate Information */}
             <p className='border'></p>
-            {/* Border To Separate Information */}
 
             <h2 className="city-title">California Cities</h2>
             <CACities />
 
             {/* Border To Separate Information */}
             <p className='border'></p>
-            {/* Border To Separate Information */}
 
 
         </div>
