@@ -2,6 +2,8 @@
   background-color: #f3efcc;
   border-radius: 7px;
   max-height: 45rem;
+  max-width: 100%;
+  min-width: 45rem;
   overflow-y: auto;
 }
 

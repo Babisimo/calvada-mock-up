@@ -104,6 +104,27 @@ export default function Links() {
                     </a>
                 </div>
 
+                <div className="link">
+                    <a href="https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html" target={"_blank"} rel="noreferrer">
+                        <img alt="National Geologic Map Database"
+                            src={'https://www.usgs.gov/themes/custom/usgs_tantalum/usgs_logo.png'}
+                            width="280px">
+                        </img>
+                        USGS
+                    </a>
+                </div>
+
+
+                <div className="link">
+                    <a href="https://www.conservation.ca.gov/cgs/geohazards/eq-zapp" target={"_blank"} rel="noreferrer">
+                        <img alt="Department of Conservation"
+                            src={'https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg'}
+                            width="280px">
+                        </img>
+                        EQ Zapp
+                    </a>
+                </div>
+
                 {/* 
                 */}
 
