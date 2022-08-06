@@ -9,39 +9,52 @@ export default function Links() {
 
                 {/* FEMA */}
                 <CustomLink
-                    link="https://msc.fema.gov/portal/home" linkName='FEMA' hasImage='true'
-                    imgAlt='FEMA' imgSrc='https://msc.fema.gov/portal/images/fema-logo-main.png'
+                    link="https://msc.fema.gov/portal/home"
+                    linkName='FEMA'
+                    hasImage='true'
+                    imgAlt='FEMA'
+                    imgSrc='https://msc.fema.gov/portal/images/fema-logo-main.png'
                     imgWidth='150px'
                 />
 
+                {/* By Point Radius */}
                 <CustomLink
-                    link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl" linkName='BY POINT RADIUS' hasImage='true'
-                    imgAlt='BPR' imgSrc='https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif'
+                    link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl"
+                    linkName='BY POINT RADIUS'
+                    hasImage='true'
+                    imgAlt='BPR'
+                    imgSrc='https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif'
                     imgWidth='60px'
                 />
 
+                {/* Magnetic Field Calculator */}
                 <CustomLink
-                    link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl" linkName='NOAA' hasImage='true'
-                    imgAlt='BPR' imgSrc='https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif'
-                    imgWidth=''
+                    link="https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml"
+                    linkName='Magnetic Field Calculators'
+                    hasImage='true'
+                    imgAlt='BPR'
+                    imgSrc='https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif'
                 />
 
+                {/* Township and Range */}
                 <CustomLink
                     link="https://www.earthpoint.us/Townships.aspx"
                     linkName='Township and Range - Public Land Survey System'
                     hasImage='false'
                 />
 
+                {/* BLM */}
                 <CustomLink
-                    link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl"
+                    link="https://glorecords.blm.gov/default.aspx"
                     linkName='Bureau Of Land Management'
                     hasImage='true'
-                    imgAlt='BEREAU'
+                    imgAlt='Bureau'
                     imgSrc='https://glorecords.blm.gov/images/blm_banner_home_abbreviated.png'
                     imgWidth='440px'
                     imgHeight='40px'
                 />
 
+                {/* Data Tree */}
                 <CustomLink
                     link="https://dna.firstam.com/property-research"
                     linkName='DATATREE'
@@ -51,6 +64,7 @@ export default function Links() {
                     imgWidth='250px'
                 />
 
+                {/* Couthouse District */}
                 <CustomLink
                     link="https://www.courthousedirect.com/"
                     linkName='Courthouse Direct'
@@ -60,6 +74,7 @@ export default function Links() {
                     imgWidth='250px'
                 />
 
+                {/* CA Map Source */}
                 <CustomLink
                     link="https://camapsource.com/"
                     linkName='CA Map Source'
@@ -69,24 +84,27 @@ export default function Links() {
                     imgWidth='250px'
                 />
 
+                {/* Surveying Books */}
                 <CustomLink
                     link="http://keithwspencer.net/Library/Library.shtml"
-                    linkName='CLSA'
+                    linkName='Surveying Books'
                     hasImage='true'
                     linkAlt='California Land Surveyors Association'
                     imgSrc='http://keithwspencer.net/images/EF_Logo-x-Sml.jpg'
                     imgWidth='280px'
                 />
 
+                {/* National Geologic Map Database */}
                 <CustomLink
                     link="https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html"
-                    linkName='USGS'
+                    linkName='NGMD'
                     hasImage='true'
                     linkAlt='National Geologic Map Database'
                     imgSrc='https://www.usgs.gov/themes/custom/usgs_tantalum/usgs_logo.png'
                     imgWidth='280px'
                 />
 
+                {/* EQ Zapp */}
                 <CustomLink
                     link="https://www.conservation.ca.gov/cgs/geohazards/eq-zapp"
                     linkName='EQ Zapp'
