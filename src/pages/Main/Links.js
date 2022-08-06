@@ -14,7 +14,7 @@ export default function Links() {
                     hasImage='true'
                     imgAlt='FEMA'
                     imgSrc='https://msc.fema.gov/portal/images/fema-logo-main.png'
-                    imgWidth='150px'
+                    imgWidth='130px'
                 />
 
                 {/* By Point Radius */}
@@ -24,7 +24,7 @@ export default function Links() {
                     hasImage='true'
                     imgAlt='BPR'
                     imgSrc='https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif'
-                    imgWidth='60px'
+                    imgWidth='40px'
                 />
 
                 {/* Magnetic Field Calculator */}
@@ -34,6 +34,7 @@ export default function Links() {
                     hasImage='true'
                     imgAlt='BPR'
                     imgSrc='https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif'
+                    imgWidth='280px'
                 />
 
                 {/* Township and Range */}
@@ -81,7 +82,7 @@ export default function Links() {
                     hasImage='true'
                     imgAlt='CA Map Source'
                     imgSrc='https://camapsource.com/wp-content/uploads/2019/12/CA-Map-Source_Logo-Small-PNG.png'
-                    imgWidth='250px'
+                    imgWidth='180px'
                 />
 
                 {/* Surveying Books */}
@@ -91,7 +92,7 @@ export default function Links() {
                     hasImage='true'
                     linkAlt='California Land Surveyors Association'
                     imgSrc='http://keithwspencer.net/images/EF_Logo-x-Sml.jpg'
-                    imgWidth='280px'
+                    imgWidth='180px'
                 />
 
                 {/* National Geologic Map Database */}
@@ -100,8 +101,8 @@ export default function Links() {
                     linkName='NGMD'
                     hasImage='true'
                     linkAlt='National Geologic Map Database'
-                    imgSrc='https://www.usgs.gov/themes/custom/usgs_tantalum/usgs_logo.png'
-                    imgWidth='280px'
+                    imgSrc='https://ngmdb.usgs.gov/dev/img/usgsLogo.svg'
+                    imgWidth='180px'
                 />
 
                 {/* EQ Zapp */}
@@ -111,7 +112,7 @@ export default function Links() {
                     hasImage='true'
                     linkAlt='Department of Conservation'
                     imgSrc='https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg'
-                    imgWidth='280px'
+                    imgWidth='180px'
                 />
             </div>
         </div>
