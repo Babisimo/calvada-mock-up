@@ -1,6 +1,29 @@
 .city-title {
-  text-align: start;
   margin: 0;
   padding: 0;
   color: #f3efcc;
+}
+/* View Button on .\StatesFolder\California\CA_Components\CACities.js */
+.view-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 25px 0px 0px;
+}
+
+.view-btn button {
+  display: flex;
+  padding: 0.7rem;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+  /* text-align: center; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.cities {
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
 }
