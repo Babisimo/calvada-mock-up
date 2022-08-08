@@ -60,7 +60,7 @@ export default function CACities() {
             <div className='view-btn'>
                 <h2 className="city-title">California Cities</h2>
 
-                <button onClick={() => handleSort()}>{btnText}&nbsp;&nbsp;<img src='https://imgs.search.brave.com/rFbq12_-W8NUBXm2_GOgiECXKRHKF4yUGGjgYqC_afU/rs:fit:980:956:1/g:ce/aHR0cDovL2Nkbi5v/bmxpbmV3ZWJmb250/cy5jb20vc3ZnL2lt/Z18xNzYyMDMucG5n' width={'15px'}></img></button>
+                <button onClick={() => handleSort()}>{btnText}&nbsp;&nbsp;<img src='https://imgs.search.brave.com/rFbq12_-W8NUBXm2_GOgiECXKRHKF4yUGGjgYqC_afU/rs:fit:980:956:1/g:ce/aHR0cDovL2Nkbi5v/bmxpbmV3ZWJmb250/cy5jb20vc3ZnL2lt/Z18xNzYyMDMucG5n' width={'15px'} alt='select icon' /></button>
             </div>
             <div className='cities'>
                 {cities.sort((a, b) => {
