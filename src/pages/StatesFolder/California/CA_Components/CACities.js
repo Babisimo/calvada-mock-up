@@ -44,7 +44,7 @@ export default function CACities() {
         <Corona key={'corona'} />,
         <Glendale key={'glendale'} />,
         <HunBeach key={'hunbeach'} />,
-        <LosAngeles key={'losangeles'} />,
+        <LosAngeles key={'la'} />,
         <LongBeach key={'longbeach'} />,
         <Ontario key={'ontario'} />,
         <Pasadena key={'pasadena'} />,
