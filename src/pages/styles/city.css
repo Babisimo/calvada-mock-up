@@ -12,18 +12,24 @@
 }
 
 .view-btn button {
+  background-color: #f3efcc;
   display: flex;
   padding: 0.7rem;
   border-radius: 7px;
   border: none;
   cursor: pointer;
-  /* text-align: center; */
-  /* justify-content: center; */
-  /* align-items: center; */
+}
+
+.view-btn button:hover {
+  background-color: #ffffff;
+  color: #569156;
+}
+
+.view-btn button:active {
+  background-color: #f7f5e8;
+  color: black;
 }
 
 .cities {
-  justify-content: center;
-  align-items: center;
-  justify-content: center;
+  display: block;
 }
