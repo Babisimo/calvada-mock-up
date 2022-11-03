@@ -1,57 +1,36 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 // Import California Cities from CACitiesExports
-import { Adelanto, Anaheim, AlisoViejo, AppleValley, Artesia, Azusa, Bakersfield, Beaumont, Berkeley, BeverlyHills, Camarillo, Carlsbad, Carson, ChulaVista, Corona, Glendale, HunBeach, LongBeach, LosAngeles, Ontario, Pasadena, Riverside, SantaMonica, Temecula } from './CACitiesExports'
+import * as CACitiesExports from './CACitiesExports'
 
 export default function CACities() {
-    const [sortType, setSortType] = useState("asc")
-    const [btnText, setBtnText] = useState("Ascending Order")
-
-    function handleText() {
-        if (btnText === "Ascending Order") {
-            setBtnText('Descending Order')
-        } else {
-            setBtnText('Ascending Order')
-        }
-    }
-
-    function handleSort() {
-        if (sortType === 'asc') {
-            setSortType("desc")
-            handleText()
-        } else {
-            setSortType('asc')
-            handleText()
-        }
-    }
 
     // Needs key!
     let cities = [
-        <Adelanto key={'adelanto'} />,
-        <Anaheim key={'anaheim'} />,
-        <AlisoViejo key={'alisoviejo'} />,
-        <AppleValley key={'applevalley'} />,
-        <Artesia key={'artesia'} />,
-        <Azusa key={'azusa'} />,
-        <Bakersfield key={'bakersfield'} />,
-        <Beaumont key={'beaumont'} />,
-        <Berkeley key={'berkeley'} />,
-        <BeverlyHills key={'beverlyhills'} />,
-        <Camarillo key={'camarillo'} />,
-        <Carlsbad key={'carlsbad'} />,
-        <Carson key={'carson'} />,
-        <ChulaVista key={'chulavista'} />,
-        <Corona key={'corona'} />,
-        <Glendale key={'glendale'} />,
-        <HunBeach key={'hunbeach'} />,
-        <LosAngeles key={'la'} />,
-        <LongBeach key={'longbeach'} />,
-        <Ontario key={'ontario'} />,
-        <Pasadena key={'pasadena'} />,
-        <Riverside key={'riverside'} />,
-        <SantaMonica key={'santamonica'} />,
-        <Temecula key={'temecula'} />
-
+        <CACitiesExports.Adelanto key={'adelanto'} />,
+        <CACitiesExports.Anaheim key={'anaheim'} />,
+        <CACitiesExports.AlisoViejo key={'alisoviejo'} />,
+        <CACitiesExports.AppleValley key={'applevalley'} />,
+        <CACitiesExports.Artesia key={'artesia'} />,
+        <CACitiesExports.Azusa key={'azusa'} />,
+        <CACitiesExports.Bakersfield key={'bakersfield'} />,
+        <CACitiesExports.Beaumont key={'beaumont'} />,
+        <CACitiesExports.Berkeley key={'berkeley'} />,
+        <CACitiesExports.BeverlyHills key={'beverlyhills'} />,
+        <CACitiesExports.Camarillo key={'camarillo'} />,
+        <CACitiesExports.Carlsbad key={'carlsbad'} />,
+        <CACitiesExports.Carson key={'carson'} />,
+        <CACitiesExports.ChulaVista key={'chulavista'} />,
+        <CACitiesExports.Corona key={'corona'} />,
+        <CACitiesExports.Glendale key={'glendale'} />,
+        <CACitiesExports.HunBeach key={'hunbeach'} />,
+        <CACitiesExports.LosAngeles key={'la'} />,
+        <CACitiesExports.LongBeach key={'longbeach'} />,
+        <CACitiesExports.Ontario key={'ontario'} />,
+        <CACitiesExports.Pasadena key={'pasadena'} />,
+        <CACitiesExports.Riverside key={'riverside'} />,
+        <CACitiesExports.SantaMonica key={'santamonica'} />,
+        <CACitiesExports.Temecula key={'temecula'} />
     ]
 
 
@@ -60,13 +39,13 @@ export default function CACities() {
             <div className='view-btn'>
                 <h2 className="city-title">California Cities</h2>
 
-                <button onClick={() => handleSort()}>{btnText}&nbsp;&nbsp;<img src='https://imgs.search.brave.com/rFbq12_-W8NUBXm2_GOgiECXKRHKF4yUGGjgYqC_afU/rs:fit:980:956:1/g:ce/aHR0cDovL2Nkbi5v/bmxpbmV3ZWJmb250/cy5jb20vc3ZnL2lt/Z18xNzYyMDMucG5n' width={'15px'} alt='select icon' /></button>
             </div>
             <div className='cities'>
+                
                 {cities.sort((a, b) => {
-                    const isReversed = (sortType === 'asc') ? 1 : - 1
-                    return isReversed * a.key.localeCompare(b.key)
+                    return a.key.localeCompare(b.key)
                 })}
+
             </div>
         </>
     )

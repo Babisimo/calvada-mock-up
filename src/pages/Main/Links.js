@@ -57,7 +57,7 @@ export default function Links() {
 
                 {/* Data Tree */}
                 <CustomLink
-                    link="https://dna.firstam.com/property-research"
+                    link="https://web.datatree.com/Account/Login?ReturnUrl=%2F#/home"
                     linkName='DATATREE'
                     hasImage='true'
                     imgAlt='DATATREE'

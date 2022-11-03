@@ -8,7 +8,6 @@ export default function Home() {
             <div className="buttons">
                 <Link to={'/counties'}><button>Counties</button></Link>
                 <Link to={'/cities'}><button>Cities</button></Link>
-                {/* <Link to={'/caltrans'}><button>Caltrans</button></Link> */}
             </div>
         </div>
     )
