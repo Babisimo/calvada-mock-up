@@ -3,3 +3,5 @@ Website mock-up for https://research.calvada.com
 
 Using vpm create-react-app.
 Hosted by GoDaddy & Plesk
+
+Will be eventually moved to a Next.js Frontend.
