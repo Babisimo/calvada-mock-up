@@ -42,6 +42,7 @@ import Tehama from "../ca_counties/Tehama";
 import Trinity from "../ca_counties/Trinity";
 import Ventura from "../ca_counties/Ventura";
 import Yolo from "../ca_counties/Yolo";
+import Imperial from "../ca_counties/Imperial";
 
 export {
     Alameda,
@@ -52,6 +53,7 @@ export {
     Calaveras,
     ElDorado,
     Fresno,
+    Imperial,
     Kern,
     Kings,
     Lake,

@@ -12,6 +12,7 @@ export default function CaCountiesNavBar() {
                 <CustomLink key={'calaveras'} to="/calaveras">Calaveras</CustomLink>,
                 <CustomLink key={'el dorado'} to="/eldorado">El Dorado</CustomLink>,
                 <CustomLink key={'fresno'} to="/fresno">Fresno</CustomLink>,
+                <CustomLink key={'imperial'} to="/imperial">Imperial</CustomLink>,
                 <CustomLink key={'kern'} to="/kern">Kern</CustomLink>,
                 <CustomLink key={'kings'} to="/kings">Kings</CustomLink>,
                 <CustomLink key={'lake'} to="/lake">Lake</CustomLink>,

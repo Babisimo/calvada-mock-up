@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom'
 
 // Importing California Counties
-import { Alameda, Alpine, Amador, Butte, Calaveras, ElDorado, ContraCosta, Fresno, Kern, Kings, Lake, Lassen, LosAngeles, Marin, Merced, Modoc, Monterey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFrancisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo, Nevada, Plumas, Sierra, Tehama, Trinity, Mono, Sutter } from "../pages/StatesFolder/California/CA_Components/CACountiesExports"
+import { Alameda, Alpine, Amador, Butte, Calaveras, ElDorado, ContraCosta, Fresno, Kern, Kings, Lake, Lassen, LosAngeles, Marin, Merced, Modoc, Monterey, Orange, Placer, Riverside, Sacramento, SanBernardino, SanDiego, SanFrancisco, SanJoaquin, SanLuisObispo, SanMateo, SantaBarbara, SantaClara, SantaCruz, Shasta, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo, Nevada, Plumas, Sierra, Tehama, Trinity, Mono, Sutter, Imperial } from "../pages/StatesFolder/California/CA_Components/CACountiesExports"
 
 // Importing Arizona Counties
 import { Maricopa, Pima } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
@@ -28,6 +28,7 @@ export default function CountiesRoutes() {
                 <Route path="/contracosta" element={<ContraCosta />} />
                 <Route path="/eldorado" element={<ElDorado />} />
                 <Route path="/fresno" element={<Fresno />} />
+                <Route path="/imperial" element={<Imperial />} />
                 <Route path="/kern" element={<Kern />} />
                 <Route path="/kings" element={<Kings />} />
                 <Route path="/lake" element={<Lake />} />
