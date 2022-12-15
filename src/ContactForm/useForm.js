@@ -14,6 +14,7 @@ const useForm = (callback, validate) => {
     })
 
     const [errors, setErros] = useState({})
+    
     const [isSubmitting, setIsSubmitting] = useState(false)
 
 
@@ -51,6 +52,7 @@ const useForm = (callback, validate) => {
         if (Object.keys(errors).length === 0 && isSubmitting) {
             callback()
         }
+    // eslint-disable-next-line
     }, [errors])
 
     return { handleChange, values, handleSubmit, errors, state }

@@ -19,6 +19,7 @@ export default function CaCountiesNavBar() {
                 <CustomLink key={'lassen'} to="/lassen">Lassen</CustomLink>,
                 <CustomLink key={'los angeles'} to="/losangeles">Los Angeles</CustomLink>,
                 <CustomLink key={'marin'} to="/marin">Marin</CustomLink>,
+                <CustomLink key={'madera'} to="/madera">Madera</CustomLink>,
                 <CustomLink key={'modoc'} to="/modoc">Modoc</CustomLink>,
                 <CustomLink key={'merced'} to="/merced">Merced</CustomLink>,
                 <CustomLink key={'monterey'} to="/monterey">Monterey</CustomLink>,

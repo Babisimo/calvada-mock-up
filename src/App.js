@@ -6,7 +6,7 @@ import Form from "./ContactForm/Form";
 import { Route, Routes } from 'react-router-dom'
 
 // Main Imports
-import { Counties, Cities, Caltrans } from "./MainExports"
+import { Counties, Cities} from "./MainExports"
 
 // Importing Counties Routes
 import CountiesRoutes from "./Routes/CountiesRoutes";
@@ -24,7 +24,6 @@ function App() {
           <Route path="/form" element={<Form />} />
           <Route path="/counties" element={<Counties />} />
           <Route path="/cities" element={<Cities />} />
-          <Route path="/caltrans" element={<Caltrans />} />
         </Routes>
 
         {/* Routes for Counties */}

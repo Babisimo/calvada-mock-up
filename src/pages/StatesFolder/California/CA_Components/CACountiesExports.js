@@ -12,6 +12,7 @@ import { Lake } from "../ca_counties/Lake";
 import Lassen from "../ca_counties/Lassen";
 import LosAngeles from "../ca_counties/LosAngeles";
 import Marin from "../ca_counties/Marin";
+import Madera from "../ca_counties/Madera";
 import Modoc from "../ca_counties/Modoc";
 import Mono from "../ca_counties/Mono";
 import Merced from "../ca_counties/Merced";
@@ -60,6 +61,7 @@ export {
     Lassen,
     LosAngeles,
     Marin,
+    Madera,
     Merced,
     Modoc,
     Monterey,
