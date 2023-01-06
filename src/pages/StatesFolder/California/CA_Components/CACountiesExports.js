@@ -44,6 +44,8 @@ import Trinity from "../ca_counties/Trinity";
 import Ventura from "../ca_counties/Ventura";
 import Yolo from "../ca_counties/Yolo";
 import Imperial from "../ca_counties/Imperial";
+import Siskiyou from "../ca_counties/Siskiyou";
+import Yuba from "../ca_counties/Yuba";
 
 export {
     Alameda,
@@ -85,11 +87,13 @@ export {
     Solano,
     Sonoma,
     Sierra,
+    Siskiyou,
     Stanislaus,
     Sutter,
     Tulare,
     Tehama,
     Trinity,
     Ventura,
-    Yolo
+    Yolo,
+    Yuba
 }

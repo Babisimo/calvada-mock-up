@@ -1,0 +1,10 @@
+.nav {
+  background-color: #f3efcc;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
+  color: #406343;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+}

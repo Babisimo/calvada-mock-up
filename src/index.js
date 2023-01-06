@@ -1,16 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './pages/styles/counties.css'
-import './pages/styles/stateStyle.css'
 import App from './App';
-import './style.css'
-import './ContactForm/contact.css'
-import './pages/styles/city.css'
-import './pages/styles/dropdown.css'
-import './pages/styles/links.css'
-import './pages/styles/scrollbar.css'
-import './pages/styles/recently.css'
 import { HashRouter } from 'react-router-dom';
+
+// Main Style
+import './style.css'
+
+// Style for all dropdown components
+import './styles/dropdown.css'
+import './styles/city.css'
+
+// Scrollbar style for all compontents that require a scrollbar
+import './styles/scrollbar.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -20,4 +21,3 @@ root.render(
     </HashRouter>
   </React.StrictMode>
 );
-

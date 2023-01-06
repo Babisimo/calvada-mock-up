@@ -30,22 +30,23 @@ export default function CACities() {
         <CACitiesExports.Pasadena key={'pasadena'} />,
         <CACitiesExports.Riverside key={'riverside'} />,
         <CACitiesExports.SantaMonica key={'santamonica'} />,
-        <CACitiesExports.Temecula key={'temecula'} />
+        <CACitiesExports.Temecula key={'temecula'} />,
+        <CACitiesExports.Torrance key={'torrance'} />,
+        <CACitiesExports.Burbank key={'burbank'} />,
+        <CACitiesExports.SanBernardino key={'san bernardinio'} />
+
     ]
 
 
     return (
         <>
-            <div className='view-btn'>
-                <h2 className="city-title">California Cities</h2>
-
+            <div className='city-title'>
+                <h2>California Cities</h2>
             </div>
-            <div className='cities'>
-                
+            <div className='cities'>                
                 {cities.sort((a, b) => {
                     return a.key.localeCompare(b.key)
                 })}
-
             </div>
         </>
     )

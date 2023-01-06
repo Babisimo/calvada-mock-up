@@ -1,5 +1,7 @@
 import React from "react";
 
+import '../../styles/links.css'
+
 export default function Links() {
     return (
         <div className="block">
@@ -12,7 +14,7 @@ export default function Links() {
                     link="https://msc.fema.gov/portal/home"
                     linkName='FEMA'
                     hasImage='true'
-                    imgAlt='FEMA'
+                    imgAlt='FEMA-logo'
                     imgSrc='https://msc.fema.gov/portal/images/fema-logo-main.png'
                     imgWidth='130px'
                 />
@@ -22,7 +24,7 @@ export default function Links() {
                     link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl"
                     linkName='BY POINT RADIUS'
                     hasImage='true'
-                    imgAlt='BPR'
+                    imgAlt='BPR-logo'
                     imgSrc='https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif'
                     imgWidth='40px'
                 />
@@ -32,7 +34,7 @@ export default function Links() {
                     link="https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml"
                     linkName='Magnetic Field Calculators'
                     hasImage='true'
-                    imgAlt='BPR'
+                    imgAlt='ngdc-logo'
                     imgSrc='https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif'
                     imgWidth='280px'
                 />
@@ -42,6 +44,7 @@ export default function Links() {
                     link="https://www.earthpoint.us/Townships.aspx"
                     linkName='Township and Range - Public Land Survey System'
                     hasImage='false'
+                    imgAlt='earthpoint-logo'
                 />
 
                 {/* BLM */}
@@ -49,7 +52,7 @@ export default function Links() {
                     link="https://glorecords.blm.gov/default.aspx"
                     linkName='Bureau Of Land Management'
                     hasImage='true'
-                    imgAlt='Bureau'
+                    imgAlt='Bureau-logo'
                     imgSrc='https://glorecords.blm.gov/images/blm_banner_home_abbreviated.png'
                     imgWidth='440px'
                     imgHeight='40px'
@@ -60,7 +63,7 @@ export default function Links() {
                     link="https://web.datatree.com/Account/Login?ReturnUrl=%2F#/home"
                     linkName='DATATREE'
                     hasImage='true'
-                    imgAlt='DATATREE'
+                    imgAlt='DATATREE-logo'
                     imgSrc='https://dna.firstam.com/hubfs/_Logos/dna-logo.svg'
                     imgWidth='250px'
                 />
@@ -70,7 +73,7 @@ export default function Links() {
                     link="https://www.courthousedirect.com/"
                     linkName='Courthouse Direct'
                     hasImage='true'
-                    imgAlt='Courthouse Direct'
+                    imgAlt='Courthouse Direct-logo'
                     imgSrc='https://www.courthousedirect.com/images/newlook_2012/logo.png'
                     imgWidth='250px'
                 />
@@ -80,7 +83,7 @@ export default function Links() {
                     link="https://camapsource.com/"
                     linkName='CA Map Source'
                     hasImage='true'
-                    imgAlt='CA Map Source'
+                    imgAlt='CA Map Source-logo'
                     imgSrc='https://camapsource.com/wp-content/uploads/2019/12/CA-Map-Source_Logo-Small-PNG.png'
                     imgWidth='180px'
                 />
@@ -90,7 +93,7 @@ export default function Links() {
                     link="http://keithwspencer.net/Library/Library.shtml"
                     linkName='Surveying Books'
                     hasImage='true'
-                    linkAlt='California Land Surveyors Association'
+                    linkAlt='California Land Surveyors Association-logo'
                     imgSrc='http://keithwspencer.net/images/EF_Logo-x-Sml.jpg'
                     imgWidth='180px'
                 />
@@ -100,7 +103,7 @@ export default function Links() {
                     link="https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html"
                     linkName='NGMD'
                     hasImage='true'
-                    linkAlt='National Geologic Map Database'
+                    linkAlt='National Geologic Map Database-logo'
                     imgSrc='https://ngmdb.usgs.gov/dev/img/usgsLogo.svg'
                     imgWidth='180px'
                 />
@@ -110,7 +113,7 @@ export default function Links() {
                     link="https://www.conservation.ca.gov/cgs/geohazards/eq-zapp"
                     linkName='EQ Zapp'
                     hasImage='true'
-                    linkAlt='Department of Conservation'
+                    linkAlt='Department of Conservation-logo'
                     imgSrc='https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg'
                     imgWidth='180px'
                 />

@@ -22,6 +22,9 @@ import Pasadena from '../CA_Cities/Pasadena'
 import Riverside from '../CA_Cities/Riverside'
 import SantaMonica from '../CA_Cities/SantaMonica'
 import Temecula from '../CA_Cities/Temecula'
+import Torrance from '../CA_Cities/Torrance'
+import Burbank from '../CA_Cities/Burbank'
+import SanBernardino from '../CA_Cities/SanBernardinio'
 
 export {
     Adelanto,
@@ -34,6 +37,7 @@ export {
     Beaumont,
     Berkeley,
     BeverlyHills,
+    Burbank,
     Camarillo,
     Carlsbad,
     Carson,
@@ -47,5 +51,7 @@ export {
     Pasadena,
     Riverside,
     SantaMonica,
-    Temecula
+    Temecula,
+    Torrance,
+    SanBernardino
 }

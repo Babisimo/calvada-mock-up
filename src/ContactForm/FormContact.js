@@ -3,6 +3,9 @@ import useForm from './useForm'
 import validate from './validateInfo'
 import emailjs from '@emailjs/browser'
 
+import './contact.css'
+
+
 const Contact = ({ submitForm }) => {
     const { handleChange, values, handleSubmit, errors, state } = useForm(submitForm, validate);
 
