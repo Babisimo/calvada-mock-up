@@ -30,6 +30,12 @@ const Fresno = () => {
         <a href='https://www.co.fresno.ca.us/departments/assessor/mapping/parcel-map-lookup' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />
         <a href='https://www.co.fresno.ca.us/departments/public-works-planning/surveyor-s-office/surveyors-map-search' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <br />
+        <a href='https://www.fresno.gov/publicworks/developer-doorway/#tab-7' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, NGS)
+        <br />
+        <a href='https://gisportal.co.fresno.ca.us/portal/apps/webappviewer/index.html?id=b921843d343d4df998b5b3c6a301756a' target={"_blank"} rel='noreferrer'>Zoning Map</a>
+        <br />
+        <a href='https://www.co.fresno.ca.us/departments/public-works-planning/divisions-of-public-works-and-planning/development-services-division/zoning-ordinance' target={"_blank"} rel='noreferrer'>Municipal Code</a>
       </span>
 
       {/* Border To Separate Information */}

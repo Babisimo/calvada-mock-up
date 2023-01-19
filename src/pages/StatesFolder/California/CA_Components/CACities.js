@@ -33,7 +33,14 @@ export default function CACities() {
         <CACitiesExports.Temecula key={'temecula'} />,
         <CACitiesExports.Torrance key={'torrance'} />,
         <CACitiesExports.Burbank key={'burbank'} />,
-        <CACitiesExports.SanBernardino key={'san bernardinio'} />
+        <CACitiesExports.SanBernardino key={'san bernardinio'} />,
+        <CACitiesExports.SanJose key={'san jose'} />,
+        <CACitiesExports.Fresno key={'fresno'} />,
+        <CACitiesExports.LakeElsinore key={'lake elsinore'} />,
+        <CACitiesExports.Irvine key={'Irvine'} />,
+        <CACitiesExports.Fullerton key={'fullerton'} />,
+        
+
 
     ]
 

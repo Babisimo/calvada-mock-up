@@ -25,6 +25,11 @@ import Temecula from '../CA_Cities/Temecula'
 import Torrance from '../CA_Cities/Torrance'
 import Burbank from '../CA_Cities/Burbank'
 import SanBernardino from '../CA_Cities/SanBernardinio'
+import LakeElsinore from '../CA_Cities/LakeElsinore'
+import SanJose from '../CA_Cities/SanJose'
+import Fresno from '../CA_Cities/Fresno'
+import Irvine from '../CA_Cities/Irvine'
+import Fullerton from '../CA_Cities/Fullerton'
 
 export {
     Adelanto,
@@ -53,5 +58,10 @@ export {
     SantaMonica,
     Temecula,
     Torrance,
-    SanBernardino
+    SanBernardino,
+    SanJose,
+    LakeElsinore,
+    Fresno,
+    Irvine,
+    Fullerton
 }
