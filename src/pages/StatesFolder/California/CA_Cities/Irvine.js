@@ -2,9 +2,9 @@ import React from 'react'
 
 function Irvine() {
     return (
-        <div className='dropdown'>
-            <button className='dropbtn'>Irvine</button>
-            <div className='dropdown-content'>
+        <div className='city-dropdown'>
+            <button className='city-dropbtn'>Irvine</button>
+            <div className='city-dropdown-content'>
                 <a href='https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=0832eb1a39d64bd9a3d381a080dde8bd' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
                 <a href='https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=f5a617a79fdf464fb3ad1474c439b930' target={'_blank'} rel='noreferrer'>Street Improvement Plans</a>
                 <a href='https://gis.cityofirvine.org/onlineparcel/' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
