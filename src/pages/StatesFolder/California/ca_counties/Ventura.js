@@ -29,7 +29,7 @@ const Ventura = () => {
         <br />
         <a href='https://assessor.countyofventura.org/research/mappage.asp' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://maps.ventura.org/Html5Viewer/index.html?viewer=CountyView.CountyView_gvh' target={"_blank"} rel='noreferrer'>County Records</a>&nbsp;&nbsp;&nbsp;(Free Maps, Benchmarks, Corner Records)
+        <a href='https://maps.ventura.org/Html5Viewer/index.html?viewer=CountyView.CountyView_gvh' target={"_blank"} rel='noreferrer'>County Records - GIS</a>&nbsp;&nbsp;&nbsp;(Free Maps, Benchmarks, Corner Records)
       </span>
 
       {/* Border To Separate Information */}

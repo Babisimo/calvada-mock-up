@@ -27,7 +27,7 @@ const Tulare = () => {
         <h3>Links:</h3>
         <a href='https://tularecounty.ca.gov/county/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://tularecounty.ca.gov/assessor/nnpages/parcel-search/' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://assr.parcelquest.com/impl/TULAssr' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNS, ParcelQuest)
         <br />
         <a href='http://publicdocs.co.tulare.ca.us/Questys.CMx.Surveyorweb/Browse/Default.aspx' target={"_blank"} rel='noreferrer'>Surveyor Documents</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, Benchmarks, etc.)
       </span>

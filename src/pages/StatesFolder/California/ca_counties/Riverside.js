@@ -27,7 +27,7 @@ const Riverside = () => {
         <h3>Links:</h3>
         <a href='https://rivco.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://gis1.countyofriverside.us/Html5Viewer/?viewer=MMC_Public' target={"_blank"} rel='noreferrer'>Assessor County Clerk Recorder</a>&nbsp;&nbsp;&nbsp; (Free APNS)
+        <a href='https://gis1.countyofriverside.us/Html5Viewer/?viewer=MMC_Public' target={"_blank"} rel='noreferrer'>Assessor County Clerk Recorder</a>&nbsp;&nbsp;&nbsp; (GIS, Free APNS)
         <br />
         <a href='http://weblink.rctlma.org/WebLink/Search_tran.aspx?cr=1' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />

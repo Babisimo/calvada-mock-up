@@ -28,7 +28,7 @@ const Shasta = () => {
         <br />
         <a href='https://www.co.shasta.ca.us/index/assessor/assessment-inquiry' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://www.co.shasta.ca.us/index/gis' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;(APNS, Zoning)
+        <a href='https://www.co.shasta.ca.us/index/gis' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(APNS, Zoning)
         <br />
         <a href='https://camapsource.com/shasta/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
       </span>

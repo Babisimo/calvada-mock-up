@@ -35,15 +35,15 @@ export default function Alameda() {
 
         <br />
 
-        <a href='http://www.acgov.org/MS/prop/index.aspx' target={'_blank'} rel="noreferrer">Property Assesment Information</a>&nbsp;&nbsp;&nbsp;&nbsp;{"(Free APNs)"}
+        <a href='http://gis.acgov.org/Html5Viewer/index.html?viewer=parcel_viewer' target={'_blank'} rel="noreferrer">Property Assesment Information - GIS</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free APNs)
 
         <br />
 
-        <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;{"(Free Record Maps)"}
+        <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps)
 
-        <br />
+        {/* <br /> */}
+        {/* <a href='http://www.acgov.org/MS/prop/index.aspx' target={'_blank'} rel="noreferrer">Property Assesment Information</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free APNs) */}
 
-        <a href='http://gis.acgov.org/Html5Viewer/index.html?viewer=parcel_viewer' target={'_blank'} rel="noreferrer">County GIS</a>
       </span>
 
       {/* Border To Separate Information */}

@@ -27,7 +27,7 @@ const Butte = () => {
         <h3>Links:</h3>
         <a href='http://www.buttecounty.net/' target={'_blank'} rel="noreferrer">Official Website</a>
         <br />
-        <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Benchmarks)
+        <a href='http://www.buttecounty.net/publicworks/GIS-Maps' target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;(Free Benchmarks, GIS)
         <br />
         <a href='https://assr.parcelquest.com/Home' target={'_blank'} rel="noreferrer">Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />

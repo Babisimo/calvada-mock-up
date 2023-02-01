@@ -16,7 +16,7 @@ const Sutter = () => {
         <span className='span'>
           <h3>Links:</h3>
           <br />
-          <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=6556d0deabef46f2afe00818c336e9bc' target={'_blank'} rel="noreferrer">GIS</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Record of Surveys, Corner Records, APNs)
+          <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=6556d0deabef46f2afe00818c336e9bc' target={'_blank'} rel="noreferrer">GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Record of Surveys, Corner Records, APNs)
           <br />
         </span>
        
