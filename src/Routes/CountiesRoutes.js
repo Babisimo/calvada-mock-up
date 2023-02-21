@@ -5,7 +5,7 @@ import { Route, Routes } from 'react-router-dom'
 import * as cacounties from "../pages/StatesFolder/California/CA_Components/CACountiesExports"
 
 // Importing Arizona Counties
-import { Maricopa, Pima } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+import { Maricopa, Pima, Yuma } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
 
 // Importing Nevada Counties
 import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exports'
@@ -73,6 +73,7 @@ export default function CountiesRoutes() {
             <Routes>
                 <Route path="/maricopa" element={<Maricopa />} />
                 <Route path="/pima" element={<Pima />} />
+                <Route path="/yuma" element={<Yuma />} />
             </Routes>
 
             {/* Nevada Counties Routes */}
