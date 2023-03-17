@@ -6,7 +6,7 @@ const Yuma = () => {
     <div className='county-info'>
       <div className='county-btn'>
         <Link to={'/counties'}><button>Back to Counties</button></Link>
-        <h1 className='title'>Pima County</h1>
+        <h1 className='title'>Yuma County</h1>
       </div>
 
       {/* Border To Separate Information */}
@@ -15,9 +15,9 @@ const Yuma = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=22235' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps)
+        <a href='https://geo-viewer.yumacountyaz.gov/Html5Viewer/index.html?viewer=YumaCountyPublicApplication' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps)
         <br />
-        <a href='https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=22235' target={"_blank"} rel='noreferrer'>Document Search</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps & Deeds)
+        <a href='https://yumacountyaz-recorder.tylerhost.net/recorder/eagleweb/docSearch.jsp' target={"_blank"} rel='noreferrer'>Document Search</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps & Deeds)
       </span>
 
       {/* Border To Separate Information */}
