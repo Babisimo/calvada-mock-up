@@ -46,7 +46,6 @@ const Monterey = () => {
       <span className='span'>
         <h3>Caltrans:</h3>
         <District5 />
-
       </span>
 
       {/* Border To Separate Information */}
