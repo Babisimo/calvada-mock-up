@@ -4,7 +4,6 @@ import CACountiesArr from "../CA_Components/CACountiesArr";
 
 export default function CaCountiesNavBar() {
   const [searchTerm, setSearchTerm] = useState("");
-  const [focusedCounty, setFocusedCounty] = useState(null);
   const countyRefs = useRef([]);
   const searchTimeout = useRef(null);
 
@@ -24,7 +23,6 @@ export default function CaCountiesNavBar() {
         );
 
         if (matchedCounty) {
-          setFocusedCounty(matchedCounty);
           scrollToCounty(matchedCounty);
         }
 
