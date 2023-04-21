@@ -36,8 +36,15 @@ export default function CACities() {
     <CACitiesExports.SanJose key={"san jose"} />,
     <CACitiesExports.Fresno key={"fresno"} />,
     <CACitiesExports.LakeElsinore key={"lake elsinore"} />,
-    <CACitiesExports.Irvine key={"Irvine"} />,
+    <CACitiesExports.Irvine key={"irvine"} />,
     <CACitiesExports.Fullerton key={"fullerton"} />,
+    <CACitiesExports.ElCajon key={"elcajon"} />,
+    <CACitiesExports.CulverCity key={"culvercity"} />,
+    <CACitiesExports.MenloPark key={"menlopark"} />,
+    <CACitiesExports.SanCarlos key={"sancarlos"} />,
+    <CACitiesExports.SignalHill key={"signalhill"} />,
+
+    
   ];
 
   return (

@@ -30,6 +30,11 @@ import SanJose from '../CA_Cities/SanJose'
 import Fresno from '../CA_Cities/Fresno'
 import Irvine from '../CA_Cities/Irvine'
 import Fullerton from '../CA_Cities/Fullerton'
+import ElCajon from '../CA_Cities/ElCajon'
+import CulverCity from '../CA_Cities/CulverCity'
+import MenloPark from '../CA_Cities/MenloPark'
+import SanCarlos from '../CA_Cities/SanCarlos'
+import SignalHill from '../CA_Cities/SignalHill'
 
 export {
     Adelanto,
@@ -63,5 +68,10 @@ export {
     LakeElsinore,
     Fresno,
     Irvine,
-    Fullerton
+    Fullerton,
+    ElCajon,
+    CulverCity,
+    MenloPark,
+    SanCarlos,
+    SignalHill
 }

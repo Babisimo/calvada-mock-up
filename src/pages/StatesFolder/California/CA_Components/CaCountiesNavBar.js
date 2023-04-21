@@ -1,12 +1,55 @@
-import React from "react"
-import { Link, useMatch, useResolvedPath } from "react-router-dom"
-import CACountiesArr from "../CA_Components/CACountiesArr"
+import React, { useState, useEffect, useRef } from "react";
+import { Link, useMatch, useResolvedPath } from "react-router-dom";
+import CACountiesArr from "../CA_Components/CACountiesArr";
 
 export default function CaCountiesNavBar() {
-  const customLinkList = CACountiesArr.map(county => {
-    const countyName = county.replace(/([A-Z])/g, ' $1').trim(); // Add space between camel case words
+  const [searchTerm, setSearchTerm] = useState("");
+  const [focusedCounty, setFocusedCounty] = useState(null);
+  const countyRefs = useRef([]);
+  const searchTimeout = useRef(null);
+
+  const scrollToCounty = (county) => {
+    if (county && countyRefs.current[county]) {
+      countyRefs.current[county].scrollIntoView({ behavior: "auto", block: "start" });
+    }
+  };
+
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (e.key.length === 1 && /^[a-zA-Z]$/.test(e.key)) {
+        setSearchTerm((prevSearchTerm) => prevSearchTerm + e.key.toLowerCase());
+
+        const matchedCounty = CACountiesArr.find((county) =>
+          county.toLowerCase().startsWith(searchTerm + e.key.toLowerCase())
+        );
+
+        if (matchedCounty) {
+          setFocusedCounty(matchedCounty);
+          scrollToCounty(matchedCounty);
+        }
+
+        if (searchTimeout.current) {
+          clearTimeout(searchTimeout.current);
+        }
+
+        searchTimeout.current = setTimeout(() => {
+          setSearchTerm("");
+        }, 500);
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [searchTerm]);
+
+  const customLinkList = CACountiesArr.map((county) => {
+    const countyName = county.replace(/([A-Z])/g, " $1").trim(); // Add space between camel case words
     return (
-      <CustomLink key={county} to={`/${county}`}>
+      <CustomLink
+        key={county}
+        to={`/${county}`}
+        ref={(el) => (countyRefs.current[county] = el)}
+      >
         {countyName}
       </CustomLink>
     );
@@ -23,17 +66,14 @@ export default function CaCountiesNavBar() {
   );
 }
 
-function CustomLink({ to, children, ...props }) {
-  const resolvedPath = useResolvedPath(to)
-  const isActive = useMatch({ path: resolvedPath.pathname, end: true })
+const CustomLink = React.forwardRef(({ to, children, ...props }, ref) => {
+  const resolvedPath = useResolvedPath(to);
+  const isActive = useMatch({ path: resolvedPath.pathname, end: true });
   return (
-    <li className={isActive ? "active" : ""}>
+    <li ref={ref} className={isActive ? "active" : ""}>
       <Link to={to} {...props}>
         {children}
       </Link>
     </li>
-  )
-}
-
-
-
+  );
+});
