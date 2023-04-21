@@ -31,7 +31,7 @@ const SanDiego = () => {
         <br />
         <a href='https://sdgis.sandag.org/' target={"_blank"} rel='noreferrer'>GIS Interactive Map</a>
         <br />
-        <a href='https://srs.sandiegocounty.gov/' target={"_blank"} rel='noreferrer'>Survey Records System</a><p>(Parcel Maps, Record of Survey, Tract Maps, Corner Record, Miscellaneous Map, Record Survey, Miscellaneous Survey, Official Center Line <strong><em>Credit Card Required</em></strong>)</p>
+        <a href='https://arcc-acclaim.sdcounty.ca.gov/' target={"_blank"} rel='noreferrer'>San Diego County Public Records</a><p>(Parcel Maps, Record of Survey, Tract Maps, Corner Record, Miscellaneous Map, Record Survey, Miscellaneous Survey, Official Center Line <strong><em>Credit Card Required</em></strong>)</p>
         <br />
         <a href='https://www.sandiegocounty.gov/content/sdc/dpw/surveyor/vertcontrol.html' target={"_blank"} rel='noreferrer'>Vertical Datum</a>
       </span>
