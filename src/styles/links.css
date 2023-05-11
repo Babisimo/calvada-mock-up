@@ -36,3 +36,16 @@
   color: #95b098;
   background-color: rgba(255, 255, 255, 0.47);
 }
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .block {
+    margin: 1rem; /* Add margin to the block for spacing */
+  }
+
+  .links {
+    min-width: auto; /* Remove the minimum width constraint */
+    max-height: none; /* Remove the maximum height constraint */
+    height: auto; /* Adjust the height to fit the content */
+  }
+}

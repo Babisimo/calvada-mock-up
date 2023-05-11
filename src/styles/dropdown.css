@@ -14,12 +14,13 @@
 .dropdown {
   margin: 1rem .25rem;
   display: inline-block;
+  position: relative;
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   max-height: calc(100vh - 15rem);
-  overflow-y: scroll;
+  overflow-y: auto;
   border-radius: 10px;
   cursor: pointer;
   display: none;
@@ -52,4 +53,23 @@
 .dropdown:hover .dropbtn {
   background-color: #ffffff;
   color: #569156;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 480px) {
+  .dropdown {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  .dropbtn {
+    min-width: 6rem;
+    min-height: 3rem;
+  }
+
+  .dropdown-content {
+    min-width: 6rem;
+    max-height: none;
+    overflow-y: auto;
+  }
 }

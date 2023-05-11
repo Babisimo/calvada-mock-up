@@ -1,4 +1,4 @@
-/* Dropdown Button  */
+/* Dropdown Button */
 .city-dropbtn {
   font: inherit;
   background-color: #f3efcc;
@@ -28,7 +28,7 @@
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
-/* Links inside the city-dropdown  */
+/* Links inside the city-dropdown */
 .city-dropdown-content a {
   border-radius: 10px;
   color: black;
@@ -51,4 +51,37 @@
 .city-dropdown:hover .city-dropbtn {
   background-color: #ffffff;
   color: #569156;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .city-dropbtn {
+    min-width: 6rem;
+    min-height: 3rem;
+  }
+
+  .city-dropdown-content {
+    max-height: calc(100vh - 10rem);
+    min-width: 6rem;
+  }
+
+  .city-dropdown-content a {
+    padding: 8px 12px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .city-dropbtn {
+    min-width: 4rem;
+    min-height: 2.5rem;
+  }
+
+  .city-dropdown-content {
+    max-height: calc(100vh - 7.5rem);
+    min-width: 4rem;
+  }
+
+  .city-dropdown-content a {
+    padding: 6px 8px;
+  }
 }

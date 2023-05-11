@@ -1,30 +1,46 @@
-import React from "react"
-import { Link, useMatch, useResolvedPath } from "react-router-dom"
-import '../../styles/navbar.css'
+import React, { useState } from "react";
+import { Link, useMatch, useResolvedPath } from "react-router-dom";
+import "../../styles/navbar.css";
 
 export default function NavBar() {
-    return (
-        <nav className="nav">
-            <Link to="/" className="site-title">
-                <img alt="calvada-logo" src={'https://www.calvada.com/images/logo.png'}></img>
-            </Link>
-            <ul>
-                <CustomLink to="/">Home</CustomLink>
-                <CustomLink to="/counties">Counties</CustomLink>
-                <CustomLink to="/cities">Cities</CustomLink>
-                <CustomLink to="/links">Links</CustomLink>
-                <CustomLink to="/form">Contact</CustomLink>
-            </ul>
-        </nav>
-    )
+  const [isMenuOpen, setMenuOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setMenuOpen(!isMenuOpen);
+  };
+
+  return (
+    <nav className="nav">
+      <Link to="/" className="site-title">
+        <img
+          alt="calvada-logo"
+          src={"https://www.calvada.com/images/logo.png"}
+        ></img>
+      </Link>
+      <button className={`hamburger ${isMenuOpen ? "open" : ""}`} onClick={toggleMenu}>
+        <span className="hamburger-line"></span>
+        <span className="hamburger-line"></span>
+        <span className="hamburger-line"></span>
+      </button>
+      <ul className={`menu ${isMenuOpen ? "open" : ""}`}>
+        <CustomLink to="/">Home</CustomLink>
+        <CustomLink to="/counties">Counties</CustomLink>
+        <CustomLink to="/cities">Cities</CustomLink>
+        <CustomLink to="/links">Links</CustomLink>
+        <CustomLink to="/form">Contact</CustomLink>
+      </ul>
+    </nav>
+  );
 }
 
 function CustomLink({ to, children, ...props }) {
-    const resolvedPath = useResolvedPath(to)
-    const isActive = useMatch({ path: resolvedPath.pathname, end: true })
-    return (
-        <li className={isActive ? "active" : ""}>
-            <Link to={to} {...props}>{children}</Link>
-        </li>
-    )
+  const resolvedPath = useResolvedPath(to);
+  const isActive = useMatch({ path: resolvedPath.pathname, end: true });
+  return (
+    <li className={isActive ? "active" : ""}>
+      <Link to={to} {...props}>
+        {children}
+      </Link>
+    </li>
+  );
 }

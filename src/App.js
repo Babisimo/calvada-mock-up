@@ -18,7 +18,7 @@ function App() {
       <html lang="en">
         <NavBar />
         <div className="container">
-
+          
           {/* Main Routes */}
           <Routes>
             <Route path="/" element={<Home />} />
