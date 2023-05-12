@@ -12,13 +12,28 @@ body {
   margin: 0;
   padding: 0;
   min-width: fit-content;
-  background-color: #06322a;
+  background-color: #0a2717;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0; /* Adjust the horizontal positioning */
+  right: 0;
+  bottom: 0;
+  background-image: url('./images/BG Pic.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+  z-index: -1;
+}
+
 
 /* Used for containing all inside divs */
 .container {

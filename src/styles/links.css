@@ -37,15 +37,22 @@
   background-color: rgba(255, 255, 255, 0.47);
 }
 
-/* Responsive Styles */
 @media screen and (max-width: 768px) {
   .block {
-    margin: 1rem; /* Add margin to the block for spacing */
+    margin: 1rem;
+    max-height: 100vh; /* Adjust the maximum height to fit the screen */
+    overflow-y: auto; /* Add vertical scrolling if needed */
   }
 
   .links {
-    min-width: auto; /* Remove the minimum width constraint */
-    max-height: none; /* Remove the maximum height constraint */
-    height: auto; /* Adjust the height to fit the content */
+    padding: 0;
+    margin: 0;
+    background-color: #f3efcc;
+    border-radius: 7px;
+    height: auto;
+    width: 100%; /* Set the width to 100% */
+    max-width: 50vh; /* Adjust the maximum width for mobile devices */
+    overflow-x: scroll; /* Add horizontal scrolling for small screens */
+    white-space: nowrap; /* Prevent line breaks within the links */
   }
 }

@@ -15,6 +15,7 @@
   margin: 1rem .25rem;
   display: inline-block;
   position: relative;
+  touch-action: manipulation; /* Add touch-action property */
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -28,6 +29,8 @@
   background-color: #f1f1f1;
   min-width: 8rem;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  touch-action: none;
+
 }
 
 /* Links inside the dropdown */

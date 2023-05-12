@@ -29,9 +29,18 @@
 
 /* Actual County Information */
 
+.county-info {
+  background-color: rgba(13, 26, 12, 0.445); /* Add a subtle background color */
+  padding: 10px; /* Adjust the padding as needed */
+  border-radius: 5px; /* Add border-radius for a rounded appearance */
+}
+
+
 .county-info a {
   color: #f3efcc;
   text-decoration: none;
+  transition: color 0.3s ease; /* Add transition for smooth color change */
+  font-weight: bold; /* Add font-weight to make the text more prominent */
 }
 
 .county-info a:hover {
