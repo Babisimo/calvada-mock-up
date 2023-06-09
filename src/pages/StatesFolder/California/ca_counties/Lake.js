@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import District1 from '../CaltransDistricts/District1'
 
-export const Lake = () => {
+const Lake = () => {
   return (
     <div className='county-info'>
       <div className='county-btn'>
@@ -29,7 +29,9 @@ export const Lake = () => {
         <br />
         <a href='https://common2.mptsweb.com/megabytecommonsite/(S(kpg23ve1aizmlo3f3ovnolov))/PublicInquiry/Inquiry.aspx?CN=Lake&SITE=Public&DEPT=Tax&PG=Search' target={"_blank"} rel='noreferrer'>Parcel Search</a>
         <br />
-        <a href='http://gispublic.co.lake.ca.us/flexviewer/index.html' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
+        <a href='https://gispublic.co.lake.ca.us/portal/home/' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
+        <br />
+        <br />
         <br />
         <h4>Request Record Maps:</h4>
         <p>Cara Bowin | <a href='mailto:Cara.Bowin@lakecountyca.gov'>Cara.Bowin@lakecountyca.gov</a></p>
@@ -46,7 +48,6 @@ export const Lake = () => {
         <br />
         <p><strong>Phone:</strong> (707) 263-2341</p>
         <p><strong>Department Hours:</strong> Monday-Friday 8:00 AM to 5:00 OM</p>
-
       </span>
 
       {/* Border To Separate Information */}
@@ -66,3 +67,5 @@ export const Lake = () => {
     </div>
   )
 }
+
+export default Lake

@@ -25,9 +25,11 @@ const Kings = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='https://assr.parcelquest.com/Home' target={"_blank"} rel='noreferrer'>Parcel Search</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://assr.parcelquest.com/Statewide?IndexViewModel=PQGov.Models.IndexViewModel' target={"_blank"} rel='noreferrer'>Parcel Search</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://kings-county.maps.arcgis.com/apps/webappviewer/index.html?id=338d13f286174722982f74aadfd5e87e' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
+        <a href='https://kings-county.maps.arcgis.com/apps/webappviewer/index.html?id=338d13f286174722982f74aadfd5e87e' target={"_blank"} rel='noreferrer'>GIS Viewer</a>&nbsp;&nbsp;&nbsp;(Parcel Map & Tax Rate Area Viewer)
+        <br />
+        <a href='https://kingscomdev.maps.arcgis.com/apps/webappviewer/index.html?id=35c6e6dac50446b9945154c9fc7f46c8' target={"_blank"} rel='noreferrer'>GIS Viewer</a>&nbsp;&nbsp;&nbsp;(Parcel & Services Map Viewer)
         <br />
         <a href='https://www.countyofkings.com/departments/public-works' target={"_blank"} rel='noreferrer'>Public Works</a>
       </span>

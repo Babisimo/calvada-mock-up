@@ -31,7 +31,7 @@ const Solano = () => {
         <br />
         <a href='https://www.solanocounty.com/depts/ar/asr_filedmaps.asp' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='http://gis.solanocounty.com/solanomaps/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <a href='https://solanocountygis.com/portal/apps/webappviewer/index.html?id=5cbdaf8d97d94036857c67b50decbe9b' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
       </span>
 
       {/* Border To Separate Information */}

@@ -27,7 +27,7 @@ const Sonoma = () => {
         <h3>Links:</h3>
         <a href='https://sonomacounty.ca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://assr.parcelquest.com/Home' target={"_blank"} rel='noreferrer'>Public Assessor Services</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://assr.parcelquest.com/Statewide?IndexViewModel=PQGov.Models.IndexViewModel' target={"_blank"} rel='noreferrer'>Public Assessor Services</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://permitsonoma.org/zoningcodes' target={"_blank"} rel='noreferrer'>Zoning Database</a>&nbsp;&nbsp;&nbsp;(Free Zoning Maps)
       </span>

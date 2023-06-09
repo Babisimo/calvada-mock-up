@@ -26,9 +26,7 @@ const Shasta = () => {
         <h3>Links:</h3>
         <a href='https://www.co.shasta.ca.us/index.aspx' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://www.co.shasta.ca.us/index/assessor/assessment-inquiry' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
-        <br />
-        <a href='https://www.co.shasta.ca.us/index/gis' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(APNS, Zoning)
+        <a href='https://maps.shastacounty.gov/ShastaCountyMap/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://camapsource.com/shasta/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
       </span>

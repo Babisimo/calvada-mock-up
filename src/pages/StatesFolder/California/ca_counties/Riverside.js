@@ -29,10 +29,12 @@ const Riverside = () => {
         <br />
         <a href='https://gis1.countyofriverside.us/Html5Viewer/?viewer=MMC_Public' target={"_blank"} rel='noreferrer'>Assessor County Clerk Recorder</a>&nbsp;&nbsp;&nbsp; (GIS, Free APNS)
         <br />
-        <a href='http://weblink.rctlma.org/WebLink/Search_tran.aspx?cr=1' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <a href='http://weblink.rctlma.org/WebLink/?dbid=0&repo=TLMA' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='https://rctlma.org/trans/Survey/Records-of-Survey-Corner-Records-Monument-Inspections' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(Free Maps)
-
+        <a href='https://rctlma.org/trans/Survey/Records-of-Survey-Corner-Records-Monument-Inspections' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(GIS, Free Maps, Benchmarks)
+        <br />
+        <br />
+        <a href='https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx' target={"_blank"} rel='noreferrer'>RivCo Survey Scanned Images Directory</a>&nbsp;&nbsp;&nbsp;(Free Record Maps | Ask <a href='mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?'>Oswaldo</a> for login)
       </span>
 
       {/* Border To Separate Information */}

@@ -27,7 +27,7 @@ const SanJoaquin = () => {
         <h3>Links:</h3>
         <a href='https://www.sjgov.org/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='http://www.sjmap.org/website/asrpdf/' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://sjmap.org/DistrictViewer/' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://www.sjgov.org/department/pwk/home' target={"_blank"} rel='noreferrer'>Surveyor Land Records System</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
