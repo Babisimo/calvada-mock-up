@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Adot from '../AZ_Components/adot'
 
 const Maricopa = () => {
   return (
@@ -33,6 +34,10 @@ const Maricopa = () => {
       <p className='border'></p>
       {/* Border To Separate Information */}
 
+      <span className='span'>
+        <h3>ADOT:</h3>
+        <Adot />
+      </span>
 
     </div>
   )
