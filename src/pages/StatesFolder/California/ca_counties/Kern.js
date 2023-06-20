@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import District6 from '../CaltransDistricts/District6'
+import District9 from '../CaltransDistricts/District9'
 
 const Kern = () => {
   return (
@@ -60,9 +61,17 @@ const Kern = () => {
       {/* Border To Separate Information */}
 
       <span className='span'>
-        <h3>Caltrans:</h3>
+        <h3>Caltrans (West):</h3>
         <District6 />
+      </span>
 
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className='span'>
+        <h3>Caltrans (East):</h3>
+        <District9 />
       </span>
 
       {/* Border To Separate Information */}

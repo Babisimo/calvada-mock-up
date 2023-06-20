@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import District2 from '../CaltransDistricts/District2'
 
 const Shasta = () => {
   return (
@@ -29,6 +30,15 @@ const Shasta = () => {
         <a href='https://maps.shastacounty.gov/ShastaCountyMap/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://camapsource.com/shasta/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
+      </span>
+
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
+
+      <span className="span">
+        <h3>Caltrans:</h3>
+        <District2 />
       </span>
 
       {/* Border To Separate Information */}

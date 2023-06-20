@@ -12,8 +12,7 @@ function District10() {
             <br />
 
             <h4>Contact:</h4>
-            <p>Eddie Young | <a href='mailto:eddie_young@dot.ca.gov'>eddie_young@dot.ca.gov</a></p>
-
+            <p>Heiner, Kent | <a href='mailto:kent.heiner@dot.ca.gov'>kent.heiner@dot.ca.gov</a> | (209) 990-5787</p>
 
         </div>
     )

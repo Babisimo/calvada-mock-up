@@ -12,7 +12,7 @@ function District8() {
             <br />
 
             <h4>Contact:</h4>
-            <p><a href='mailto:D8RecordMaps@dot.ca.gov'>D8RecordMaps@dot.ca.gov</a></p>
+            <p>Right of Way Engineering Staff | <a href='mailto:d8RecordMaps@dot.ca.gov'>d8RecordMaps@dot.ca.gov</a> | (909) 383-4369</p>
         </div>
     )
 }

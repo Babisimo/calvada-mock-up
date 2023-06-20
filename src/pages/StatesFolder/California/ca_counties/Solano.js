@@ -54,15 +54,12 @@ const Solano = () => {
       <span className='span'>
         <h3>Caltrans:</h3>
         <District4 />
-
       </span>
 
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
 
-
-      <p></p>
     </div>
   )
 }

@@ -42,7 +42,6 @@ const Stanislaus = () => {
       <span className='span'>
         <h3>Caltrans:</h3>
         <District10 />
-
       </span>
 
       {/* Border To Separate Information */}
