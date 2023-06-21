@@ -38,8 +38,9 @@ const Sonoma = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>585 Fiscal Drive, Suite 103F</p>
-        <p>Santa Rosa, California 95403</p>
+        <a href='https://www.google.com/maps/place/585+Fiscal+Dr+%23103f,+Santa+Rosa,+CA+95403/data=!4m2!3m1!1s0x8084387a3544c0bf:0x4907002072ec1a0c?sa=X&ved=2ahUKEwjTpM-T5NT_AhX9iO4BHZrcAjQQ8gF6BAgfEAI' target='_blank' rel='noreferrer'>585 Fiscal Drive, Suite 103F<br/>Santa Rosa, California 95403</a>
+        <br/>
+        <br/>
         <p><strong>Phone: </strong> (707) 565-2651</p>
       </span>
 

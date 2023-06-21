@@ -45,9 +45,9 @@ const SanDiego = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>5201 Ruffin Road. Suite P, MS0326</p>
-        <p>San Diego, California 92123</p>
+        <a href='https://www.google.com/maps/place/County+of+San+Diego:+Department+of+Public+Works/@32.8334266,-117.1303426,15z/data=!4m6!3m5!1s0x80dbffb3c9cfbeed:0x6fd005c3e464a6fc!8m2!3d32.8334266!4d-117.1303426!16s%2Fg%2F1thvs_cs?entry=ttu' target='_blank' rel='noreferrer'>5500 Overland Ave #310<br/>San Diego, CA 92123</a>
 
+        <br />
         <br />
 
         <p><strong>Phone: </strong>(858) 694-3672</p>

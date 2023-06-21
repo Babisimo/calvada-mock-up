@@ -38,10 +38,11 @@ const SantaClara = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>70 West Hedding Street</p>
-        <p>East Wing, 11th Floor</p>
-        <p>San Jose, California 95110</p>
+        <a href='https://www.google.com/maps/place/County+of+Santa+Clara+Office+of+the+County+Clerk-Recorder/@37.352169,-121.9070364,17z/data=!3m2!4b1!5s0x808fcb7faf7f1cc5:0x9cf5b0ffee88c992!4m6!3m5!1s0x808fcb7fba8c47e7:0x253cbe0fb2fa8945!8m2!3d37.3521648!4d-121.9044615!16s%2Fg%2F1hc5qks95?entry=ttu' target='_blank' rel='noreferrer'>70 West Hedding Street
+        East Wing <br/> 11th Floor <br/> San Jose, California 95110
+        </a>
 
+        <br />
         <br />
 
         <h4>General Contact Information:</h4>

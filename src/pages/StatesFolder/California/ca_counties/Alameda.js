@@ -41,9 +41,6 @@ export default function Alameda() {
 
         <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps)
 
-        {/* <br /> */}
-        {/* <a href='http://www.acgov.org/MS/prop/index.aspx' target={'_blank'} rel="noreferrer">Property Assesment Information</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free APNs) */}
-
       </span>
 
       {/* Border To Separate Information */}
@@ -53,8 +50,8 @@ export default function Alameda() {
       <span className='span'>
         <h3>Public Works:</h3>
         <span>
-          <p>399 Elmhurst Street</p>
-          <p>Hayward California, 94544</p>
+          <a href='https://www.google.com/maps/place/399+Elmhurst+St,+Hayward,+CA+94544/@37.6560519,-122.0974592,17z/data=!3m1!4b1!4m6!3m5!1s0x808f915b5559d5bb:0x3fc53bc8befe69d!8m2!3d37.6560477!4d-122.0948843!16s%2Fg%2F11b8txc6zs?entry=ttu' target='_blank' rel='noreferrer'>399 Elmhurst Street <br/> Hayward CA, 94544</a>
+          <br />
           <br />
           <p><strong>Phone:</strong> (510) 670-5480</p>
           <p><strong>Department Hours:</strong> Monday - Friday 8:00 AM to 5:00 PM</p>

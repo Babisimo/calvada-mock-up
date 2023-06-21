@@ -44,8 +44,9 @@ const Fresno = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>2220 Tulare St. | 6th Floor</p>
-        <p>Fresno California, 93721</p>
+        <a href='https://www.google.com/maps/place/2220+Tulare+St+6th+Floor,+Fresno,+CA+93721/@36.7352674,-119.7870229,19.5z/data=!4m5!3m4!1s0x80945e203e5cb369:0xe5b3e7274a3cbbe1!8m2!3d36.7352896!4d-119.7867452?entry=ttu' target='_blank' rel='noreferrer'>2220 Tulare St. | 6th Floor <br/>
+        Fresno California, 93721</a>
+        <br />
         <br />
         <p><strong>Phone:</strong> (559) 262-4078</p>
       </span>

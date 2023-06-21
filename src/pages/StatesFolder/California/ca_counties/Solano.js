@@ -40,8 +40,11 @@ const Solano = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>675 Texas Street, Suite 5500</p>
-        <p>Fairfield, CA 94533</p>
+        <a href='https://www.google.com/maps/place/675+Texas+St+%235500,+Fairfield,+CA+94533/data=!4m2!3m1!1s0x8085144a5f123e17:0xbde0b33b6bf68a5?sa=X&ved=2ahUKEwi1oMDX49T_AhXCOkQIHbVlC4EQ8gF6BAgSEAI' target='_blank' rel='noreferrer'>675 Texas Street, Suite 5500 <br/> Fairfield, CA 94533</a>
+
+        <br/>
+        <br/>
+
         <p><strong>Phone:</strong> (707) 784-6765</p>
         <p><strong>Fax:</strong> (707) 784-2894</p>
 

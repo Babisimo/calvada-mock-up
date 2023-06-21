@@ -36,8 +36,9 @@ const Orange = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>300 N. Flower Street</p>
-        <p>Santa Ana, California 92703</p>
+        <a href='https://www.google.com/maps/place/300+N+Flower+St,+Santa+Ana,+CA+92703/data=!4m2!3m1!1s0x80dcd90009f5c127:0x800ef18774ae1f32?sa=X&ved=2ahUKEwj83O_82dT_AhUsPkQIHaVXDzMQ8gF6BAgSEAI' target='_blank' rel='noreferrer'>300 N. Flower Street<br/>Santa Ana, California 92703</a>
+        <br />
+        <br />
         <p>Monday - Friday 8:00 AM to 5:00 PM</p>
         <br />
         <p><strong>Phone:</strong> (714) 834-3568</p>

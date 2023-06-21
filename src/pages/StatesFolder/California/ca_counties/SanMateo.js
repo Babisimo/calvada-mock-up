@@ -39,7 +39,9 @@ const SanMateo = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>555 County Venter Redwood City, California 94063</p>
+        <a href='https://www.google.com/maps/place/555+County+Center,+Redwood+City,+CA+94063/@37.4890026,-122.2299087,17z/data=!3m1!4b1!4m6!3m5!1s0x808fa2525dc232df:0x7d9ae588b78512c9!8m2!3d37.4890026!4d-122.2299087!16s%2Fg%2F11bw3x_5r8?entry=ttu' target='_blank' rel='noreferrer'>555 County Center <br/> Redwood City, CA 94063</a>
+        <br/>
+        <br/>
         <p><strong>Phone: </strong>(650) 363-4500</p>
         <a href='https://www.smcacre.org/contact' target={"_blank"} rel='noreferrer'>Email / Contact Information</a>
       </span>

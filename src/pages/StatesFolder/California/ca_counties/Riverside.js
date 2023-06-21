@@ -43,8 +43,8 @@ const Riverside = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>4080 Lemon Street</p>
-        <p>Riverside, California 92501</p>
+        <a href='https://www.google.com/maps/place/4080+Lemon+St,+Riverside,+CA+92501/data=!4m2!3m1!1s0x80dcb1e5ff7ca79f:0x566b43c951322556?sa=X&ved=2ahUKEwiOgv-J3NT_AhXaJ0QIHYRmC6wQ8gF6BAgQEAI' target='_blank' rel='noreferrer'>4080 Lemon Street<br/>Riverside, California 92501</a>
+        <br />
         <br />
         <p><strong>Phone: </strong> (951) 955-1000</p>
       </span>

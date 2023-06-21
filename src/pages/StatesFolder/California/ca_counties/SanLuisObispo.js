@@ -41,8 +41,9 @@ const SanLuisObispo = () => {
       <span className='span'>
         <h3>Public Works:</h3>
         <h4>County Government Center</h4>
-        <p>1055 Monterey Street, San Luis Obispo, CA 93408</p>
+        <a href='https://www.google.com/maps/place/1055+Monterey+St,+San+Luis+Obispo,+CA+93408/@35.2820737,-120.660256,19.5z/data=!4m6!3m5!1s0x80ecf104077358bf:0x98141c6ad90e8eed!8m2!3d35.2821867!4d-120.6601675!16s%2Fg%2F11c14_3rcy?entry=ttu' target='_blank' rel='noreferrer'>1055 Monterey Street, San Luis Obispo, CA 93408</a>
 
+        < br />
         < br />
 
         <p><strong>Phone: </strong>(805) 781-5000</p>

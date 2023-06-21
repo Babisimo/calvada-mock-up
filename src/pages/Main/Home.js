@@ -8,6 +8,7 @@ export default function Home() {
             <div className="buttons">
                 <Link to={'/counties'}><button>Counties</button></Link>
                 <Link to={'/cities'}><button>Cities</button></Link>
+                <Link to={'/utilities'}><button>Utilities</button></Link>
             </div>
         </div>
     )

@@ -40,8 +40,8 @@ const SanBernardino = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>825 East Third Street</p>
-        <p>San Bernardino, California 92415</p>
+        <a href='https://www.google.com/maps/place/825+E+3rd+St,+San+Bernardino,+CA+92415/data=!4m2!3m1!1s0x80c353559913cb3d:0x19a9a29e099a8411?sa=X&ved=2ahUKEwjG9dLq3NT_AhVahu4BHWhcBVkQ8gF6BAgYEAI' target='_blank' rel='noreferrer'>825 East Third Street<br/>San Bernardino, California 92415</a>
+        <br />
         <br />
         <h4>County Surveyor:</h4>
         <p>Mike Raihle | (909) 387-8149</p>

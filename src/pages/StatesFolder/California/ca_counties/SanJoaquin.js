@@ -40,10 +40,9 @@ const SanJoaquin = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>1810 E. Hazelton Avenue</p>
-        <p>PO Box 1810</p>
-        <p>Stockton, California 85201</p>
+        <a href='https://www.google.com/maps/place/1810+E+Hazelton+Ave,+Stockton,+CA+95205/@37.9503252,-121.2667918,17.25z/data=!4m6!3m5!1s0x809012b4f81db4e7:0x8d08d2d0f47be71b!8m2!3d37.9503078!4d-121.2654363!16s%2Fg%2F11bw3xc_9v?entry=ttu' target='_blank' rel='noreferrer'>1810 E. Hazelton Avenue<br/>PO Box 1810<br/>Stockton, California 85201</a>
 
+        <br />
         <br />
 
         <p><strong>Hours: </strong>Monday - Friday 8:00 AM - 5:00 PM</p>

@@ -43,8 +43,8 @@ const Lake = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>255 N. Forbes St | Room 309</p>
-        <p>Lakeport California 95453</p>
+        <a href='https://www.google.com/maps/place/255+N+Forbes+St+%23+309,+Lakeport,+CA+95453/@39.0436432,-122.9167214,20z/data=!4m6!3m5!1s0x8083e5e69128f40d:0x8403bbe71edfb2ad!8m2!3d39.0436658!4d-122.9164835!16s%2Fg%2F11m_lfc9sz?entry=ttu' target='_blank' rel='noreferrer'>255 N. Forbes St | Room 309 <br/> Lakeport California 95453</a>
+        <br />
         <br />
         <p><strong>Phone:</strong> (707) 263-2341</p>
         <p><strong>Department Hours:</strong> Monday-Friday 8:00 AM to 5:00 OM</p>

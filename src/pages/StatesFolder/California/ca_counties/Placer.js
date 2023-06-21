@@ -40,9 +40,8 @@ const Placer = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <strong>Engineering and Surveying:</strong>
-        <p>3091 County Center</p>
-        <p>Auburn, California 95603</p>
+        <a href='https://www.google.com/maps/place/3091+County+Center+Dr,+Auburn,+CA+95603/@38.9413256,-121.1071291,17z/data=!3m1!4b1!4m6!3m5!1s0x809b106bf6e2539d:0x438e066f2125d6b0!8m2!3d38.9413256!4d-121.1071291!16s%2Fg%2F11bw3xp6fy?entry=ttu' target='_blank' rel='noreferrer'>3091 County Center<br/>Auburn, California 95603</a>
+        <br />
         <br />
         <p><strong>Phone:</strong> (530)-745-3110</p>
         <p><strong>Fax:</strong> (530)-745-7589</p>

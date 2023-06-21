@@ -7,10 +7,11 @@ import Links from "./pages/Main/Links";
 import { Route, Routes } from 'react-router-dom'
 
 // Main Imports
-import { Counties, Cities} from "./pages/Main/MainExports"
+import { Counties, Cities, Utilities} from "./pages/Main/MainExports"
 
 // Importing Counties Routes
 import CountiesRoutes from "./Routes/CountiesRoutes";
+import CAUtilityRoutes from "./pages/StatesFolder/California/CA_Components/CAUtilityRoutes";
 
 function App() {
   return (
@@ -26,10 +27,14 @@ function App() {
             <Route path="/form" element={<Form />} />
             <Route path="/counties" element={<Counties />} />
             <Route path="/cities" element={<Cities />} />
+            <Route path="/utilities" element={<Utilities />} />
           </Routes>
 
           {/* Routes for Counties */}
           <CountiesRoutes />
+
+          {/* Routes for Utilities */}
+          <CAUtilityRoutes />
         </div>
       </html>
     </>

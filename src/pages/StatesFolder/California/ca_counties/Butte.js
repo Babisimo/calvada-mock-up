@@ -42,8 +42,8 @@ const Butte = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>7 County Center Drive</p>
-        <p>Oroville California, 95965</p>
+        <a href='https://www.google.com/maps/place/7+County+Center+Dr,+Oroville,+CA+95965/@39.5250632,-121.5740924,17z/data=!3m1!4b1!4m6!3m5!1s0x809cb599dfabfcef:0xb554446d5a56cc7!8m2!3d39.5250591!4d-121.5715175!16s%2Fg%2F11c447jkm3?entry=ttu' target='_blank' rel='noreferrer'>7 County Center Drive <br/>Oroville CA, 95965</a>
+        <br />
         <br />
         <p><strong>Phone:</strong> (530) 538-7681</p>
         <p><strong>Fax:</strong> (530) 538-7171</p>

@@ -46,8 +46,7 @@ const Kern = () => {
         <p><strong>Charles Lackey</strong>, Director</p>
         <br />
         <h4>Public Services Building Address:</h4>
-        <p>2700 "M" Street, Suite 570</p>
-        <p>Bakersfield, California 93301-2370</p>
+        <a href='https://www.google.com/maps/place/Public+services+building,+2700+M+St+%23570,+Bakersfield,+CA+93301/data=!4m2!3m1!1s0x80ea6991cfd9aa07:0xce3c2f2469426513?sa=X&ved=2ahUKEwiYx8_r1dT_AhU1HUQIHXJXBeIQ8gF6BAgTEAI' target='_blank' rel='noreferrer'>2700 "M" Street, Suite 570 <br/> Bakersfield, California 93301-2370</a>
         <p>Monday - Friday 8:00 AM - 5:00 PM</p>
         <br />
         <p><strong>Phone:</strong> (661) 862-5510</p>

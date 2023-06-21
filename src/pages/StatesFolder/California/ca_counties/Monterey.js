@@ -29,9 +29,9 @@ const Monterey = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>468 W. Alisal St. | 2nd Floor</p>
-        <p>Salinas, California 93901</p>
+        <a href='https://www.google.com/maps/place/468+W+Alisal+St+2nd+Floor,+Salinas,+CA+93901/@36.6727214,-121.6667464,17z/data=!3m1!4b1!4m5!3m4!1s0x808df8dda325302d:0xa1a782f631a893f7!8m2!3d36.6727214!4d-121.6667464?entry=ttu' target='_blank' rel='noreferrer'>468 W. Alisal St. | 2nd Floor<br/>Salinas, California 93901</a>
 
+        <br />
         <br />
 
         <p><strong>Phone:</strong> (831) 755-4800</p>

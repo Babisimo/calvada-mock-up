@@ -40,8 +40,9 @@ const Amador = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>810 Court Street</p>
-        <p>Jackson California, 95642</p>
+        <a href='https://www.google.com/maps/place/810+Court+St,+Jackson,+CA+95642/@38.3524194,-120.7698063,17z/data=!3m1!4b1!4m6!3m5!1s0x809a7bcfc8732c35:0x389e8b0fda600712!8m2!3d38.3524152!4d-120.7672314!16s%2Fg%2F11c3q3mz7z?entry=ttu' target='_blank' rel='noreferrer'>810 Court Street <br/> Jackson CA, 95642</a>
+        <br/>
+        <br/>
         <p><strong>Phone:</strong> (209) 223-6371</p>
         <p><strong>Department Hours:</strong> Monday - Friday 8:00 AM to 5:00 PM</p>
       </span>

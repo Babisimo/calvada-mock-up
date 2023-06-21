@@ -38,8 +38,9 @@ const SantaBarbara = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <p>105 E Anapamu Street</p>
-        <p>Santa Barbara, California 93101</p>
+        <a href='https://www.google.com/maps/place/105+E+Anapamu+St,+Santa+Barbara,+CA+93101/@34.4252375,-119.7032854,19.25z/data=!4m6!3m5!1s0x80e914875bede043:0x7f84836c4d7a8e98!8m2!3d34.4252526!4d-119.7031015!16s%2Fg%2F11bw42l__h?entry=ttu' target='_blank' rel='noreferrer'>105 E Anapamu Street<br/>Santa Barbara, California 93101</a>
+        <br/>
+        <br/>
         <p><strong>Phone: </strong>(805) 681-4200</p>
         <a href='https://www.countyofsb.org/178/Directory' target={"_blank"} rel='noreferrer'>Directory</a>
 
