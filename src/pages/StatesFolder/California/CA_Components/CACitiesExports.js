@@ -24,7 +24,7 @@ import SantaMonica from '../CA_Cities/SantaMonica'
 import Temecula from '../CA_Cities/Temecula'
 import Torrance from '../CA_Cities/Torrance'
 import Burbank from '../CA_Cities/Burbank'
-import SanBernardino from '../CA_Cities/SanBernardinio'
+import SanBernardino from '../CA_Cities/SanBernardino'
 import LakeElsinore from '../CA_Cities/LakeElsinore'
 import SanJose from '../CA_Cities/SanJose'
 import Fresno from '../CA_Cities/Fresno'
@@ -35,6 +35,11 @@ import CulverCity from '../CA_Cities/CulverCity'
 import MenloPark from '../CA_Cities/MenloPark'
 import SanCarlos from '../CA_Cities/SanCarlos'
 import SignalHill from '../CA_Cities/SignalHill'
+import Sacramento from '../CA_Cities/Sacramento'
+import Dublin from '../CA_Cities/Dublin'
+import Fremont from '../CA_Cities/Fremont'
+import Saratoga from '../CA_Cities/Saratoga'
+import LosGatos from '../CA_Cities/LosGatos'
 
 export {
     Adelanto,
@@ -73,5 +78,10 @@ export {
     CulverCity,
     MenloPark,
     SanCarlos,
-    SignalHill
+    SignalHill,
+    Sacramento,
+    Dublin,
+    Fremont,
+    Saratoga,
+    LosGatos,
 }

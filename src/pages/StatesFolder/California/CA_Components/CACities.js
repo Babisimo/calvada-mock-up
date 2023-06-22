@@ -32,7 +32,7 @@ export default function CACities() {
     <CACitiesExports.Temecula key={"temecula"} />,
     <CACitiesExports.Torrance key={"torrance"} />,
     <CACitiesExports.Burbank key={"burbank"} />,
-    <CACitiesExports.SanBernardino key={"san bernardinio"} />,
+    <CACitiesExports.SanBernardino key={"san bernardino"} />,
     <CACitiesExports.SanJose key={"san jose"} />,
     <CACitiesExports.Fresno key={"fresno"} />,
     <CACitiesExports.LakeElsinore key={"lake elsinore"} />,
@@ -43,6 +43,11 @@ export default function CACities() {
     <CACitiesExports.MenloPark key={"menlopark"} />,
     <CACitiesExports.SanCarlos key={"sancarlos"} />,
     <CACitiesExports.SignalHill key={"signalhill"} />,
+    <CACitiesExports.Sacramento key={"sacramento"} />,
+    <CACitiesExports.Dublin key={"dublin"} />,
+    <CACitiesExports.Fremont key={"fremont"} />,
+    <CACitiesExports.Saratoga key={"saratoga"} />,
+    <CACitiesExports.LosGatos key={"losgatos"} />
 
     
   ];

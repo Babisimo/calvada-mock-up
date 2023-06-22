@@ -39,7 +39,7 @@ export default function Alameda() {
 
         <br />
 
-        <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Public Works</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps)
+        <a href="http://www.acgov.org/MS/surveyorDocSearch/" target={'_blank'} rel="noreferrer">Survey Documents</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, Benchmarks)
 
       </span>
 

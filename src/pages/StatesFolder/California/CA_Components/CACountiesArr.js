@@ -1,4 +1,3 @@
-
 let counties = [
     "Alameda",
     "Alpine",
