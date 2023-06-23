@@ -40,6 +40,7 @@ import Dublin from '../CA_Cities/Dublin'
 import Fremont from '../CA_Cities/Fremont'
 import Saratoga from '../CA_Cities/Saratoga'
 import LosGatos from '../CA_Cities/LosGatos'
+import Hanford from '../CA_Cities/Hanford'
 
 export {
     Adelanto,
@@ -84,4 +85,5 @@ export {
     Fremont,
     Saratoga,
     LosGatos,
+    Hanford
 }

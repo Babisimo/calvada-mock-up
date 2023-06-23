@@ -21,6 +21,8 @@ const Monterey = () => {
         <a href='https://maps.co.monterey.ca.us/wab/parcelreportwebapp/' target={"_blank"} rel='noreferrer'>Assessor Maps GIS</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://maps.co.monterey.ca.us/portal/apps/webappviewer/index.html?id=a43bf9d208474b7c941a09eeeea7dea2' target={"_blank"} rel='noreferrer'>Survey Records Viewer GIS</a>&nbsp;&nbsp;&nbsp;(Property Information | Free Record Maps)
+        <br />
+        <a href='https://montereycountyca-web.tylerhost.net/Montereyweb/action/ACTIONGROUP284S187S1' target={"_blank"} rel='noreferrer'>Monterey County Clerk-Recorder</a>&nbsp;&nbsp;&nbsp;(Official Records)
       </span>
 
       {/* Border To Separate Information */}

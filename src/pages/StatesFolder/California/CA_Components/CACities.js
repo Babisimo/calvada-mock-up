@@ -47,7 +47,8 @@ export default function CACities() {
     <CACitiesExports.Dublin key={"dublin"} />,
     <CACitiesExports.Fremont key={"fremont"} />,
     <CACitiesExports.Saratoga key={"saratoga"} />,
-    <CACitiesExports.LosGatos key={"losgatos"} />
+    <CACitiesExports.LosGatos key={"losgatos"} />,
+    <CACitiesExports.Hanford key={"hanford"} />,
 
     
   ];

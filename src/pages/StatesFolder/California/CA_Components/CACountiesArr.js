@@ -34,6 +34,7 @@ let counties = [
     "SanJoaquin",
     "SanLuisObispo",
     "SanMateo",
+    "SanBenito",
     "SantaBarbara",
     "SantaClara",
     "SantaCruz",

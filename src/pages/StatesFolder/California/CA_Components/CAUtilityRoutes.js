@@ -4,19 +4,24 @@ import { Route, Routes } from "react-router-dom";
 import LAUtils from "../CA_Utilities/LAUtils";
 import ZoneTwoUtils from "../CA_Utilities/ZoneTwoUtils";
 import ZoneThreeUtils from "../CA_Utilities/ZoneThreeUtils";
+import ZoneFourUtils from "../CA_Utilities/ZoneFourUtils";
 
 export default function CAUtilityRoutes(){
     return(
         <>
              <Routes>
                 {/* Los Angeles County Utility Routes */}
-                <Route path="/lautilities" element={<LAUtils />}/>
+                <Route path="/utilities/lautilities" element={<LAUtils />}/>
              
                 {/* Zone Two Utilities */}
-                <Route path="/zonetwoutilities" element={<ZoneTwoUtils/>}/>
+                <Route path="/utilities/zonetwoutilities" element={<ZoneTwoUtils/>}/>
 
                 {/* Zone Three Utilities */}
-                <Route path="/zonethreeutilities" element={<ZoneThreeUtils/>}/>
+                <Route path="/utilities/zonethreeutilities" element={<ZoneThreeUtils/>}/>
+
+                {/* Zone Four Utilities */}
+                <Route path="/utilities/zonefourutilities" element={<ZoneFourUtils/>}/>
+ 
              </Routes>
              
         </>
