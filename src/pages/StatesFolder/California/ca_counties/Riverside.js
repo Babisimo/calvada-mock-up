@@ -31,7 +31,7 @@ const Riverside = () => {
         <br />
         <a href='http://weblink.rctlma.org/WebLink/?dbid=0&repo=TLMA' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='https://rctlma.org/trans/Survey/Records-of-Survey-Corner-Records-Monument-Inspections' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(GIS, Free Maps, Benchmarks)
+        <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=26ab70d308c349dd934b1b65378c6544' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(GIS, Free Maps, Benchmarks)
         <br />
         <br />
         <a href='https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx' target={"_blank"} rel='noreferrer'>RivCo Survey Scanned Images Directory</a>&nbsp;&nbsp;&nbsp;(Free Record Maps | Ask <a href='mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?'>Oswaldo</a> for login)
