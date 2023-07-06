@@ -19,6 +19,8 @@ const Imperial = () => {
         <br />
         <a href='https://www.icpds.com/planning/maps' target={"_blank"} rel='noreferrer'>GIS Mapping Applications</a>&nbsp;&nbsp;&nbsp;(General Plan, Zoning Information, etc.)
         <br />
+        <a href='https://www.icpds.com/planning/maps' target={"_blank"} rel='noreferrer'>Assessors GIS</a>&nbsp;&nbsp;&nbsp;(APNs)
+        <br />
         <a href='https://www.mediafire.com/folder/q354hmv2hcr73/Parcel_Maps' target={"_blank"} rel='noreferrer'>Parcel Maps</a>
         <br />
         <a href='https://www.mediafire.com/folder/y36infptag874/Record+of+Surveys' target={"_blank"} rel='noreferrer'>Record of Survey Maps</a>

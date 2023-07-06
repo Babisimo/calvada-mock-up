@@ -1,3 +1,5 @@
+import Indio from '../CA_Cities/Indio'
+import Oceanside from '../CA_Cities/Oceanside'
 import Adelanto from '../CA_Cities/Adelanto'
 import AlisoViejo from '../CA_Cities/AlisoViejo'
 import Anaheim from '../CA_Cities/Anaheim'
@@ -41,6 +43,11 @@ import Fremont from '../CA_Cities/Fremont'
 import Saratoga from '../CA_Cities/Saratoga'
 import LosGatos from '../CA_Cities/LosGatos'
 import Hanford from '../CA_Cities/Hanford'
+import Fontana from '../CA_Cities/Fontana'
+import Victorville from '../CA_Cities/Victorville'
+import Rialto from '../CA_Cities/Rialto'
+import Oxnard from '../CA_Cities/Oxnard'
+import PalmSprings from '../CA_Cities/PalmSprings'
 
 export {
     Adelanto,
@@ -85,5 +92,12 @@ export {
     Fremont,
     Saratoga,
     LosGatos,
-    Hanford
+    Hanford,
+    Fontana,
+    Victorville,
+    Rialto,
+    Oxnard,
+    Oceanside,
+    PalmSprings,
+    Indio,
 }

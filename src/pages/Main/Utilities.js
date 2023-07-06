@@ -14,6 +14,10 @@ export default function Utilities() {
 
                 <Link to={'/utilities/zonefourutilities'}><button>Zone 4</button></Link>
 
+                <Link to={'/utilities/zonefiveutilities'}><button>Zone 5</button></Link>
+
+                <Link to={'/utilities/zonesixutilities'}><button>Zone 6</button></Link>
+
             </div>
         </div>
     )

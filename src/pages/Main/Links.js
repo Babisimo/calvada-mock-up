@@ -118,6 +118,16 @@ export default function Links() {
           imgSrc="https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg"
           imgWidth="180px"
         />
+       
+        {/* SoCal California Edison Lines */}
+        <CustomLink
+          link="https://www.arcgis.com/apps/webappviewer/index.html?id=05a84ec9d19f43ac93b451939c330888"
+          linkName="SoCal California Edison Lines"
+          hasImage="true"
+          linkAlt="SoCal Edison Lines"
+          imgSrc="https://skipsolabs-california-energy-challenge.s3.amazonaws.com/frontend/section/organization/7880/5f070c781a15d5667169.png"
+          imgWidth="100px"
+        />
       </div>
     </div>
   );

@@ -5,6 +5,8 @@ import LAUtils from "../CA_Utilities/LAUtils";
 import ZoneTwoUtils from "../CA_Utilities/ZoneTwoUtils";
 import ZoneThreeUtils from "../CA_Utilities/ZoneThreeUtils";
 import ZoneFourUtils from "../CA_Utilities/ZoneFourUtils";
+import ZoneFiveUtils from "../CA_Utilities/ZoneFiveUtils";
+import ZoneSixUtils from "../CA_Utilities/ZoneSixUtils";
 
 export default function CAUtilityRoutes(){
     return(
@@ -21,6 +23,12 @@ export default function CAUtilityRoutes(){
 
                 {/* Zone Four Utilities */}
                 <Route path="/utilities/zonefourutilities" element={<ZoneFourUtils/>}/>
+                
+                {/* Zone Five Utilities */}
+                <Route path="/utilities/zonefiveutilities" element={<ZoneFiveUtils/>}/>
+                
+                {/* Zone Six Utilities */}
+                <Route path="/utilities/zonesixutilities" element={<ZoneSixUtils/>}/>
  
              </Routes>
              

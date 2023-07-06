@@ -31,7 +31,13 @@ const Riverside = () => {
         <br />
         <a href='http://weblink.rctlma.org/WebLink/?dbid=0&repo=TLMA' target={"_blank"} rel='noreferrer'>Map Inquire</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=26ab70d308c349dd934b1b65378c6544' target={"_blank"} rel='noreferrer'>Transportation Department</a>&nbsp;&nbsp;&nbsp;(GIS, Free Maps, Benchmarks)
+        <a href='https://www.arcgis.com/apps/webappviewer/index.html?id=26ab70d308c349dd934b1b65378c6544' target={"_blank"} rel='noreferrer'>Transportation Department GIS</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, ROW Maps, Plans)
+        <br />
+        <a href='https://countyofriverside.maps.arcgis.com/apps/webappviewer/index.html?id=8eaafd49a33147f5905d318a034839bb' target={"_blank"} rel='noreferrer'>Geodetic Control</a>&nbsp;&nbsp;&nbsp;(Benchmarks & NGS Cors)
+        <br />
+        <a href='https://www.arcgis.com/apps/mapviewer/index.html?webmap=8d1541d435f44f6f94892dce32130e93' target={"_blank"} rel='noreferrer'>Hanging File Mosaic</a>&nbsp;&nbsp;&nbsp;(Hanging Files & Counter Books)
+        <br />
+        <a href='https://countyofriverside.maps.arcgis.com/apps/webappviewer/index.html?id=485352d7b8c143e7b9de92d111678c25' target={"_blank"} rel='noreferrer'>C.A.T.C.H</a>&nbsp;&nbsp;&nbsp;(County Automated Terrestrial CAD Helper - Tool)
         <br />
         <br />
         <a href='https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx' target={"_blank"} rel='noreferrer'>RivCo Survey Scanned Images Directory</a>&nbsp;&nbsp;&nbsp;(Free Record Maps | Ask <a href='mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?'>Oswaldo</a> for login)

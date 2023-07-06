@@ -49,8 +49,14 @@ export default function CACities() {
     <CACitiesExports.Saratoga key={"saratoga"} />,
     <CACitiesExports.LosGatos key={"losgatos"} />,
     <CACitiesExports.Hanford key={"hanford"} />,
+    <CACitiesExports.Fontana key={"fontana"}/>,
+    <CACitiesExports.Victorville key={'victorville'}/>,
+    <CACitiesExports.Rialto key={'rialto'}/>,
+    <CACitiesExports.Oxnard key={'oxnard'}/>,
+    <CACitiesExports.Oceanside key={'oceanside'} />,
+    <CACitiesExports.PalmSprings key={'palmsprings'} />,
+    <CACitiesExports.Indio key={'indio'} />,
 
-    
   ];
 
   return (
