@@ -48,6 +48,7 @@ import Victorville from '../CA_Cities/Victorville'
 import Rialto from '../CA_Cities/Rialto'
 import Oxnard from '../CA_Cities/Oxnard'
 import PalmSprings from '../CA_Cities/PalmSprings'
+import PalmDesert from '../CA_Cities/PalmDesert'
 
 export {
     Adelanto,
@@ -100,4 +101,5 @@ export {
     Oceanside,
     PalmSprings,
     Indio,
+    PalmDesert,
 }

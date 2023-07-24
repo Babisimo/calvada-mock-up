@@ -56,6 +56,8 @@ export default function CACities() {
     <CACitiesExports.Oceanside key={'oceanside'} />,
     <CACitiesExports.PalmSprings key={'palmsprings'} />,
     <CACitiesExports.Indio key={'indio'} />,
+    <CACitiesExports.PalmDesert key={'palmdesert'} />,
+
 
   ];
 
