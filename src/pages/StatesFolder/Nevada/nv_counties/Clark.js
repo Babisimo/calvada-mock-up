@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import PDF from '../../../../PDF/NDOT/PublicRecordsRequestForm.pdf'
 
 const Clark = () => {
   return (
@@ -46,7 +45,7 @@ const Clark = () => {
         <a href='https://www.dot.nv.gov/' target={'_blank'} rel='noreferrer'><img alt='NDOT' src={'https://imgs.search.brave.com/adM8XFzknNGw3BPtGPLoMPEATxrQwX6_Xid-D-eWsvo/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/ZnhXRllMbDZyNFJx/X1hHbVhPOFdnSGFF/eSZwaWQ9QXBp'} width='200px'></img></a>
         <br />
         <h4>Request Row Maps:</h4>
-        <a href={PDF} target="_blank" rel='noreferrer'>Download Request Form</a>
+        <a href={"https://drive.google.com/file/d/12YB5n3TTXWqQ7sGfl8frDhqBV71YC85x/view?usp=drive_link"} target="_blank" rel='noreferrer'>Download Request Form</a>
         <br />
         <br />
         <p><strong>Jason Knoff Email:</strong>&nbsp;&nbsp; JKnoff@dot.state.nv.us</p>
