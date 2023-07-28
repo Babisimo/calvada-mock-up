@@ -1,3 +1,5 @@
+import Menifee from '../CA_Cities/Menifee'
+import OrangeGrove from '../CA_Cities/OrangeGrove'
 import Indio from '../CA_Cities/Indio'
 import Oceanside from '../CA_Cities/Oceanside'
 import Adelanto from '../CA_Cities/Adelanto'
@@ -49,12 +51,22 @@ import Rialto from '../CA_Cities/Rialto'
 import Oxnard from '../CA_Cities/Oxnard'
 import PalmSprings from '../CA_Cities/PalmSprings'
 import PalmDesert from '../CA_Cities/PalmDesert'
+import Coachella from '../CA_Cities/Coachella'
+import Vernon from '../CA_Cities/Vernon'
+import Sunnyvale from '../CA_Cities/Sunnyvale'
+import Colton from '../CA_Cities/Colton'
+import Redlands from '../CA_Cities/Redlands'
 
 export {
+    Redlands,
+    Colton,
     Adelanto,
+    Sunnyvale,
     AlisoViejo,
     Anaheim,
     AppleValley,
+    Vernon,
+    Menifee,    
     Artesia,
     Azusa,
     Bakersfield,
@@ -102,4 +114,6 @@ export {
     PalmSprings,
     Indio,
     PalmDesert,
+    Coachella,
+    OrangeGrove,
 }

@@ -57,6 +57,14 @@ export default function CACities() {
     <CACitiesExports.PalmSprings key={'palmsprings'} />,
     <CACitiesExports.Indio key={'indio'} />,
     <CACitiesExports.PalmDesert key={'palmdesert'} />,
+    <CACitiesExports.Coachella key={'coachella'} />,
+    <CACitiesExports.OrangeGrove key={'orangegrove'} />,
+    <CACitiesExports.Menifee key={'menifee'} />,
+    <CACitiesExports.Vernon key={'vernon'} />,
+    <CACitiesExports.Sunnyvale key={'sunnyvale'} />,
+    <CACitiesExports.Colton key={'colton'} />,
+    <CACitiesExports.Redlands key={'redlands'} />,
+
 
 
   ];

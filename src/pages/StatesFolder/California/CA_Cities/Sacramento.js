@@ -5,7 +5,10 @@ function Sacramento() {
         <div className='city-dropdown'>
             <button className='city-dropbtn'>Sacramento</button>
             <div className='city-dropdown-content'>
-                <a href='https://data.cityofsacramento.org/datasets/53244a1d3ca447d8a890ad6bbc43621b_0/explore?location=38.573237%2C-121.482028%2C13.89' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                <a href='http://www.cityofsacramento.org/public-works/engineering-services/programs-and-services/survey-services/search-benchmarks' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                <a href='https://www.cityofsacramento.org/Public-Works/Engineering-Services/Programs-and-Services/Survey-Services/Search-Ties-by-Street-Name-and-Grid' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
+                <a href='https://assessorparcelviewer.saccounty.gov/JSViewer/assessor.html' target={'_blank'} rel='noreferrer'>Zoning</a>
+                <a href='https://library.qcode.us/lib/sacramento_ca/pub/city_code' target={'_blank'} rel='noreferrer'>Municipal Code</a>
             </div>
         </div>
     )
