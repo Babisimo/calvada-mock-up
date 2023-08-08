@@ -64,7 +64,9 @@ export default function CACities() {
     <CACitiesExports.Sunnyvale key={'sunnyvale'} />,
     <CACitiesExports.Colton key={'colton'} />,
     <CACitiesExports.Redlands key={'redlands'} />,
-
+    <CACitiesExports.Stockton key={'stockton'} />,
+    <CACitiesExports.Livermore key={'livermore'} />,
+    <CACitiesExports.ChinoHills key={'chinohills'}/>,
 
 
   ];

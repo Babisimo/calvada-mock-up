@@ -56,9 +56,15 @@ import Vernon from '../CA_Cities/Vernon'
 import Sunnyvale from '../CA_Cities/Sunnyvale'
 import Colton from '../CA_Cities/Colton'
 import Redlands from '../CA_Cities/Redlands'
+import Stockton from '../CA_Cities/Stockton'
+import Livermore from '../CA_Cities/Livermore'
+import ChinoHills from '../CA_Cities/ChinoHills'
 
 export {
+    ChinoHills,
     Redlands,
+    Livermore,
+    Stockton,
     Colton,
     Adelanto,
     Sunnyvale,
