@@ -29,11 +29,9 @@ const LosAngeles = () => {
         <br />
         <a href='https://portal.assessor.lacounty.gov/' target={"_blank"} rel='noreferrer'>Assessor Parcel Portal</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://dpw.lacounty.gov/smpm/landrecords/' target={"_blank"} rel='noreferrer'>Land Records / Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records, Field Books)
+        <a href='https://dpw.lacounty.gov/smpm/landrecords/' target={"_blank"} rel='noreferrer'>Land Records / Record Maps GIS</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records, Field Books)
         <br />
-        <a href='hhttps://pw.lacounty.gov/sur/landrecords/?docType=benchmarks' target={"_blank"} rel='noreferrer'>Benchmarks</a>
-        <br />
-        <a href='https://planning.lacounty.gov/gis/interactive' target={"_blank"} rel='noreferrer'>Interactive GIS Web Mapping</a>
+        <a href='https://planning.lacounty.gov/maps-and-gis/interactive-gis-web-mapping-apps/' target={"_blank"} rel='noreferrer'>Interactive GIS Apps</a>&nbsp;&nbsp;&nbsp;(Zoning)
       </span>
 
       {/* Border To Separate Information */}

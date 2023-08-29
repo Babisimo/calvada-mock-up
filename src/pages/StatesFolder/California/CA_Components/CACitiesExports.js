@@ -59,8 +59,12 @@ import Redlands from '../CA_Cities/Redlands'
 import Stockton from '../CA_Cities/Stockton'
 import Livermore from '../CA_Cities/Livermore'
 import ChinoHills from '../CA_Cities/ChinoHills'
+import Cupertino from '../CA_Cities/Cupertino'
+import Modesto from '../CA_Cities/Modesto'
 
 export {
+    Modesto,
+    Cupertino,
     ChinoHills,
     Redlands,
     Livermore,
