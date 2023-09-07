@@ -43,9 +43,6 @@ export default function Links() {
           link="https://www.earthpoint.us/Townships.aspx"
           linkName="Township and Range - Public Land Survey System"
           hasImage="false"
-          // imgSrc='https://www.freepnglogos.com/uploads/globe-png/blue-globe-transparent-sporetesting-39.png'
-          // imgAlt='earthpoint-logo'
-          // imgWidth='50px'
         />
 
         {/* BLM */}
@@ -127,6 +124,12 @@ export default function Links() {
           linkAlt="SoCal Edison Lines"
           imgSrc="https://skipsolabs-california-energy-challenge.s3.amazonaws.com/frontend/section/organization/7880/5f070c781a15d5667169.png"
           imgWidth="100px"
+        />
+
+        <CustomLink
+          link="https://search.dca.ca.gov/?BD=31"
+          linkName="LS Lookup"
+          hasImage="false"
         />
       </div>
     </div>
