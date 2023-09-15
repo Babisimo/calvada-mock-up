@@ -35,7 +35,7 @@ export default function Alameda() {
 
         <br />
 
-        <a href='http://gis.acgov.org/Html5Viewer/index.html?viewer=parcel_viewer' target={'_blank'} rel="noreferrer">Property Assesment Information - GIS</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free APNs)
+        <a href='https://www.acassessor.org/parcel_viewer/' target={'_blank'} rel="noreferrer">Property Assesment Information - GIS</a>&nbsp;&nbsp;&nbsp;&nbsp;(Free APNs)
 
         <br />
 
