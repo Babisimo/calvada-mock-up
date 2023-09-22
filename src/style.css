@@ -104,6 +104,19 @@ body::before {
   color: #406343;
 }
 
+.disclaimer_footer {
+  width: 100%;
+  padding: 1rem 0;
+  text-align: center;
+  background-color: #f3efcc;
+  color: darkred;
+  position: absolute;
+  bottom: 0;
+  box-shadow: 6px 3px 6px rgba(0, 0, 0, 0.5);
+  font-size: small;
+  font-weight: bolder;
+}
+
 .buttons button:hover {
   background-color: white;
 }
@@ -141,6 +154,11 @@ strong {
     width: 100%;
     margin: 0.5rem 0;
   }
+
+  .disclaimer_footer { 
+    padding: .3rem;
+    font-size: xx-small;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -155,5 +173,11 @@ strong {
 
   .nav li {
     margin: 0.5rem 0;
+  }
+
+  
+  .disclaimer_footer { 
+    padding: .1rem;
+    font-size: xx-small;
   }
 }

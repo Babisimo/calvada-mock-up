@@ -7,7 +7,7 @@ import Links from "./pages/Main/Links";
 import { Route, Routes } from 'react-router-dom'
 
 // Main Imports
-import { Counties, Cities, Utilities} from "./pages/Main/MainExports"
+import { Counties, Cities, Utilities } from "./pages/Main/MainExports"
 
 // Importing Counties Routes
 import CountiesRoutes from "./Routes/CountiesRoutes";
@@ -17,25 +17,37 @@ function App() {
   return (
     <>
       <html lang="en">
-        <NavBar />
-        <div className="container">
-          
-          {/* Main Routes */}
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/links" element={<Links />} />
-            <Route path="/form" element={<Form />} />
-            <Route path="/counties" element={<Counties />} />
-            <Route path="/cities" element={<Cities />} />
-            <Route path="/utilities" element={<Utilities />} />
-          </Routes>
+        <header>
 
-          {/* Routes for Counties */}
-          <CountiesRoutes />
+          <NavBar />
+          <div className="container">
 
-          {/* Routes for Utilities */}
-          <CAUtilityRoutes />
-        </div>
+            {/* Main Routes */}
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/links" element={<Links />} />
+              <Route path="/form" element={<Form />} />
+              <Route path="/counties" element={<Counties />} />
+              <Route path="/cities" element={<Cities />} />
+              <Route path="/utilities" element={<Utilities />} />
+            </Routes>
+
+            {/* Routes for Counties */}
+            <CountiesRoutes />
+
+            {/* Routes for Utilities */}
+            <CAUtilityRoutes />
+          </div>
+        </header>
+
+        <footer className="disclaimer_footer">
+          <div>
+              <h3>
+              This website is provided for informational purposes only. Cal Vada Surveying, INC. is not responsible for the accuracy or completeness of the information. Always consult professionals for advice. Use at your own risk.
+              </h3>
+          </div>          
+        </footer>
+
       </html>
     </>
   );
