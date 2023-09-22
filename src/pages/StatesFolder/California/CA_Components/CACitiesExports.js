@@ -61,8 +61,10 @@ import Livermore from '../CA_Cities/Livermore'
 import ChinoHills from '../CA_Cities/ChinoHills'
 import Cupertino from '../CA_Cities/Cupertino'
 import Modesto from '../CA_Cities/Modesto'
+import SanDiego from '../CA_Cities/SanDiego'
 
 export {
+    SanDiego,
     Modesto,
     Cupertino,
     ChinoHills,

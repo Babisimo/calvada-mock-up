@@ -69,6 +69,7 @@ export default function CACities() {
     <CACitiesExports.ChinoHills key={'chinohills'}/>,
     <CACitiesExports.Cupertino key={'cupertino'}/>,
     <CACitiesExports.Modesto key={'modesto'}/>,
+    <CACitiesExports.SanDiego key={'sandiego'}/>,
   ];
 
   return (
