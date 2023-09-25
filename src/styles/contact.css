@@ -1,0 +1,35 @@
+.contact {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact ul {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact li {
+    text-align: center;
+    background-color: rgba(13, 26, 12, 0.40);
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #ece7b4;
+    display: block;
+}
+
+.contact a {
+    text-decoration: underline;
+    color: #ece7b4;
+    font-weight: bold;
+}
+
+.contact a:hover{
+    color: blueviolet;
+}
