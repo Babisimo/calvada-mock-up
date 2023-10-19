@@ -13,6 +13,9 @@ import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exp
 // Importing Texas Counties
 import { Bexar } from '../pages/StatesFolder/Texas/TX_Components/tx_exports'
 
+// Importing Washington Counties
+import {Franklin} from '../pages/StatesFolder/Washington/WA_Components/wa_exports'
+
 export default function CountiesRoutes() {
     return (
         <>
@@ -39,6 +42,11 @@ export default function CountiesRoutes() {
             {/* Texas Counties Routes */}
             <Routes>
                 <Route path="/bexar" element={<Bexar />} />
+            </Routes>
+
+            {/* Washington Counties Routes */}
+            <Routes>
+                <Route path="/franklin" element={<Franklin/>}/>
             </Routes>
         </>
     )
