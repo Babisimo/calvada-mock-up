@@ -18,6 +18,16 @@ export default function Links() {
           imgWidth="130px"
         />
 
+        {/* NGS Benchmarks */}
+        <CustomLink
+          link="https://geodesy.noaa.gov/NGSDataExplorer/"
+          linkName="NGS Benchmarks"
+          hasImage="true"
+          imgAlt="NGS-logo"
+          imgSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/1200px-NOAA_logo.svg.png"
+          imgWidth="60px"
+        />
+
         {/* By Point Radius */}
         <CustomLink
           link="https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl"
