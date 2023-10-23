@@ -12,6 +12,8 @@ import { Counties, Cities, Utilities } from "./pages/Main/MainExports"
 // Importing Counties Routes
 import CountiesRoutes from "./Routes/CountiesRoutes";
 import CAUtilityRoutes from "./pages/StatesFolder/California/CA_Components/CAUtilityRoutes";
+import CitiesRoutes from "./pages/StatesFolder/CitiesRoutes";
+
 
 function App() {
   return (
@@ -40,17 +42,12 @@ function App() {
 
             {/* Routes for Utilities */}
             <CAUtilityRoutes />
+
+            {/* Routes for Cities */}
+            <CitiesRoutes/>
+
           </div>
         </article>
-
-        {/* <footer className="disclaimer_footer">
-          <div>
-            <h3>
-              This website is provided for informational purposes only. <a target="_blank" rel="noreferrer" href="https://www.calvada.com">Cal Vada Surveying, INC.</a> is not responsible for the accuracy or completeness of the information. Always consult professionals for advice. Use at your own risk.
-            </h3>
-          </div>
-        </footer> */}
-
       </html>
     </>
   );

@@ -78,7 +78,7 @@ export default function CACities() {
   return (
     <>
       <div className="city-title">
-        <h2>California Cities</h2>
+        <h2 className="title">California Cities</h2>
       </div>
       <div className="cities">
         {cacities.sort((a, b) => {
