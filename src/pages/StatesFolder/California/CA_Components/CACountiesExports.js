@@ -1,9 +1,9 @@
 import CACountiesArr from "./CACountiesArr";
 
-const counties = {};
+const cacounties = {};
 
 CACountiesArr.forEach(county => {
-  counties[county] = require(`../ca_counties/${county}`).default;
+  cacounties[county] = require(`../ca_counties/${county}`).default;
 });
 
-export default counties;
+export default cacounties;

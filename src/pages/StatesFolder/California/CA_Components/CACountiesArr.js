@@ -10,6 +10,7 @@ let counties = [
     "Fresno",
     "Humboldt",
     "Imperial",
+    "Inyo",
     "Kern",
     "Kings",
     "Lake",

@@ -62,11 +62,13 @@ body::before {
 
 .nav li.active {
   background-color: #f1f7e7;
-  color: #406343;
+  color: #634060;
+  border-radius: 1rem;
 }
 
 .nav li:hover {
-  background-color: #f1f7e7;
+  border-radius: 1rem;
+  color: #634060;
 }
 
 .title {
@@ -105,6 +107,7 @@ body::before {
 
 .buttons button:hover {
   background-color: white;
+  color: #634060;
 }
 
 strong {

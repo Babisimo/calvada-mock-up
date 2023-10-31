@@ -1,4 +1,5 @@
 .city-title {
+  padding-top: 1rem;
   color: #f3efcc;
 }
 
@@ -21,7 +22,7 @@
 
 .view-btn button:hover {
   background-color: #ffffff;
-  color: #569156;
+  color: #634060;
 }
 
 .view-btn button:active {

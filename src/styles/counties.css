@@ -93,12 +93,12 @@
   cursor: pointer;
   background-color: #f3efcc;
   box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
-  color: #406343;
   padding: 8px 30px;
 }
 
 .county-btn button:hover {
   background-color: white;
+  color: #634060;
 }
 
 /* Responsive Styles */

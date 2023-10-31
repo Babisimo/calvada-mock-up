@@ -2,10 +2,10 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom'
 
 // Importing California Counties
-import counties from "../pages/StatesFolder/California/CA_Components/CACountiesExports";
+import cacounties from "../pages/StatesFolder/California/CA_Components/CACountiesExports";
 
 // Importing Arizona Counties
-import { Maricopa, Pima, Yuma } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+import { Maricopa, Pima, Yuma, Cochise } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
 
 // Importing Nevada Counties
 import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exports'
@@ -21,8 +21,8 @@ export default function CountiesRoutes() {
         <>
             {/* California Counties Routes */}
             <Routes>
-                {Object.keys(counties).map(county => (
-                    <Route key={county} path={`/${county.toLowerCase()}`} element={React.createElement(counties[county])} />
+                {Object.keys(cacounties).map(county => (
+                    <Route key={county} path={`/${county.toLowerCase()}`} element={React.createElement(cacounties[county])} />
                 ))}
             </Routes>
 
@@ -31,6 +31,7 @@ export default function CountiesRoutes() {
                 <Route path="/maricopa" element={<Maricopa />} />
                 <Route path="/pima" element={<Pima />} />
                 <Route path="/yuma" element={<Yuma />} />
+                <Route path="/cochise" element={<Cochise />} />
             </Routes>
 
             {/* Nevada Counties Routes */}
