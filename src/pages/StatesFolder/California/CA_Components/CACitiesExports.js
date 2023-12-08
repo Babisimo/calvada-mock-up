@@ -64,8 +64,12 @@ import Modesto from '../CA_Cities/Modesto'
 import SanDiego from '../CA_Cities/SanDiego'
 import Chico from '../CA_Cities/Chico'
 import Visalia from '../CA_Cities/Visalia'
+import Encinitas from '../CA_Cities/Encinitas'
+import Roseville from '../CA_Cities/Roseville'
 
 export {
+    Roseville,
+    Encinitas,
     Visalia,
     Chico,
     SanDiego,

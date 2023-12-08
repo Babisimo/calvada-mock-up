@@ -72,6 +72,8 @@ export default function CACities() {
     <CACitiesExports.SanDiego key={'sandiego'}/>,
     <CACitiesExports.Chico key={'chico'}/>,
     <CACitiesExports.Visalia key={'visalia'}/>,
+    <CACitiesExports.Encinitas key={'encinitas'}/>,
+    <CACitiesExports.Roseville key={'roseville'}/>,
     
   ];
 

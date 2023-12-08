@@ -17,6 +17,9 @@ import './styles/scrollbar.css'
 // Styling for all things Utilities
 import './styles/utils.css'
 
+// Styling for warnings
+import './styles/warning.css'
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

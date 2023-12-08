@@ -25,7 +25,7 @@ const Inyo = () => {
 
       <span className='span'>
         <h3>Links:</h3>
-        <a href='https://gis.inyoco.com/arcgis/home/' target={"_blank"} rel='noreferrer'>Inyo County GIS Data</a>&nbsp;&nbsp;&nbsp;(APNs, Record Maps)
+        <a href='https://gis.inyoco.com/arcgis/apps/webappviewer/index.html?id=4f0e9813612040c3994f0ec22235fba4' target={"_blank"} rel='noreferrer'>Inyo County GIS Data</a>&nbsp;&nbsp;&nbsp;(APNs, Record Maps)
       </span>
 
       {/* Border To Separate Information */}

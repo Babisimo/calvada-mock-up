@@ -29,7 +29,9 @@ const SanJoaquin = () => {
         <br />
         <a href='https://sjmap.org/DistrictViewer/' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://www.sjgov.org/department/pwk/home' target={"_blank"} rel='noreferrer'>Surveyor Land Records System</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <a href='https://lfweb.sjgov.org/WebLink/Browse.aspx?dbid=0&cr=1' target={"_blank"} rel='noreferrer'>Surveyor Land Records System (Directory)</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <br />
+        <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=1985b52403334249a510715aeca3873e' target={"_blank"} rel='noreferrer'>Corner Records</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
         <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
       </span>

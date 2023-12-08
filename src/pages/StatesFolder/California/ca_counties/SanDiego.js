@@ -22,6 +22,14 @@ const SanDiego = () => {
       {/* Border To Separate Information */}
       <p className='border'></p>
       {/* Border To Separate Information */}
+      
+      <span className='warning'>
+        <h2>IF YOU'RE DOING RESEARCH IN ENCINITAS, USE GIS IN <a href='https://research.calvada.com/#/cities/CACities'>CITIES</a></h2>
+      </span>
+      
+      {/* Border To Separate Information */}
+      <p className='border'></p>
+      {/* Border To Separate Information */}
 
       <span className='span'>
         <h3>Links:</h3>

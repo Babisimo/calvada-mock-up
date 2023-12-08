@@ -31,7 +31,7 @@ const Fresno = () => {
         <br />
         <a href='https://www.co.fresno.ca.us/departments/public-works-planning/surveyor-s-office/surveyors-map-search' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='https://www.fresno.gov/publicworks/developer-doorway/#tab-7' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, NGS)
+        <a href='https://gisportal.co.fresno.ca.us/portal/apps/webappviewer/index.html?id=c065c87a83a7486bbf1bf7088c4c6742' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, NGS)
         <br />
         <a href='https://gisportal.co.fresno.ca.us/portal/apps/webappviewer/index.html?id=b921843d343d4df998b5b3c6a301756a' target={"_blank"} rel='noreferrer'>Zoning Map</a>
         <br />
