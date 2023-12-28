@@ -66,8 +66,10 @@ import Chico from '../CA_Cities/Chico'
 import Visalia from '../CA_Cities/Visalia'
 import Encinitas from '../CA_Cities/Encinitas'
 import Roseville from '../CA_Cities/Roseville'
+import RanchoCucamonga from '../CA_Cities/RanchoCucamonga'
 
 export {
+    RanchoCucamonga,
     Roseville,
     Encinitas,
     Visalia,

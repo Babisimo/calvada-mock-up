@@ -30,7 +30,7 @@ const Kern = () => {
         <br />
         <a href='https://www.kerncounty.com/government/departments/assessor-recorder/property/assessor-parcel-map-search' target={"_blank"} rel='noreferrer'>Assessor</a>
         <br />
-        <a href='https://kernpublicworks.com/maps/' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        <a href='https://www.kernpublicworks.com/services/development/maps' target={"_blank"} rel='noreferrer'>Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
         <a href='https://maps.kerncounty.com/H5/index.html?viewer=KCPublic' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
 
