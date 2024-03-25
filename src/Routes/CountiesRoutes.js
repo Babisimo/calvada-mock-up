@@ -5,7 +5,8 @@ import { Route, Routes } from 'react-router-dom'
 import cacounties from "../pages/StatesFolder/California/CA_Components/CACountiesExports";
 
 // Importing Arizona Counties
-import { Maricopa, Pima, Yuma, Cochise } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+// import azcounties from './pages/StatesFolder/Arizona/AZ_Components/az_exports'
+import { SantaCruzAZ, Maricopa, Pima, Yuma, Cochise } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
 
 // Importing Nevada Counties
 import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exports'
@@ -28,6 +29,12 @@ export default function CountiesRoutes() {
 
             {/* Arizona Counties Routes */}
             <Routes>
+                
+                {/* {Object.keys(azcounties).map(county => (
+                    <Route key={county} path={`/${county.toLowerCase()}`} element={React.createElement(azcounties[county])} />
+                ))} */}
+
+                <Route path="/santacruzaz" element={<SantaCruzAZ />} />
                 <Route path="/maricopa" element={<Maricopa />} />
                 <Route path="/pima" element={<Pima />} />
                 <Route path="/yuma" element={<Yuma />} />

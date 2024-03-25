@@ -67,8 +67,14 @@ import Visalia from '../CA_Cities/Visalia'
 import Encinitas from '../CA_Cities/Encinitas'
 import Roseville from '../CA_Cities/Roseville'
 import RanchoCucamonga from '../CA_Cities/RanchoCucamonga'
+import Redwood from '../CA_Cities/Redwood'
+import SanMateo from '../CA_Cities/SanMateo'
+import CathedralCity from '../CA_Cities/CathedralCity'
 
 export {
+    CathedralCity,
+    SanMateo,
+    Redwood,
     RanchoCucamonga,
     Roseville,
     Encinitas,

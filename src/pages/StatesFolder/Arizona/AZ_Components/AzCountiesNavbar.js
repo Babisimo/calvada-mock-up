@@ -5,6 +5,7 @@ export default function AzCountiesNavBar() {
     return (
         <nav className="counties">
             <ul>
+                <CustomLink to="/santacruzaz">Santa Cruz</CustomLink>
                 <CustomLink to="/maricopa">Maricopa</CustomLink>
                 <CustomLink to="/pima">Pima</CustomLink>
                 <CustomLink to="/yuma">Yuma</CustomLink>

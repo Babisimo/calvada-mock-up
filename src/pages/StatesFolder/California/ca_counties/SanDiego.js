@@ -45,6 +45,8 @@ const SanDiego = () => {
         <a href='https://srs.sandiegocounty.gov/' target={"_blank"} rel='noreferrer'>Survey Record System</a><p>(Parcel Maps, Record of Survey, Tract Maps, Corner Record, Miscellaneous Map, Record Survey, Miscellaneous Survey, Official Center Line <strong><em>Credit Card Required</em></strong>)</p>
         <br />
         <a href='https://www.sandiegocounty.gov/content/sdc/dpw/surveyor/vertcontrol.html' target={"_blank"} rel='noreferrer'>Vertical Datum</a>
+        <br />
+        <a href='https://drive.google.com/drive/folders/14Sg7wrawds1hg20QSJhwiHIRl3DK63xT' target={"_blank"} rel='noreferrer'>Camp Pendelton Atlas and ROS</a>
       </span>
 
       {/* Border To Separate Information */}

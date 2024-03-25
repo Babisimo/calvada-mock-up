@@ -23,6 +23,7 @@ let counties = [
     "Modoc",
     "Monterey",
     "Mono",
+    "Napa",
     "Nevada",
     "Orange",
     "Placer",
