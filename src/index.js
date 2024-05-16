@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import { HashRouter } from 'react-router-dom';
+import ReactGA from 'react-ga4'
 
 // Main Style
 import './style.css'
@@ -11,7 +12,7 @@ import './styles/dropdown.css'
 import './styles/city.css'
 import './styles/city_dropdown.css'
 
-// Scrollbar style for all compontents that require a scrollbar
+// Scrollbar style for all components that require a scrollbar
 import './styles/scrollbar.css'
 
 // Styling for all things Utilities
@@ -19,6 +20,9 @@ import './styles/utils.css'
 
 // Styling for warnings
 import './styles/warning.css'
+
+// Initialize Google Analytics
+ReactGA.initialize('G-WRJR2K0YME');
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

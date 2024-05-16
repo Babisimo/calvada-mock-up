@@ -39,6 +39,8 @@ const Riverside = () => {
         <br />
         <a href='https://countyofriverside.maps.arcgis.com/apps/webappviewer/index.html?id=485352d7b8c143e7b9de92d111678c25' target={"_blank"} rel='noreferrer'>C.A.T.C.H</a>&nbsp;&nbsp;&nbsp;(County Automated Terrestrial CAD Helper - Tool)
         <br />
+        <a href='https://www.boe.ca.gov/maps/RiversideCo.htm#:~:text=Tax%20Rate%20Areas%20%E2%80%93%20Riverside%20County%202023&text=Each%20TRA%20is%20assigned%20a,the%20specified%20assessment%20roll%20year' target={"_blank"} rel='noreferrer'>TRA GIS</a>&nbsp;&nbsp;&nbsp;(Tax Rate Areas - 2023)
+        <br />
         <br />
         <a href='https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx' target={"_blank"} rel='noreferrer'>RivCo Survey Scanned Images Directory</a>&nbsp;&nbsp;&nbsp;(Free Record Maps | Ask <a href='mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?'>Oswaldo</a> for login)
       </span>

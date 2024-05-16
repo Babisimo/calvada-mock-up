@@ -52,7 +52,7 @@ let counties = [
     "Trinity",
     "Ventura",
     "Yolo",
-    "Yuba"
+    "Yuba",
 ]
 
 export default counties

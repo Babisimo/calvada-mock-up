@@ -14,8 +14,12 @@ import CountiesRoutes from "./Routes/CountiesRoutes";
 import CAUtilityRoutes from "./pages/StatesFolder/California/CA_Components/CAUtilityRoutes";
 import CitiesRoutes from "./pages/StatesFolder/CitiesRoutes";
 
+import ReactGA from 'react-ga4'
 
 function App() {
+
+  ReactGA.initialize('G-WRJR2K0YME')
+
   return (
     <>
       <html lang="en">
@@ -44,7 +48,7 @@ function App() {
             <CAUtilityRoutes />
 
             {/* Routes for Cities */}
-            <CitiesRoutes/>
+            <CitiesRoutes />
 
           </div>
         </article>

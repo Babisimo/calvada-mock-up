@@ -20,12 +20,42 @@ export default function Links() {
 
         {/* NGS Benchmarks */}
         <CustomLink
-          link="https://geodesy.noaa.gov/NGSDataExplorer/"
+          link="https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db"
           linkName="NGS Benchmarks"
           hasImage="true"
           imgAlt="NGS-logo"
           imgSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/1200px-NOAA_logo.svg.png"
           imgWidth="60px"
+        />
+
+        {/* LS Lookup */}
+        <CustomLink
+          link="https://search.dca.ca.gov/?BD=31"
+          linkName="LS Lookup"
+          hasImage="true"
+          linkAlt="DCA Search"
+          imgSrc="https://search.dca.ca.gov/images/dcasearch.png"
+          imgWidth="180px"
+        />
+        
+        {/* Google Sheet for Research Contacts */}
+        <CustomLink
+          link="https://docs.google.com/spreadsheets/d/1OIIkwJlWT1OTXHB9fdcxXAbAQba1-S5LivrMZWDlypY/edit?usp=sharing"
+          linkName="Research Contacts"
+          hasImage="true"
+          linkAlt="Google Sheet"
+          imgSrc="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png"
+          imgWidth="30px"
+        />
+
+        {/* CalTrans ROW Contacts */}
+        <CustomLink
+          link="https://dot.ca.gov/programs/right-of-way/rw-maps-surveys-records"
+          linkName="Caltrans ROW Contacts"
+          hasImage="true"
+          imgAlt="BPR-logo"
+          imgSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Caltrans.svg/1200px-Caltrans.svg.png"
+          imgWidth="80px"
         />
 
         {/* By Point Radius */}
@@ -37,7 +67,7 @@ export default function Links() {
           imgSrc="https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif"
           imgWidth="40px"
         />
-
+        
         {/* Magnetic Field Calculator */}
         <CustomLink
           link="https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml"
@@ -134,12 +164,6 @@ export default function Links() {
           linkAlt="SoCal Edison Lines"
           imgSrc="https://skipsolabs-california-energy-challenge.s3.amazonaws.com/frontend/section/organization/7880/5f070c781a15d5667169.png"
           imgWidth="100px"
-        />
-
-        <CustomLink
-          link="https://search.dca.ca.gov/?BD=31"
-          linkName="LS Lookup"
-          hasImage="false"
         />
       </div>
     </div>

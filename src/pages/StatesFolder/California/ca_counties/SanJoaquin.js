@@ -34,6 +34,8 @@ const SanJoaquin = () => {
         <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=1985b52403334249a510715aeca3873e' target={"_blank"} rel='noreferrer'>Corner Records</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
         <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <br />
+        <a href='https://keithwspencer.net/Library/SanJoaquinCounty/BenchmarkBook.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>
       </span>
 
       {/* Border To Separate Information */}

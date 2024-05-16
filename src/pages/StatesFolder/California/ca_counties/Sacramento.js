@@ -34,6 +34,8 @@ const Sacramento = () => {
         <a href='http://www.sacmaps.com/' target={"_blank"} rel='noreferrer'>County Maps</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
         <br />
         <a href='http://www.sacmaps.com/NAVD%2088%20Database/Sacramento%20County%20BM%27s%20NAVD%2088.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>
+        <br />
+        <a href='https://ccr.saccounty.gov/DocumentRecording/Pages/Index.aspx' target={"_blank"} rel='noreferrer'>Online Index of Recorded Documents</a>&nbsp;&nbsp;&nbsp;(Deeds, Deeds of Trust, Liens)
       </span>
 
       {/* Border To Separate Information */}

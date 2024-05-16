@@ -9,6 +9,7 @@ function Irvine() {
                 <a href='https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=f5a617a79fdf464fb3ad1474c439b930' target={'_blank'} rel='noreferrer'>Street Improvement Plans</a>
                 <a href='https://gis.cityofirvine.org/onlineparcel/' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                 <a href='https://library.municode.com/ca/irvine/codes/zoning?nodeId=ZOOR' target={'_blank'} rel='noreferrer'>Municipal Code</a>
+                <a href='https://www.irwd.com/doing-business/gis-map-and-records' target={'_blank'} rel='noreferrer'>Irvine Ranch Water District</a>
                
             </div>
         </div>

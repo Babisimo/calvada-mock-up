@@ -77,7 +77,16 @@ export default function CACities() {
     <CACitiesExports.RanchoCucamonga key={'ranchocucamonga'} />,
     <CACitiesExports.Redwood key={'redwood'} />,
     <CACitiesExports.SanMateo key={'sanmateo'} />,
-    <CACitiesExports.CathedralCity key={'cathedralcity'} />
+    <CACitiesExports.CathedralCity key={'cathedralcity'} />,
+    <CACitiesExports.Oakland key={'oakland'} />,
+    <CACitiesExports.Brea key={'brea'}/>,
+    <CACitiesExports.ElkGrove key={'elkgrove'}/>,
+    <CACitiesExports.SanLeandro key={'sanleandro'}/>,
+    <CACitiesExports.LosAltos key={'LosAltos'}/>,
+    <CACitiesExports.Escondido key={'Escondido'}/>,
+    <CACitiesExports.ThousandOaks key={'thousandoaks'}/>,
+    <CACitiesExports.SanLuisObispo key={'sanluisobispo'}/>,
+    
     
   ];
 

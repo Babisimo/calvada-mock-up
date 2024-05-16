@@ -70,8 +70,23 @@ import RanchoCucamonga from '../CA_Cities/RanchoCucamonga'
 import Redwood from '../CA_Cities/Redwood'
 import SanMateo from '../CA_Cities/SanMateo'
 import CathedralCity from '../CA_Cities/CathedralCity'
+import Oakland from '../CA_Cities/Oakland'
+import Brea from '../CA_Cities/Brea'
+import ElkGrove from '../CA_Cities/ElkGrove'
+import SanLeandro from '../CA_Cities/SanLeandro'
+import LosAltos from '../CA_Cities/LosAltos'
+import Escondido from '../CA_Cities/Escondido'
+import ThousandOaks from '../CA_Cities/ThousandOaks'
+import SanLuisObispo from '../CA_Cities/SanLuisObispo'
 
 export {
+    ThousandOaks,
+    Escondido,
+    LosAltos,
+    SanLeandro,
+    ElkGrove,
+    Brea,
+    Oakland,
     CathedralCity,
     SanMateo,
     Redwood,
@@ -118,6 +133,7 @@ export {
     Temecula,
     Torrance,
     SanBernardino,
+    SanLuisObispo,
     SanJose,
     LakeElsinore,
     Fresno,

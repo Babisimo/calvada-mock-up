@@ -29,9 +29,13 @@ const SanLuisObispo = () => {
         <br />
         <a href='https://propertyinquiryportal.slocounty.ca.gov/#/property-inquiry' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
+        <a href='https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/GIS-of-Survey-Maps.aspx' target={"_blank"} rel='noreferrer'>Interactive GIS Mapping</a>
+        <br />
         <a href='https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/Record-Map-Index.aspx' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records)
         <br />
-        <a href='https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/GIS-of-Survey-Maps.aspx' target={"_blank"} rel='noreferrer'>Interactive GIS Mapping</a>
+        <a href='https://www.slocity.org/home/showpublisheddocument/15462/637601204870730000' target={"_blank"} rel='noreferrer'>Benchmarks</a>&nbsp;&nbsp;&nbsp;
+        <br />
+        <a href='https://www.slocity.org/government/department-directory/public-works/documents-online' target={"_blank"} rel='noreferrer'>Public Record Documents</a>&nbsp;&nbsp;&nbsp;(Storm Drain, FEMA, Benchmarks)
       </span>
 
       {/* Border To Separate Information */}

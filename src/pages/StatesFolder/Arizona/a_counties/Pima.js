@@ -19,6 +19,8 @@ const Pima = () => {
         <a href='https://webcms.pima.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
         <a href='https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=22235' target={"_blank"} rel='noreferrer'>GIS</a>
+        <br />
+        <a href='https://maps2.tucsonaz.gov/Html5Viewer/?viewer=maptucson' target={"_blank"} rel='noreferrer'>City of Tucson GIS</a>
       </span>
 
       {/* Border To Separate Information */}
