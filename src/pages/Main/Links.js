@@ -47,6 +47,16 @@ export default function Links() {
           imgSrc="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png"
           imgWidth="30px"
         />
+      
+        {/* NAFAC SW Cadestral Requirements */}
+        <CustomLink
+          link="https://drive.google.com/file/d/145tLOzCwhSI-aUsyO6uVuyvdcZY0wDVN/view?usp=drive_link"
+          linkName="NAVFAC Requirements For Surveying"
+          hasImage="false"
+          imgAlt="PDF"
+          imgSrc="https://png.pngtree.com/png-clipart/20220612/original/pngtree-pdf-file-icon-png-png-image_7965915.png"
+          imgWidth="50px"
+        />
 
         {/* CalTrans ROW Contacts */}
         <CustomLink
@@ -84,6 +94,7 @@ export default function Links() {
           linkName="Township and Range - Public Land Survey System"
           hasImage="false"
         />
+
 
         {/* BLM */}
         <CustomLink

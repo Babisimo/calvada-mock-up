@@ -78,8 +78,12 @@ import LosAltos from '../CA_Cities/LosAltos'
 import Escondido from '../CA_Cities/Escondido'
 import ThousandOaks from '../CA_Cities/ThousandOaks'
 import SanLuisObispo from '../CA_Cities/SanLuisObispo'
+import Milpitas from '../CA_Cities/Milpitas'
+import Downey from '../CA_Cities/Downey'
 
 export {
+    Downey,
+    Milpitas,
     ThousandOaks,
     Escondido,
     LosAltos,
