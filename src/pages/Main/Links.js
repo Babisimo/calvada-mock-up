@@ -37,26 +37,6 @@ export default function Links() {
           imgSrc="https://search.dca.ca.gov/images/dcasearch.png"
           imgWidth="180px"
         />
-        
-        {/* Google Sheet for Research Contacts */}
-        <CustomLink
-          link="https://docs.google.com/spreadsheets/d/1OIIkwJlWT1OTXHB9fdcxXAbAQba1-S5LivrMZWDlypY/edit?usp=sharing"
-          linkName="Research Contacts"
-          hasImage="true"
-          linkAlt="Google Sheet"
-          imgSrc="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png"
-          imgWidth="30px"
-        />
-      
-        {/* NAFAC SW Cadestral Requirements */}
-        <CustomLink
-          link="https://drive.google.com/file/d/145tLOzCwhSI-aUsyO6uVuyvdcZY0wDVN/view?usp=drive_link"
-          linkName="NAVFAC Requirements For Surveying"
-          hasImage="false"
-          imgAlt="PDF"
-          imgSrc="https://png.pngtree.com/png-clipart/20220612/original/pngtree-pdf-file-icon-png-png-image_7965915.png"
-          imgWidth="50px"
-        />
 
         {/* CalTrans ROW Contacts */}
         <CustomLink
@@ -77,7 +57,17 @@ export default function Links() {
           imgSrc="https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif"
           imgWidth="40px"
         />
-        
+
+        {/* Google Sheet for Research Contacts */}
+        <CustomLink
+          link="https://docs.google.com/spreadsheets/d/1OIIkwJlWT1OTXHB9fdcxXAbAQba1-S5LivrMZWDlypY/edit?usp=sharing"
+          linkName="Research Contacts"
+          hasImage="true"
+          linkAlt="Google Sheet"
+          imgSrc="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png"
+          imgWidth="30px"
+        />
+
         {/* Magnetic Field Calculator */}
         <CustomLink
           link="https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml"
@@ -94,7 +84,6 @@ export default function Links() {
           linkName="Township and Range - Public Land Survey System"
           hasImage="false"
         />
-
 
         {/* BLM */}
         <CustomLink
@@ -166,7 +155,7 @@ export default function Links() {
           imgSrc="https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg"
           imgWidth="180px"
         />
-       
+
         {/* SoCal California Edison Lines */}
         <CustomLink
           link="https://www.arcgis.com/apps/webappviewer/index.html?id=05a84ec9d19f43ac93b451939c330888"
@@ -175,6 +164,26 @@ export default function Links() {
           linkAlt="SoCal Edison Lines"
           imgSrc="https://skipsolabs-california-energy-challenge.s3.amazonaws.com/frontend/section/organization/7880/5f070c781a15d5667169.png"
           imgWidth="100px"
+        />
+
+        {/* NAFAC SW Cadestral Requirements */}
+        <CustomLink
+          link="https://drive.google.com/file/d/145tLOzCwhSI-aUsyO6uVuyvdcZY0wDVN/view?usp=drive_link"
+          linkName="NAVFAC Requirements For Surveying"
+          hasImage="false"
+          imgAlt="PDF"
+          imgSrc="https://png.pngtree.com/png-clipart/20220612/original/pngtree-pdf-file-icon-png-png-image_7965915.png"
+          imgWidth="50px"
+        />
+
+        {/* SCE CAD File Requirements */}
+        <CustomLink
+          link="https://drive.google.com/file/d/14NvCvl2oF4ENSaps8TGDfTSPiKb5yCRM/view?usp=sharing"
+          linkName="SCE CAD File Requirements"
+          hasImage="false"
+          imgAlt="PDF"
+          imgSrc="https://png.pngtree.com/png-clipart/20220612/original/pngtree-pdf-file-icon-png-png-image_7965915.png"
+          imgWidth="50px"
         />
       </div>
     </div>
@@ -187,13 +196,13 @@ function CustomLink(props) {
       <a href={props.link} target={"_blank"} rel="noreferrer">
         {props.hasImage
           ? "true" && (
-              <img
-                alt={props.imgAlt}
-                src={props.imgSrc}
-                width={props.imgWidth}
-                height={props.imgHeight}
-              />
-            )
+            <img
+              alt={props.imgAlt}
+              src={props.imgSrc}
+              width={props.imgWidth}
+              height={props.imgHeight}
+            />
+          )
           : "false" && null}
         {props.linkName}
       </a>
