@@ -80,8 +80,10 @@ import ThousandOaks from '../CA_Cities/ThousandOaks'
 import SanLuisObispo from '../CA_Cities/SanLuisObispo'
 import Milpitas from '../CA_Cities/Milpitas'
 import Downey from '../CA_Cities/Downey'
+import RedondoBeach from '../CA_Cities/RedondoBeach'
 
 export {
+    RedondoBeach,
     Downey,
     Milpitas,
     ThousandOaks,
