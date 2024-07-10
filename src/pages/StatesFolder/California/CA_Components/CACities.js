@@ -89,7 +89,8 @@ export default function CACities() {
     <CACitiesExports.Milpitas key={'Milpitas'}/>,
     <CACitiesExports.Downey key={'Downey'}/>,
     <CACitiesExports.RedondoBeach key={'RedondoBeach'}/>,
-    
+    <CACitiesExports.SantaBarbara key={'SantaBarbara'} />,
+    <CACitiesExports.Coronado key={'Coronado'} />,
     
   ];
 

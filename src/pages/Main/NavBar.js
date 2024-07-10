@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link, useMatch, useResolvedPath } from "react-router-dom";
 import "../../styles/navbar.css";
+import calvadaLogo from "../../images/calvada_logo.png"
 
 export default function NavBar() {
   const [isMenuOpen, setMenuOpen] = useState(false);
@@ -14,7 +15,7 @@ export default function NavBar() {
       <Link to="/" className="site-title">
         <img
           alt="calvada-logo"
-          src={"https://www.calvada.com/images/logo.png"}
+          src={calvadaLogo}
         ></img>
       </Link>
       <button className={`hamburger ${isMenuOpen ? "open" : ""}`} onClick={toggleMenu}>

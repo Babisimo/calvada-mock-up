@@ -81,8 +81,12 @@ import SanLuisObispo from '../CA_Cities/SanLuisObispo'
 import Milpitas from '../CA_Cities/Milpitas'
 import Downey from '../CA_Cities/Downey'
 import RedondoBeach from '../CA_Cities/RedondoBeach'
+import SantaBarbara from '../CA_Cities/SantaBarbara'
+import Coronado from '../CA_Cities/Coronado'
 
 export {
+    Coronado,
+    SantaBarbara,
     RedondoBeach,
     Downey,
     Milpitas,
