@@ -26,6 +26,16 @@ const SanBenito = () => {
       <span className='span'>
         <h3>Links:</h3>
         <a href='https://gis.cosb.us/Html5Viewer_2_0/Index.html?configBase=https://gis.cosb.us/Geocortex/Essentials/REST/sites/SBC/viewers/Public/virtualdirectory/Resources/Config/Default' target={"_blank"} rel='noreferrer'>APN GIS</a>&nbsp;&nbsp;&nbsp;(Free APNs)
+        <br/>
+        <br/>
+        <a href='https://www.mediafire.com/folder/dab7de8ws3enx/GLO' target={"_blank"} rel='noreferrer'>GLO</a>&nbsp;&nbsp;&nbsp;(Historic Maps)
+        <br/>
+        <a href='https://www.mediafire.com/folder/g1mpq45inc2lo/Corner+Records' target={"_blank"} rel='noreferrer'>Corner Records</a>&nbsp;&nbsp;&nbsp;
+        <br/>
+        <a href='https://www.mediafire.com/folder/94v448aqv5kxw/San+Benito#52v5aik4p032i' target={"_blank"} rel='noreferrer'>Maps</a>&nbsp;&nbsp;&nbsp;(Book & Page)
+        <br/>
+        <a href='https://www.mediafire.com/folder/94v448aqv5kxw/San+Benito#akf14a19lit3l' target={"_blank"} rel='noreferrer'>Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Book & Page)
+        <br/>
       </span>
 
       {/* Border To Separate Information */}

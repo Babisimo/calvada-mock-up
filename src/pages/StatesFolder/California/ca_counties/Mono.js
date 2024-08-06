@@ -17,6 +17,8 @@ const Mono = () => {
         <span className='span'>
           <h3>Links:</h3>
           <br />
+          <a href='https://www.mediafire.com/folder/jdiatk4vuo4oo//Mono' target={'_blank'} rel="noreferrer">Recorded Maps</a>&nbsp;&nbsp;&nbsp;(Book & Page) 
+          <br />
           <a href='https://webapps.mono.ca.gov/filebrowser/' target={'_blank'} rel="noreferrer">Document Browser</a>&nbsp;&nbsp;&nbsp;(Free Assessor Parcel Maps, Record Maps, & More)
           <br />
         </span>

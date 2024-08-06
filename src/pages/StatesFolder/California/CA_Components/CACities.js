@@ -91,6 +91,8 @@ export default function CACities() {
     <CACitiesExports.RedondoBeach key={'RedondoBeach'}/>,
     <CACitiesExports.SantaBarbara key={'SantaBarbara'} />,
     <CACitiesExports.Coronado key={'Coronado'} />,
+    <CACitiesExports.Pomona key={'Pomona'} />,
+
     
   ];
 

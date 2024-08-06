@@ -83,8 +83,10 @@ import Downey from '../CA_Cities/Downey'
 import RedondoBeach from '../CA_Cities/RedondoBeach'
 import SantaBarbara from '../CA_Cities/SantaBarbara'
 import Coronado from '../CA_Cities/Coronado'
+import Pomona from '../CA_Cities/Pomona'
 
 export {
+    Pomona,
     Coronado,
     SantaBarbara,
     RedondoBeach,

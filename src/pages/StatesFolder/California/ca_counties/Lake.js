@@ -32,6 +32,12 @@ const Lake = () => {
         <a href='https://gispublic.co.lake.ca.us/portal/home/' target={"_blank"} rel='noreferrer'>GIS Viewer</a>
         <br />
         <br />
+        <a href='https://www.mediafire.com/folder/e6nags4364gtd/PM' target={"_blank"} rel='noreferrer'>Parcel Maps</a>
+        <br />
+        <a href='https://www.mediafire.com/folder/q4j0yv1ik2rpf/RS' target={"_blank"} rel='noreferrer'>Records of Survey</a>
+        <br />
+        <a href='https://www.mediafire.com/folder/nnhtqg3xoznd2/Sub' target={"_blank"} rel='noreferrer'>Subdivision Maps</a>
+        <br />
         <br />
         <h4>Request Record Maps:</h4>
         <p>Cara Bowin | <a href='mailto:Cara.Bowin@lakecountyca.gov'>Cara.Bowin@lakecountyca.gov</a></p>

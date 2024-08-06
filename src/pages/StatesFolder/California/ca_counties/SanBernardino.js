@@ -29,6 +29,8 @@ const SanBernardino = () => {
         <br />
         <a href='http://www.sbcounty.gov/assessor/pims/(S(z2yqm24244gskf1mzepvqq2a))/PIMSINTERFACE.ASPX' target={"_blank"} rel='noreferrer'>Property Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
+        <a href='https://experience.arcgis.com/experience/a1a8b62daed444d2ad76caae4327f91a' target={"_blank"} rel='noreferrer'>Surveyor Index</a>&nbsp;&nbsp;&nbsp;(Record Maps County Database)
+        <br />
         <a href='https://sbcountydpw.maps.arcgis.com/apps/webappviewer/index.html?id=998f9db88f77437cbb0842885685fd87' target={"_blank"} rel='noreferrer'>Surveyor's Public Map - GIS (OLD)</a>
         <br />
         <a href='https://experience.arcgis.com/experience/a1a8b62daed444d2ad76caae4327f91a' target={"_blank"} rel='noreferrer'>Surveyor's Public Map - GIS (NEW)</a>&nbsp;&nbsp;&nbsp;(APNs | Parcel Maps | Record Of Survey | Tract Maps | Corner Record | Miscellaneous Survey | Vertical & Horizontal Control ) - Free
