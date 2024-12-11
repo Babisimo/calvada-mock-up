@@ -1,0 +1,166 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: fit-content;
+  background-color: #0a2717;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0; /* Adjust the horizontal positioning */
+  right: 0;
+  bottom: 0;
+  background-image: url('./images/BG Pic.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+  z-index: -1;
+}
+
+/* Used for containing all inside divs */
+.container {
+  margin: .5rem;
+}
+
+.site-title img {
+  width: 250px;
+}
+
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav a {
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0.25rem;
+}
+
+.nav li.active {
+  background-color: #f1f7e7;
+  color: #634060;
+  border-radius: 1rem;
+}
+
+.nav li:hover {
+  border-radius: 1rem;
+  color: #634060;
+}
+
+.title {
+  color: #ece7b4;
+  padding: 0rem 0 0.8rem 0;
+  text-align: center;
+}
+
+.para {
+  color: rgb(241, 255, 225);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem
+}
+
+.buttons a {
+  text-decoration: none;
+  color: #406343;
+  width: 11rem;
+}
+
+.buttons button {
+  width: 100%;
+  height: 5rem;
+  font-size: large;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #f3efcc;
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+  color: #406343;
+}
+
+.buttons button:hover {
+  background-color: white;
+  color: #634060;
+}
+
+strong {
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.spacer {
+  margin: 2rem 0 2rem 0;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .site-title img {
+    width: 200px;
+  }
+
+  .nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .nav li {
+    margin: 0.5rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .buttons button {
+    width: 100%;
+    margin: 0.5rem 0;
+  }
+
+  .disclaimer_footer { 
+    padding: .3rem;
+    font-size: xx-small;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .site-title img {
+    width: 150px;
+  }
+
+  .nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav li {
+    margin: 0.5rem 0;
+  }
+}

@@ -1,0 +1,96 @@
+/* Dropdown Button */
+.city-dropbtn {
+  overflow-wrap: break-word;
+  white-space: normal;
+  font: inherit;
+  font-weight: 480;
+  background-color: #f3efcc;
+  cursor: pointer;
+  color: #406343;
+  min-width: 8rem;
+  max-width: 8rem;
+  min-height: 4rem;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+}
+
+.city-dropbtn::first-letter{
+  font-weight: bolder;
+}
+
+/* The container <div> - needed to position the city-dropdown content */
+.city-dropdown {
+  margin: 1rem 0.25rem;
+  display: inline-block;
+}
+
+/* city-Dropdown Content (Hidden by Default) */
+.city-dropdown-content {
+  max-height: calc(100vh - 15rem);
+  border-radius: 10px;
+  cursor: pointer;
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 8rem;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+/* Links inside the city-dropdown */
+.city-dropdown-content a {
+  border-radius: 10px;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of city-dropdown links on hover */
+.city-dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the city-dropdown menu on hover */
+.city-dropdown:hover .city-dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the city-dropdown button when the city-dropdown content is shown */
+.city-dropdown:hover .city-dropbtn {
+  background-color: #ffffff;
+  color: #634060;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .city-dropbtn {
+    min-width: 6rem;
+    min-height: 3rem;
+  }
+
+  .city-dropdown-content {
+    max-height: calc(100vh - 10rem);
+    min-width: 6rem;
+  }
+
+  .city-dropdown-content a {
+    padding: 8px 12px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .city-dropbtn {
+    min-width: 4rem;
+    min-height: 2.5rem;
+  }
+
+  .city-dropdown-content {
+    max-height: calc(100vh - 7.5rem);
+    min-width: 4rem;
+  }
+
+  .city-dropdown-content a {
+    padding: 6px 8px;
+  }
+}

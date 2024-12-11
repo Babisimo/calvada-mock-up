@@ -1,0 +1,121 @@
+.nav {
+  background-color: #f3efcc;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
+  color: #406343;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.hamburger {
+  display: none; /* Hide the hamburger button by default on desktop */
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.hamburger-line {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #406343;
+  margin: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.hamburger.open .hamburger-line:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger.open .hamburger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.open .hamburger-line:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 0.3s ease, max-height 0.3s ease;
+}
+
+.menu.open {
+  opacity: 1;
+  max-height: 500px; /* Adjust the value as needed to accommodate the menu content */
+  transition: opacity 0.3s ease, max-height 0.3s ease;
+}
+
+.menu li {
+  margin-right: 1rem;
+}
+
+.menu a {
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0.25rem;
+}
+
+.menu li.active {
+  background-color: #f1f7e7;
+  color: #406343;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav > * {
+    margin-top: 1rem;
+  }
+
+  .hamburger {
+    display: block; /* Show the hamburger button on mobile */
+  }
+
+  .menu {
+    display: none; /* Hide the menu by default on mobile */
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .menu.open {
+    display: flex; /* Show the menu when the hamburger button is clicked */
+    opacity: 1;
+    max-height: 1000px; /* Adjust the value as needed to accommodate the menu content */
+    transition: opacity 0.3s ease, max-height 0.3s ease;
+  }
+}
+
+/* Styles for Desktop */
+@media screen and (min-width: 769px) {
+  .nav {
+    justify-content: flex; /* Align the navbar options to the right on desktop */
+  }
+
+  .hamburger {
+    display: none; /* Hide the hamburger button on desktop */
+  }
+
+  .menu {
+    display: flex; /* Show the menu on desktop */
+    opacity: 1;
+    max-height: none;
+    transition: none;
+  }
+}

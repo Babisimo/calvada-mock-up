@@ -1,0 +1,61 @@
+.city-title {
+  padding-top: 1rem;
+  color: #f3efcc;
+}
+
+/* View Button on .\StatesFolder\California\CA_Components\CACities.js */
+.view-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 2.5%;
+}
+
+.view-btn button {
+  background-color: #f3efcc;
+  display: flex;
+  padding: 0.7rem;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+}
+
+.view-btn button:hover {
+  background-color: #ffffff;
+  color: #634060;
+}
+
+.view-btn button:active {
+  background-color: #f7f5e8;
+  color: black;
+}
+
+.cities {
+  /* display: block; */
+  text-align: center;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .view-btn {
+    margin: 0 1.5%;
+  }
+
+  .view-btn button {
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .view-btn {
+    flex-wrap: wrap;
+    margin: 0;
+    justify-content: center;
+  }
+
+  .view-btn button {
+    padding: 0.4rem;
+    border-radius: 4px;
+  }
+}

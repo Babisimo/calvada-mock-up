@@ -1,0 +1,12 @@
+.warning{
+    color: gold;
+    text-align: center;
+}
+
+.warning a {
+    color: gold;
+}
+
+.warning a:hover{
+    color: blueviolet;
+}

@@ -1,0 +1,63 @@
+/* Styling for Utilities */
+
+.util-zones{
+    background-color: rgba(13, 26, 12, 0.445);
+    padding: 10px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.util-zones a {
+    text-decoration: none;
+    max-width: fit-content;
+    
+}
+
+.util-zones button {
+    font-size: medium;
+    margin: 0.5rem;
+    background-color: #f3efcc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    color: #406343;
+    padding: 8px 30px;
+    gap: 0.5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.util-zones button:hover {
+    background-color: white;
+}
+
+.util-header{
+    text-align: start;
+    color: aliceblue;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+    .util-zones {
+        padding: 5px;
+    }
+
+    .util-zones button {
+        padding: 6px 20px;
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .util-zones {
+        padding: 2px;
+    }
+
+    .util-zones button {
+        padding: 4px 15px;
+        font-size: 0.7rem;
+    }
+}
