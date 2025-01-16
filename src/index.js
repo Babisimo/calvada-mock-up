@@ -18,8 +18,8 @@ import './styles/scrollbar.css'
 // Styling for all things Utilities
 import './styles/utils.css'
 
-// Styling for warnings
-import './styles/warning.css'
+// Styling for notifications
+import './styles/notification.css'
 
 // Initialize Google Analytics
 ReactGA.initialize('G-WRJR2K0YME');

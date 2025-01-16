@@ -104,6 +104,8 @@ export default function CACities() {
     <CACitiesExports.RedBluff key={'RedBluff'} />,
     <CACitiesExports.ElSegundo key={'ElSegundo'} />,
     <CACitiesExports.SouthSanFrancisco key={'South San Francisco'} />,
+    <CACitiesExports.SantaFeSprings key={'Santa Fe Springs'} />,
+    <CACitiesExports.Napa key={'Napa'} />,
     
 
   ];

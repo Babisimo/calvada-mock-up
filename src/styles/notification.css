@@ -1,0 +1,35 @@
+.warning{
+    color: gold;
+    text-align: center;
+}
+
+.warning a {
+    color: gold;
+}
+
+.warning a:hover{
+    color: blueviolet;
+}
+
+/* Notification container */
+.notification {
+    position: fixed;
+    bottom: -100px; /* Start off-screen */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    z-index: 9999;
+    transition: bottom 0.5s ease-in-out;
+    opacity: 0;
+}
+
+/* Show the notification with the animation */
+.notification.show {
+    bottom: 25%; /* Move it up to cover 1/4 of the screen height */
+    opacity: 1;
+}

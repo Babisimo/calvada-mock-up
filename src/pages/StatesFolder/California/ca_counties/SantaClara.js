@@ -31,7 +31,7 @@ const SantaClara = () => {
         <br />
         <a href='https://sccplanning.maps.arcgis.com/apps/webappviewer/index.html?id=bc21a949580746968cb7139386996978' target={"_blank"} rel='noreferrer'>GIS County Surveyors</a>&nbsp;&nbsp;&nbsp;(Free APNS, Corner Records)
         <br />
-        <a href='https://www.valleywater.org/interactive-benchmark-locator' target={"_blank"} rel='noreferrer'>Interactive Benchmark Locator</a>
+        {/* <a href='https://www.valleywater.org/interactive-benchmark-locator' target={"_blank"} rel='noreferrer'>Interactive Benchmark Locator</a> */}
       </span>
 
       {/* Border To Separate Information */}

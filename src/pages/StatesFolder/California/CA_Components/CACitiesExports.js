@@ -97,10 +97,13 @@ import RedBluff from '../CA_Cities/RedBluff'
 import ElSegundo from '../CA_Cities/ElSegundo'
 import SantaRosa from '../CA_Cities/SantaRosa'
 import SouthSanFrancisco from '../CA_Cities/SouthSanFrancisco'
+import SantaFeSprings from '../CA_Cities/SantaFeSprings'
+import Napa from '../CA_Cities/Napa'
 
 
 export {
-
+    Napa,
+    SantaFeSprings,
     SouthSanFrancisco,
     SantaRosa,
     ElSegundo,
