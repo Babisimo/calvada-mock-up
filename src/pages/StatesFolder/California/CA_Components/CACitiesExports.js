@@ -99,9 +99,14 @@ import SantaRosa from '../CA_Cities/SantaRosa'
 import SouthSanFrancisco from '../CA_Cities/SouthSanFrancisco'
 import SantaFeSprings from '../CA_Cities/SantaFeSprings'
 import Napa from '../CA_Cities/Napa'
-
+import LagunaNigel from '../CA_Cities/LagunaNigel'
+import SanBruno from '../CA_Cities/SanBruno'
+import Oroville from '../CA_Cities/Oroville'
 
 export {
+    Oroville,
+    SanBruno,
+    LagunaNigel,
     Napa,
     SantaFeSprings,
     SouthSanFrancisco,

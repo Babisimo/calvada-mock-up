@@ -106,8 +106,9 @@ export default function CACities() {
     <CACitiesExports.SouthSanFrancisco key={'South San Francisco'} />,
     <CACitiesExports.SantaFeSprings key={'Santa Fe Springs'} />,
     <CACitiesExports.Napa key={'Napa'} />,
-    
-
+    <CACitiesExports.LagunaNigel key={'Laguna Nigel'} />,
+    <CACitiesExports.SanBruno key={'San Bruno'} />,
+    <CACitiesExports.Oroville key={'Oroville'} />,  
   ];
 
   return (

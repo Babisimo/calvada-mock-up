@@ -27,7 +27,7 @@ const Sacramento = () => {
         <h3>Links:</h3>
         <a href='https://www.saccounty.gov/Pages/default.aspx' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://assessorparcelviewer.saccounty.gov/JSViewer/assessor.html' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <a href='https://generalmap.gis.saccounty.gov/JSViewer/county_portal.html' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
         <br />
         <a href='https://assr.parcelquest.com/Statewide/Disclaimer' target={"_blank"} rel='noreferrer'>APNS</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
