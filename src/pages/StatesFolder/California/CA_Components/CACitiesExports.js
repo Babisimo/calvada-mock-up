@@ -102,8 +102,10 @@ import Napa from '../CA_Cities/Napa'
 import LagunaNigel from '../CA_Cities/LagunaNigel'
 import SanBruno from '../CA_Cities/SanBruno'
 import Oroville from '../CA_Cities/Oroville'
+import Hemet from '../CA_Cities/Hemet'
 
 export {
+    Hemet,
     Oroville,
     SanBruno,
     LagunaNigel,

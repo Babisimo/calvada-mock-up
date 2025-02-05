@@ -6,7 +6,7 @@ export default function WaCountiesNavBar() {
         <nav className="counties">
             <ul>
                 <CustomLink to="/franklin">Franklin</CustomLink>
-                                
+                <CustomLink to="/king">King</CustomLink>
             </ul>
         </nav>
     )

@@ -19,6 +19,7 @@ const ElDorado = () => {
         <br />
         <a href='https://camapsource.com/el-dorado/' target={'_blank'} rel="noreferrer">Recorded Maps</a>&nbsp;&nbsp;&nbsp;(Free Assesment Maps, Cemetery, Parcel, Subdivision, Survey)
         <br />
+        <a href='https://sftp2.edcgov.us/public/folder/wh8fcjkmskotbesok_blcg/wh8fcjkmskotbesok_blcg%5C' target={'_blank'} rel="noreferrer">County Benchmarks</a>&nbsp;&nbsp;&nbsp;(Free Benchmark KMZ)
       </span>
 
       {/* Border To Separate Information */}

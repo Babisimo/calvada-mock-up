@@ -11,6 +11,7 @@ export default function CitiesRoutes(){
                 {/* CA Cities Routes */}
                 <Route path="/cities/CACities" element={<CACities/>}></Route>
                 <Route path="/cities/AZCities" element={<AZCities/>}></Route>
+                <Route path="/cities/AZCities" element={<AZCities/>}></Route>
             </Routes>
         </>
     )
