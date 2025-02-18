@@ -103,8 +103,10 @@ import LagunaNigel from '../CA_Cities/LagunaNigel'
 import SanBruno from '../CA_Cities/SanBruno'
 import Oroville from '../CA_Cities/Oroville'
 import Hemet from '../CA_Cities/Hemet'
+import Reedly from '../CA_Cities/Reedly'
 
 export {
+    Reedly,
     Hemet,
     Oroville,
     SanBruno,

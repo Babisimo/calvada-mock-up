@@ -110,6 +110,7 @@ export default function CACities() {
     <CACitiesExports.SanBruno key={'San Bruno'} />,
     <CACitiesExports.Oroville key={'Oroville'} />,  
     <CACitiesExports.Hemet key={'Hemet'}  />,
+    <CACitiesExports.Reedly key={'Reedly'} />,
   ];
 
   return (
