@@ -8,6 +8,7 @@ export default function Links() {
       <h1 className="title">Links</h1>
 
       <div className="links">
+      
         {/* FEMA */}
         <CustomLink
           link="https://msc.fema.gov/portal/home"
@@ -16,6 +17,16 @@ export default function Links() {
           imgAlt="FEMA-logo"
           imgSrc="https://msc.fema.gov/portal/images/fema-logo-main.png"
           imgWidth="130px"
+        />
+
+        {/* OpenSky */}
+        <CustomLink
+          link="https://opensky.wing.com/visitor/map?lat=33.892180&lng=-117.593476&zoom=18"
+          linkName="OpenSky"
+          hasImage="true"
+          imgAlt="OpenSky-logo"
+          imgSrc="https://opensky.wing.com/assets/images/opensky_consumer_logo.png"
+          imgWidth="180px"
         />
 
         {/* NGS Benchmarks */}
@@ -84,8 +95,8 @@ export default function Links() {
           linkName="Magnetic Field Calculators"
           hasImage="true"
           imgAlt="ngdc-logo"
-          imgSrc="https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif"
-          imgWidth="280px"
+          imgSrc="https://www.noaa.gov/sites/default/files/2022-03/noaa_digital_logo-2022.png"
+          imgWidth="80px"
         />
 
         {/* Township and Range */}

@@ -28,6 +28,8 @@ const Maricopa = () => {
         <a href='https://maps.mcassessor.maricopa.gov/' target={"_blank"} rel='noreferrer'>Land Information System</a>&nbsp;&nbsp;&nbsp;(Free APNS & Maps)
         <br />
         <a href='https://www.maricopa.gov/3942/GIS-Mapping-Applications' target={"_blank"} rel='noreferrer'>Land Survey Interactive Map</a>&nbsp;&nbsp;&nbsp;(NGS Control)
+        <br />
+        <a href='https://mcassessor.maricopa.gov/mcs/?q=' target={"_blank"} rel='noreferrer'>APN Map Search</a>&nbsp;&nbsp;&nbsp;(Free APNs & Record Maps)
       </span>
 
       {/* Border To Separate Information */}

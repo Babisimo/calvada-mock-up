@@ -29,7 +29,7 @@ const Tulare = () => {
         <br />
         <a href='https://iportal.tularecounty.ca.gov/iportal/apps/webappviewer/index.html?id=a1a6e2f2f9f341ed84a64f3b61919760' target={"_blank"} rel='noreferrer'>Assessor Map</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='http://publicdocs.co.tulare.ca.us/Questys.CMx.Surveyorweb/Browse/Default.aspx' target={"_blank"} rel='noreferrer'>Surveyor Documents</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, Benchmarks, etc.)
+        <a href='https://publicdocs.co.tulare.ca.us/Questys.CMx.Surveyorweb/Browse/Default.aspx' target={"_blank"} rel='noreferrer'>Surveyor Documents</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records, Benchmarks, etc.)
       </span>
 
       {/* Border To Separate Information */}

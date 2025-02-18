@@ -13,7 +13,7 @@ function District11() {
 
             <h4>Contact:</h4>
 
-            <p>Sarkisian, Ben | <a href='mailto:ben.sarkisian@dot.ca.gov'>ben.sarkisian@dot.ca.gov</a> | (619) 688-6608</p>
+            <p>District 11 RW Records | <a href='mailto:D11.RWE.Records@dot.ca.gov'>D11.RWE.Records@dot.ca.gov</a> | (619) 688-6608</p>
         </div>
     )
 }

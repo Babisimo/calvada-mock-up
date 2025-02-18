@@ -9,6 +9,7 @@ export default function Cities() {
             <div className="buttons">
                 <Link to={'/cities/CACities'}><button>California Cities</button></Link>
                 <Link to={'/cities/AZCities'}><button>Arizona Cities</button></Link>
+                <Link to={'/cities/WACities'}><button>Washington Cities</button></Link>
                 {/* <Link><button>Nevada Cities</button></Link> */}
                 {/* <Link><button>Texas Cities</button></Link> */}
             </div>
