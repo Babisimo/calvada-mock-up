@@ -157,6 +157,16 @@ export default function Links() {
           imgWidth="180px"
         />
 
+        {/* Hexagon */}
+        <CustomLink
+          link="https://www.smartnetna.com/portal/"
+          linkName="HxGN SmartNet"
+          hasImage="true"
+          linkAlt="HxGN SmartNet-logo"
+          imgSrc="https://www.smartnetna.com/images/hexagon-geosystems.jpg"
+          imgWidth="180px"
+        />
+
         {/* National Geologic Map Database */}
         <CustomLink
           link="https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html"

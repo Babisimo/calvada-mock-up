@@ -111,6 +111,7 @@ export default function CACities() {
     <CACitiesExports.Oroville key={'Oroville'} />,  
     <CACitiesExports.Hemet key={'Hemet'}  />,
     <CACitiesExports.Reedly key={'Reedly'} />,
+    <CACitiesExports.Tulare key={'Tulare'} />,
   ];
 
   return (

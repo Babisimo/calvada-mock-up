@@ -104,8 +104,10 @@ import SanBruno from '../CA_Cities/SanBruno'
 import Oroville from '../CA_Cities/Oroville'
 import Hemet from '../CA_Cities/Hemet'
 import Reedly from '../CA_Cities/Reedly'
+import Tulare from '../CA_Cities/Tulare'
 
 export {
+    Tulare,
     Reedly,
     Hemet,
     Oroville,
