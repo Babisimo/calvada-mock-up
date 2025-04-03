@@ -7,7 +7,7 @@ export default function Utilities() {
             <h1 className="title">Utilities</h1>
             <div className="util-zones">
                 <Link to={'https://newtinb.digalert.org/direct/'} target="_blank" rel="noopener noreferrer"><button>DigAlert SoCal</button></Link>
-                <Link to={'https://fs26.formsite.com/6jJPTG/form6/index.html'} target="_blank" rel="noopener noreferrer"><button>DigAlert North California</button></Link>
+                <Link to={'https://onecallcapd.undergroundservicealert.org/ngen.web//Account/Login?returnUrl=%2Fngen.web%2F'} target="_blank" rel="noopener noreferrer"><button>DigAlert North California</button></Link>
 
                 <Link to={'/utilities/lautilities'}><button>Los Angeles</button></Link>                
                 <Link to={'/utilities/zonetwoutilities'}><button>Zone 2</button></Link>

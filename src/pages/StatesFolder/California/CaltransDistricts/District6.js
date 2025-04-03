@@ -13,7 +13,7 @@ function District6() {
             <br />
 
             <h4>Contact:</h4>
-            <p>Fitch, Bethany | <a href='mailto:Bethany.Fitch@dot.ca.gov'>Bethany.Fitch@dot.ca.gov</a> | (559) 974-4825</p>
+            <p>Caron Young | <a href='mailto:Carson.Young@dot.ca.gov'>Carson.Young@dot.ca.gov</a> | (559) 974-4825</p>
         </div>
     )
 }

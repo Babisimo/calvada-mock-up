@@ -112,6 +112,8 @@ export default function CACities() {
     <CACitiesExports.Hemet key={'Hemet'}  />,
     <CACitiesExports.Reedly key={'Reedly'} />,
     <CACitiesExports.Tulare key={'Tulare'} />,
+    <CACitiesExports.Hillsborough key={'Hillsborough'} />,
+    <CACitiesExports.PismoBeach key={'PismoBeach'} />,
   ];
 
   return (

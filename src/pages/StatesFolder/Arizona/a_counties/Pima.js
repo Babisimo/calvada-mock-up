@@ -21,6 +21,8 @@ const Pima = () => {
         <a href='https://pimamaps.pima.gov/HtmlPubViewer/index.html?configBase=https://pimamaps.pima.gov/Geocortex/Essentials/PublicPM/REST/sites/surveysite/viewers/surveymap/virtualdirectory/Resources/Config/Default&layerName=NAVD%201988%20Elevation%20Circuit&zExtent=1&runWorkflow=primarysource-UrlQuery' target={"_blank"} rel='noreferrer'>GIS</a>
         <br />
         <a href='https://pimacountyaz-web.tylerhost.net/web/search/DOCSEARCH55S10' target={"_blank"} rel='noreferrer'>Pima County Recorder</a>
+        <br />
+        <a href='https://onbase.pima.gov/PublicAccess/TR_NextGen_Multi/etc/cq/' target={"_blank"} rel='noreferrer'>Maps & Records</a>&nbsp;&nbsp;&nbsp;(Road Maps, Construction Plans, Etc.)
       </span>
 
       {/* Border To Separate Information */}
