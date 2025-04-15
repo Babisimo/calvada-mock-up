@@ -5,9 +5,7 @@ function District7() {
         <div>
             <p>(District 7)</p>
             <br />
-            <a href='https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=23b2abcf3d6b4ae0be7a579258141178' target={"_blank"} rel='noreferrer'>District 7 Map Index</a>&nbsp;&nbsp;&nbsp;(Updated)
-            <br />
-            <a href='https://www.arcgis.com/home/webmap/viewer.html?webmap=be47fd3f5cc349f28f2871b5a6c07c6f&extent=-118.7232,33.7525,-117.538,34.5967' target={"_blank"} rel='noreferrer'>District 7 GIS</a>
+            <a href='https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=23b2abcf3d6b4ae0be7a579258141178' target={"_blank"} rel='noreferrer'>District 7 GIS</a>&nbsp;&nbsp;&nbsp;
             <br />
             <br />
             <h4>Request ROW Maps by Email:</h4>

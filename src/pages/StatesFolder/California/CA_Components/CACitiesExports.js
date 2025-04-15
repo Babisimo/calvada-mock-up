@@ -107,8 +107,10 @@ import Reedly from '../CA_Cities/Reedly'
 import Tulare from '../CA_Cities/Tulare'
 import Hillsborough from '../CA_Cities/Hillsborough'
 import PismoBeach from '../CA_Cities/PismoBeach'
+import Ventura from '../CA_Cities/Ventura'
 
 export {
+    Ventura,
     PismoBeach,
     Hillsborough,
     Tulare,

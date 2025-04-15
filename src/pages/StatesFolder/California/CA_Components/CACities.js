@@ -114,6 +114,7 @@ export default function CACities() {
     <CACitiesExports.Tulare key={'Tulare'} />,
     <CACitiesExports.Hillsborough key={'Hillsborough'} />,
     <CACitiesExports.PismoBeach key={'PismoBeach'} />,
+    <CACitiesExports.Ventura key={'Ventura'} />,
   ];
 
   return (
