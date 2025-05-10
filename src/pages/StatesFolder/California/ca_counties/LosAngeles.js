@@ -32,6 +32,8 @@ const LosAngeles = () => {
         <a href='https://dpw.lacounty.gov/smpm/landrecords/' target={"_blank"} rel='noreferrer'>Land Records / Record Maps GIS</a>&nbsp;&nbsp;&nbsp;(Free Maps, Corner Records, Field Books)
         <br />
         <a href='https://planning.lacounty.gov/maps-and-gis/interactive-gis-web-mapping-apps/' target={"_blank"} rel='noreferrer'>Interactive GIS Apps</a>&nbsp;&nbsp;&nbsp;(Zoning)
+        <br />
+        <a href='https://pw.lacounty.gov/des/design/hwyMain.cfm' target={"_blank"} rel='noreferrer'>Design Construction Plans</a>&nbsp;&nbsp;&nbsp;(As-Built Plans, Drainage)
       </span>
 
       {/* Border To Separate Information */}

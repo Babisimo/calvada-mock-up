@@ -17,7 +17,11 @@ const Calaveras = () => {
       <span className='span'>
         <h3>Links:</h3>
         <br />
-        <a href='https://camapsource.com/Calaveras/' target={'_blank'} rel="noreferrer">Recorded Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS, Record Maps)
+        <a href='https://pmaps.calaverasgov.us/' target={'_blank'} rel="noreferrer">Assessor Parcel Map Search</a>&nbsp;&nbsp;&nbsp;(Free APNS Search)
+        <br />
+        <a href='https://gisportal.calaverascounty.gov/portal/apps/webappviewer/index.html?id=6e2681937019448b8f4e761b22d11a6e' target={'_blank'} rel="noreferrer">Assessor Parcel Map GIS</a>&nbsp;&nbsp;&nbsp;(Free APNS GIS)
+        <br />
+        <a href='https://camapsource.com/Calaveras/' target={'_blank'} rel="noreferrer">Recorded Maps</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
         <br />
         <a href='https://drive.google.com/file/d/1qdJe3zwVSBVuUtH3IoLSIrgqRy52RqMA/view?usp=drive_link' target={'_blank'} rel="noreferrer">Benchmarks</a>&nbsp;&nbsp;&nbsp;(PDF)
         <br />
