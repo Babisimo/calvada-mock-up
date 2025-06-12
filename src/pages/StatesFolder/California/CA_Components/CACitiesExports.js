@@ -108,8 +108,12 @@ import Tulare from '../CA_Cities/Tulare'
 import Hillsborough from '../CA_Cities/Hillsborough'
 import PismoBeach from '../CA_Cities/PismoBeach'
 import Ventura from '../CA_Cities/Ventura'
+import PaloAlto from '../CA_Cities/PaloAlto'
+import Redding from '../CA_Cities/Redding'
 
 export {
+    Redding,
+    PaloAlto,
     Ventura,
     PismoBeach,
     Hillsborough,
