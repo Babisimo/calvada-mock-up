@@ -27,9 +27,9 @@ const Placer = () => {
         <h3>Links:</h3>
         <a href='https://www.placer.ca.gov/' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='https://www.placer.ca.gov/5866/Property-Details' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://experience.arcgis.com/experience/cbff35c3f33a49348c65251459b8b0bc#data_s=id%3Ae5cb0caba85049a8836e7a041feb107f-1924945c5dd-layer-12%3A181760' target={"_blank"} rel='noreferrer'>APN GIS</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://maps.placer.ca.gov/Html5viewer/Index.html?viewer=LIS_Public.LIS_Base-Public' target={"_blank"} rel='noreferrer'>GIS</a>&nbsp;&nbsp;&nbsp;(Zoning)
+        <a href='https://www.placer.ca.gov/5866/Property-Details' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://camapsource.com/placer/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Parcel Maps, Map Locator, Corner Records, etc.)
         <br />
@@ -42,7 +42,7 @@ const Placer = () => {
 
       <span className='span'>
         <h3>Public Works:</h3>
-        <a href='https://www.google.com/maps/place/3091+County+Center+Dr,+Auburn,+CA+95603/@38.9413256,-121.1071291,17z/data=!3m1!4b1!4m6!3m5!1s0x809b106bf6e2539d:0x438e066f2125d6b0!8m2!3d38.9413256!4d-121.1071291!16s%2Fg%2F11bw3xp6fy?entry=ttu' target='_blank' rel='noreferrer'>3091 County Center<br/>Auburn, California 95603</a>
+        <a href='https://www.google.com/maps/place/3091+County+Center+Dr,+Auburn,+CA+95603/@38.9413256,-121.1071291,17z/data=!3m1!4b1!4m6!3m5!1s0x809b106bf6e2539d:0x438e066f2125d6b0!8m2!3d38.9413256!4d-121.1071291!16s%2Fg%2F11bw3xp6fy?entry=ttu' target='_blank' rel='noreferrer'>3091 County Center<br />Auburn, California 95603</a>
         <br />
         <br />
         <p><strong>Phone:</strong> (530)-745-3110</p>

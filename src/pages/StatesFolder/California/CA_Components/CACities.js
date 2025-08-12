@@ -117,6 +117,10 @@ export default function CACities() {
     <CACitiesExports.Ventura key={'Ventura'} />,
     <CACitiesExports.PaloAlto key={'PaloAlto'} />,
     <CACitiesExports.Redding key={'Redding'} />,
+    <CACitiesExports.Lodi key={'Lodi'} />,
+    <CACitiesExports.Poway key={'Poway'} />,
+    <CACitiesExports.NationalCity key={'NationalCity'} />,
+
   ];
 
   return (

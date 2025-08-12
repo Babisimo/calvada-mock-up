@@ -110,8 +110,14 @@ import PismoBeach from '../CA_Cities/PismoBeach'
 import Ventura from '../CA_Cities/Ventura'
 import PaloAlto from '../CA_Cities/PaloAlto'
 import Redding from '../CA_Cities/Redding'
+import Lodi from '../CA_Cities/Lodi'
+import Poway from '../CA_Cities/Poway'
+import NationalCity from '../CA_Cities/NationalCity'
 
 export {
+    NationalCity,
+    Poway,
+    Lodi,
     Redding,
     PaloAlto,
     Ventura,

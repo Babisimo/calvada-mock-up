@@ -29,13 +29,15 @@ const SanJoaquin = () => {
         <br />
         <a href='https://sjmap.org/DistrictViewer/' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
+        <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Record Maps)
+        <br />
         <a href='https://lfweb.sjgov.org/WebLink/Browse.aspx?dbid=0&cr=1' target={"_blank"} rel='noreferrer'>Surveyor Land Records System (Directory)</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
         <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=1985b52403334249a510715aeca3873e' target={"_blank"} rel='noreferrer'>Corner Records</a>&nbsp;&nbsp;&nbsp;(Free Maps)
         <br />
-        <a href='https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
+        <a href='https://san-joaquin-county-public-works-sjc-gis.hub.arcgis.com/datasets/sjc-gis::benchmarks-1/explore?layer=0&location=37.873963%2C-121.246680%2C9.99' target={"_blank"} rel='noreferrer'>County Benchmarks</a>&nbsp;&nbsp;&nbsp;(GIS)
         <br />
-        <a href='https://keithwspencer.net/Library/SanJoaquinCounty/BenchmarkBook.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>
+        <a href='https://keithwspencer.net/Library/SanJoaquinCounty/BenchmarkBook.pdf' target={"_blank"} rel='noreferrer'>County Benchmarks</a>&nbsp;&nbsp;&nbsp;(PDF)
       </span>
 
       {/* Border To Separate Information */}
