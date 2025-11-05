@@ -30,6 +30,8 @@ const SanMateo = () => {
         <a href='https://www.smcacre.org/assessor/assessor-maps' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://gis.smcgov.org/Html5Viewer/?viewer=raster' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS, Tract Maps, Parcel Maps, Record of Survey Maps, & Corner Records)
+        <br />
+        <a href='https://drive.google.com/file/d/1Y8ach8dJp4Ii8Qak8vYHGHPpRSa3eU-x/view?usp=sharing' target={"_blank"} rel='noreferrer'>Benchmarks</a>&nbsp;&nbsp;&nbsp;(KML Download)
 
       </span>
 

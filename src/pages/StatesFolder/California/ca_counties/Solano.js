@@ -27,9 +27,9 @@ const Solano = () => {
         <h3>Links:</h3>
         <a href='https://www.solanocounty.com/default.asp' target={"_blank"} rel='noreferrer'>Official Site</a>
         <br />
-        <a href='http://www.solanocounty.com/depts/ar/viewparcelmaps.asp' target={"_blank"} rel='noreferrer'>Assessor Maps Retrieval System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <a href='https://www.solanocounty.gov/government/assessorrecorder/assessor-division/assessor-maps' target={"_blank"} rel='noreferrer'>Assessor Maps Retrieval System</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
-        <a href='https://www.solanocounty.com/depts/ar/asr_filedmaps.asp' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps)
+        {/* <a href='https://www.solanocounty.com/depts/ar/asr_filedmaps.asp' target={"_blank"} rel='noreferrer'>Land Records | Record Maps</a>&nbsp;&nbsp;&nbsp;(Free Maps) */}
         <br />
         <a href='https://solanocountygis.com/portal/apps/webappviewer/index.html?id=5cbdaf8d97d94036857c67b50decbe9b' target={"_blank"} rel='noreferrer'>GIS Mapping</a>
       </span>

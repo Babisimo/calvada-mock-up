@@ -120,6 +120,9 @@ export default function CACities() {
     <CACitiesExports.Lodi key={'Lodi'} />,
     <CACitiesExports.Poway key={'Poway'} />,
     <CACitiesExports.NationalCity key={'NationalCity'} />,
+    <CACitiesExports.PalosVerdes key={'Palos Verdes'} />,
+    <CACitiesExports.SantaMaria key={'Santa Maria'} />,
+    <CACitiesExports.LomaLinda key={'Loma Linda'} />,
 
   ];
 

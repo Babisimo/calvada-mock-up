@@ -5,7 +5,7 @@ function SantaClara() {
         <div className='city-dropdown'>
             <button className='city-dropbtn'>Santa Clara</button>
             <div className='city-dropdown-content'>
-                <a href='https://www.santaclaraca.gov/our-city/departments-g-z/public-works/engineering/technical-documents' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                <a href='https://www.santaclaraca.gov/home/showpublisheddocument/5865/638373671381800000' target={'_blank'} rel='noreferrer'>Benchmarks</a>
             </div>
         </div>
     )

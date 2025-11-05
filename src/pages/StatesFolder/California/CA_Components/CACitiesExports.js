@@ -113,8 +113,14 @@ import Redding from '../CA_Cities/Redding'
 import Lodi from '../CA_Cities/Lodi'
 import Poway from '../CA_Cities/Poway'
 import NationalCity from '../CA_Cities/NationalCity'
+import SantaMaria from '../CA_Cities/SantaMaria'
+import PalosVerdes from '../CA_Cities/PalosVerdes'
+import LomaLinda from '../CA_Cities/LomaLinda'
 
 export {
+    LomaLinda,
+    PalosVerdes,
+    SantaMaria,
     NationalCity,
     Poway,
     Lodi,

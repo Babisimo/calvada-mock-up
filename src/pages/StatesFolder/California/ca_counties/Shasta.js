@@ -29,6 +29,8 @@ const Shasta = () => {
         <br />
         <a href='https://maps.shastacounty.gov/ShastaCountyMap/' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
+        <a href='https://www.mediafire.com/folder/pxfsax48v819z/Shasta' target={"_blank"} rel='noreferrer'>Mediafire</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
+        <br />
         <a href='https://camapsource.com/shasta/' target={"_blank"} rel='noreferrer'>CA Map Source</a>&nbsp;&nbsp;&nbsp;(Free Parcel Maps, Assessment Maps, etc.)
       </span>
 

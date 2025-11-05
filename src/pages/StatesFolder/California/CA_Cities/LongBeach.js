@@ -7,6 +7,7 @@ function LongBeach() {
             <div className='city-dropdown-content'>
                 <a href='https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/survey-benchmark-book' target={'_blank'} rel='noreferrer'>Benchmarks</a>
                 <a href='https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/benchmarkmap_website' target={'_blank'} rel='noreferrer'>Benchmarks Map</a>
+                <a href='https://www.arcgis.com/apps/mapviewer/index.html?layers=1f809519baf244359fa3fb9097fd3961' target={'_blank'} rel='noreferrer'>Benchmarks GIS</a>
                 <a href='https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=e41479af7f154bc584c384cd17440364' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
                 <a href='https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=17b68e7082ef4a4ea8ba6b0d04729758' target={'_blank'} rel='noreferrer'>GIS (Zoning)</a>
                 <a href='https://longbeach.gov/lbds/planning/advance/maps/zoning/' target={'_blank'} rel='noreferrer'>Zoning Maps</a>

@@ -6,7 +6,7 @@ function Escondido() {
             <button className='city-dropbtn'>Escondido</button>
             <div className='city-dropdown-content'>
                 <a href='https://www.escondido.gov/332/Centerline-Tie-Sheets' target={'_blank'} rel='noreferrer'>Centerline Ties</a>
-                <a href='https://www.escondido.org/Data/Sites/1/media/Engineering/KMBenchmarkMapUpdated2022.pdf' target={'_blank'} rel='noreferrer'>Benchmarks</a>
+                <a href='https://www.escondido.gov/DocumentCenter/View/1500/City-Benchmarks-PDF?bidId=' target={'_blank'} rel='noreferrer'>Benchmarks</a>
             </div>
         </div>
 
