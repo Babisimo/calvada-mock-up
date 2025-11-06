@@ -1,5 +1,5 @@
 import React from "react";
-import StatesNavBar from '../StatesFolder/StatesNavBar'
+import StatesNavBar from '../states/StatesNavBar'
 import '../../styles/counties.css'
 
 export default function Counties () { 

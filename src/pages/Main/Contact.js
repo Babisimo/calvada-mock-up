@@ -3,9 +3,9 @@ import React from 'react';
 import '../../styles/contact.css';
 
 const contacts = [
-    { name: 'Oswaldo Gonzalez', email: 'ogonzalez@calvada.com', phone: '951-280-9960', position: "Lead Web Developer/Researcher" },
-    { name: 'Hector Navarro', email: 'hnavarro@calvada.com', phone: '951-280-9960', position: "IT/CAD Engineer" },
-    { name: 'Daniel Gonzalez', email: 'daniel@calvada.com', position: "Researcher" },
+    { name: 'Oswaldo Gonzalez', email: '', phone: '951-280-9960', position: "Lead Web Developer/Head of Research" },
+    { name: 'Hector Navarro', email: '', phone: '951-280-9960', position: "IT/CAD Technician" },
+    { name: 'Daniel Gonzalez', email: '', phone: '951-280-9960', position: "Research" },
 ];
 
 function Contact() {

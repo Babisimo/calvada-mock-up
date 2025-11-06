@@ -2,20 +2,20 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom'
 
 // Importing California Counties
-import cacounties from "../pages/StatesFolder/California/CA_Components/CACountiesExports";
+import cacounties from "../pages/states/california/components/CACountiesExports";
 
 // Importing Arizona Counties
-import azcounties from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
-// import { SantaCruzAZ, Maricopa, Pima, Yuma, Cochise, Pinal } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+import azcounties from '../pages/states/arizona/components/az_exports'
+// import { SantaCruzAZ, Maricopa, Pima, Yuma, Cochise, Pinal } from '../pages/states/Arizona/AZ_Components/az_exports'
 
 // Importing Nevada Counties
-import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exports'
+import { Clark, Washoe } from '../pages/states/nevada/components/nv_exports'
 
 // Importing Texas Counties
-import { Bexar } from '../pages/StatesFolder/Texas/TX_Components/tx_exports'
+import { Bexar } from '../pages/states/texas/components/tx_exports'
 
 // Importing Washington Counties
-import { Franklin, King } from '../pages/StatesFolder/Washington/WA_Components/wa_exports'
+import { Franklin, King } from '../pages/states/washington/components/wa_exports'
 
 export default function CountiesRoutes() {
     return (

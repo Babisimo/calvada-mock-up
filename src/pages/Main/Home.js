@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import CaliforniaMapSVG from '../StatesFolder/California/CA_Components/CaliforniaMapSVG';
+import CaliforniaMapSVG from '../states/california/components/CaliforniaMapSVG';
 
 export default function Home() {
   return (

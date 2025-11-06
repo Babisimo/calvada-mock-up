@@ -1,18 +1,18 @@
 import React from "react"
-import NavBar from './pages/Main/NavBar'
-import Home from './pages/Main/Home';
-import Contact from "./pages/Main/Contact";
-import Links from "./pages/Main/Links";
+import NavBar from './pages/main/NavBar'
+import Home from './pages/main/Home';
+import Contact from "./pages/main/Contact";
+import Links from "./pages/main/Links";
 
 import { Route, Routes } from 'react-router-dom'
 
 // Main Imports
-import { Counties, Cities, Utilities } from "./pages/Main/MainExports"
+import { Counties, Cities, Utilities } from "./pages/main/MainExports"
 
 // Importing Counties Routes
 import CountiesRoutes from "./Routes/CountiesRoutes";
-import CAUtilityRoutes from "./pages/StatesFolder/California/CA_Components/CAUtilityRoutes";
-import CitiesRoutes from "./pages/StatesFolder/CitiesRoutes";
+import CAUtilityRoutes from "./pages/states/california/components/CAUtilityRoutes";
+import CitiesRoutes from "./pages/states/CitiesRoutes";
 
 import ReactGA from 'react-ga4'
 
