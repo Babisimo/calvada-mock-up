@@ -5,8 +5,8 @@ import { Route, Routes } from 'react-router-dom'
 import cacounties from "../pages/StatesFolder/California/CA_Components/CACountiesExports";
 
 // Importing Arizona Counties
-// import azcounties from './pages/StatesFolder/Arizona/AZ_Components/az_exports'
-import { SantaCruzAZ, Maricopa, Pima, Yuma, Cochise } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+import azcounties from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
+// import { SantaCruzAZ, Maricopa, Pima, Yuma, Cochise, Pinal } from '../pages/StatesFolder/Arizona/AZ_Components/az_exports'
 
 // Importing Nevada Counties
 import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exports'
@@ -15,7 +15,7 @@ import { Clark, Washoe } from '../pages/StatesFolder/Nevada/NV_Components/nv_exp
 import { Bexar } from '../pages/StatesFolder/Texas/TX_Components/tx_exports'
 
 // Importing Washington Counties
-import {Franklin, King} from '../pages/StatesFolder/Washington/WA_Components/wa_exports'
+import { Franklin, King } from '../pages/StatesFolder/Washington/WA_Components/wa_exports'
 
 export default function CountiesRoutes() {
     return (
@@ -29,16 +29,18 @@ export default function CountiesRoutes() {
 
             {/* Arizona Counties Routes */}
             <Routes>
-                
-                {/* {Object.keys(azcounties).map(county => (
-                    <Route key={county} path={`/${county.toLowerCase()}`} element={React.createElement(azcounties[county])} />
-                ))} */}
 
-                <Route path="/santacruzaz" element={<SantaCruzAZ />} />
+                {Object.keys(azcounties).map(county => (
+                    <Route key={county} path={`/${county.toLowerCase()}`} element={React.createElement(azcounties[county])} />
+                ))}
+
+                {/* <Route path="/santacruzaz" element={<SantaCruzAZ />} />
                 <Route path="/maricopa" element={<Maricopa />} />
                 <Route path="/pima" element={<Pima />} />
                 <Route path="/yuma" element={<Yuma />} />
                 <Route path="/cochise" element={<Cochise />} />
+                <Route path="/pinal" element={<Pinal />} /> */}
+
             </Routes>
 
             {/* Nevada Counties Routes */}
@@ -54,8 +56,8 @@ export default function CountiesRoutes() {
 
             {/* Washington Counties Routes */}
             <Routes>
-                <Route path="/franklin" element={<Franklin/>}/>
-                <Route path="/king" element={<King/>}/>
+                <Route path="/franklin" element={<Franklin />} />
+                <Route path="/king" element={<King />} />
             </Routes>
         </>
     )

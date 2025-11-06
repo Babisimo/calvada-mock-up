@@ -19,6 +19,16 @@ export default function Links() {
           imgWidth="130px"
         />
 
+        {/* AirControl */}
+        <CustomLink
+          link="https://air.aloft.ai/login"
+          linkName="AirControl"
+          hasImage="true"
+          imgAlt="OpenSky-logo"
+          imgSrc="https://air.aloft.ai/static/media/aloft-dark.6dee4fe27999b0205810d8efb3b10732.svg"
+          imgWidth="50px"
+        />
+
         {/* OpenSky */}
         <CustomLink
           link="https://opensky.wing.com/visitor/map?lat=33.892180&lng=-117.593476&zoom=18"

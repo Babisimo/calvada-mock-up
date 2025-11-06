@@ -7,6 +7,7 @@ export default function AZCities() {
   // Needs key!
   let azcities = [
     <AZCitiesExports.Tucson key={'Tucson'} />,
+    <AZCitiesExports.Chandler key={'Chandler'} />,
   ];
 
   return (
