@@ -1,18 +1,8 @@
-let azCountiesArr = [
-    "Cochise",
-    "Maricopa",
-    "Pima",
-    "SantaCruzAZ",
-    "Yuma",
-    "Pinal",
-]
+// src/pages/states/arizona/components/exports.js
+const countyNames = ['Cochise', 'Maricopa', 'Pima', 'Pinal', 'SantaCruzAZ', 'Yuma'];
 
+export const counties = Object.fromEntries(
+  countyNames.map(name => [name, require(`../counties/${name}`).default])
+);
 
-const azcounties = {}
-
-azCountiesArr.forEach(county => {
-    azcounties[county] = require(`../counties/${county}`).default;
-})
-
-export default azcounties
-
+export default counties;

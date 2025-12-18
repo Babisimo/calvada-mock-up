@@ -116,8 +116,12 @@ import NationalCity from '../cities/NationalCity'
 import SantaMaria from '../cities/SantaMaria'
 import PalosVerdes from '../cities/PalosVerdes'
 import LomaLinda from '../cities/LomaLinda'
+import Santee from '../cities/Santee'
+import SolanaBeach from '../cities/SolanaBeach'
 
 export {
+    SolanaBeach,
+    Santee,
     LomaLinda,
     PalosVerdes,
     SantaMaria,
