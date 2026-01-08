@@ -3,9 +3,7 @@ import React from 'react';
 import '../../styles/contact.css';
 
 const contacts = [
-    { name: 'Oswaldo Gonzalez', email: '', phone: '951-280-9960', position: "Lead Web Developer/Head of Research" },
-    { name: 'Hector Navarro', email: '', phone: '951-280-9960', position: "IT/CAD Technician" },
-    { name: 'Daniel Gonzalez', email: '', phone: '951-280-9960', position: "Research" },
+    { name: 'Calvada Website Contact', email: 'https://www.calvada.com/contact.html', phone: '951-280-9960', position: "" },
 ];
 
 function Contact() {
@@ -17,9 +15,8 @@ function Contact() {
                     {contacts.map((contact, index) => (
                         <li key={index}>
                             <h3>{contact.name}</h3>
-                            <p>{contact.position}</p>
-                            <p><a href={`mailto:${contact.email}`}>{contact.email}</a></p>
-                            <p>{contact.phone}</p>
+                            <p><a href={contact.email}>{"Contact Us Form"}</a></p>
+                            <p>Call Us: {contact.phone}</p>
                         </li>
                     ))}
                 </ul>

@@ -118,8 +118,12 @@ import PalosVerdes from '../cities/PalosVerdes'
 import LomaLinda from '../cities/LomaLinda'
 import Santee from '../cities/Santee'
 import SolanaBeach from '../cities/SolanaBeach'
+import ManhattanBeach from '../cities/ManhattanBeach'
+import Vista from '../cities/Vista'
 
 export {
+    Vista,
+    ManhattanBeach,
     SolanaBeach,
     Santee,
     LomaLinda,

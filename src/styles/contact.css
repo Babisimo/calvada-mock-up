@@ -6,6 +6,11 @@
     justify-content: center;
 }
 
+.contact p {
+    text-align: center;
+    margin: 40px;
+}
+
 .contact ul {
     list-style-type: none;
     padding: 0;
