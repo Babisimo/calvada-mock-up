@@ -120,8 +120,10 @@ import Santee from '../cities/Santee'
 import SolanaBeach from '../cities/SolanaBeach'
 import ManhattanBeach from '../cities/ManhattanBeach'
 import Vista from '../cities/Vista'
+import Upland from '../cities/Upland'
 
 export {
+    Upland,
     Vista,
     ManhattanBeach,
     SolanaBeach,

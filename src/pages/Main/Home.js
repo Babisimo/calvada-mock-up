@@ -4,6 +4,10 @@ import CaliforniaMapSVG from '../states/california/components/CaliforniaMapSVG';
 import DisclaimerModal from '../../components/DisclaimerModal';
 
 const SEVEN_DAYS = 7 * 24 * 60 * 60 * 1000;
+const FIFTEEN_DAYS = 15 * 24 * 60 * 60 * 1000;
+const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
+
+const DISCLAIMER_DURATION = FIFTEEN_DAYS
 
 export default function Home() {
   const [showDisclaimer, setShowDisclaimer] = useState(false);
@@ -17,7 +21,7 @@ export default function Home() {
 
     const now = Date.now();
     const acceptedTime = parseInt(lastAccepted, 10);
-    if (now - acceptedTime > SEVEN_DAYS) {
+    if (now - acceptedTime > DISCLAIMER_DURATION) {
       setShowDisclaimer(true);
     }
   }, []);

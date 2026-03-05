@@ -127,6 +127,7 @@ export default function CACities() {
     <CACitiesExports.SolanaBeach key={'Solana Beach'} />,
     <CACitiesExports.ManhattanBeach key={'Manhattan Beach'} />,
     <CACitiesExports.Vista key={'Vista'} />,
+    <CACitiesExports.Upland key={'Upland'} />,
   ];
 
   return (

@@ -30,6 +30,8 @@ const SantaBarbara = () => {
         <a href='https://apps.simplelayers.com/public/viewer/979' target={"_blank"} rel='noreferrer'>County Surveyor GIS</a>&nbsp;&nbsp;&nbsp;(Free Record Maps, Corner Records)
         <br />
         <a href='https://sbcassessor.com/Assessor/AssessorParcelMap.aspx' target={"_blank"} rel='noreferrer'>Assessor Parcel Maps</a>&nbsp;&nbsp;&nbsp;(Free APNS)
+        <br />
+        <a href='https://www.countyofsb.org/1681/Geodetic-Survey' target={"_blank"} rel='noreferrer'>Geodetic Survey</a>&nbsp;&nbsp;&nbsp;(Vertical/Horizontal Control, Benchmarks)
       </span>
 
       {/* Border To Separate Information */}

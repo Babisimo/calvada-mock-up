@@ -37,7 +37,7 @@ const SanDiego = () => {
         <br />
         <a href=' https://assr.parcelquest.com/impl/sdxassr' target={"_blank"} rel='noreferrer'>Assessor Maps</a>&nbsp;&nbsp;&nbsp;(Free APNs)
         <br />
-        <a href='https://sdgis.sandag.org/' target={"_blank"} rel='noreferrer'>GIS Interactive Map</a>
+        <a href='https://geo.sandag.org/portal/apps/experiencebuilder/experience/?id=1d105857933641e0a8496d2769b31aec' target={"_blank"} rel='noreferrer'>Parcel Lookup Tool</a>
         <br />
         <br />
         <a href='https://arcc-acclaim.sdcounty.ca.gov/' target={"_blank"} rel='noreferrer'>San Diego County Public Records</a><p>(Official Records Search <strong><em>Credit Card Required</em></strong>)</p>

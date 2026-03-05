@@ -30,6 +30,8 @@ const Marin = () => {
         <a href='https://apps.marincounty.org/TaxRollSearch' target={"_blank"} rel='noreferrer'>Assessor's Mapbooks</a>&nbsp;&nbsp;&nbsp;(Free APNS)
         <br />
         <a href='https://www.marinmap.org/Html5Viewer/Index.html?viewer=smmdataviewer' target={"_blank"} rel='noreferrer'>GIS Mapping</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
+        <br />
+        <a href='https://www.marinmap.org/Planner/queryRM.aspx?PID=' target={"_blank"} rel='noreferrer'>Record Map Lookup</a>&nbsp;&nbsp;&nbsp;(Free Record Maps)
       </span>
 
       {/* Border To Separate Information */}
