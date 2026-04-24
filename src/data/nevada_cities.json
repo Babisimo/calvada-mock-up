@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Las Vegas",
+    "name": "Las Vegas",
+    "links": [
+      {
+        "url": "https://www.cityofnorthlasvegas.com/home/showpublisheddocument/4351/638863791765130000",
+        "label": "North Las Vegas Benchmarks PDF"
+      },
+      {
+        "url": "https://geocommons-lasvegas.opendata.arcgis.com/datasets/surveybenchmarks/explore?location=36.205723%2C-115.197063%2C14",
+        "label": "Las Vegas Benchmarks GIS"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "logo": "https://imgs.search.brave.com/adM8XFzknNGw3BPtGPLoMPEATxrQwX6_Xid-D-eWsvo/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/ZnhXRllMbDZyNFJx/X1hHbVhPOFdnSGFF/eSZwaWQ9QXBp",
+  "url": "https://www.dot.nv.gov/",
+  "title": "Request Row Maps:",
+  "links": [
+    { "url": "https://drive.google.com/file/d/12YB5n3TTXWqQ7sGfl8frDhqBV71YC85x/view?usp=drive_link", "label": "Download Request Form" }
+  ],
+  "contact": {
+    "name": "Jason Knoff",
+    "email": "JKnoff@dot.state.nv.us",
+    "title": "Tech IV Right-Of-Way Engineering",
+    "department": "Nevada Dept. of Transportation",
+    "phone": "(775) 888-7493"
+  }
+}

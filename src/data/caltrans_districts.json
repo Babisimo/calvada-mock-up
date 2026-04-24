@@ -1,0 +1,192 @@
+[
+  {
+    "id": "District1",
+    "name": "District 1",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:lorien.sanchez@dot.ca.gov",
+        "label": "Contact: lorien.sanchez@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District2",
+    "name": "District 2",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "https://caltrans.mycusthelp.com/WEBAPP/_rs/(S(hce0lhrqjsol43odqlfuiekp))/supporthome.aspx",
+        "label": "Public Records Request"
+      }
+    ]
+  },
+  {
+    "id": "District3",
+    "name": "District 3",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1yDTlGa6b9T83wk17_KmwGjBRtnvI0o7A/view?usp=drive_link",
+        "label": "Request Form (Download)"
+      },
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:d3rwmaprequest@dot.ca.gov",
+        "label": "Contact: d3rwmaprequest@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District4",
+    "name": "District 4",
+    "links": [
+      {
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=04efb9a9f14c4da2aabd9ce36b7dda48",
+        "label": "District 4 GIS"
+      },
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:D4.RWE.Records@dot.ca.gov",
+        "label": "Contact: D4.RWE.Records@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District5",
+    "name": "District 5",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:julian.madrid@dot.ca.gov",
+        "label": "Contact: julian.madrid@dot.ca.gov"
+      },
+      {
+        "url": "mailto:dario.moreno@dot.ca.gov",
+        "label": "Contact (Other Data): dario.moreno@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District6",
+    "name": "District 6",
+    "contactName": "Caron Young",
+    "email": "Carson.Young@dot.ca.gov",
+    "phone": "(559) 974-4825",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1imj5qeHw0-J6Tc4pmLQ8WS6dl8xClFPT/view?usp=drive_link",
+        "label": "Request Form (Download)"
+      },
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      }
+    ]
+  },
+  {
+    "id": "District7",
+    "name": "District 7",
+    "links": [
+      {
+        "url": "https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=23b2abcf3d6b4ae0be7a579258141178",
+        "label": "District 7 GIS"
+      },
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:D7.RWEngineering@dot.ca.gov",
+        "label": "Contact: D7.RWEngineering@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District8",
+    "name": "District 8",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:d8RecordMaps@dot.ca.gov",
+        "label": "Contact: d8RecordMaps@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District9",
+    "name": "District 9",
+    "contactName": "Cagle, Sereyna",
+    "email": "sereyna.cagle@dot.ca.gov",
+    "phone": "(760) 872-0646",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      }
+    ]
+  },
+  {
+    "id": "District10",
+    "name": "District 10",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:kent.heiner@dot.ca.gov",
+        "label": "Contact: kent.heiner@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District11",
+    "name": "District 11",
+    "links": [
+      {
+        "url": "https://experience.arcgis.com/experience/04ae3745190047c5adf8f33714af9e3a",
+        "label": "District 11 GIS"
+      },
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:D11.RWE.Records@dot.ca.gov",
+        "label": "Contact: D11.RWE.Records@dot.ca.gov"
+      }
+    ]
+  },
+  {
+    "id": "District12",
+    "name": "District 12",
+    "links": [
+      {
+        "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
+        "label": "Postmile Info"
+      },
+      {
+        "url": "mailto:gurucharan.mac@dot.ca.gov",
+        "label": "Contact: gurucharan.mac@dot.ca.gov"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "Franklin",
+    "name": "Franklin",
+    "links": [
+      {
+        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal/apps/webappviewer/index.html?id=38d7697ee86e41e89116a889d355ff76",
+        "label": "APN GIS Map"
+      },
+      {
+        "url": "http://terra.co.franklin.wa.us/TaxSifter/Search/Results.aspx",
+        "label": "APN Search Portal"
+      },
+      {
+        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal/apps/webappviewer/index.html?id=cda111ac97064578bdd8d7a11d395b39",
+        "label": "Planning GIS"
+      },
+      {
+        "url": "https://recording.franklin.co.franklin.wa.us:4444/",
+        "label": "Official Records Search"
+      },
+      {
+        "url": "https://www.franklincountywa.gov/Mapping-GIS",
+        "label": "Franklin County GIS Portal"
+      },
+      {
+        "url": "https://www.wsdot.wa.gov/monument/gis/index.html",
+        "label": "State Survey Monuments GIS"
+      }
+    ]
+  },
+  {
+    "id": "King",
+    "name": "King",
+    "links": [
+      {
+        "url": "https://gismaps.kingcounty.gov/parcelviewer2//",
+        "label": "APN GIS Map"
+      },
+      {
+        "url": "https://recordsearch.kingcounty.gov/LandmarkWeb",
+        "label": "Public Records Search"
+      }
+    ]
+  }
+]

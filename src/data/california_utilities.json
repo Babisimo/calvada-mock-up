@@ -1,0 +1,709 @@
+[
+  {
+    "id": "LAUtils",
+    "name": "Los Angeles County Utilities",
+    "sections": [
+      {
+        "title": "Sewer System",
+        "subsections": [
+          {
+            "name": "",
+            "links": [
+              {
+                "label": "LA County Sanitary Sewer Network (County)",
+                "url": "https://pw.lacounty.gov/smd/sewernetwork/"
+              },
+              {
+                "label": "LA City Sewer System (County)",
+                "url": "https://geohub.lacity.org/datasets/sewer-pipes/explore"
+              },
+              {
+                "label": "El Monte (City Sewer GIS)",
+                "url": "https://www.arcgis.com/apps/mapviewer/index.html?layers=40bfe69666a34f6a8c6a16116715ea02"
+              },
+              {
+                "label": "El Segundo (City Sewer PDF)",
+                "url": "https://www.elsegundo.org/home/showpublisheddocument/1017/637136686386330000"
+              },
+              {
+                "label": "Pasadena (City Sewer GIS)",
+                "url": "https://www.arcgis.com/apps/mapviewer/index.html?layers=9d3097e76d0a4166a9e5e489e05d61db"
+              },
+              {
+                "label": "Torrance (Sewer Maps Drive PDFs)",
+                "url": "https://drive.google.com/drive/folders/1CQsQZAI8JlWBz4ZsQuovogNhWfWNmR9M?usp=share_link"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "",
+            "links": [
+              {
+                "label": "LA County Storm Drain (GIS)",
+                "url": "https://pw.lacounty.gov/fcd/StormDrain/disclaimer.cfm?CFID=29218589&CFTOKEN=c3d928abbc8a0ed0-0399C76E-DD3C-677E-6B672BB64A253299"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Southern California Edison Lines",
+        "subsections": [
+          {
+            "name": "",
+            "links": [
+              {
+                "label": "SoCal Edison Lines",
+                "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=05a84ec9d19f43ac93b451939c330888"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "LA County Underground Utilities",
+        "subsections": [
+          {
+            "name": "",
+            "links": [
+              {
+                "label": "LA Underground Lines",
+                "url": "https://www.app.lacsd.org/ugutilities/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ZoneTwoUtils",
+    "name": "Zone 2 Utilities",
+    "sections": [
+      {
+        "title": "Sewer Plans",
+        "subsections": [
+          {
+            "name": "Sacramento County",
+            "links": [
+              {
+                "label": "Drop Inlets GIS (County)",
+                "url": "https://data.saccounty.gov/datasets/sacramentocounty::drop-inlets/explore?location=38.585145%2C-121.319469%2C11.66"
+              },
+              {
+                "label": "Drainage Mains GIS (County)",
+                "url": "https://data.saccounty.gov/datasets/sacramentocounty::drainage-mains/explore?location=38.622675%2C-121.309384%2C13.00"
+              },
+              {
+                "label": "Inlet Structures GIS (County)",
+                "url": "https://data.saccounty.gov/datasets/sacramentocounty::inlet-structures/explore?location=38.598515%2C-121.272795%2C11.66"
+              }
+            ]
+          },
+          {
+            "name": "Sonoma County",
+            "links": [
+              {
+                "label": "Santa Rosa (Storm Drain & Sewer Plans GIS)",
+                "url": "http://maps.srcity.org/Html5Viewer/Index.html?viewer=SewerWaterStorm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "Sacramento County",
+            "links": [
+              {
+                "label": "Outfall Structures GIS (County)",
+                "url": "https://data.saccounty.gov/datasets/sacramentocounty::outfall-structures/explore?location=38.579067%2C-121.280892%2C11.66"
+              },
+              {
+                "label": "Drainage Manholes GIS (County)",
+                "url": "https://data.saccounty.gov/datasets/sacramentocounty::drainage-manholes/explore?location=38.572147%2C-121.138417%2C10.89"
+              }
+            ]
+          },
+          {
+            "name": "Sonoma County",
+            "links": [
+              {
+                "label": "Storm Water Drainage System GIS (County)",
+                "url": "https://sonomacounty.maps.arcgis.com/apps/webappviewer/index.html?id=c36134153c024b01a0eb2aabb2345579"
+              },
+              {
+                "label": "Drainage Points (County)",
+                "url": "https://gis-sonomacounty.hub.arcgis.com/datasets/sonomacounty::drainage-points/explore?location=38.474545%2C-122.612456%2C10.88"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ZoneThreeUtils",
+    "name": "Zone 3 Utilities",
+    "sections": [
+      {
+        "title": "Sewer Plans",
+        "subsections": [
+          {
+            "name": "San Francisco County",
+            "links": [
+              {
+                "label": "Sewer GIS (County - Login Required)",
+                "url": "https://sfgis-portal.sfgov.org/arcgis/apps/webappviewer/index.html?id=b0a6f9cdad294b11afc4161c374e47e5"
+              }
+            ]
+          },
+          {
+            "name": "Alameda County",
+            "links": [
+              {
+                "label": "Albany (Sewer GIS - Enable Layers)",
+                "url": "https://cityofalbany.maps.arcgis.com/apps/webappviewer/index.html?id=aa510a25010f4febb4d27d58728b3f80"
+              },
+              {
+                "label": "Berkeley (Sewer Manholes 2016)",
+                "url": "https://data.cityofberkeley.info/City-Government/Sanitary-Sewer-Manholes/hxi7-ruxt"
+              },
+              {
+                "label": "Berkeley (Sewer Mainlines 2016)",
+                "url": "https://data.cityofberkeley.info/City-Government/Sanitary-Sewer-Mainlines/8qse-2t2u"
+              },
+              {
+                "label": "Emeryville (Sewer Plans)",
+                "url": "https://www.ci.emeryville.ca.us/DocumentCenter/View/7494/SSMP-Update-2019"
+              },
+              {
+                "label": "Oakland (Sewer GIS and Maps)",
+                "url": "https://oakgis.maps.arcgis.com/apps/mapviewer/index.html?layers=9bbd0c4b07594c88a77cefd86ae401ca"
+              },
+              {
+                "label": "Oakland (Sewer Maintenance GIS)",
+                "url": "https://oakgis.maps.arcgis.com/apps/mapviewer/index.html?webmap=58d37d92e42b4c59b944ed80aea8185a"
+              }
+            ]
+          },
+          {
+            "name": "San Mateo County",
+            "links": [
+              {
+                "label": "San Carlos (Sewer Plans - Google Drive)",
+                "url": "https://drive.google.com/file/d/1roD3BK3hkI2UkkF7gZ6If4K1q1gZ8HSf/view?usp=share_link"
+              },
+              {
+                "label": "Burlingame (Sewer Plans - Google Drive)",
+                "url": "https://drive.google.com/file/d/1ExHOFE8itXJkQEiD0zT3H-2OLPw7xiGu/view?usp=share_link"
+              }
+            ]
+          },
+          {
+            "name": "Santa Cruz County",
+            "links": [
+              {
+                "label": "Sanitary GIS (County)",
+                "url": "https://sccgis.maps.arcgis.com/apps/webappviewer/index.html?id=1c5e5f8bc0214fd1a47948ca841a6e80"
+              },
+              {
+                "label": "Santa Cruz (City Sewer Plans GIS)",
+                "url": "https://vw8.cityofsantacruz.com/public/"
+              }
+            ]
+          },
+          {
+            "name": "Santa Clara County",
+            "links": [
+              {
+                "label": "San Jose (Sanitary MH Viewer)",
+                "url": "https://gis.sanjoseca.gov/maps/utilityviewer/"
+              },
+              {
+                "label": "Cupertino (Sewer Maps PDF)",
+                "url": "https://www.cupertinosanitarydistrict.org/maps"
+              },
+              {
+                "label": "Palo Alto (East Palo Alto Sewer PDF)",
+                "url": "https://www.cityofepa.org/sites/default/files/fileattachments/public_works/page/3741/districtma.pdf"
+              },
+              {
+                "label": "Sunnyvale (Sewer GIS)",
+                "url": "https://www.sunnyvale.ca.gov/city-services/online-services/maps-and-gis/utility-maps"
+              },
+              {
+                "label": "Gilroy (City Sewer Plan PDF)",
+                "url": "https://www.cityofgilroy.org/DocumentCenter/View/5254/Sanitary-Sewer-Master-Plan---May-2004"
+              },
+              {
+                "label": "Milpitas (City Sewer Plan PDF)",
+                "url": "https://www.milpitas.gov/DocumentCenter/View/3431"
+              },
+              {
+                "label": "Morgan Hill (City Sewer Plan PDF)",
+                "url": "https://www.morganhill.ca.gov/DocumentCenter/View/42555/2022-Sewer-System-Master-Plan-Amendment"
+              },
+              {
+                "label": "Los Altos (City Sewer Plan PDF)",
+                "url": "https://www.losaltosca.gov/sites/default/files/fileattachments/public_works/page/18641/final_sanitary_sewer_master_plan_update_4.25.13._for_action.pdf"
+              }
+            ]
+          },
+          {
+            "name": "Contra Costa County",
+            "links": [
+              {
+                "label": "Antioch (City Sewer Map PDF)",
+                "url": "https://www.antiochca.gov/fc/public-works/gis/collections-sewer-system-map.pdf"
+              },
+              {
+                "label": "Richmond (City Sewer Map PDF)",
+                "url": "https://www.ci.richmond.ca.us/DocumentCenter/View/35753/Sewer-Network-E-size?bidId="
+              }
+            ]
+          },
+          {
+            "name": "Marin County",
+            "links": [
+              {
+                "label": "County Sewer GIS (Enable Layer)",
+                "url": "https://www.marinmap.org/Html5Viewer/Index.html?viewer=smmdataviewer"
+              }
+            ]
+          },
+          {
+            "name": "San Joaquin County",
+            "links": [
+              {
+                "label": "Stockton (Wastewater Plan PDF)",
+                "url": "http://www.stocktonca.gov/files/COS_MUD__Wastewater_Master_Plan_Update_2022.pdf"
+              },
+              {
+                "label": "Manteca (City Wastewater System PDF)",
+                "url": "https://www.manteca.gov/home/showpublisheddocument/480/637916685492900000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "San Francisco County",
+            "links": [
+              {
+                "label": "Storm Drain GIS (County)",
+                "url": "https://data.sfgov.org/City-Infrastructure/Map-of-stormwater-inlets-drains-and-catch-basins/xbxd-zkc9"
+              }
+            ]
+          },
+          {
+            "name": "Alameda County",
+            "links": [
+              {
+                "label": "Albany (Storm GIS - Enable Layers)",
+                "url": "https://cityofalbany.maps.arcgis.com/apps/webappviewer/index.html?id=aa510a25010f4febb4d27d58728b3f80"
+              },
+              {
+                "label": "Berkeley (Storm Drains 2016)",
+                "url": "https://data.cityofberkeley.info/City-Government/Storm-Drains/tgpz-mid4"
+              },
+              {
+                "label": "Dublin (Storm Drains GIS)",
+                "url": "https://gis.dublin.ca.gov/Html5Viewer/"
+              },
+              {
+                "label": "Oakland (Storm Drains GIS)",
+                "url": "https://oakgis.maps.arcgis.com/apps/mapviewer/index.html?layers=d055450bb9f64338a8dbd790e5526fd7"
+              },
+              {
+                "label": "Pleasanton (City Storm Drain Map)",
+                "url": "https://www.cityofpleasantonca.gov/civicax/filebank/blobdload.aspx?BlobID=30034"
+              }
+            ]
+          },
+          {
+            "name": "San Mateo County",
+            "links": [
+              {
+                "label": "San Carlos (Storm Drain Plans - Google Drive)",
+                "url": "https://drive.google.com/file/d/1MFDgz4c7wRy1pDmb08J3-wPduAkE0Y1i/view?usp=share_link"
+              },
+              {
+                "label": "Burlingame (Storm Drain Plans - Google Drive)",
+                "url": "https://drive.google.com/file/d/1CeQJjzWC4r2vKIN566lqbh3FyLPGZv3I/view?usp=share_link"
+              }
+            ]
+          },
+          {
+            "name": "Santa Cruz County",
+            "links": [
+              {
+                "label": "Santa Cruz (City Storm Drain Plans GIS)",
+                "url": "https://sccgis.maps.arcgis.com/apps/webappviewer/index.html?id=1c5e5f8bc0214fd1a47948ca841a6e80"
+              }
+            ]
+          },
+          {
+            "name": "Santa Clara County",
+            "links": [
+              {
+                "label": "Storm Drain GIS (County)",
+                "url": "https://data-valleywater.opendata.arcgis.com/datasets/valleywater::hmp-outfalls/explore?location=37.340951%2C-121.920539%2C12.33"
+              },
+              {
+                "label": "San Jose (Storm Man Hole GIS)",
+                "url": "https://gis.sanjoseca.gov/maps/utilityviewer/"
+              },
+              {
+                "label": "Cupertino (Storm Water Structires GIS)",
+                "url": "https://gis-cupertino.opendata.arcgis.com/datasets/Cupertino::storm-water-structures/explore?location=37.321581%2C-122.026343%2C13.84"
+              },
+              {
+                "label": "Saratoga (Storm Drain Plan)",
+                "url": "https://www.saratoga.ca.us/DocumentCenter/View/1487/Storm-Drainage-Master-Plan---2015-PDF?bidId="
+              },
+              {
+                "label": "Sunnyvale (Storm Drain GIS)",
+                "url": "https://www.sunnyvale.ca.gov/city-services/online-services/maps-and-gis/utility-maps"
+              },
+              {
+                "label": "Gilroy (Storm Drain Plan PDF)",
+                "url": "https://www.cityofgilroy.org/DocumentCenter/View/5256/Storm-Drain-Master-Plan---May-2004"
+              },
+              {
+                "label": "Milpitas (City Storm Master Plan)",
+                "url": "https://www.milpitas.gov/DocumentCenter/View/3432"
+              },
+              {
+                "label": "Morgan Hill (City Storm Master Plan)",
+                "url": "https://www.morganhill.ca.gov/DocumentCenter/View/23599/Storm-Drainage-Master-Plan-weblink-version"
+              },
+              {
+                "label": "Los Altos (City Storm Drain Plan PDF)",
+                "url": "https://www.losaltosca.gov/sites/default/files/fileattachments/public_works/page/31841/swmp_4.27.16.pdf"
+              }
+            ]
+          },
+          {
+            "name": "Contra Costa County",
+            "links": [
+              {
+                "label": "Antioch (City Storm Map PDF)",
+                "url": "https://www.antiochca.gov/fc/public-works/gis/collections-storm-system-map.pdf"
+              },
+              {
+                "label": "Richmond (City Storm Drain PDF)",
+                "url": "https://www.ci.richmond.ca.us/DocumentCenter/View/35755/Storm-Drain-Network-E-size?bidId="
+              },
+              {
+                "label": "Brentwood (City Storm Drain GIS - Select Storm)",
+                "url": "https://gis.brentwoodca.gov/html5/external.html"
+              }
+            ]
+          },
+          {
+            "name": "Marin County",
+            "links": [
+              {
+                "label": "County Storm Water GIS (Enable Layer)",
+                "url": "https://www.marinmap.org/Html5Viewer/Index.html?viewer=smmdataviewer"
+              }
+            ]
+          },
+          {
+            "name": "San Joaquin County",
+            "links": [
+              {
+                "label": "Manteca (City Storm Drain System PDF - Google Drive)",
+                "url": "https://drive.google.com/drive/folders/1zACjKJs3Cpffc4CuJzwtGA_APEtwF9Ka?usp=share_link"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ZoneFourUtils",
+    "name": "Zone 4 Utilities",
+    "sections": [
+      {
+        "title": "Sewer Plans",
+        "subsections": [
+          {
+            "name": "Monterey County",
+            "links": [
+              {
+                "label": "Monterey (City Sewer Drain)",
+                "url": "http://gisags8.ci.monterey.ca.us/pub/engr/"
+              }
+            ]
+          },
+          {
+            "name": "Fresno County",
+            "links": [
+              {
+                "label": "Fresno (City Sewer Plan PDF)",
+                "url": "https://www.fresno.gov/publicutilities/wp-content/uploads/sites/16/2020/09/2015CollectionSystemMasterPlanUpdate2015FINAL.pdf"
+              }
+            ]
+          },
+          {
+            "name": "Tulare County",
+            "links": [
+              {
+                "label": "Tulare (City Sewer System PDF)",
+                "url": "https://www.tulare.ca.gov/home/showpublisheddocument/284/635666899984270000"
+              }
+            ]
+          },
+          {
+            "name": "San Benito County",
+            "links": [
+              {
+                "label": "Hollister (City Sewer System PDF)",
+                "url": "https://hollister.ca.gov/wp-content/uploads/2017/03/Attachment-Sewer-System-Atlas-Map.pdf"
+              }
+            ]
+          },
+          {
+            "name": "Kings County",
+            "links": [
+              {
+                "label": "Hanford (City Sewer System Plan PDF)",
+                "url": "https://www.ci.hanford.ca.us/DocumentCenter/View/569/2017-Sewer-System-Master-Plan-PDF"
+              },
+              {
+                "label": "Hanford (City Waterway GIS)",
+                "url": "https://www.arcgis.com/apps/mapviewer/index.html?layers=473d59263add4cc0aa9d88a9dab0dd4f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "Monterey County",
+            "links": [
+              {
+                "label": "Monterey (City Storm Drain)",
+                "url": "http://gisags8.ci.monterey.ca.us/pub/engr/"
+              }
+            ]
+          },
+          {
+            "name": "Tulare County",
+            "links": [
+              {
+                "label": "Tulare (City Storm Drain Plan PDF)",
+                "url": "https://www.tulare.ca.gov/home/showpublisheddocument/286/635666904360500000"
+              }
+            ]
+          },
+          {
+            "name": "San Benito County",
+            "links": [
+              {
+                "label": "Hollister (City Storm Drain Plan PDF)",
+                "url": "https://hollister.ca.gov/wp-content/uploads/2015/02/Final-Storm-Drain-Master-Plan-August-2011.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ZoneFiveUtils",
+    "name": "Zone 5 Utilities",
+    "sections": [
+      {
+        "title": "Sewer Plans",
+        "subsections": [
+          {
+            "name": "San Bernardino County",
+            "links": [
+              {
+                "label": "Water and Sewer Availability (County)",
+                "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=d209d8af5a084cd383e783f688cb187d"
+              },
+              {
+                "label": "San Bernardino (Sewer Lateral Line Maps A-Z)",
+                "url": "https://www.sbmwd.org/198/Sewer-Collection-Standards"
+              }
+            ]
+          },
+          {
+            "name": "Kern County",
+            "links": [
+              {
+                "label": "Sewer Master Plan (County)",
+                "url": "https://kernpublicworks.com/wp-content/uploads/2018/08/CSA_71-Update_2010-05-08.1.pdf"
+              }
+            ]
+          },
+          {
+            "name": "San Luis Obispo County",
+            "links": [
+              {
+                "label": "Los Osos (Sewer Lateral & Septic Tanks)",
+                "url": "https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/Los-Osos-Sewer-Lateral-and-Septic-Tank-Locations.aspx"
+              },
+              {
+                "label": "Grover Beach (Sewer Master Plan)",
+                "url": "https://www.grover.org/DocumentCenter/View/10423/City-of-Grover-Beach-SMP-Report-Final?bidId="
+              }
+            ]
+          },
+          {
+            "name": "Santa Barbara County",
+            "links": [
+              {
+                "label": "Storm Water GIS (County)",
+                "url": "https://databasin.org/maps/new/#datasets=9ab43e2367954b1585ccf86cafaa25f3"
+              },
+              {
+                "label": "Goleta (City Sanitary Lines)",
+                "url": "https://zwg.maps.arcgis.com/apps/webappviewer/index.html?id=a86ff5f97d9042d495a2b3c04b406932"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "San Bernardino County",
+            "links": [
+              {
+                "label": "Storm Drain Redbook Facilities (County)",
+                "url": "https://www.arcgis.com/apps/mapviewer/index.html?url=https://services.arcgis.com/ZZ0KZXZVmgB1v555/ArcGIS/rest/services/RedbookFacilities_WFL1_viewer/FeatureServer/2&source=sd"
+              }
+            ]
+          },
+          {
+            "name": "Ventura County",
+            "links": [
+              {
+                "label": "Storm Drain GIS (County)",
+                "url": "https://www.vcstormwater.org/publications/maps/ventura-countywide-unified-storm-drain-map"
+              },
+              {
+                "label": "Ventura (City Storm Drain - Enable Layer)",
+                "url": "https://map.cityofventura.net/java/map/index.htm?config=custom&add=DIN.P:DLL.P:DSM.P:DCH.P:SPHS:SDOF:SDOFWD&bl=GS&zoom=5"
+              }
+            ]
+          },
+          {
+            "name": "Santa Barbara County",
+            "links": [
+              {
+                "label": "Storm Drain Atlas (County)",
+                "url": "https://www.countyofsb.org/2395/Storm-Drain-Atlas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ZoneSixUtils",
+    "name": "Zone 6 Utilities",
+    "sections": [
+      {
+        "title": "Sewer Plans",
+        "subsections": [
+          {
+            "name": "Imperial County",
+            "links": [
+              {
+                "label": "Calexico (City Sewer Map)",
+                "url": "https://www.calexico.ca.gov/vertical/sites/%7B342ED706-1EBB-4FDE-BD1E-9543BAD44C09%7D/uploads/Calexico_Sewer_Lines.pdf"
+              }
+            ]
+          },
+          {
+            "name": "San Diego County",
+            "links": [
+              {
+                "label": "La Mesa (City Sewer GIS)",
+                "url": "https://www.arcgis.com/home/webmap/viewer.html?webmap=95e49897b6e747479652291f620103c9&extent=-117.0425,32.7639,-117.0155,32.7768"
+              },
+              {
+                "label": "San Diego (City Sewer GIS)",
+                "url": "https://koordinates.com/layer/95901-city-of-san-jose-sanitary-sewer-manholes/"
+              }
+            ]
+          },
+          {
+            "name": "Riverside County",
+            "links": [
+              {
+                "label": "Riverside (City Sewer Index)",
+                "url": "https://riversideca.gov/pwsurvey/sewerindex.asp"
+              },
+              {
+                "label": "Riverside (City Sewer Plans)",
+                "url": "https://riversideca.gov/pwsurvey/sewer.asp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Storm Drain Plans",
+        "subsections": [
+          {
+            "name": "Imperial County",
+            "links": [
+              {
+                "label": "Calexico (Storm Drain Map)",
+                "url": "https://www.calexico.ca.gov/vertical/sites/%7B342ED706-1EBB-4FDE-BD1E-9543BAD44C09%7D/uploads/Storm_Drains.pdf"
+              }
+            ]
+          },
+          {
+            "name": "San Diego County",
+            "links": [
+              {
+                "label": "San Diego (City Storm Drain)",
+                "url": "https://koordinates.com/layer/99204-city-of-san-diego-california-storm-drain/"
+              }
+            ]
+          },
+          {
+            "name": "Riverside County",
+            "links": [
+              {
+                "label": "Riverside (City Storm Drain Index)",
+                "url": "https://riversideca.gov/pwsurvey/stormindex.asp"
+              },
+              {
+                "label": "Riverside (City Storm Drain Plans)",
+                "url": "https://riversideca.gov/pwsurvey/storm.asp"
+              },
+              {
+                "label": "Indio (Storm Drain Plans)",
+                "url": "https://www.indio.org/departments/public-works-department/engineering-services-division/public-works-master-plans-492/-folder-187"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

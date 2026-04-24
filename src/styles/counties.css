@@ -10,7 +10,7 @@
 }
 
 .counties ul {
-  color: #f3efcc;
+  color: #000000;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -24,7 +24,6 @@
   color: inherit;
   text-decoration: none;
   height: 100%;
-  padding: 0.25rem;
 }
 
 /* Actual County Information */

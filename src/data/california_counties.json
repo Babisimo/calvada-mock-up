@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "Alameda",
+    "name": "Alameda County",
+    "apnFormat": "85-1601-6 (085-1601-006)\n482-52-101 (482-0052-101)\n48E-7334-63 (048E-7334-063)\n80G-933-19-2 (080G-0933-019-02)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "http://www.acgov.org/"
+      },
+      {
+        "label": "Property Assesment Information - GIS",
+        "url": "https://www.acassessor.org/parcel_viewer/"
+      },
+      {
+        "label": "Survey Documents",
+        "url": "http://www.acgov.org/MS/surveyorDocSearch/"
+      }
+    ],
+    "publicWorks": {
+      "address": "399 Elmhurst Street , Hayward CA, 94544",
+      "phone": "(510) 670-5480",
+      "extraInfo": [
+        "Phone: (510) 670-5480",
+        "Department Hours: Monday - Friday 8:00 AM to 5:00 PM"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "Alpine",
+    "name": "Alpine County",
+    "apnFormat": "03-120-011-0-0",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "http://www.alpinecountyca.gov/145/Maps-Property-Information"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/alpine/"
+      },
+      {
+        "label": "Record Maps",
+        "url": "https://www.mediafire.com/folder/iarqew8xvcpa3/Alpine"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "Amador",
+    "name": "Amador County",
+    "apnFormat": "011-090-024",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.amadorgov.org/home"
+      },
+      {
+        "label": "Assessor Parcel Maps",
+        "url": "https://gisviewer.amadorgov.org/GPV/ParcelSearch.aspx"
+      },
+      {
+        "label": "GIS Viewer",
+        "url": "https://www.amadorgov.org/departments/information-technology/gis/gis-viewer-and-parcel-search"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/amador/"
+      }
+    ],
+    "publicWorks": {
+      "address": "810 Court Street , Jackson CA, 95642",
+      "phone": "(209) 223-6371",
+      "extraInfo": [
+        "Phone: (209) 223-6371",
+        "Department Hours: Monday - Friday 8:00 AM to 5:00 PM"
+      ]
+    },
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "Butte",
+    "name": "Butte County",
+    "apnFormat": "006-380-001",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "http://www.buttecounty.net/"
+      },
+      {
+        "label": "Public Works",
+        "url": "https://gisportal.buttecounty.net/portal/apps/webappviewer/index.html?id=3233e5b8cea24348bcbd4c2646497349"
+      },
+      {
+        "label": "Assessor Parcel Maps",
+        "url": "https://assr.parcelquest.com/Home"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "http://gis.buttecounty.net/Public/index.html?viewer=dssearch"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/butte/"
+      }
+    ],
+    "publicWorks": {
+      "address": "7 County Center Drive , Oroville CA, 95965",
+      "phone": "(530) 538-7681",
+      "fax": "(530) 538-7171",
+      "extraInfo": [
+        "Phone: (530) 538-7681",
+        "Fax: (530) 538-7171",
+        "Department Hours: Monday-Friday 7:30 AM to 4:00 PM"
+      ]
+    },
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Calaveras",
+    "name": "Calaveras County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Assessor Parcel Map Search",
+        "url": "https://pmaps.calaverasgov.us/"
+      },
+      {
+        "label": "Assessor Parcel Map GIS",
+        "url": "https://gisportal.calaverascounty.gov/portal/apps/webappviewer/index.html?id=6e2681937019448b8f4e761b22d11a6e"
+      },
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/Calaveras/"
+      },
+      {
+        "label": "Benchmarks",
+        "url": "https://drive.google.com/file/d/1qdJe3zwVSBVuUtH3IoLSIrgqRy52RqMA/view?usp=drive_link"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "ContraCosta",
+    "name": "Contra Costa County",
+    "apnFormat": "376210043 (376-210-043)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.contracosta.ca.gov/"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://ccmap.cccounty.us/Html5/index.html?viewer=CCMAP"
+      },
+      {
+        "label": "Public Works",
+        "url": "http://records.pw.contra-costa.org/WebLink/Welcome.aspx?cr=1"
+      }
+    ],
+    "publicWorks": {
+      "address": "255 Glacier Drive , Martinez CA, 94553",
+      "phone": "(925) 313-2000",
+      "fax": "(925) 313-2333",
+      "extraInfo": [
+        "Phone: (925) 313-2000",
+        "Fax: (925) 313-2333"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "DelNorte",
+    "name": "Del Norte County",
+    "apnFormat": "115162007000 (115-162-007-000)",
+    "links": [
+      {
+        "label": "Parcel Viewer",
+        "url": "https://dnco.maps.arcgis.com/apps/webappviewer/index.html?id=52c9895399ff484a8b476d066172543e"
+      },
+      {
+        "label": "APN Property Search",
+        "url": "https://assr.parcelquest.com/impl/DNXASSR"
+      },
+      {
+        "label": "Official Records Search",
+        "url": "https://delnortecountyca-web.tylerhost.net/web/action/ACTIONGROUP201S4"
+      },
+      {
+        "label": "Engineering and Surveying",
+        "url": "https://www.co.del-norte.ca.us/departments/EngineeringSurveying"
+      },
+      {
+        "label": "Assessment Maps",
+        "url": "https://www.mediafire.com/folder/l8cfu9xg1684v/Assessment+Maps"
+      },
+      {
+        "label": "Parcel Maps",
+        "url": "https://www.mediafire.com/folder/d7dz2hug5dy4o/Parcel+Maps"
+      },
+      {
+        "label": "Survey Maps",
+        "url": "https://www.mediafire.com/folder/fps775jxuxebm/Survey+Maps"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "1",
+    "extraContent": []
+  },
+  {
+    "id": "ElDorado",
+    "name": "El Dorado County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "APN GIS",
+        "url": "https://see-eldorado.edcgov.us/ugotnet/"
+      },
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/el-dorado/"
+      },
+      {
+        "label": "County Benchmarks",
+        "url": "https://sftp2.edcgov.us/public/folder/wh8fcjkmskotbesok_blcg/wh8fcjkmskotbesok_blcg%5C"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Fresno",
+    "name": "Fresno County",
+    "apnFormat": "Book: 511 Page: 11 (511-112-07)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.co.fresno.ca.us/home"
+      },
+      {
+        "label": "Assessor Map",
+        "url": "https://www.co.fresno.ca.us/departments/assessor/mapping/parcel-map-lookup"
+      },
+      {
+        "label": "Record Maps",
+        "url": "https://www.co.fresno.ca.us/departments/public-works-planning/surveyor-s-office/surveyors-map-search"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://gisportal.co.fresno.ca.us/portal/apps/webappviewer/index.html?id=c065c87a83a7486bbf1bf7088c4c6742"
+      },
+      {
+        "label": "Zoning Map",
+        "url": "https://gisportal.co.fresno.ca.us/portal/apps/webappviewer/index.html?id=b921843d343d4df998b5b3c6a301756a"
+      },
+      {
+        "label": "Municipal Code",
+        "url": "https://www.co.fresno.ca.us/departments/public-works-planning/divisions-of-public-works-and-planning/development-services-division/zoning-ordinance"
+      }
+    ],
+    "publicWorks": {
+      "address": "2220 Tulare St. | 6th Floor , Fresno California, 93721",
+      "phone": "(559) 262-4078",
+      "extraInfo": [
+        "Phone: (559) 262-4078"
+      ]
+    },
+    "caltransDistrict": "6",
+    "extraContent": []
+  },
+  {
+    "id": "Humboldt",
+    "name": "Humboldt County",
+    "apnFormat": "123456789012 (123-456-789-012)",
+    "links": [
+      {
+        "label": "Record Maps",
+        "url": "https://hummaps.com/maps/"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://webgis.co.humboldt.ca.us/HCEGIS2.0/"
+      }
+    ],
+    "publicWorks": {
+      "address": "1106 2nd St, Eureka, CA 95501",
+      "phone": "(707) 445-7421",
+      "extraInfo": [
+        "Phone: (707) 445-7421"
+      ]
+    },
+    "caltransDistrict": "1",
+    "extraContent": []
+  },
+  {
+    "id": "Imperial",
+    "name": "Imperial County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "GIS Mapping Applications",
+        "url": "https://www.icpds.com/planning/maps"
+      },
+      {
+        "label": "Assessors GIS",
+        "url": "https://www.icpds.com/planning/maps"
+      },
+      {
+        "label": "Parcel Maps",
+        "url": "https://www.mediafire.com/folder/q354hmv2hcr73/Parcel_Maps"
+      },
+      {
+        "label": "Record of Survey Maps",
+        "url": "https://www.mediafire.com/folder/y36infptag874/Record+of+Surveys"
+      },
+      {
+        "label": "LS Maps",
+        "url": "https://www.mediafire.com/folder/a6a7pwm6ujbf2/LS"
+      },
+      {
+        "label": "Final Maps",
+        "url": "https://www.mediafire.com/folder/73jtpesk818s4/Final+Maps"
+      },
+      {
+        "label": "Official Maps",
+        "url": "https://www.mediafire.com/folder/7peq1fa35c8dg/Official+Maps"
+      },
+      {
+        "label": "Corner Records",
+        "url": "https://www.mediafire.com/folder/gf0v0rgcgtz9q/Corner+Records"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "11",
+    "extraContent": []
+  },
+  {
+    "id": "Inyo",
+    "name": "Inyo County",
+    "apnFormat": "0011101400 (001-110-14)",
+    "links": [
+      {
+        "label": "Inyo County GIS Data",
+        "url": "https://www.inyocounty.us/services/gis-data-maps"
+      },
+      {
+        "label": "Inyo County GIS Public Maps",
+        "url": "https://www.inyocounty.us/services/gis-data-maps/public-maps"
+      },
+      {
+        "label": "Misc Records",
+        "url": "https://www.mediafire.com/folder/xknl3palbke3v/Misc"
+      },
+      {
+        "label": "Parcel Maps",
+        "url": "https://www.mediafire.com/folder/7nwwydmdw5164/Parcel+Maps"
+      },
+      {
+        "label": "Records of Survey",
+        "url": "https://www.mediafire.com/folder/pdl0txldk5ou7/Record+of+Survey"
+      },
+      {
+        "label": "Subdivision Maps",
+        "url": "https://www.mediafire.com/folder/k6v85jjqmpr35/Subdivision"
+      },
+      {
+        "label": "Condo Plans",
+        "url": "https://www.mediafire.com/folder/c4f4sh0uzbsu2/Condo+Plans"
+      },
+      {
+        "label": "Corner Records",
+        "url": "https://www.mediafire.com/folder/472bmp901ry2i/Corner+Records"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "9",
+    "extraContent": []
+  },
+  {
+    "id": "Kern",
+    "name": "Kern County",
+    "apnFormat": "451303010 (451-303-010)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.kerncounty.com/"
+      },
+      {
+        "label": "Assessor",
+        "url": "https://www.kerncounty.com/government/departments/assessor-recorder/property/assessor-parcel-map-search"
+      },
+      {
+        "label": "Record Maps",
+        "url": "https://www.kernpublicworks.com/services/development/maps"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://maps.kerncounty.com/H5/index.html?viewer=KCPublic"
+      }
+    ],
+    "publicWorks": {
+      "departmentName": "Engineering & Survey Services Department:",
+      "director": "Charles Lackey",
+      "addressLabel": "Public Services Building Address:",
+      "address": "2700 \"M\" Street, Suite 570 , Bakersfield, California 93301-2370",
+      "phone": "(661) 862-5510",
+      "fax": "(661) 862-5101",
+      "email": "ess@co.kern.ca.us",
+      "extraInfo": [
+        "Monday - Friday 8:00 AM - 5:00 PM",
+        "TTY Relay: 1-800-735-2929"
+      ]
+    },
+    "caltransDistricts": [
+      { "id": "6", "label": "West" },
+      { "id": "9", "label": "East" }
+    ],
+    "extraContent": []
+  },
+  {
+    "id": "Kings",
+    "name": "Kings County",
+    "apnFormat": "020-017-013-000",
+    "links": [
+      {
+        "label": "Parcel Search",
+        "url": "https://assr.parcelquest.com/Statewide?IndexViewModel=PQGov.Models.IndexViewModel"
+      },
+      {
+        "label": "Corner Records & Record Maps",
+        "url": "https://docs.google.com/spreadsheets/d/12RRIXXaf3BRFoNv1FSp4p3QksgWy-YkF/edit?usp=sharing&ouid=105049049012291462963&rtpof=true&sd=true"
+      },
+      {
+        "label": "GIS Viewer",
+        "url": "https://kings-county.maps.arcgis.com/apps/webappviewer/index.html?id=338d13f286174722982f74aadfd5e87e"
+      },
+      {
+        "label": "Zoning",
+        "url": "https://kingscomdev.maps.arcgis.com/apps/webappviewer/index.html?id=35c6e6dac50446b9945154c9fc7f46c8"
+      },
+      {
+        "label": "Public Works",
+        "url": "https://www.countyofkings.com/departments/public-works"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "6",
+    "extraContent": []
+  },
+  {
+    "id": "Lake",
+    "name": "Lake County",
+    "apnFormat": "430-144-08",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.lakecountyca.gov/"
+      },
+      {
+        "label": "Parcel Search",
+        "url": "https://common2.mptsweb.com/megabytecommonsite/(S(kpg23ve1aizmlo3f3ovnolov))/PublicInquiry/Inquiry.aspx?CN=Lake&SITE=Public&DEPT=Tax&PG=Search"
+      },
+      {
+        "label": "GIS Viewer",
+        "url": "https://gispublic.co.lake.ca.us/portal/home/"
+      },
+      {
+        "label": "Parcel Maps",
+        "url": "https://www.mediafire.com/folder/e6nags4364gtd/PM"
+      },
+      {
+        "label": "Records of Survey",
+        "url": "https://www.mediafire.com/folder/q4j0yv1ik2rpf/RS"
+      },
+      {
+        "label": "Subdivision Maps",
+        "url": "https://www.mediafire.com/folder/nnhtqg3xoznd2/Sub"
+      },
+      {
+        "label": "Cara.Bowin@lakecountyca.gov",
+        "url": "mailto:Cara.Bowin@lakecountyca.gov"
+      }
+    ],
+    "publicWorks": {
+      "address": "255 N. Forbes St | Room 309 , Lakeport California 95453",
+      "phone": "(707) 263-2341",
+      "extraInfo": [
+        "Phone: (707) 263-2341",
+        "Department Hours: Monday-Friday 8:00 AM to 5:00 OM"
+      ]
+    },
+    "caltransDistrict": "1",
+    "extraContent": []
+  },
+  {
+    "id": "Lassen",
+    "name": "Lassen County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/lassen/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "LosAngeles",
+    "name": "Los Angeles County",
+    "apnFormat": "2463001900 (2463-001-900)",
+    "links": [
+      {
+        "label": "Assessor Parcel GIS",
+        "url": "https://maps.assessor.lacounty.gov/m/"
+      },
+      {
+        "label": "Assessor Parcel Portal",
+        "url": "https://portal.assessor.lacounty.gov/"
+      },
+      {
+        "label": "Land Records",
+        "url": "https://dpw.lacounty.gov/smpm/landrecords/"
+      },
+      {
+        "label": "Record Maps GIS",
+        "url": "https://dpw.lacounty.gov/sur/landrecords/index.cfm?docType=TM"
+      },
+      {
+        "label": "Interactive GIS Apps",
+        "url": "https://planning.lacounty.gov/maps-and-gis/interactive-gis-web-mapping-apps/"
+      },
+      {
+        "label": "Design Construction Plans",
+        "url": "https://pw.lacounty.gov/des/design/hwyMain.cfm"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "7",
+    "extraContent": []
+  },
+  {
+    "id": "Madera",
+    "name": "Madera County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://www.mediafire.com/folder/585bqldhpvykm//Madera"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "6",
+    "extraContent": []
+  },
+  {
+    "id": "Marin",
+    "name": "Marin County",
+    "apnFormat": "026-123-01",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.marincounty.org/"
+      },
+      {
+        "label": "Assessor's Mapbooks",
+        "url": "https://apps.marincounty.org/TaxRollSearch"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://www.marinmap.org/Html5Viewer/Index.html?viewer=smmdataviewer"
+      },
+      {
+        "label": "Record Map Lookup",
+        "url": "https://www.marinmap.org/Planner/queryRM.aspx?PID="
+      }
+    ],
+    "publicWorks": {
+      "phone": "(415) 499-7877",
+      "fax": "(415) 473-3232",
+      "extraInfo": [
+        "Ernest Klock - Principal Civil Engineer | eklock@co.marin.ca.usv",
+        "Room 404 Civic Center Dr",
+        "P.O. Box 4186",
+        "San Rafael, California 94913-4186",
+        "Phone: (415) 499-7877",
+        "Fax: (415) 473-3232"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "Mendocino",
+    "name": "Mendocino County",
+    "apnFormat": "026-123-01",
+    "links": [
+      {
+        "label": "APN Maps",
+        "url": "https://assr.parcelquest.com/Statewide?IndexViewModel=PQGov.Models.IndexViewModel"
+      },
+      {
+        "label": "GIS Parcel Viewer",
+        "url": "https://gis.mendocinocounty.org/portal/apps/webappviewer/index.html?id=255d7af6ece142b9962e92181d0f4ad9"
+      },
+      {
+        "label": "Document Search",
+        "url": "http://icris.co.mendocino.ca.us/recorder/eagleweb/docSearchPOST.jsp"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "1",
+    "extraContent": []
+  },
+  {
+    "id": "Merced",
+    "name": "Merced County",
+    "apnFormat": "45133010 (451-303-010)",
+    "links": [
+      {
+        "label": "Assessor's Office",
+        "url": "http://apps.co.merced.ca.us/PublicApplets/pages/assessor/parcelmap.aspx"
+      },
+      {
+        "label": "Recorded Maps",
+        "url": "https://web2.co.merced.ca.us/files/Surveyor/01-RECORDED-MAPS/"
+      },
+      {
+        "label": "Survey Index GIS",
+        "url": "https://maps.countyofmerced.com/portal/apps/webappviewer/index.html?id=757a63735795436cb14f7a09761a30df"
+      },
+      {
+        "label": "GIS Portal",
+        "url": "https://geostack-mercedcounty.opendata.arcgis.com/"
+      },
+      {
+        "label": "Recorder Division",
+        "url": "https://www.countyofmerced.com/239/Recorder"
+      },
+      {
+        "label": "Assessment Maps",
+        "url": "https://www.mediafire.com/?eed8oc0w0xhf5"
+      },
+      {
+        "label": "Miller-Lux",
+        "url": "https://www.mediafire.com/folder/emeed9cnxf7at//Miller-Lux"
+      },
+      {
+        "label": "Monument Ties",
+        "url": "https://www.mediafire.com/folder/mapnqhgyo7ea3//MonumentTies"
+      },
+      {
+        "label": "Official Plats 1-50",
+        "url": "https://www.mediafire.com/?058jtycnae4ek"
+      },
+      {
+        "label": "Official Plats 51-__",
+        "url": "https://www.mediafire.com/?s3ynae1i27yga"
+      },
+      {
+        "label": "Parcel Maps Bk 1-60",
+        "url": "https://www.mediafire.com/?4y167zr9yoc1q"
+      },
+      {
+        "label": "Parcel Maps Bk 61-__",
+        "url": "https://www.mediafire.com/?13y54aptttiej"
+      },
+      {
+        "label": "Records of Survey",
+        "url": "https://www.mediafire.com/?1yahenr3e80dj"
+      },
+      {
+        "label": "County Surveyor",
+        "url": "https://www.countyofmerced.com/654/County-Surveyor"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "Modoc",
+    "name": "Modoc County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/Modoc/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Mono",
+    "name": "Mono County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://www.mediafire.com/folder/jdiatk4vuo4oo//Mono"
+      },
+      {
+        "label": "Document Browser",
+        "url": "https://webapps.mono.ca.gov/filebrowser/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "9",
+    "extraContent": []
+  },
+  {
+    "id": "Monterey",
+    "name": "Monterey County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.co.monterey.ca.us/"
+      },
+      {
+        "label": "Assessor Maps GIS",
+        "url": "https://maps.co.monterey.ca.us/wab/parcelreportwebapp/"
+      },
+      {
+        "label": "Survey Records Viewer GIS",
+        "url": "https://maps.co.monterey.ca.us/portal/apps/webappviewer/index.html?id=a43bf9d208474b7c941a09eeeea7dea2"
+      },
+      {
+        "label": "Monterey County Clerk-Recorder",
+        "url": "https://montereycountyca-web.tylerhost.net/Montereyweb/action/ACTIONGROUP284S187S1"
+      }
+    ],
+    "publicWorks": {
+      "address": "468 W. Alisal St. | 2nd Floor, Salinas, California 93901",
+      "phone": "(831) 755-4800",
+      "fax": "(831) 755-4958",
+      "extraInfo": [
+        "Phone: (831) 755-4800",
+        "Monterey: (831) 647-7748",
+        "Fax: (831) 755-4958"
+      ]
+    },
+    "caltransDistrict": "5",
+    "extraContent": []
+  },
+  {
+    "id": "Napa",
+    "name": "Napa County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.countyofnapa.org/"
+      },
+      {
+        "label": "Napa County Online Public Map",
+        "url": "https://gis.countyofnapa.org/portal/apps/webappviewer/index.html?id=0bbafe490c58430da719ff851c78b7fa"
+      },
+      {
+        "label": "Corner Records Mediafire Database",
+        "url": "https://www.mediafire.com/folder/uq2u6ag1dsvgh/Corner+Records"
+      },
+      {
+        "label": "Filed Maps & CR Search",
+        "url": "https://services.countyofnapa.org/FiledMapSearch"
+      },
+      {
+        "label": "Other Surveying Services",
+        "url": "https://www.countyofnapa.org/1602/Surveying"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "Nevada",
+    "name": "Nevada County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/nevada/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Orange",
+    "name": "Orange County",
+    "apnFormat": "453-062-13",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.ocgov.com/"
+      },
+      {
+        "label": "Land Records / Record Maps",
+        "url": "https://webapps.ocgis.com/oclandinsights/map-viewer?id=2"
+      }
+    ],
+    "publicWorks": {
+      "address": "300 N. Flower Street, Santa Ana, California 92703",
+      "phone": "(714) 834-3568",
+      "extraInfo": [
+        "Monday - Friday 8:00 AM to 5:00 PM",
+        "Phone: (714) 834-3568"
+      ]
+    },
+    "caltransDistrict": "12",
+    "extraContent": []
+  },
+  {
+    "id": "Placer",
+    "name": "Placer County",
+    "apnFormat": "091030011 (091-030-011)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.placer.ca.gov/"
+      },
+      {
+        "label": "APN GIS",
+        "url": "https://experience.arcgis.com/experience/cbff35c3f33a49348c65251459b8b0bc#data_s=id%3Ae5cb0caba85049a8836e7a041feb107f-1924945c5dd-layer-12%3A181760"
+      },
+      {
+        "label": "Assessor Maps",
+        "url": "https://www.placer.ca.gov/5866/Property-Details"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/placer/"
+      },
+      {
+        "label": "Record Maps",
+        "url": "https://www.mediafire.com/folder/qv3xd7nwd6rni/Placer"
+      }
+    ],
+    "publicWorks": {
+      "address": "3091 County Center, Auburn, California 95603",
+      "phone": "(530)-745-3110",
+      "fax": "(530)-745-7589",
+      "extraInfo": [
+        "Phone: (530)-745-3110",
+        "Fax: (530)-745-7589"
+      ]
+    },
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Plumas",
+    "name": "Plumas County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/plumas/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Riverside",
+    "name": "Riverside County",
+    "apnFormat": "379-423-014",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://rivco.org/"
+      },
+      {
+        "label": "Assessor County Clerk Recorder",
+        "url": "https://gis1.countyofriverside.us/Html5Viewer/?viewer=MMC_Public"
+      },
+      {
+        "label": "Map Inquire",
+        "url": "http://weblink.rctlma.org/WebLink/?dbid=0&repo=TLMA"
+      },
+      {
+        "label": "Transportation Department GIS",
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=26ab70d308c349dd934b1b65378c6544"
+      },
+      {
+        "label": "Geodetic Control",
+        "url": "https://countyofriverside.maps.arcgis.com/apps/webappviewer/index.html?id=8eaafd49a33147f5905d318a034839bb"
+      },
+      {
+        "label": "Hanging File Mosaic",
+        "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=8d1541d435f44f6f94892dce32130e93"
+      },
+      {
+        "label": "C.A.T.C.H",
+        "url": "https://countyofriverside.maps.arcgis.com/apps/webappviewer/index.html?id=485352d7b8c143e7b9de92d111678c25"
+      },
+      {
+        "label": "TRA GIS",
+        "url": "https://www.boe.ca.gov/maps/RiversideCo.htm#:~:text=Tax%20Rate%20Areas%20%E2%80%93%20Riverside%20County%202023&text=Each%20TRA%20is%20assigned%20a,the%20specified%20assessment%20roll%20year"
+      },
+      {
+        "label": "RivCo Survey Scanned Images Directory",
+        "url": "https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx"
+      },
+      {
+        "label": "Oswaldo",
+        "url": "mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?"
+      }
+    ],
+    "publicWorks": {
+      "address": "4080 Lemon Street, Riverside, California 92501",
+      "extraInfo": [
+        "Phone: (951) 955-1000"
+      ]
+    },
+    "caltransDistrict": "8",
+    "extraContent": []
+  },
+  {
+    "id": "Sacramento",
+    "name": "Sacramento County",
+    "apnFormat": "013-0244-025-0000",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.saccounty.gov/Pages/default.aspx"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://generalmap.gis.saccounty.gov/JSViewer/county_portal.html"
+      },
+      {
+        "label": "APNS",
+        "url": "https://assr.parcelquest.com/Statewide/Disclaimer"
+      },
+      {
+        "label": "County Maps",
+        "url": "http://www.sacmaps.com/"
+      },
+      {
+        "label": "County Benchmarks",
+        "url": "http://www.sacmaps.com/NAVD%2088%20Database/Sacramento%20County%20BM%27s%20NAVD%2088.pdf"
+      },
+      {
+        "label": "Online Index of Recorded Documents",
+        "url": "https://ccr.saccounty.gov/DocumentRecording/Pages/Index.aspx"
+      }
+    ],
+    "publicWorks": {
+      "address": "700 H St. Room 6720",
+      "extraInfo": [
+        "Phone: (916) 876-5928",
+        "County Surveyor: DSSSurveys@SacCounty.net"
+      ]
+    },
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "SanBenito",
+    "name": "San Benito County",
+    "apnFormat": "0572300220 (057-230-022-000)",
+    "links": [
+      {
+        "label": "APN GIS",
+        "url": "https://gis.cosb.us/Html5Viewer_2_0/Index.html?configBase=https://gis.cosb.us/Geocortex/Essentials/REST/sites/SBC/viewers/Public/virtualdirectory/Resources/Config/Default"
+      },
+      {
+        "label": "GLO",
+        "url": "https://www.mediafire.com/folder/dab7de8ws3enx/GLO"
+      },
+      {
+        "label": "Corner Records",
+        "url": "https://www.mediafire.com/folder/g1mpq45inc2lo/Corner+Records"
+      },
+      {
+        "label": "Maps",
+        "url": "https://www.mediafire.com/folder/94v448aqv5kxw/San+Benito#52v5aik4p032i"
+      },
+      {
+        "label": "Parcel Maps",
+        "url": "https://www.mediafire.com/folder/94v448aqv5kxw/San+Benito#akf14a19lit3l"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "5",
+    "extraContent": []
+  },
+  {
+    "id": "SanBernardino",
+    "name": "San Bernardino County",
+    "apnFormat": "0350172290000 (0350-172-29)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.sbcity.org/"
+      },
+      {
+        "label": "Property Information System",
+        "url": "http://www.sbcounty.gov/assessor/pims/(S(z2yqm24244gskf1mzepvqq2a))/PIMSINTERFACE.ASPX"
+      },
+      {
+        "label": "Surveyor Index",
+        "url": "https://dpwlfweblink.sbcounty.gov/WebLink/Browse.aspx?id=3&dbid=3&repo=SBCPublicWorks&cr=1"
+      },
+      {
+        "label": "Surveyor's Public Map - GIS",
+        "url": "https://experience.arcgis.com/experience/a1a8b62daed444d2ad76caae4327f91a"
+      },
+      {
+        "label": "Land Use",
+        "url": "https://lus.sbcounty.gov/planning-home/zoning-and-overlay-maps/zoning-maps/"
+      },
+      {
+        "label": "Request Research Assistance",
+        "url": "https://app.smartsheet.com/b/form/574a78f9c34241f3aee99df1636dbce8"
+      }
+    ],
+    "publicWorks": {
+      "address": "825 East Third Street, San Bernardino, California 92415",
+      "extraInfo": [
+        "Mike Raihle | (909) 387-8149",
+        "County Surveyor:"
+      ]
+    },
+    "caltransDistrict": "8",
+    "extraContent": []
+  },
+  {
+    "id": "SanDiego",
+    "name": "San Diego County",
+    "apnFormat": "006-380-001",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.sandiegocounty.gov/content/sdc/home.html"
+      },
+      {
+        "label": "Assessor Maps",
+        "url": " https://assr.parcelquest.com/impl/sdxassr"
+      },
+      {
+        "label": "Parcel Lookup Tool",
+        "url": "https://geo.sandag.org/portal/apps/experiencebuilder/experience/?id=1d105857933641e0a8496d2769b31aec"
+      },
+      {
+        "label": "San Diego County Public Records",
+        "url": "https://arcc-acclaim.sdcounty.ca.gov/"
+      },
+      {
+        "label": "Survey Record System",
+        "url": "https://srs.sandiegocounty.gov/"
+      },
+      {
+        "label": "Vertical Datum",
+        "url": "https://www.sandiegocounty.gov/content/sdc/dpw/surveyor/vertcontrol.html"
+      },
+      {
+        "label": "Camp Pendelton Atlas and ROS",
+        "url": "https://drive.google.com/drive/folders/14Sg7wrawds1hg20QSJhwiHIRl3DK63xT"
+      }
+    ],
+    "publicWorks": {
+      "address": "5500 Overland Ave #310, San Diego, CA 92123",
+      "extraInfo": [
+        "Phone: (858) 694-3672",
+        "Fax: (858) 495-5263",
+        "E-Mail: terry.connors@sdcounty.ca.gov"
+      ]
+    },
+    "caltransDistrict": "11",
+    "extraContent": []
+  },
+  {
+    "id": "SanFrancisco",
+    "name": "San Francisco County",
+    "apnFormat": "Book: 0787 Lot: 001 (0787-001)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://sf.gov/"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://sfplanninggis.org/PIM/"
+      },
+      {
+        "label": "Record Maps",
+        "url": "https://bsm.sfdpw.org/subdivision/"
+      },
+      {
+        "label": "Benchmarks",
+        "url": "https://sfpublicworks.org/ccsf-geodetic-network"
+      }
+    ],
+    "publicWorks": {
+      "address": "1 Dr. Carlton B. Goodlett Place, City Hall Room 362 , San Francisco, CA 94102",
+      "extraInfo": [
+        "Monday - Friday 8:00 AM - 8:00 PM",
+        "Phone: (415) 554-4851 | (415) 554-6920 | (415) 554-6944 | (415) 554-6900",
+        "Email: city.administrator@sfgov.org"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "SanJoaquin",
+    "name": "San Joaquin County",
+    "apnFormat": "145-064-02",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.sjgov.org/"
+      },
+      {
+        "label": "Assessor Parcel Maps",
+        "url": "https://sjmap.org/DistrictViewer/"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=735c39e1de274062abeb27b70ad2e0a9"
+      },
+      {
+        "label": "Surveyor Land Records System (Directory)",
+        "url": "https://lfweb.sjgov.org/WebLink/Browse.aspx?dbid=0&cr=1"
+      },
+      {
+        "label": "Corner Records",
+        "url": "https://sjc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=1985b52403334249a510715aeca3873e"
+      },
+      {
+        "label": "County Benchmarks",
+        "url": "https://san-joaquin-county-public-works-sjc-gis.hub.arcgis.com/datasets/sjc-gis::benchmarks-1/explore?layer=0&location=37.873963%2C-121.246680%2C9.99"
+      },
+      {
+        "label": "County Benchmarks",
+        "url": "https://keithwspencer.net/Library/SanJoaquinCounty/BenchmarkBook.pdf"
+      }
+    ],
+    "publicWorks": {
+      "address": "1810 E. Hazelton Avenue, PO Box 1810, Stockton, California 85201",
+      "extraInfo": [
+        "Hours: Monday - Friday 8:00 AM - 5:00 PM",
+        "Main Phone: (209) 468-3000",
+        "Email: PWInfoSupport@sjgov.org"
+      ]
+    },
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "SanLuisObispo",
+    "name": "San Luis Obispo County",
+    "apnFormat": "053-184-005",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.slocounty.ca.gov/"
+      },
+      {
+        "label": "Assessor Parcel Maps",
+        "url": "https://propertyinquiryportal.slocounty.ca.gov/#/property-inquiry"
+      },
+      {
+        "label": "Interactive GIS Mapping",
+        "url": "https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/GIS-of-Survey-Maps.aspx"
+      },
+      {
+        "label": "Land Records | Record Maps",
+        "url": "https://www.slocounty.ca.gov/Departments/Public-Works/Services/Maps/Record-Map-Index.aspx"
+      },
+      {
+        "label": "Benchmarks",
+        "url": "https://www.slocity.org/home/showpublisheddocument/15462/637601204870730000"
+      },
+      {
+        "label": "Public Record Documents",
+        "url": "https://www.slocity.org/government/department-directory/public-works/documents-online"
+      }
+    ],
+    "publicWorks": {
+      "address": "1055 Monterey Street, San Luis Obispo, CA 93408",
+      "extraInfo": [
+        "Phone: (805) 781-5000",
+        "Toll Free: (800) 834-4636",
+        "County Government Center"
+      ]
+    },
+    "caltransDistrict": "5",
+    "extraContent": []
+  },
+  {
+    "id": "SanMateo",
+    "name": "San Mateo County",
+    "apnFormat": "095040390 (095-040-390)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.smcacre.org/"
+      },
+      {
+        "label": "Assessor Maps",
+        "url": "https://www.smcacre.org/assessor/assessor-maps"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://gis.smcgov.org/Html5Viewer/?viewer=raster"
+      },
+      {
+        "label": "Benchmarks",
+        "url": "https://drive.google.com/file/d/1Y8ach8dJp4Ii8Qak8vYHGHPpRSa3eU-x/view?usp=sharing"
+      }
+    ],
+    "publicWorks": {
+      "address": "555 County Center , Redwood City, CA 94063",
+      "extraInfo": [
+        "Phone: (650) 363-4500"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "SantaBarbara",
+    "name": "Santa Barbara County",
+    "apnFormat": "069090056 (069-090-056)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.countyofsb.org/"
+      },
+      {
+        "label": "County Surveyor GIS",
+        "url": "https://apps.simplelayers.com/public/viewer/979"
+      },
+      {
+        "label": "Assessor Parcel Maps",
+        "url": "https://sbcassessor.com/Assessor/AssessorParcelMap.aspx"
+      },
+      {
+        "label": "Geodetic Survey",
+        "url": "https://www.countyofsb.org/1681/Geodetic-Survey"
+      }
+    ],
+    "publicWorks": {
+      "address": "105 E Anapamu Street, Santa Barbara, California 93101",
+      "extraInfo": [
+        "Phone: (805) 681-4200"
+      ]
+    },
+    "caltransDistrict": "5",
+    "extraContent": []
+  },
+  {
+    "id": "SantaClara",
+    "name": "Santa Clara County",
+    "apnFormat": "132-40-012",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://home.sccgov.org/home"
+      },
+      {
+        "label": "Assessor Maps Information System",
+        "url": "https://www.sccassessor.org/index.php/online-services/property-search/real-property"
+      },
+      {
+        "label": "Surveyor Record Index",
+        "url": "https://experience.arcgis.com/experience/be2e1200b3c543909d27d8ef23483a15"
+      },
+      {
+        "label": "Record Drawing Maps",
+        "url": "https://geoess.sccgov.org/discovergis/asbuiltmap"
+      },
+      {
+        "label": "Interactive Benchmark Locator",
+        "url": "https://www.valleywater.org/interactive-benchmark-locator"
+      }
+    ],
+    "publicWorks": {
+      "address": "70 West Hedding Street East Wing , 11th Floor , San Jose, California 95110",
+      "extraInfo": [
+        "Main Number: (480) 229-5151",
+        "Media Line: (480) 229-5119",
+        "SCCPublicAffairs@ceo.sccgov.org",
+        "General Contact Information:",
+        "Office of the County Executive:"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "SantaCruz",
+    "name": "Santa Cruz County",
+    "apnFormat": "02433102 (024-331-02-000)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.co.santa-cruz.ca.us/"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://gis.santacruzcounty.us/gisweb/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "5",
+    "extraContent": []
+  },
+  {
+    "id": "Shasta",
+    "name": "Shasta County",
+    "apnFormat": "077-490-005",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.co.shasta.ca.us/index.aspx"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://maps.shastacounty.gov/ShastaCountyMap/"
+      },
+      {
+        "label": "Mediafire",
+        "url": "https://www.mediafire.com/folder/pxfsax48v819z/Shasta"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/shasta/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Sierra",
+    "name": "Sierra County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/sierra/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Siskiyou",
+    "name": "Siskiyou County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/siskiyou/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Solano",
+    "name": "Solano County",
+    "apnFormat": "003-042-360",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.solanocounty.com/default.asp"
+      },
+      {
+        "label": "Assessor Maps Retrieval System",
+        "url": "https://www.solanocounty.gov/government/assessorrecorder/assessor-division/assessor-maps"
+      },
+      {
+        "label": "Land Records | Record Maps",
+        "url": "https://www.solanocounty.com/depts/ar/asr_filedmaps.asp"
+      },
+      {
+        "label": "GIS Mapping",
+        "url": "https://solanocountygis.com/portal/apps/webappviewer/index.html?id=5cbdaf8d97d94036857c67b50decbe9b"
+      }
+    ],
+    "publicWorks": {
+      "address": "675 Texas Street, Suite 5500 , Fairfield, CA 94533",
+      "phone": "(707) 784-6765",
+      "fax": "(707) 784-2894",
+      "extraInfo": [
+        "Phone: (707) 784-6765",
+        "Fax: (707) 784-2894"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "Sonoma",
+    "name": "Sonoma County",
+    "apnFormat": "028-060-042",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://sonomacounty.ca.gov/"
+      },
+      {
+        "label": "Benchmarks",
+        "url": "https://share.sonoma-county.org/link/0_pi8S-Sp3c/"
+      },
+      {
+        "label": "Public Assessor Services",
+        "url": "https://assr.parcelquest.com/Statewide?IndexViewModel=PQGov.Models.IndexViewModel"
+      },
+      {
+        "label": "Zoning Database",
+        "url": "https://permitsonoma.org/zoningcodes"
+      }
+    ],
+    "publicWorks": {
+      "address": "585 Fiscal Drive, Suite 103F, Santa Rosa, California 95403",
+      "extraInfo": [
+        "Phone: (707) 565-2651"
+      ]
+    },
+    "caltransDistrict": "4",
+    "extraContent": []
+  },
+  {
+    "id": "Stanislaus",
+    "name": "Stanislaus County",
+    "apnFormat": "006-380-001",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.stancounty.com/"
+      },
+      {
+        "label": "Assessor Maps",
+        "url": "http://qa.co.stanislaus.ca.us/AssessorWeb/public/app.jsp?inquiryType=VALUE_NOTICE_SEARCH"
+      },
+      {
+        "label": "GIS Mapping Applications",
+        "url": "https://open-data-stancounty-gis.hub.arcgis.com/"
+      },
+      {
+        "label": "Record Maps GIS",
+        "url": "https://stancounty-gis.maps.arcgis.com/apps/webappviewer/index.html?id=8ed16a887b0e49b48e8cdabec45f7e81"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "10",
+    "extraContent": []
+  },
+  {
+    "id": "Sutter",
+    "name": "Sutter County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "GIS Mapping",
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=6556d0deabef46f2afe00818c336e9bc"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Tehama",
+    "name": "Tehama County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/tehama/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Trinity",
+    "name": "Trinity County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/trinity/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "2",
+    "extraContent": []
+  },
+  {
+    "id": "Tulare",
+    "name": "Tulare County",
+    "apnFormat": "123-456-789-000",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://tularecounty.ca.gov/county/"
+      },
+      {
+        "label": "Assessor Map",
+        "url": "https://iportal.tularecounty.ca.gov/iportal/apps/webappviewer/index.html?id=a1a6e2f2f9f341ed84a64f3b61919760"
+      },
+      {
+        "label": "Surveyor Documents",
+        "url": "https://publicdocs.co.tulare.ca.us/Questys.CMx.Surveyorweb/Browse/Default.aspx"
+      }
+    ],
+    "publicWorks": {
+      "address": "5961 S. Mooney Blvd., Visalia, CA 93277",
+      "extraInfo": [
+        "Phone: (559) 624-7152"
+      ]
+    },
+    "caltransDistrict": "6",
+    "extraContent": []
+  },
+  {
+    "id": "Ventura",
+    "name": "Ventura County",
+    "apnFormat": "1010172085 (101-0-172-085)",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.ventura.org/"
+      },
+      {
+        "label": "Assessor Maps",
+        "url": "https://assessor.countyofventura.org/research/mappage.asp"
+      },
+      {
+        "label": "County Records - GIS",
+        "url": "https://maps.ventura.org/Html5Viewer/index.html?viewer=CountyView.CountyView_gvh"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "7",
+    "extraContent": []
+  },
+  {
+    "id": "Yolo",
+    "name": "Yolo County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Official Site",
+        "url": "https://www.yolocounty.org/"
+      },
+      {
+        "label": "GIS Property Information",
+        "url": "https://yolo.maps.arcgis.com/apps/webappviewer/index.html?id=07aafdb9df8b40fea378723de601c69b&extent=-13651962.5683%2C4642419.391%2C-13505203.474%2C4708996.0427%2C102100"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/yolo/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  },
+  {
+    "id": "Yuba",
+    "name": "Yuba County",
+    "apnFormat": "",
+    "links": [
+      {
+        "label": "Recorded Maps",
+        "url": "https://camapsource.com/yuba/"
+      }
+    ],
+    "publicWorks": {},
+    "caltransDistrict": "3",
+    "extraContent": []
+  }
+]

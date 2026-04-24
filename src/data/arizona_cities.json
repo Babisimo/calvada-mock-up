@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Chandler",
+    "name": "Chandler",
+    "links": [
+      {
+        "url": "https://dl.icdst.org/pdfs/files4/183d91d2e6de4b88349470ba4abe4443.pdf",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Tucson",
+    "name": "Tucson",
+    "links": [
+      {
+        "url": "https://maps-and-records.tucsonaz.gov/",
+        "label": "Maps and Records"
+      },
+      {
+        "url": "https://maps2.tucsonaz.gov/Html5Viewer/?viewer=maptucson",
+        "label": "City of Tucson GIS"
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "category": "Government",
+    "links": [
+      {
+        "label": "FEMA",
+        "url": "https://msc.fema.gov/portal/home",
+        "imgSrc": "https://msc.fema.gov/portal/images/fema-logo-main.png",
+        "imgAlt": "FEMA-logo",
+        "imgWidth": "130px"
+      },
+      {
+        "label": "NGS Benchmarks",
+        "url": "https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/1200px-NOAA_logo.svg.png",
+        "imgAlt": "NGS-logo",
+        "imgWidth": "60px"
+      },
+      {
+        "label": "LS Lookup",
+        "url": "https://search.dca.ca.gov/?BD=31",
+        "imgSrc": "https://search.dca.ca.gov/images/dcasearch.png",
+        "imgAlt": "DCA Search",
+        "imgWidth": "180px"
+      },
+      {
+        "label": "Caltrans ROW Contacts",
+        "url": "https://dot.ca.gov/programs/right-of-way/rw-maps-surveys-records",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Caltrans.svg/1200px-Caltrans.svg.png",
+        "imgAlt": "BPR-logo",
+        "imgWidth": "80px"
+      },
+      {
+        "label": "Bureau Of Land Management",
+        "url": "https://glorecords.blm.gov/default.aspx",
+        "imgSrc": "https://glorecords.blm.gov/images/blm_banner_home_abbreviated.png",
+        "imgAlt": "Bureau-logo",
+        "imgWidth": "440px",
+        "imgHeight": "40px"
+      },
+      {
+        "label": "NGMD",
+        "url": "https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html",
+        "imgSrc": "https://ngmdb.usgs.gov/dev/img/usgsLogo.svg",
+        "imgAlt": "National Geologic Map Database-logo",
+        "imgWidth": "180px"
+      },
+      {
+        "label": "EQ Zapp",
+        "url": "https://www.conservation.ca.gov/cgs/geohazards/eq-zapp",
+        "imgSrc": "https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-mobile.svg",
+        "imgAlt": "Department of Conservation-logo",
+        "imgWidth": "180px"
+      },
+      {
+        "label": "NAVFAC Requirements For Surveying",
+        "url": "https://drive.google.com/file/d/145tLOzCwhSI-aUsyO6uVuyvdcZY0wDVN/view?usp=drive_link"
+      },
+      {
+        "label": "San Francisco 2013 Vertical Datum SFVD13 Storrs McGee",
+        "url": "https://drive.google.com/file/d/1mgx4XauVAvNRPFU7cP0xVItG4HZK3hak/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "category": "Tools & Calculators",
+    "links": [
+      {
+        "label": "AirControl",
+        "url": "https://air.aloft.ai/login",
+        "imgSrc": "https://air.aloft.ai/static/media/aloft-dark.6dee4fe27999b0205810d8efb3b10732.svg",
+        "imgAlt": "OpenSky-logo",
+        "imgWidth": "50px"
+      },
+      {
+        "label": "OpenSky",
+        "url": "https://opensky.wing.com/visitor/map?lat=33.892180&lng=-117.593476&zoom=18",
+        "imgSrc": "https://opensky.wing.com/assets/images/opensky_consumer_logo.png",
+        "imgAlt": "OpenSky-logo",
+        "imgWidth": "180px"
+      },
+      {
+        "label": "BY POINT RADIUS",
+        "url": "https://www.ngs.noaa.gov/cgi-bin/ds_radius.prl",
+        "imgSrc": "https://www.ngs.noaa.gov/images/NGSimages/NGSbut.gif",
+        "imgAlt": "BPR-logo",
+        "imgWidth": "40px"
+      },
+      {
+        "label": "Magnetic Field Calculators",
+        "url": "https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml",
+        "imgSrc": "https://www.noaa.gov/sites/default/files/2022-03/noaa_digital_logo-2022.png",
+        "imgAlt": "ngdc-logo",
+        "imgWidth": "80px"
+      },
+      {
+        "label": "Township and Range - Public Land Survey System",
+        "url": "https://www.earthpoint.us/Townships.aspx"
+      }
+    ]
+  },
+  {
+    "category": "Property & Data",
+    "links": [
+      {
+        "label": "DATATREE",
+        "url": "https://web.datatree.com/Account/Login?ReturnUrl=%2F#/home",
+        "imgSrc": "https://dna.firstam.com/hubfs/_Logos/dna-logo.svg",
+        "imgAlt": "DATATREE-logo",
+        "imgWidth": "250px"
+      },
+      {
+        "label": "Courthouse Direct",
+        "url": "https://www.courthousedirect.com/",
+        "imgSrc": "https://www.courthousedirect.com/images/newlook_2012/logo.png",
+        "imgAlt": "Courthouse Direct-logo",
+        "imgWidth": "250px"
+      },
+      {
+        "label": "CA Map Source",
+        "url": "https://camapsource.com/",
+        "imgSrc": "https://camapsource.com/wp-content/uploads/2019/12/CA-Map-Source_Logo-Small-PNG.png",
+        "imgAlt": "CA Map Source-logo",
+        "imgWidth": "180px"
+      }
+    ]
+  },
+  {
+    "category": "Utilities",
+    "links": [
+      {
+        "label": "Irvine Ranch Water District GIS",
+        "url": "https://irwdchmap.irwd.com/MPSvc/mp/index.html?si=true&de=research.calvada@outlook.com",
+        "imgSrc": "https://www.irwd.com//templates/irwd/images/logo.png",
+        "imgAlt": "IRWD Logo",
+        "imgWidth": "160px"
+      },
+      {
+        "label": "SoCal California Edison Lines",
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=05a84ec9d19f43ac93b451939c330888",
+        "imgSrc": "https://skipsolabs-california-energy-challenge.s3.amazonaws.com/frontend/section/organization/7880/5f070c781a15d5667169.png",
+        "imgAlt": "SoCal Edison Lines",
+        "imgWidth": "100px"
+      },
+      {
+        "label": "SCE CAD File Requirements",
+        "url": "https://drive.google.com/file/d/14NvCvl2oF4ENSaps8TGDfTSPiKb5yCRM/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "category": "Resources & Reference",
+    "links": [
+      {
+        "label": "Research Contacts",
+        "url": "https://docs.google.com/spreadsheets/d/1OIIkwJlWT1OTXHB9fdcxXAbAQba1-S5LivrMZWDlypY/edit?usp=sharing",
+        "imgSrc": "https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png",
+        "imgAlt": "Google Sheet",
+        "imgWidth": "30px"
+      },
+      {
+        "label": "Surveying Books",
+        "url": "http://keithwspencer.net/Library/Library.shtml",
+        "imgSrc": "http://keithwspencer.net/images/EF_Logo-x-Sml.jpg",
+        "imgAlt": "California Land Surveyors Association-logo",
+        "imgWidth": "180px"
+      },
+      {
+        "label": "HxGN SmartNet",
+        "url": "https://www.smartnetna.com/portal/",
+        "imgSrc": "https://www.smartnetna.com/images/hexagon-geosystems.jpg",
+        "imgAlt": "HxGN SmartNet-logo",
+        "imgWidth": "180px"
+      }
+    ]
+  }
+]

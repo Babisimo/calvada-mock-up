@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "Adelanto",
+    "name": "Adelanto",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1KpVBmPVZYhczDTrZI8DHAKka1UNKSMz2/view?usp=drive_link",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://www.ci.adelanto.ca.us/401/GIS-MAPS",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/adelanto/latest/adelanto_ca/0-0-0-20747",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "AlisoViejo",
+    "name": "Aliso Viejo",
+    "links": [
+      {
+        "url": "https://alisoviejo.maps.arcgis.com/apps/webappviewer/index.html?id=5ed060c1092440b6922a6c0119ffbe27",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/AlisoViejo/",
+        "label": "Municipal Code"
+      },
+      {
+        "url": "https://avcity.org/BusinessDirectoryII.aspx?lngBusinessCategoryID=26",
+        "label": "Utilities"
+      }
+    ]
+  },
+  {
+    "id": "Anaheim",
+    "name": "Anaheim",
+    "links": [
+      {
+        "url": "https://gis.anaheim.net/portal/apps/webappviewer/index.html?id=e1e1ec14535146f692dfe832391c92ec",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://gis.anaheim.net/portal/home/",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://gis.anaheim.net/portal/home/",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "http://gis.anaheim.net/ParcelInfo/Default.aspx",
+        "label": "Zoning"
+      }
+    ]
+  },
+  {
+    "id": "AppleValley",
+    "name": "Apple Valley",
+    "links": [
+      {
+        "url": "https://www.applevalley.org/services/planning-division/zoning-map-permitted-use",
+        "label": "Zoning Map & Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Artesia",
+    "name": "Artesia",
+    "links": [
+      {
+        "url": "https://www.cityofartesia.us/112/Planning-Zoning",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://library.qcode.us/lib/artesia_ca/pub/municipal_code",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Azusa",
+    "name": "Azusa",
+    "links": [
+      {
+        "url": "https://www.arcgis.com/apps/instant/minimalist/index.html?appid=f390446f48c34ac3ad53aede1db0bd70",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://azusaca.gov/1892/City-Maps",
+        "label": "Zoning & Parcels"
+      },
+      {
+        "url": "https://library.municode.com/ca/azusa/codes/code_of_ordinances",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Bakersfield",
+    "name": "Bakersfield",
+    "links": [
+      {
+        "url": "https://cob.maps.arcgis.com/apps/webappviewer/index.html?id=9174f084addc450286ac067a56fdb83f",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://bakersfield.municipal.codes/Code/17",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Barstow",
+    "name": "Barstow",
+    "links": [
+      {
+        "url": "https://www.barstowca.org/departments/community-services-department/engineering-services-division",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Beaumont",
+    "name": "Beaumont",
+    "links": [
+      {
+        "url": "https://www.beaumontca.gov/983/GIS",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/ca/beaumont/codes/code_of_ordinances",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Berkeley",
+    "name": "Berkeley",
+    "links": [
+      {
+        "url": "https://berkeleyca.gov/city-services/streets-sidewalks-sewers-and-utilities/utility-services",
+        "label": "Utilities"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=2c7dfafbb1f64e159f4fdf28a52f51c6&showLayers=Berkeley%20Parcels;Planning%20and%20Building",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://berkeleyca.gov/construction-development/land-use-development/zoning-lookup",
+        "label": "Zoning Map"
+      }
+    ]
+  },
+  {
+    "id": "BeverlyHills",
+    "name": "Beverly Hills",
+    "links": [
+      {
+        "url": "https://gis.beverlyhills.org/vbh/benchmarksTies/",
+        "label": "Benchmarks & Centerline Ties"
+      },
+      {
+        "url": "https://cs.beverlyhills.org/cs/",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/beverlyhillsca/latest/beverlyhills_ca/0-0-0-12820",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Brea",
+    "name": "Brea",
+    "links": [
+      {
+        "url": "https://brea.maps.arcgis.com/apps/webappviewer/index.html?id=d45bc07b4dc74935827c9c0b2d11de31",
+        "label": "Zoning GIS"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/brea/latest/brea_ca/0-0-0-68094",
+        "label": "Zoning Code"
+      }
+    ]
+  },
+  {
+    "id": "Brentwood",
+    "name": "Brentwood",
+    "links": [
+      {
+        "url": "https://gis.brentwoodca.gov/html5/external.html",
+        "label": "City of Brentwood Benchmarks GIS"
+      }
+    ]
+  },
+  {
+    "id": "Burbank",
+    "name": "Burbank",
+    "links": [
+      {
+        "url": "https://burbankca.maps.arcgis.com/apps/View/index.html?appid=17b32127798845afb6329617545f0ebb&extent=-118.4349,34.1321,-118.2152,34.2322",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.burbankca.gov/web/public-works/centerlines",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.burbankca.gov/web/community-development/planning-zoning",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/Burbank/#!/Burbank10/Burbank1001.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Camarillo",
+    "name": "Camarillo",
+    "links": [
+      {
+        "url": "https://www.ci.camarillo.ca.us/residents/utility_customer_services/index.php",
+        "label": "Utilities"
+      },
+      {
+        "url": "https://cms7files.revize.com/camarilloca/Zoning_April25_22_24x52_wall.pdf",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://library.municode.com/ca/camarillo/codes/code_of_ordinances?nodeId=TIT19ZO",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Carlsbad",
+    "name": "Carlsbad",
+    "links": [
+      {
+        "url": "https://www.carlsbadca.gov/home/showpublisheddocument/7088/637620348553030000",
+        "label": "Survey Control Network (RS 17271)"
+      },
+      {
+        "url": "https://www.carlsbadca.gov/home/showpublisheddocument/726/637446748905300000",
+        "label": "Survey Control Network Data Seets"
+      },
+      {
+        "url": "https://www.carlsbadca.gov/departments/online-services",
+        "label": "Online Services (City Records)"
+      },
+      {
+        "url": "https://www.carlsbadca.gov/departments/utilities",
+        "label": "Utilities"
+      },
+      {
+        "url": "https://www.carlsbadca.gov/home/showpublisheddocument/246/637638645128870000",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://ecode360.com/CA4913",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Carson",
+    "name": "Carson",
+    "links": [
+      {
+        "url": "https://gis.carson.ca.us/",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://gis.carson.ca.us/pdfs/mapgallery/Zoning_24x36.pdf",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/Carson/#!/Carson09/Carson09010000.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "CathedralCity",
+    "name": "Cathedral City",
+    "links": [
+      {
+        "url": "https://www.cathedralcity.gov/departments/engineering/engineering-documents",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Chico",
+    "name": "Chico",
+    "links": []
+  },
+  {
+    "id": "ChinoHills",
+    "name": "Chino Hills",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/15WiYL7BiT7G4fj8735WeUoAoxrjH_vAT/view?usp=drive_link",
+        "label": "Benchmarks (PDF)"
+      }
+    ]
+  },
+  {
+    "id": "ChulaVista",
+    "name": "Chula Vista",
+    "links": [
+      {
+        "url": "https://gisweb.chulavistaca.gov/MapGallery/map.html?webmap=e7659337744d4111a6b1569daac0246c",
+        "label": "GIS"
+      },
+      {
+        "url": "https://gisweb.chulavistaca.gov/ZoneFinder/",
+        "label": "eZoning"
+      },
+      {
+        "url": "https://gisweb.chulavistaca.gov/mapgallery/map.html?webmap=936b5efd6fcc4585a1dde41ff7c7cd47",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://chulavista.municipal.codes/CVMC/19",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Coachella",
+    "name": "Coachella",
+    "links": []
+  },
+  {
+    "id": "Colton",
+    "name": "Colton",
+    "links": []
+  },
+  {
+    "id": "Corona",
+    "name": "Corona",
+    "links": [
+      {
+        "url": "https://www.coronaca.gov/government/departments-divisions/public-works/development-and-permits/benchmarks",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://centerlineties.coronaca.gov/",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.coronaca.gov/government/departments/community-development/planning-division/general-plan-and-zoning-maps",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.coronaca.gov/government/mayor-city-council/zoning-code",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Coronado",
+    "name": "Coronado",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1Z7c96OumSqJvRa9yMsftLMNtv5XFANkp/view?usp=sharing",
+        "label": "Benchmarks PDF"
+      }
+    ]
+  },
+  {
+    "id": "CulverCity",
+    "name": "Culver City",
+    "links": [
+      {
+        "url": "https://pw.lacounty.gov/sur/BenchMark/QUADS/CULVER/CURRENT/Culver_Quad.pdf",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.culvercity.org/Services/Building-Development/Center-Line-Ties",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://zoningpoint.com/california/los-angeles-county/culver-city/",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/culvercity/latest/culvercity_ca/0-0-0-46073",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Cupertino",
+    "name": "Cupertino",
+    "links": [
+      {
+        "url": "https://gis-cupertino.opendata.arcgis.com/datasets/5423fc963da6411ea4ed471141b37676/explore",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://gis.cupertino.org/propertyinfo/",
+        "label": "Property Information (Record Maps, Zoning, APNs)"
+      }
+    ]
+  },
+  {
+    "id": "Downey",
+    "name": "Downey",
+    "links": [
+      {
+        "url": "https://downeypw.org/xymaps/Map/Map",
+        "label": "Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "Dublin",
+    "name": "Dublin",
+    "links": [
+      {
+        "url": "https://gis.dublin.ca.gov/Html5Viewer/",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "ElCajon",
+    "name": "El Cajon",
+    "links": [
+      {
+        "url": "https://experience.arcgis.com/experience/21891d9a9d054922957cd83dea0e79e5/",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://cityofelcajon.maps.arcgis.com/apps/webappviewer/index.html?id=5fc20ac812ac42799d8c7d33a3db8cac",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://www.elcajon.gov/your-government/departments/community-development/zoning-information",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "ElkGrove",
+    "name": "Elk Grove",
+    "links": [
+      {
+        "url": "https://www.elkgrovecity.org/public-works/horizontal-and-vertical-control",
+        "label": "Horizontal and Vertical Control"
+      }
+    ]
+  },
+  {
+    "id": "ElSegundo",
+    "name": "El Segundo",
+    "links": [
+      {
+        "url": "https://drive.google.com/drive/folders/1sacjLH8rQz7BzCiBuTrOH3h6BH7j4jpG?usp=drive_link",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Encinitas",
+    "name": "Encinitas",
+    "links": [
+      {
+        "url": "https://monumentviewer.encinitasca.gov/",
+        "label": "Benchmarks GIS"
+      },
+      {
+        "url": "https://www.encinitasca.gov/home/showpublisheddocument/3456/638039416656100000",
+        "label": "Benchmark Datasheets (Updated)"
+      },
+      {
+        "url": "https://landrecords.encinitasca.gov/",
+        "label": "Land Records (Free GIS)"
+      },
+      {
+        "url": "https://www.encinitasca.gov/government/departments/city-manager/information-technology/it-applications/geographic-information-systems/gis-city-maps",
+        "label": "GIS City Maps (Zoning, etc.)"
+      }
+    ]
+  },
+  {
+    "id": "Escondido",
+    "name": "Escondido",
+    "links": [
+      {
+        "url": "https://www.escondido.gov/332/Centerline-Tie-Sheets",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.escondido.gov/DocumentCenter/View/1500/City-Benchmarks-PDF?bidId=",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Fontana",
+    "name": "Fontana",
+    "links": [
+      {
+        "url": "https://data-fontanaca.opendata.arcgis.com/maps/FontanaCA::city-of-fontana-control-points/about",
+        "label": "Benchmarks & Centerline Ties GIS"
+      },
+      {
+        "url": "https://fonopengislayers.fontana.org/WebLink/Browse.aspx?id=584735&dbid=0&repo=FontanaRecords&cr=1",
+        "label": "Centerline Ties & Corner Records Data Sheets"
+      },
+      {
+        "url": "https://www.fontanaca.gov/854/Zoning-General-Plan-Information-Maps",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://library.municode.com/ca/fontana/codes/zoning_and_development_code?nodeId=CH30ZODECO_ARTIVZODI",
+        "label": "Municipal Code"
+      },
+      {
+        "url": "https://data.fontanaca.gov/",
+        "label": "Open Data Portal"
+      }
+    ]
+  },
+  {
+    "id": "Fremont",
+    "name": "Fremont",
+    "links": [
+      {
+        "url": "https://egis.fremont.gov/gisapps/fremont/index.html?viewer=Public.gvh",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Fresno",
+    "name": "Fresno",
+    "links": [
+      {
+        "url": "https://www.fresno.gov/publicworks/developer-doorway/#tab-7",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://cityoffresno.maps.arcgis.com/apps/webappviewer/index.html?id=f744a29c7b904319917194fd412ebb8b",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/ca/fresno/codes/code_of_ordinances",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Fullerton",
+    "name": "Fullerton",
+    "links": [
+      {
+        "url": "https://www.cityoffullerton.com/government/departments/public-works/engineering/general-engineering/bench-marks?locale=en",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://portal.laserfiche.com/Portal/Browse.aspx?id=292163&repo=r-3261686e",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://gis.cityoffullerton.com/portal/apps/webappviewer/index.html?id=38a7db5f8a8748b1818bc31269bfa3b0",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/fullerton/latest/fullerton_ca/0-0-0-8438",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Glendale",
+    "name": "Glendale",
+    "links": [
+      {
+        "url": "https://www.arcgis.com/home/webmap/viewer.html?webmap=522eebe33b0548649688b17c0dec0e53&extent=-118.4547,34.0651,-117.964,34.3116",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www2.glendaleca.gov/centerline_survey/centerlinetiesurveys.aspx",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://cog-gis.maps.arcgis.com/apps/webappviewer/index.html?id=096fdb68fd5a4717a1b6e02883482a4f",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/az/glendale/codes/code_of_ordinances?nodeId=COGLAR1985",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Hanford",
+    "name": "Hanford",
+    "links": [
+      {
+        "url": "https://www.cityofhanfordca.com/DocumentCenter/View/400/2021-Benchmark-Map-PDF?bidId=",
+        "label": "Benchmarks Map"
+      },
+      {
+        "url": "https://www.cityofhanfordca.com/DocumentCenter/View/389/2021-Benchmarks-PDF?bidId=",
+        "label": "Benchmarks List"
+      }
+    ]
+  },
+  {
+    "id": "Hemet",
+    "name": "Hemet",
+    "links": [
+      {
+        "url": "https://www.hemetca.gov/385/Mapping",
+        "label": "CL Ties & Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Hillsborough",
+    "name": "Hillsborough",
+    "links": [
+      {
+        "url": "https://www.hillsborough.net/169/Engineering#:~:text=Benchmarks%20and%20Monuments,the%20link%20below",
+        "label": "Benchmarks & Monuments"
+      }
+    ]
+  },
+  {
+    "id": "HunBeach",
+    "name": "Hun Beach",
+    "links": [
+      {
+        "url": "https://huntingtonbeach.maps.arcgis.com/apps/webappviewer/index.html?id=7ab822c02ded4940acd7e4593bba7cb7",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.qcode.us/lib/huntington_beach_ca/pub/municipal_code/item/zoning_code?view=expand",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Indio",
+    "name": "Indio",
+    "links": [
+      {
+        "url": "https://www.indio.org/home/showpublisheddocument/1960/637878751325170000",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Irvine",
+    "name": "Irvine",
+    "links": [
+      {
+        "url": "https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=0832eb1a39d64bd9a3d381a080dde8bd",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=f5a617a79fdf464fb3ad1474c439b930",
+        "label": "Street Improvement Plans"
+      },
+      {
+        "url": "https://gis.cityofirvine.org/onlineparcel/",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/ca/irvine/codes/zoning?nodeId=ZOOR",
+        "label": "Municipal Code"
+      },
+      {
+        "url": "https://www.irwd.com/doing-business/gis-map-and-records",
+        "label": "Irvine Ranch Water District"
+      }
+    ]
+  },
+  {
+    "id": "LagunaNigel",
+    "name": "Laguna Nigel",
+    "links": [
+      {
+        "url": "https://www.arcgis.com/home/webmap/viewer.html?webmap=07be648173c444fe88e67efeab2486a6&extent=-117.7637,33.4886,-117.637,33.5573",
+        "label": "Tract Map & CL Ties"
+      }
+    ]
+  },
+  {
+    "id": "LakeElsinore",
+    "name": "Lake Elsinore",
+    "links": [
+      {
+        "url": "http://www.lake-elsinore.org/city-hall/city-departments/public-works/engineering/drawing-standards",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "http://www.lake-elsinore.org/home/showdocument?id=20579",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "http://davis.lake-elsinore.org/portal/apps/webappviewer/index.html?id=d78b8d4d4fd24df1b864fd0538e83019",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/LakeElsinore/#!/LakeElsinore17/LakeElsinore17.html",
+        "label": "Municipal Code"
+      },
+      {
+        "url": "https://evmwd.maps.arcgis.com/apps/webappviewer/index.html?id=e505103a6c9b4a2f9e1f54e69fa4567f",
+        "label": "EVMWD"
+      }
+    ]
+  },
+  {
+    "id": "Livermore",
+    "name": "Livermore",
+    "links": [
+      {
+        "url": "https://gisweb.cityoflivermore.net/Html5Viewer/Index.html?configBase=https://gisweb.cityoflivermore.net/Geocortex/Essentials/REST/sites/COLPublic/viewers/COLPublic/virtualdirectory/Resources/Config/Default",
+        "label": "Benchmarks (GIS)"
+      },
+      {
+        "url": "https://www.livermoreca.gov/home/showpublisheddocument/649/637165675870430000",
+        "label": "Benchmarks (PDF)"
+      },
+      {
+        "url": "https://www.livermoreca.gov/departments/community-development/planning/zoning-map",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/Livermore/?zoning/Lpzc03/lpzc0345.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Lodi",
+    "name": "Lodi",
+    "links": [
+      {
+        "url": "https://maps.lodi.gov/Html5Viewer/index.html?viewer=GIS_External_Viewer.Lodi_Maps_Internal_Property_Viewer",
+        "label": "APNs (GIS)"
+      }
+    ]
+  },
+  {
+    "id": "LomaLinda",
+    "name": "Loma Linda",
+    "links": [
+      {
+        "url": "https://city-of-loma-linda-gis-data-lomalinda.hub.arcgis.com/apps/89e729d4a88d439fbeebdaed4725ffec/explore",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "LongBeach",
+    "name": "Long Beach",
+    "links": [
+      {
+        "url": "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/survey-benchmark-book",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/benchmarkmap_website",
+        "label": "Benchmarks Map"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/mapviewer/index.html?layers=1f809519baf244359fa3fb9097fd3961",
+        "label": "Benchmarks GIS"
+      },
+      {
+        "url": "https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=e41479af7f154bc584c384cd17440364",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=17b68e7082ef4a4ea8ba6b0d04729758",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://longbeach.gov/lbds/planning/advance/maps/zoning/",
+        "label": "Zoning Maps"
+      },
+      {
+        "url": "https://library.municode.com/ca/long_beach/codes/municipal_code?nodeId=TIT21ZO",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "LosAltos",
+    "name": "Los Altos",
+    "links": [
+      {
+        "url": "https://www.losaltosca.gov/sites/default/files/fileattachments/public_works/page/47261/city_of_los_altos_bm_map.pdf",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "LosAngeles",
+    "name": "LA",
+    "links": [
+      {
+        "url": "https://navigatela.lacity.org/navigatela/",
+        "label": "Benchmarks (NAVLA)"
+      },
+      {
+        "url": "http://zimas.lacity.org/",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://navigatela.lacity.org/navigatela/",
+        "label": "Navigate LA"
+      }
+    ]
+  },
+  {
+    "id": "LosGatos",
+    "name": "Los Gatos",
+    "links": [
+      {
+        "url": "https://www.losgatosca.gov/DocumentCenter/View/17551/Los-Gatos-Monuments_REV?bidId=",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "ManhattanBeach",
+    "name": "Manhattan Beach",
+    "links": [
+      {
+        "url": "https://permitmaps.citymb.info/Html5Viewer/index.html?viewer=mbca&_ga=2.186357228.471119012.1767910539-182678365.1767910539",
+        "label": "City Ties & Benchmarks"
+      },
+      {
+        "url": "https://www.manhattanbeach.gov/departments/information-technology/gis-and-maps/map-gallery",
+        "label": "Map Gallery (Utilities, Zoning, & More)"
+      }
+    ]
+  },
+  {
+    "id": "Menifee",
+    "name": "Menifee",
+    "links": [
+      {
+        "url": "https://www.cityofmenifee.us/DocumentCenter/View/2854/5-City-of-Menifee---Benchmark-Book",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.cityofmenifee.us/400/Centerline-Ties",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://cityofmenifee.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b385b9d7da9f4d04a231c840637a0209",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://online.encodeplus.com/regs/menifee-ca/doc-viewer.aspx?secid=1331#secid-1331",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "MenloPark",
+    "name": "Menlo Park",
+    "links": [
+      {
+        "url": "https://menlopark.gov/Government/Departments/Public-Works/Engineering-Division/City-benchmarks",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://menlopark.gov/Government/Departments/Community-Development/Planning-Division/Comprehensive-planning/General-Plan-land-use-and-zoning-map",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/MenloPark/html/MenloPark16/MenloPark16.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Milpitas",
+    "name": "Milpitas",
+    "links": [
+      {
+        "url": "https://milpitas-gis-milpitas.hub.arcgis.com/datasets/0ff717e8cbe04fe8b175784f48228ecd_0/about",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Modesto",
+    "name": "Modesto",
+    "links": [
+      {
+        "url": "https://gis.modestogov.com/gis/",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://gis.modestogov.com/gis/",
+        "label": "Zoning"
+      }
+    ]
+  },
+  {
+    "id": "Montclair",
+    "name": "Montclair",
+    "links": [
+      {
+        "url": "https://www.cityofmontclair.org/benchmarks/",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.cityofmontclair.org/centerline-ties/",
+        "label": "Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "Napa",
+    "name": "Napa",
+    "links": []
+  },
+  {
+    "id": "NationalCity",
+    "name": "National City",
+    "links": [
+      {
+        "url": "https://www.nationalcityca.gov/home/showpublisheddocument/8512/636090627169130000",
+        "label": "City Benchmarks"
+      },
+      {
+        "url": "https://www.nationalcityca.gov/home/showpublisheddocument/8891/636090627169130000",
+        "label": "City Ties"
+      }
+    ]
+  },
+  {
+    "id": "Oakland",
+    "name": "Oakland",
+    "links": [
+      {
+        "url": "https://drive.google.com/drive/folders/1Ezj2ZBBgyDF73do8Wb_OmTI00MJDlceB",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1JdrnMR1xZPx4ZMhrnTelO6VkMqFWm4GZ",
+        "label": "Field Books"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1HUAvsySDsxG5fIa9Uv0WMQXJteFCioGq",
+        "label": "Monument Data"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=c50303cea82c4eefacd31e40a6659be2&extent=-13611483.127%2C4553264.3453%2C-13609686.8568%2C4554272.3586%2C102100",
+        "label": "Sewer & Monument Sheets (GIS)"
+      }
+    ]
+  },
+  {
+    "id": "Oceanside",
+    "name": "Oceanside",
+    "links": [
+      {
+        "url": "https://oceanside.maps.arcgis.com/apps/webappviewer/index.html?id=d448a8964a084234891ffe19cb4b935a",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://oceanside.maps.arcgis.com/apps/webappviewer/index.html?id=4c27c9b8bdb94f3986c1b302b436cedb",
+        "label": "Storm Sewer System"
+      },
+      {
+        "url": "https://oceanside.maps.arcgis.com/apps/webappviewer/index.html?id=f67bb01c71aa4c418a8e7b8f741320ae",
+        "label": "GIS Map Books"
+      }
+    ]
+  },
+  {
+    "id": "Ontario",
+    "name": "Ontario",
+    "links": [
+      {
+        "url": "https://gisportal.ontarioca.gov/portal/apps/webappviewer/index.html?id=5d3a92c47c3a4e638f42e83a1f6b1576",
+        "label": "Benchmarks & Centerline Ties"
+      },
+      {
+        "url": "https://www.ontarioca.gov/sites/default/files/Ontario-Files/Planning/Documents/Zoning%20Map/Zoning_20220415.pdf",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.ontarioca.gov/sites/default/files/Ontario-Files/Planning/Documents/chapter_5.0_-_zoning_and_land_use_20180501.pdf",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Orange",
+    "name": "Orange",
+    "links": [
+      {
+        "url": "https://experience.arcgis.com/experience/6e18fd26a83646f9af0f400dad720c52#data_s=id%3A7c0b0eff547d40878f214f9479eac132-clTie_Index_5280-0%3A2770",
+        "label": "Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "OrangeGrove",
+    "name": "Orange Grove",
+    "links": [
+      {
+        "url": "https://ggcity.org/maps/benchmarks/",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://ggcity.org/engineering/centerline-ties",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://ggcity.org/econdev/zoning-map",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://library.qcode.us/lib/garden_grove_ca/pub/municipal_code/item/title_9",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Oroville",
+    "name": "Oroville",
+    "links": [
+      {
+        "url": "https://www.cityoforoville.org/services/public-works-department/engineering-division/civil-engineering-benchmarks",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Oxnard",
+    "name": "Oxnard",
+    "links": [
+      {
+        "url": "https://oxnard.maps.arcgis.com/apps/webappviewer/index.html?id=1517f746b7af4075af8f942266ba576b",
+        "label": "Benchmarks & Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "PalmDesert",
+    "name": "Palm Desert",
+    "links": [
+      {
+        "url": "https://www.palmdesert.gov/departments/planning/zoning",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://library.qcode.us/lib/palm_desert_ca/pub/municipal_code",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "PalmSprings",
+    "name": "Palm Springs",
+    "links": [
+      {
+        "url": "https://www.palmspringsca.gov/government/departments/engineering-services/field-engineering/benchmarks",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.palmspringsca.gov/government/departments/engineering-services/field-engineering/monument-centerline-ties",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.palmspringsca.gov/government/departments/planning/zoning-code-municipal-code-and-zoning-map",
+        "label": "Zoning Map & Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "PaloAlto",
+    "name": "Palo Alto",
+    "links": [
+      {
+        "url": "https://www.cityofepa.org/sites/default/files/fileattachments/public_works/page/3101/epa_monument_benchmark_exhibits_201701261453457304.pdf",
+        "label": "East Palo Alto Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "PalosVerdes",
+    "name": "Palos Verdes",
+    "links": [
+      {
+        "url": "https://www.pvestates.org/home/showpublisheddocument/17829/638761863915500000",
+        "label": "Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "Pasadena",
+    "name": "Pasadena",
+    "links": [
+      {
+        "url": "https://drive.google.com/drive/folders/18Vw5RL-pgl_Ykq9_sQ4xllEVdrmGNaho",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://pasadenasewercl.azurewebsites.net/public",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/Embed/index.html?webmap=2c3295b27e0649a181db3512bf0940d4&extent=-118.1904,34.1223,-118.0637,34.1933&zoom=true&previewImage=false&scale=false&search=true&searchextent=true&details=true&legend=true&active_panel=details&disable_scroll=true&theme=light",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/ca/pasadena/codes/code_of_ordinances?nodeId=TIT17ZOCO",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "PismoBeach",
+    "name": "Pismo Beach",
+    "links": [
+      {
+        "url": "https://accesspismo.pismobeach.org/WebLink/DocView.aspx?id=250037&dbid=0&repo=Laserfiche&cr=1",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Pomona",
+    "name": "Pomona",
+    "links": [
+      {
+        "url": "https://pomona-utilities.maps.arcgis.com/home/index.html",
+        "label": "City GIS Portal"
+      }
+    ]
+  },
+  {
+    "id": "Poway",
+    "name": "Poway",
+    "links": [
+      {
+        "url": "https://powaygis.poway.org/websites/powgis/",
+        "label": "City Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "RanchoCucamonga",
+    "name": "Rancho Cucamonga",
+    "links": [
+      {
+        "url": "https://www.dropbox.com/sh/odwx5bpuycleudn/AAAeD7d2GMBRWAxXJhIdqkqya?dl=0&preview=Benchmarks.pdf",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.dropbox.com/sh/odwx5bpuycleudn/AAB5HmQox9-1Cshbg62a1k-Pa/Centerline%20Tie%20Books?dl=0&subfolder_nav_tracking=1",
+        "label": "CL Tie Books"
+      },
+      {
+        "url": "https://www.dropbox.com/sh/odwx5bpuycleudn/AAAeD7d2GMBRWAxXJhIdqkqya?dl=0&preview=Centerline+Ties+Lookup+Guide.pdf",
+        "label": "CL Ties Lookup Guide"
+      },
+      {
+        "url": "https://www.dropbox.com/sh/odwx5bpuycleudn/AAAeD7d2GMBRWAxXJhIdqkqya?dl=0",
+        "label": "Land Development"
+      }
+    ]
+  },
+  {
+    "id": "RedBluff",
+    "name": "Red Bluff",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/16OBqJpZM0t1Phph83t7reNgWMiskuHlS/view?usp=drive_link",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Redding",
+    "name": "Redding",
+    "links": [
+      {
+        "url": "https://experience.arcgis.com/experience/4baf762c5bf64e81a72ac56a70548985/page/Page?views=Layers",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Redlands",
+    "name": "Redlands",
+    "links": []
+  },
+  {
+    "id": "RedondoBeach",
+    "name": "Redondo Beach",
+    "links": []
+  },
+  {
+    "id": "Redwood",
+    "name": "Redwood",
+    "links": [
+      {
+        "url": "https://webgis.redwoodcity.org/community/",
+        "label": "Benchmarks, Zoning, Utilities"
+      },
+      {
+        "url": "https://www.redwoodcity.org/departments/community-development-department/engineering-transportation/engineering/engineering-data-maps",
+        "label": "Engineering Data & Maps"
+      }
+    ]
+  },
+  {
+    "id": "Reedly",
+    "name": "Reedly",
+    "links": [
+      {
+        "url": "https://reedley.ca.gov/engineering-department/technical-library/",
+        "label": "Benchmarks, Ties, Utilities"
+      }
+    ]
+  },
+  {
+    "id": "Rialto",
+    "name": "Rialto",
+    "links": [
+      {
+        "url": "https://www.yourrialto.com/DocumentCenter/View/601/Benchmarks-Map-PDF",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Richmond",
+    "name": "Richmond",
+    "links": [
+      {
+        "url": "https://www.ci.richmond.ca.us/3344/Mapping-Services",
+        "label": "GIS Portal"
+      }
+    ]
+  },
+  {
+    "id": "Riverside",
+    "name": "Riverside",
+    "links": [
+      {
+        "url": "https://riversideca.gov/PWSurvey/benchmark_map.pdf",
+        "label": "Benchmark Map"
+      },
+      {
+        "url": "https://riversideca.gov/PWSurvey/benchmarks.pdf",
+        "label": "BM Description"
+      },
+      {
+        "url": "https://riversideca.gov/PWSurvey/control.asp",
+        "label": "Control Points"
+      },
+      {
+        "url": "https://riversideca.gov/PWSurvey/corner_record.asp",
+        "label": "Corner Records"
+      },
+      {
+        "url": "https://riversideca.gov/PWSurvey/ties.asp",
+        "label": "Tie Location"
+      }
+    ]
+  },
+  {
+    "id": "Roseville",
+    "name": "Roseville",
+    "links": [
+      {
+        "url": "https://data-roseville.opendata.arcgis.com/documents/12e87c5371a642fba1d05a780353eec5/explore",
+        "label": "Benchmark Map"
+      },
+      {
+        "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_7964838/File/Government/Departments/Development%20Services/Engineering/Benchmarks%20NAVD%2088.pdf",
+        "label": "BM Description"
+      },
+      {
+        "url": "https://data-roseville.opendata.arcgis.com/",
+        "label": "Additional GIS Data"
+      }
+    ]
+  },
+  {
+    "id": "Sacramento",
+    "name": "Sacramento",
+    "links": [
+      {
+        "url": "https://saccity.maps.arcgis.com/apps/webappviewer/index.html?id=49ea6aa0d45848798966b77e391d321a",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.cityofsacramento.gov/information-technology/gis",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://assessorparcelviewer.saccounty.gov/JSViewer/assessor.html",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://library.qcode.us/lib/sacramento_ca/pub/city_code",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SanBernardino",
+    "name": "San Bernardino",
+    "links": [
+      {
+        "url": "https://www.sanbernardino.gov/719/Survey-Benchmarks",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://edocs.sbcity.org/WebLink/?dbid=0&repo=SB",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://sbcity.maps.arcgis.com/apps/webappviewer/index.html?id=dcca6aa4816b4021bd9364888ba669fd",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/sanbernardinoca/latest/overview",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SanBruno",
+    "name": "San Bruno",
+    "links": [
+      {
+        "url": "https://www.sanbruno.ca.gov/DocumentCenter/View/3012/Horizontal-and-Vertical-Control-Network-Monument-Map-PDF",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SanCarlos",
+    "name": "San Carlos",
+    "links": [
+      {
+        "url": "https://mydashgis.com/SanCarlosZoning/map",
+        "label": "Benchmarks & Zoning"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/SanCarlos/#!/SanCarlos18/SanCarlos18.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SanDiego",
+    "name": "San Diego",
+    "links": [
+      {
+        "url": "https://www.sandiego.gov/sites/default/files/legacy/publicworks/pdf/edocref/verticalbenchbook111004.pdf",
+        "label": "Benchmarks PDF List"
+      },
+      {
+        "url": "https://www.sandiego.gov/sites/default/files/legacy/publicworks/pdf/edocref/ros14492.pdf",
+        "label": "<strong>DO NOT USE AS BM</strong> - Benchmarks PDF Data Sheets"
+      }
+    ]
+  },
+  {
+    "id": "SanFrancisco",
+    "name": "San Francisco",
+    "links": [
+      {
+        "url": "https://bsm.sfdpw.org/subdivision/benchmark/",
+        "label": "City Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SanJose",
+    "name": "San Jose",
+    "links": [
+      {
+        "url": "https://gis.sanjoseca.gov/maps/surveybenchmarks/?view=desktop",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=6f379e130e9a43ab9dee28806ed2c885&extent=-13574341.156%2C4480904.8205%2C-13559818.1207%2C4490039.0454%2C102100",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT20ZO",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SanLeandro",
+    "name": "San Leandro",
+    "links": [
+      {
+        "url": "https://www.sanleandro.org/DocumentCenter/View/833/City-Survey-Benchmarks-PDF",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SanLuisObispo",
+    "name": "San Luis Obispo",
+    "links": [
+      {
+        "url": "https://www.SanLuisObispo.org/DocumentCenter/View/833/City-Survey-Benchmarks-PDF",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SanMarcos",
+    "name": "San Marcos",
+    "links": [
+      {
+        "url": "https://www.sanmarcosca.gov/files/assets/city/v/1/development-svs/engineering/survey-control/citywide-geodetic-control-record-of-survey-23721-north-ame.pdf",
+        "label": "Benchmarks Map (ROS 23731)"
+      },
+      {
+        "url": "https://www.sanmarcosca.gov/files/assets/city/v/1/development-svs/engineering/survey-control/control-survey-data-sheets-ros-23731.pdf",
+        "label": "Benchmarks Data Sheets (ROS 23731)"
+      },
+      {
+        "url": "https://www.google.com/maps/d/u/0/viewer?mid=1BqYTSDvSRYlC-9Dc-dEcuUU7DQFyAJM&ll=33.13174679826397%2C-117.175724&z=13",
+        "label": "Benchmarks Google MyMaps"
+      }
+    ]
+  },
+  {
+    "id": "SanMateo",
+    "name": "San Mateo",
+    "links": [
+      {
+        "url": "https://drive.google.com/drive/u/0/folders/1P9M-8RPkdJP0Y6TJ7_L02DNBUaCisZXc",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SantaBarbara",
+    "name": "Santa Barbara",
+    "links": [
+      {
+        "url": "https://santabarbaraca.gov/government/departments/public-works/engineering-division/survey-benchmarks",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.countyofsb.org/2690/Santa-Maria-Tie-Book",
+        "label": "City Ties"
+      },
+      {
+        "url": "https://www.countyofsb.org/1681/Geodetic-Survey",
+        "label": "Geodetic Survey"
+      }
+    ]
+  },
+  {
+    "id": "SantaClara",
+    "name": "Santa Clara",
+    "links": [
+      {
+        "url": "https://www.santaclaraca.gov/home/showpublisheddocument/5865/638373671381800000",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://www.google.com/maps/d/u/0/viewer?mid=1Wgdk1noOnmx6TCr7FotNrezBlIoogR4&ll=37.37423936225392%2C-121.967961&z=13",
+        "label": "Benchmarks Google MyMaps"
+      }
+    ]
+  },
+  {
+    "id": "SantaFeSprings",
+    "name": "Santa Fe Springs",
+    "links": []
+  },
+  {
+    "id": "SantaMaria",
+    "name": "Santa Maria",
+    "links": [
+      {
+        "url": "https://www.countyofsb.org/2690/Santa-Maria-Tie-Book",
+        "label": "Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "SantaMonica",
+    "name": "Santa Monica",
+    "links": [
+      {
+        "url": "https://www.arcgis.com/apps/mapviewer/index.html?layers=d85b82ca3796410d8d350a1a139417ab",
+        "label": "Benchmarks & Centerline Ties"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=7a65c2c884b241938011c9c702ee697c",
+        "label": "GIS (Zoning)"
+      },
+      {
+        "url": "https://qcode.us/codes/santamonica/",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SantaRosa",
+    "name": "Santa Rosa",
+    "links": [
+      {
+        "url": "https://maps.srcity.org/Html5Viewer/Index.html?viewer=CapitalImprovement&scale=153600&center=6377333.5,1920867",
+        "label": "Benchmarks GIS"
+      },
+      {
+        "url": "https://www.srcity.org/DocumentCenter/View/40515/NAVD-88-Benchmark-Final-Report",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://www.srcity.org/782/Survey-Section",
+        "label": "Survey Section"
+      }
+    ]
+  },
+  {
+    "id": "Santee",
+    "name": "Santee",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1OtlzC3gQcXq_zQX3w69uUoMI-6v7bPfk/view?usp=drive_link",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://www.google.com/maps/d/u/0/viewer?mid=1QUwlnwEWl2DOyGDAqOU7da_rMBdn8h0&ll=32.837079883871105%2C-116.82957307006788&z=12",
+        "label": "Benchmarks Google MyMaps"
+      }
+    ]
+  },
+  {
+    "id": "Saratoga",
+    "name": "Saratoga",
+    "links": [
+      {
+        "url": "https://www.saratoga.ca.us/201/Benchmarks",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "SignalHill",
+    "name": "Signal Hill",
+    "links": [
+      {
+        "url": "https://www.cityofsignalhill.org/185/Survey-Information",
+        "label": "Benchmarks & Centerline Ties"
+      },
+      {
+        "url": "https://www.cityofsignalhill.org/105/Zoning",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/signalhill/latest/signalhill_ca/0-0-0-58296",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "SolanaBeach",
+    "name": "Solana Beach",
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1hI0OeWGaZ6i7BixDJ55dQtwqCokVZxBj/view?usp=drive_link",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://www.google.com/maps/d/u/0/viewer?mid=1hAGFj0vnnJhtwRpW9gN81tY0doPNpfk&ll=32.99306083875125%2C-117.25701401586913&z=14",
+        "label": "Benchmarks Google MyMaps"
+      }
+    ]
+  },
+  {
+    "id": "SouthSanFrancisco",
+    "name": "South San Francisco",
+    "links": [
+      {
+        "url": "https://sfpublicworks.org/ccsf-geodetic-network",
+        "label": "CCSF Geodetic Network"
+      }
+    ]
+  },
+  {
+    "id": "Stockton",
+    "name": "Stockton",
+    "links": [
+      {
+        "url": "https://keithwspencer.net/Library/SanJoaquinCounty/BenchmarkBook.pdf",
+        "label": "Benchmarks (PDF)"
+      }
+    ]
+  },
+  {
+    "id": "Sunnyvale",
+    "name": "Sunnyvale",
+    "links": [
+      {
+        "url": "https://www.sunnyvale.ca.gov/home/showpublisheddocument/1590/638336730043530000",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://https://www.google.com/maps/d/u/0/viewer?mid=10XnchLHPPavrehnAY12Xc0GW-GkIJEA&ll=37.37734905999479%2C-122.01216638151053&z=14",
+        "label": "Benchmarks Google MyMaps"
+      },
+      {
+        "url": "https://www.cityofSunnyvale.org/105/Zoning",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://codelibrary.amlegal.com/codes/Sunnyvale/latest/Sunnyvale_ca/0-0-0-58296",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Temecula",
+    "name": "Temecula",
+    "links": [
+      {
+        "url": "https://maps-temecula.opendata.arcgis.com/datasets/ae358069091e44b9885f35b84c0f1c02/explore?location=33.524268%2C-117.127907%2C12.61",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://temecula.maps.arcgis.com/apps/SimpleViewer/index.html?appid=427dd3fc2ffb4325be02220987500359",
+        "label": "Benchmarks (Faulty)"
+      }
+    ]
+  },
+  {
+    "id": "ThousandOaks",
+    "name": "Thousand Oaks",
+    "links": [
+      {
+        "url": "https://weblink.toaks.org/WeblinkPublic/Browse.aspx?id=22733&dbid=0&repo=CTO&cr=1",
+        "label": "PW Maps"
+      }
+    ]
+  },
+  {
+    "id": "Torrance",
+    "name": "Torrance",
+    "links": [
+      {
+        "url": "https://torranceca.maps.arcgis.com/apps/webappviewer/index.html?id=7ce1fe3785494843975452d576468d1d",
+        "label": "Benchmarks and Centerline Ties"
+      },
+      {
+        "url": "https://open-data-torranceca.hub.arcgis.com/",
+        "label": "GIS Open Data"
+      },
+      {
+        "url": "https://torranceca.maps.arcgis.com/apps/webappviewer/index.html?id=cd0f0cc0b22a4fa0af313a9799666986",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://www.codepublishing.com/CA/Torrance/#!/Torrance09/Torrance09.html",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Tulare",
+    "name": "Tulare",
+    "links": [
+      {
+        "url": "https://www.tulare.ca.gov/home/showpublisheddocument/22406/638666520462230000",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Upland",
+    "name": "Upland",
+    "links": [
+      {
+        "url": "https://www.uplandca.gov/benchmark-centerline-ties",
+        "label": "Benchmarks & Centerline Ties"
+      }
+    ]
+  },
+  {
+    "id": "Vallejo",
+    "name": "Vallejo",
+    "links": [
+      {
+        "url": "https://www.cityofvallejo.net/our_city/departments_divisions/public_works_department/engineering_division/current_development",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Ventura",
+    "name": "Ventura",
+    "links": [
+      {
+        "url": "https://www.cityofventura.ca.gov/1435/Legacy-Tie-Sheets",
+        "label": "Tie Sheets"
+      },
+      {
+        "url": "https://map.cityofventura.net/java/map/?config=survey",
+        "label": "CL Ties & Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Vernon",
+    "name": "Vernon",
+    "links": [
+      {
+        "url": "https://www.cityofvernon.org/home/showpublisheddocument/2444/637891800761530000",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.cityofvernon.org/home/showpublisheddocument/2431/637891799610700000",
+        "label": "Centerline Ties"
+      },
+      {
+        "url": "https://www.cityofvernonca.gov/home/showpublisheddocument/2442/637891800259770000",
+        "label": "Boundary Monuments"
+      },
+      {
+        "url": "https://www.cityofvernonca.gov/home/showpublisheddocument/3638/638774706786700000",
+        "label": "Zoning Map"
+      },
+      {
+        "url": "https://library.qcode.us/lib/vernon_ca/pub/city_code/item/title_17",
+        "label": "Municipal Code"
+      }
+    ]
+  },
+  {
+    "id": "Victorville",
+    "name": "Victorville",
+    "links": [
+      {
+        "url": "https://www.victorvilleca.gov/government/city-departments/engineering/surveying",
+        "label": "Surveying"
+      },
+      {
+        "url": "https://www.victorvilleca.gov/home/showpublisheddocument/1511/636712133124270000",
+        "label": "Benchmarks PDF Map"
+      },
+      {
+        "url": "https://www.victorvilleca.gov/home/showpublisheddocument/1525/636712133134730000",
+        "label": "Benchmarks PDF List"
+      }
+    ]
+  },
+  {
+    "id": "Visalia",
+    "name": "Visalia",
+    "links": [
+      {
+        "url": "https://www.visalia.city/civicax/filebank/blobdload.aspx?blobid=3751",
+        "label": "City Benchmarks PDF"
+      },
+      {
+        "url": "https://geodata.visalia.city/datasets/public-elevation-benchmarks/explore?location=36.330972%2C-119.329229%2C14",
+        "label": "City Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Vista",
+    "name": "Vista",
+    "links": [
+      {
+        "url": "https://www.vista.gov/departments/gis-city-maps/gis-pdf-maps/benchmark-atlas",
+        "label": "Benchmarks PDF"
+      },
+      {
+        "url": "https://public-cityofvista.hub.arcgis.com/",
+        "label": "Map Gallery (Utilities, Zoning, & More)"
+      }
+    ]
+  },
+  {
+    "id": "Woodland",
+    "name": "Woodland",
+    "links": [
+      {
+        "url": "https://www.cityofwoodland.gov/473/Benchmark-Services",
+        "label": "Benchmarks"
+      }
+    ]
+  }
+]

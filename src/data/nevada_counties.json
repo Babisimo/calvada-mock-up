@@ -1,0 +1,45 @@
+[
+  {
+    "id": "Clark",
+    "name": "Clark",
+    "state": "NV",
+    "apnFormat": "16223812002 (162-23-812-002)",
+    "links": [
+      {
+        "url": "https://www.clarkcountynv.gov/",
+        "label": "Official Site"
+      },
+      {
+        "url": "https://maps.clarkcountynv.gov/assessor/AssessorParcelDetail/pcl.aspx",
+        "label": "Assessor Records and Maps"
+      },
+      {
+        "url": "http://gisgate.co.clark.nv.us/assessor/webimages/",
+        "label": "Assessor | Record Maps"
+      },
+      {
+        "url": "http://gisgate.co.clark.nv.us/openweb/?@782884,26762114,6",
+        "label": "GIS Viewer"
+      },
+      {
+        "url": "https://www.arcgis.com/apps/dashboards/93a30a3a0d8a44879fc3c4a02d170ff3",
+        "label": "Benchmarks"
+      }
+    ]
+  },
+  {
+    "id": "Washoe",
+    "name": "Washoe",
+    "state": "NV",
+    "links": [
+      {
+        "url": "https://gis.washoecounty.us/wrms/survey#",
+        "label": "GIS Mapping"
+      },
+      {
+        "url": "https://www.washoecounty.gov/recorder/mapping/index.php",
+        "label": "Mapping | Record Maps"
+      }
+    ]
+  }
+]
