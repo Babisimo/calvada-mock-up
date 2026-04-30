@@ -5,12 +5,8 @@
     "state": "AZ",
     "links": [
       {
-        "url": "https://cochise.maps.arcgis.com/apps/webappviewer/index.html?id=37d793d478664634b4de3ad8042f248a",
+        "url": "https://gis-cochise.opendata.arcgis.com/",
         "label": "Parcel Information GIS"
-      },
-      {
-        "url": "https://gis-cochise.opendata.arcgis.com/apps/894fc296052d43a9ac52a088f8ed3fd0/explore",
-        "label": "Plat and Survey Index"
       }
     ]
   },
@@ -101,11 +97,11 @@
     "state": "AZ",
     "links": [
       {
-        "url": "https://geo-viewer.yumacountyaz.gov/Html5Viewer/index.html?viewer=YumaCountyPublicApplication",
+        "url": "https://www.yumacountyaz.gov/government/information-technology-services/geographic-information-systems",
         "label": "GIS"
       },
       {
-        "url": "https://yumacountyaz-recorder.tylerhost.net/recorder/eagleweb/docSearch.jsp",
+        "url": "https://www.yumacountyaz.gov/government/recorder",
         "label": "Document Search"
       }
     ]

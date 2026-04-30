@@ -8,7 +8,7 @@
         "label": "Benchmarks PDF"
       },
       {
-        "url": "https://www.ci.adelanto.ca.us/401/GIS-MAPS",
+        "url": "https://adelantoca.gov/services/community_development_services/gis_maps.php",
         "label": "Zoning Map"
       },
       {
@@ -48,7 +48,7 @@
         "label": "Centerline Ties"
       },
       {
-        "url": "https://gis.anaheim.net/portal/home/",
+        "url": "https://data-anaheim.opendata.arcgis.com/datasets/zoning",
         "label": "GIS (Zoning)"
       },
       {
@@ -62,7 +62,7 @@
     "name": "Apple Valley",
     "links": [
       {
-        "url": "https://www.applevalley.org/services/planning-division/zoning-map-permitted-use",
+        "url": "https://data.applevalley.org/",
         "label": "Zoning Map & Municipal Code"
       }
     ]
@@ -76,7 +76,7 @@
         "label": "Zoning Map"
       },
       {
-        "url": "https://library.qcode.us/lib/artesia_ca/pub/municipal_code",
+        "url": "https://ecode360.com/AR4900",
         "label": "Municipal Code"
       }
     ]
@@ -118,7 +118,7 @@
     "name": "Barstow",
     "links": [
       {
-        "url": "https://www.barstowca.org/departments/community-services-department/engineering-services-division",
+        "url": "https://www.barstowca.org/home/showpublisheddocument/8533/638472204095700000",
         "label": "Benchmarks"
       }
     ]
@@ -182,8 +182,8 @@
         "label": "Zoning GIS"
       },
       {
-        "url": "https://codelibrary.amlegal.com/codes/brea/latest/brea_ca/0-0-0-68094",
-        "label": "Zoning Code"
+        "url": "https://ecode360.com/BR6949",
+        "label": "Municipal Code"
       }
     ]
   },
@@ -210,7 +210,7 @@
         "label": "Centerline Ties"
       },
       {
-        "url": "https://www.burbankca.gov/web/community-development/planning-zoning",
+        "url": "https://www.burbankca.gov/web/community-development/planning-zoning#docaccess-bb238eb98c02452efdd847c0ce7ff5433bdecfb477890b8c16ce6e28883810e9",
         "label": "Zoning Map"
       },
       {
@@ -228,7 +228,7 @@
         "label": "Utilities"
       },
       {
-        "url": "https://cms7files.revize.com/camarilloca/Zoning_April25_22_24x52_wall.pdf",
+        "url": "https://www.ci.camarillo.ca.us/departments/administrative_services/gis_maps.php#docaccess-4fd424e257abc624cc6e28fd15944b6b0a226da7eb887b1cde8cf4c306389ec7",
         "label": "Zoning Map"
       },
       {
@@ -247,7 +247,7 @@
       },
       {
         "url": "https://www.carlsbadca.gov/home/showpublisheddocument/726/637446748905300000",
-        "label": "Survey Control Network Data Seets"
+        "label": "Survey Control Network Data Sets"
       },
       {
         "url": "https://www.carlsbadca.gov/departments/online-services",
@@ -272,15 +272,11 @@
     "name": "Carson",
     "links": [
       {
-        "url": "https://gis.carson.ca.us/",
+        "url": "https://cityofcarson.maps.arcgis.com/apps/instant/basic/index.html?appid=5c35b08e0def4805b9fba95df4d85264",
         "label": "GIS (Zoning)"
       },
       {
-        "url": "https://gis.carson.ca.us/pdfs/mapgallery/Zoning_24x36.pdf",
-        "label": "Zoning Map"
-      },
-      {
-        "url": "https://www.codepublishing.com/CA/Carson/#!/Carson09/Carson09010000.html",
+        "url": "https://ecode360.com/CA4377",
         "label": "Municipal Code"
       }
     ]
@@ -290,7 +286,7 @@
     "name": "Cathedral City",
     "links": [
       {
-        "url": "https://www.cathedralcity.gov/departments/engineering/engineering-documents",
+        "url": "https://www.cathedralcity.gov/departments/public-works/engineering/development#:~:text=CITY%20WIDE%20BENCHMARK%20NETWORK",
         "label": "Benchmarks"
       }
     ]
@@ -335,12 +331,38 @@
   {
     "id": "Coachella",
     "name": "Coachella",
-    "links": []
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1PwgdXSB0Z49bec3hGytwmhnji0858Qth/view?usp=drive_link",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.coachella.org/departments/community-development/maps",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://library.municode.com/ca/coachella/codes/code_of_ordinances?nodeId=TIT17ZO",
+        "label": "Municipal Code"
+      }
+    ]
   },
   {
     "id": "Colton",
     "name": "Colton",
-    "links": []
+    "links": [
+      {
+        "url": "https://www.ci.colton.ca.us/680/Bench-Mark-and-Street-Ties",
+        "label": "Benchmarks"
+      },
+      {
+        "url": "https://www.ci.colton.ca.us/DocumentCenter/View/286/Zoning-Map?bidId=",
+        "label": "Zoning"
+      },
+      {
+        "url": "https://www.ci.colton.ca.us/546/Municipal-Code",
+        "label": "Municipal Code"
+      }
+    ]
   },
   {
     "id": "Corona",
@@ -355,7 +377,7 @@
         "label": "Centerline Ties"
       },
       {
-        "url": "https://www.coronaca.gov/government/departments/community-development/planning-division/general-plan-and-zoning-maps",
+        "url": "https://gis.coronaca.gov/apps/PropertyInformation/",
         "label": "Zoning Map"
       },
       {
@@ -439,11 +461,11 @@
         "label": "Benchmarks"
       },
       {
-        "url": "https://cityofelcajon.maps.arcgis.com/apps/webappviewer/index.html?id=5fc20ac812ac42799d8c7d33a3db8cac",
+        "url": "https://experience.arcgis.com/experience/8838323505034968b10febdd832d1f5c",
         "label": "Zoning"
       },
       {
-        "url": "https://www.elcajon.gov/your-government/departments/community-development/zoning-information",
+        "url": "https://ecode360.com/44373846#44373846",
         "label": "Municipal Code"
       }
     ]

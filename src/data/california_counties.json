@@ -57,15 +57,15 @@
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.amadorgov.org/home"
+        "url": "https://www.amadorcounty.gov/home"
       },
       {
         "label": "Assessor Parcel Maps",
-        "url": "https://gisviewer.amadorgov.org/GPV/ParcelSearch.aspx"
+        "url": "https://www.amadorcounty.gov/assessor-parcel-maps"
       },
       {
         "label": "GIS Viewer",
-        "url": "https://www.amadorgov.org/departments/information-technology/gis/gis-viewer-and-parcel-search"
+        "url": "https://experience.arcgis.com/experience/aa71b74eb34347d9b54a60dcb568f2ba/"
       },
       {
         "label": "CA Map Source",
@@ -163,7 +163,7 @@
       },
       {
         "label": "Public Works",
-        "url": "http://records.pw.contra-costa.org/WebLink/Welcome.aspx?cr=1"
+        "url": "https://records.pw.contra-costa.org/WebLink/Login.aspx?showLogin=yes&&cr=1"
       }
     ],
     "publicWorks": {
@@ -612,7 +612,7 @@
       },
       {
         "label": "GIS Parcel Viewer",
-        "url": "https://gis.mendocinocounty.org/portal/apps/webappviewer/index.html?id=255d7af6ece142b9962e92181d0f4ad9"
+        "url": "https://gis.mendocinocounty.gov/maps/1b04fbc0e75746b3bbc9f2e00cab0aa6"
       },
       {
         "label": "Document Search",
