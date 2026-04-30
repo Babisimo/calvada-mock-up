@@ -33,3 +33,43 @@
     bottom: 25%; /* Move it up to cover 1/4 of the screen height */
     opacity: 1;
 }
+
+/* Click-to-copy email */
+.copy-email {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+}
+
+.copy-email:hover,
+.copy-email:focus-visible {
+    color: blueviolet;
+    outline: none;
+}
+
+.copy-email::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #222;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease-in-out;
+    z-index: 9998;
+}
+
+.copy-email:hover::after,
+.copy-email:focus-visible::after {
+    opacity: 1;
+}

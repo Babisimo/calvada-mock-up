@@ -2,20 +2,23 @@
   {
     "id": "District1",
     "name": "District 1",
+    "contacts": [
+      { "name": "Sanchez, Lorien", "email": "lorien.sanchez@dot.ca.gov", "phone": "(707) 445-6401" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:lorien.sanchez@dot.ca.gov",
-        "label": "Contact: lorien.sanchez@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District2",
     "name": "District 2",
+    "contacts": [
+      { "heading":"ROW Records", "name": "Eric, McDonald", "email": "eric.mcdonald@dot.ca.gov", "phone": "(530) 759-3472" },
+      {"heading":"Geodetic Control", "name": "Will Pilkington", "email": "william.pilkington@dot.ca.gov", "phone": "(530) 510-1975" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
@@ -30,6 +33,9 @@
   {
     "id": "District3",
     "name": "District 3",
+    "contacts": [
+      { "name": "Bortz, Doug", "email": "d3rwmaprequest@dot.ca.gov", "phone": "(530) 741-7101" }
+    ],
     "links": [
       {
         "url": "https://drive.google.com/file/d/1yDTlGa6b9T83wk17_KmwGjBRtnvI0o7A/view?usp=drive_link",
@@ -38,16 +44,15 @@
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:d3rwmaprequest@dot.ca.gov",
-        "label": "Contact: d3rwmaprequest@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District4",
     "name": "District 4",
+    "contacts": [
+      { "name": "Crespin, Ely", "email": "D4.RWE.Records@dot.ca.gov", "phone": "(510) 286-5263" }
+    ],
     "links": [
       {
         "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=04efb9a9f14c4da2aabd9ce36b7dda48",
@@ -56,37 +61,29 @@
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:D4.RWE.Records@dot.ca.gov",
-        "label": "Contact: D4.RWE.Records@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District5",
     "name": "District 5",
+    "contacts": [
+      { "name": "Madrid, Julian", "email": "julian.madrid@dot.ca.gov", "phone": "(805) 550-9924" },
+      { "heading": "For Data Other Than ROW or Surveys:", "name": "Moreno, Dario", "email": "dario.moreno@dot.ca.gov" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:julian.madrid@dot.ca.gov",
-        "label": "Contact: julian.madrid@dot.ca.gov"
-      },
-      {
-        "url": "mailto:dario.moreno@dot.ca.gov",
-        "label": "Contact (Other Data): dario.moreno@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District6",
     "name": "District 6",
-    "contactName": "Caron Young",
-    "email": "Carson.Young@dot.ca.gov",
-    "phone": "(559) 974-4825",
+    "contacts": [
+      { "name": "Caron Young", "email": "Carson.Young@dot.ca.gov", "phone": "(559) 974-4825" }
+    ],
     "links": [
       {
         "url": "https://drive.google.com/file/d/1imj5qeHw0-J6Tc4pmLQ8WS6dl8xClFPT/view?usp=drive_link",
@@ -101,6 +98,9 @@
   {
     "id": "District7",
     "name": "District 7",
+    "contacts": [
+      { "email": "D7.RWEngineering@dot.ca.gov", "phone": "(213) 266-3625" }
+    ],
     "links": [
       {
         "url": "https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=23b2abcf3d6b4ae0be7a579258141178",
@@ -109,33 +109,28 @@
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:D7.RWEngineering@dot.ca.gov",
-        "label": "Contact: D7.RWEngineering@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District8",
     "name": "District 8",
+    "contacts": [
+      { "email": "d8RecordMaps@dot.ca.gov", "phone": "(909) 383-4369" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:d8RecordMaps@dot.ca.gov",
-        "label": "Contact: d8RecordMaps@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District9",
     "name": "District 9",
-    "contactName": "Cagle, Sereyna",
-    "email": "sereyna.cagle@dot.ca.gov",
-    "phone": "(760) 872-0646",
+    "contacts": [
+      { "name": "Cagle, Sereyna", "email": "sereyna.cagle@dot.ca.gov", "phone": "(760) 872-0646" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
@@ -146,20 +141,22 @@
   {
     "id": "District10",
     "name": "District 10",
+    "contacts": [
+      { "name": "Heiner, Kent", "email": "kent.heiner@dot.ca.gov", "phone": "(209) 990-5787" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:kent.heiner@dot.ca.gov",
-        "label": "Contact: kent.heiner@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District11",
     "name": "District 11",
+    "contacts": [
+      { "name": "District 11 RW Records", "email": "D11.RWE.Records@dot.ca.gov", "phone": "(619) 688-6608" }
+    ],
     "links": [
       {
         "url": "https://experience.arcgis.com/experience/04ae3745190047c5adf8f33714af9e3a",
@@ -168,24 +165,19 @@
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:D11.RWE.Records@dot.ca.gov",
-        "label": "Contact: D11.RWE.Records@dot.ca.gov"
       }
     ]
   },
   {
     "id": "District12",
     "name": "District 12",
+    "contacts": [
+      { "name": "Gurucharan Mac", "email": "gurucharan.mac@dot.ca.gov", "phone": "(657) 328-6357" }
+    ],
     "links": [
       {
         "url": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html?",
         "label": "Postmile Info"
-      },
-      {
-        "url": "mailto:gurucharan.mac@dot.ca.gov",
-        "label": "Contact: gurucharan.mac@dot.ca.gov"
       }
     ]
   }

@@ -170,10 +170,7 @@
       "address": "255 Glacier Drive , Martinez CA, 94553",
       "phone": "(925) 313-2000",
       "fax": "(925) 313-2333",
-      "extraInfo": [
-        "Phone: (925) 313-2000",
-        "Fax: (925) 313-2333"
-      ]
+      "extraInfo": ["Phone: (925) 313-2000", "Fax: (925) 313-2333"]
     },
     "caltransDistrict": "4",
     "extraContent": []
@@ -271,9 +268,7 @@
     "publicWorks": {
       "address": "2220 Tulare St. | 6th Floor , Fresno California, 93721",
       "phone": "(559) 262-4078",
-      "extraInfo": [
-        "Phone: (559) 262-4078"
-      ]
+      "extraInfo": ["Phone: (559) 262-4078"]
     },
     "caltransDistrict": "6",
     "extraContent": []
@@ -295,9 +290,7 @@
     "publicWorks": {
       "address": "1106 2nd St, Eureka, CA 95501",
       "phone": "(707) 445-7421",
-      "extraInfo": [
-        "Phone: (707) 445-7421"
-      ]
+      "extraInfo": ["Phone: (707) 445-7421"]
     },
     "caltransDistrict": "1",
     "extraContent": []
@@ -474,6 +467,7 @@
         "label": "GIS Viewer",
         "url": "https://gispublic.co.lake.ca.us/portal/home/"
       },
+      { "break": true },
       {
         "label": "Parcel Maps",
         "url": "https://www.mediafire.com/folder/e6nags4364gtd/PM"
@@ -486,18 +480,17 @@
         "label": "Subdivision Maps",
         "url": "https://www.mediafire.com/folder/nnhtqg3xoznd2/Sub"
       },
+      { "break": true },
       {
-        "label": "Cara.Bowin@lakecountyca.gov",
-        "url": "mailto:Cara.Bowin@lakecountyca.gov"
+        "heading": "Request Record Maps:",
+        "name": "Cara Bowin",
+        "email": "Cara.Bowin@lakecountyca.gov"
       }
     ],
     "publicWorks": {
       "address": "255 N. Forbes St | Room 309 , Lakeport California 95453",
       "phone": "(707) 263-2341",
-      "extraInfo": [
-        "Phone: (707) 263-2341",
-        "Department Hours: Monday-Friday 8:00 AM to 5:00 OM"
-      ]
+      "extraInfo": ["Department Hours: Monday-Friday 8:00 AM to 5:00 OM"]
     },
     "caltransDistrict": "1",
     "extraContent": []
@@ -855,10 +848,7 @@
       "address": "3091 County Center, Auburn, California 95603",
       "phone": "(530)-745-3110",
       "fax": "(530)-745-7589",
-      "extraInfo": [
-        "Phone: (530)-745-3110",
-        "Fax: (530)-745-7589"
-      ]
+      "extraInfo": ["Phone: (530)-745-3110", "Fax: (530)-745-7589"]
     },
     "caltransDistrict": "3",
     "extraContent": []
@@ -925,9 +915,7 @@
     ],
     "publicWorks": {
       "address": "4080 Lemon Street, Riverside, California 92501",
-      "extraInfo": [
-        "Phone: (951) 955-1000"
-      ]
+      "extraInfo": ["Phone: (951) 955-1000"]
     },
     "caltransDistrict": "8",
     "extraContent": []
@@ -1034,10 +1022,7 @@
     ],
     "publicWorks": {
       "address": "825 East Third Street, San Bernardino, California 92415",
-      "extraInfo": [
-        "Mike Raihle | (909) 387-8149",
-        "County Surveyor:"
-      ]
+      "extraInfo": ["Mike Raihle | (909) 387-8149", "County Surveyor:"]
     },
     "caltransDistrict": "8",
     "extraContent": []
@@ -1230,9 +1215,7 @@
     ],
     "publicWorks": {
       "address": "555 County Center , Redwood City, CA 94063",
-      "extraInfo": [
-        "Phone: (650) 363-4500"
-      ]
+      "extraInfo": ["Phone: (650) 363-4500"]
     },
     "caltransDistrict": "4",
     "extraContent": []
@@ -1261,9 +1244,7 @@
     ],
     "publicWorks": {
       "address": "105 E Anapamu Street, Santa Barbara, California 93101",
-      "extraInfo": [
-        "Phone: (805) 681-4200"
-      ]
+      "extraInfo": ["Phone: (805) 681-4200"]
     },
     "caltransDistrict": "5",
     "extraContent": []
@@ -1297,11 +1278,12 @@
     "publicWorks": {
       "address": "70 West Hedding Street East Wing , 11th Floor , San Jose, California 95110",
       "extraInfo": [
-        "Main Number: (480) 229-5151",
-        "Media Line: (480) 229-5119",
-        "SCCPublicAffairs@ceo.sccgov.org",
-        "General Contact Information:",
-        "Office of the County Executive:"
+        { "heading": "General Contact Information:" },
+        { "label": "Main Number:", "value": "(480) 229-5151" },
+        { "label": "Media Line:", "value": "(480) 229-5119" },
+        {"break": true},
+        { "heading": "Office of the County Executive:" },
+        { "email": "SCCPublicAffairs@ceo.sccgov.org" }
       ]
     },
     "caltransDistrict": "4",
@@ -1405,10 +1387,7 @@
       "address": "675 Texas Street, Suite 5500 , Fairfield, CA 94533",
       "phone": "(707) 784-6765",
       "fax": "(707) 784-2894",
-      "extraInfo": [
-        "Phone: (707) 784-6765",
-        "Fax: (707) 784-2894"
-      ]
+      "extraInfo": ["Phone: (707) 784-6765", "Fax: (707) 784-2894"]
     },
     "caltransDistrict": "4",
     "extraContent": []
@@ -1437,9 +1416,7 @@
     ],
     "publicWorks": {
       "address": "585 Fiscal Drive, Suite 103F, Santa Rosa, California 95403",
-      "extraInfo": [
-        "Phone: (707) 565-2651"
-      ]
+      "extraInfo": ["Phone: (707) 565-2651"]
     },
     "caltransDistrict": "4",
     "extraContent": []
@@ -1532,9 +1509,7 @@
     ],
     "publicWorks": {
       "address": "5961 S. Mooney Blvd., Visalia, CA 93277",
-      "extraInfo": [
-        "Phone: (559) 624-7152"
-      ]
+      "extraInfo": ["Phone: (559) 624-7152"]
     },
     "caltransDistrict": "6",
     "extraContent": []

@@ -20,6 +20,17 @@
   cursor: pointer;
 }
 
+.counties li.search-selected {
+  background-color: #569156;
+  outline: 2px solid #406343;
+  border-radius: 6px;
+}
+
+.counties li.search-selected a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
 .counties a {
   color: inherit;
   text-decoration: none;

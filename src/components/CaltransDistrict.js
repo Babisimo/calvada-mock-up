@@ -1,13 +1,19 @@
 import React from 'react';
 import caltransDistricts from '../data/caltrans_districts.json';
+import CopyEmail from './CopyEmail';
 
 const CaltransDistrict = ({ id }) => {
     const district = caltransDistricts.find(d => d.id === `District${id}` || d.id === String(id));
-    
+
     if (!district) return null;
 
     const hasRequestForm = district.links && district.links.some(l => l.label.includes('Request Form'));
     const hasPostmile = district.links && district.links.some(l => l.label.includes('Postmile'));
+
+    let contacts = district.contacts;
+    if (!contacts && (district.email || district.contactName || district.phone)) {
+        contacts = [{ name: district.contactName, email: district.email, phone: district.phone }];
+    }
 
     return (
         <div>
@@ -18,9 +24,8 @@ const CaltransDistrict = ({ id }) => {
                     <a href={district.gisUrl} target="_blank" rel="noreferrer">{district.name} GIS</a>
                 </>
             )}
-            
+
             {district.links && district.links.map((link, index) => {
-                if (link.label.includes('Contact:')) return null;
                 if (link.label.includes('Postmile Info') || link.label.includes('Request Form')) return null;
                 return (
                     <React.Fragment key={index}>
@@ -46,33 +51,17 @@ const CaltransDistrict = ({ id }) => {
                 );
             })}
 
-            {district.links && district.links.map((link, index) => {
-                if (!link.label.includes('Contact:')) return null;
-                const email = link.url.replace('mailto:', '');
-                return (
-                    <React.Fragment key={index}>
-                        <br />
-                        <h4>Contact:</h4>
-                        <p>
-                            {district.contactName || 'Right of Way Engineering Staff'}
-                            {email && <> | <a href={link.url}> {email}</a></>}
-                            {district.phone && <> | {district.phone}</>}
-                        </p>
-                    </React.Fragment>
-                );
-            })}
-
-            {!district.links?.some(l => l.label.includes('Contact:')) && (district.email || district.contactName || district.phone) && (
-                <>
+            {contacts && contacts.map((c, i) => (
+                <React.Fragment key={i}>
                     <br />
-                    <h4>Contact:</h4>
+                    <h4>{c.heading || 'Contact:'}</h4>
                     <p>
-                        {district.contactName || 'Right of Way Engineering Staff'}
-                        {district.email && <> | <a href={`mailto:${district.email}`}> {district.email}</a></>}
-                        {district.phone && <> | {district.phone}</>}
+                        {c.name || 'Right of Way Engineering Staff'}
+                        {c.email && <> | <CopyEmail email={c.email} /></>}
+                        {c.phone && <> | {c.phone}</>}
                     </p>
-                </>
-            )}
+                </React.Fragment>
+            ))}
         </div>
     );
 };

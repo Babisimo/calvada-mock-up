@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import CaltransDistrict from './CaltransDistrict';
+import CopyEmail from './CopyEmail';
 
 const CountyPageTemplate = ({ county }) => {
     if (!county) return (
@@ -42,14 +43,30 @@ const CountyPageTemplate = ({ county }) => {
 
             <span className='span'>
                 <h3>Links:</h3>
-                {county.links && county.links.map((link, index) => (
-                    <React.Fragment key={index}>
-                        <a href={link.url} target="_blank" rel="noreferrer">{link.label}</a>
-                        {link.note && <span>&nbsp;&nbsp;&nbsp;{link.note}</span>}
-                        {link.description && <p dangerouslySetInnerHTML={{ __html: link.description }}></p>}
-                        <br />
-                    </React.Fragment>
-                ))}
+                {county.links && county.links.map((link, index) => {
+                    if (link.break) {
+                        return <br key={index} />;
+                    }
+                    if (link.heading) {
+                        return (
+                            <React.Fragment key={index}>
+                                <h4>{link.heading}</h4>
+                                <p>
+                                    {link.name && <>{link.name}{link.email ? ' | ' : ''}</>}
+                                    {link.email && <CopyEmail email={link.email} />}
+                                </p>
+                            </React.Fragment>
+                        );
+                    }
+                    return (
+                        <React.Fragment key={index}>
+                            <a href={link.url} target="_blank" rel="noreferrer">{link.label}</a>
+                            {link.note && <span>&nbsp;&nbsp;&nbsp;{link.note}</span>}
+                            {link.description && <p dangerouslySetInnerHTML={{ __html: link.description }}></p>}
+                            <br />
+                        </React.Fragment>
+                    );
+                })}
             </span>
 
             <p className='border'></p>
@@ -77,11 +94,33 @@ const CountyPageTemplate = ({ county }) => {
                         {county.publicWorks.phone && <p><strong>Phone: </strong>{county.publicWorks.phone}</p>}
                         {county.publicWorks.fax && <p><strong>Fax: </strong>{county.publicWorks.fax}</p>}
                         {county.publicWorks.email && (
-                            <p><strong>E-Mail: </strong><a href={`mailto:${county.publicWorks.email}`}>{county.publicWorks.email}</a></p>
+                            <p><strong>E-Mail: </strong><CopyEmail email={county.publicWorks.email} /></p>
                         )}
-                        {county.publicWorks.extraInfo && county.publicWorks.extraInfo.map((info, idx) => (
-                            <p key={idx}>{info}</p>
-                        ))}
+                        {county.publicWorks.extraInfo && county.publicWorks.extraInfo
+                            .filter(info => typeof info !== 'string' || !/^\s*(Phone|Fax|E-?mail)\s*:/i.test(info))
+                            .map((info, idx) => {
+                                if (typeof info === 'string') {
+                                    return <p key={idx}>{info}</p>;
+                                }
+                                if (info.break) {
+                                    return <br key={idx} />;
+                                }
+                                if (info.heading) {
+                                    return <h4 key={idx}>{info.heading}</h4>;
+                                }
+                                if (info.email) {
+                                    return (
+                                        <p key={idx}>
+                                            {info.label && <strong>{info.label} </strong>}
+                                            <CopyEmail email={info.email} />
+                                        </p>
+                                    );
+                                }
+                                if (info.label) {
+                                    return <p key={idx}><strong>{info.label} </strong>{info.value}</p>;
+                                }
+                                return null;
+                            })}
                     </span>
                     <p className='border'></p>
                 </>
@@ -129,7 +168,7 @@ const CountyPageTemplate = ({ county }) => {
                         {county.highway.contact && (
                             <>
                                 <br />
-                                <p><strong>{county.highway.contact.name} Email:</strong>&nbsp;&nbsp; <a href={`mailto:${county.highway.contact.email}`}>{county.highway.contact.email}</a></p>
+                                <p><strong>{county.highway.contact.name} Email:</strong>&nbsp;&nbsp; <CopyEmail email={county.highway.contact.email} /></p>
                                 {county.highway.contact.title && <p>{county.highway.contact.title}</p>}
                                 {county.highway.contact.department && <p>{county.highway.contact.department}</p>}
                                 {county.highway.contact.phone && <p><strong>Phone: </strong>{county.highway.contact.phone}</p>}
