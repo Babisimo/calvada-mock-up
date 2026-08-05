@@ -6,7 +6,7 @@ export default function WACities() {
   return (
     <>
       <div className="city-title">
-        <h2 className="title">Washington Cities</h2>
+        <h1 className="title">Washington Cities</h1>
       </div>
       <div className="cities">
         {washingtonCities && Array.isArray(washingtonCities) && washingtonCities

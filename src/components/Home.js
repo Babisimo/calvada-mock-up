@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <div>
       {showDisclaimer && <DisclaimerModal onAccept={handleAcceptDisclaimer} />}
-      <h1 className="title">Home</h1>
+      <h1 className="title">Calvada Research</h1>
       <div className="buttons">
         <Link href={'/counties'}><button>Counties</button></Link>
         <Link href={'/cities'}><button>Cities</button></Link>

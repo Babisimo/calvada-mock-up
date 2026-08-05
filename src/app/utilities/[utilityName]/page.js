@@ -16,6 +16,16 @@ export async function generateStaticParams() {
     }));
 }
 
+export async function generateMetadata({ params }) {
+    const { utilityName } = await params;
+    const utility = caUtilities.find(u => u.id === routeMap[utilityName]);
+    if (!utility) return { title: 'Utility Zone Not Found' };
+    return {
+        title: utility.name,
+        description: `Utility contacts and dig-alert references for ${utility.name}.`,
+    };
+}
+
 export default async function UtilityPage({ params }) {
     const { utilityName } = await params;
     const id = routeMap[utilityName];

@@ -1,6 +1,12 @@
 import React from "react"
 import Link from "next/link"
 
+export const metadata = {
+    title: 'Utilities',
+    description:
+        'DigAlert portals and California utility zone contact directories.',
+};
+
 export default function Utilities() {
     return (
         <div className="util-main">

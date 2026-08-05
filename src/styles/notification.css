@@ -1,75 +1,82 @@
-.warning{
-    color: gold;
-    text-align: center;
+.warning {
+  color: var(--text-warning);
+  text-align: center;
 }
 
 .warning a {
-    color: gold;
+  color: var(--text-warning);
 }
 
-.warning a:hover{
-    color: blueviolet;
+.warning a:hover,
+.warning a:focus-visible {
+  color: var(--text-link-on-dark-hover);
 }
 
 /* Notification container */
 .notification {
-    position: fixed;
-    bottom: -100px; /* Start off-screen */
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #4caf50;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
-    text-align: center;
-    z-index: 9999;
-    transition: bottom 0.5s ease-in-out;
-    opacity: 0;
+  position: fixed;
+  bottom: -100px; /* Start off-screen */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--bg-brand);
+  color: var(--text-on-brand);
+  padding: var(--space-3) var(--space-6);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  font-size: var(--text-base);
+  text-align: center;
+  z-index: var(--z-toast);
+  transition: bottom 0.5s ease-in-out, opacity var(--duration-base) var(--ease);
+  opacity: 0;
 }
 
 /* Show the notification with the animation */
 .notification.show {
-    bottom: 25%; /* Move it up to cover 1/4 of the screen height */
-    opacity: 1;
+  bottom: 25%;
+  opacity: 1;
 }
 
 /* Click-to-copy email */
 .copy-email {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    color: inherit;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    text-underline-offset: 3px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+  border-radius: var(--radius-sm);
 }
 
 .copy-email:hover,
 .copy-email:focus-visible {
-    color: blueviolet;
-    outline: none;
+  color: var(--text-link-on-dark-hover);
+  outline: none;
+}
+
+.copy-email:focus-visible {
+  box-shadow: var(--focus-ring-on-dark);
 }
 
 .copy-email::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    bottom: calc(100% + 6px);
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #222;
-    color: #fff;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 12px;
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.15s ease-in-out;
-    z-index: 9998;
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--color-neutral-900);
+  color: var(--color-white);
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-xs);
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--duration-fast) var(--ease);
+  z-index: var(--z-toast);
 }
 
 .copy-email:hover::after,
 .copy-email:focus-visible::after {
-    opacity: 1;
+  opacity: 1;
 }

@@ -25,7 +25,7 @@ const CountyPageTemplate = ({ county }) => {
             {county.apnFormat && (
                 <>
                     <div className='apn-format'>
-                        <h3>APN Format:</h3>
+                        <h2>APN Format:</h2>
                         <p style={{ whiteSpace: 'pre-line' }}>{county.apnFormat}</p>
                     </div>
                     <p className='border'></p>
@@ -42,7 +42,7 @@ const CountyPageTemplate = ({ county }) => {
             )}
 
             <span className='span'>
-                <h3>Links:</h3>
+                <h2>Links:</h2>
                 {county.links && county.links.map((link, index) => {
                     if (link.break) {
                         return <br key={index} />;
@@ -50,7 +50,7 @@ const CountyPageTemplate = ({ county }) => {
                     if (link.heading) {
                         return (
                             <React.Fragment key={index}>
-                                <h4>{link.heading}</h4>
+                                <h3>{link.heading}</h3>
                                 <p>
                                     {link.name && <>{link.name}{link.email ? ' | ' : ''}</>}
                                     {link.email && <CopyEmail email={link.email} />}
@@ -74,10 +74,10 @@ const CountyPageTemplate = ({ county }) => {
             {county.publicWorks && (county.publicWorks.address || county.publicWorks.phone || county.publicWorks.email || county.publicWorks.extraInfo) && (
                 <>
                     <span className='span'>
-                        <h3>Public Works:</h3>
-                        {county.publicWorks.departmentName && <h4>{county.publicWorks.departmentName}</h4>}
+                        <h2>Public Works:</h2>
+                        {county.publicWorks.departmentName && <h3>{county.publicWorks.departmentName}</h3>}
                         {county.publicWorks.director && <p><strong>{county.publicWorks.director}</strong>, Director</p>}
-                        {county.publicWorks.addressLabel && <h4>{county.publicWorks.addressLabel}</h4>}
+                        {county.publicWorks.addressLabel && <h3>{county.publicWorks.addressLabel}</h3>}
                         {county.publicWorks.address && (
                             <>
                                 <a 
@@ -106,7 +106,7 @@ const CountyPageTemplate = ({ county }) => {
                                     return <br key={idx} />;
                                 }
                                 if (info.heading) {
-                                    return <h4 key={idx}>{info.heading}</h4>;
+                                    return <h3 key={idx}>{info.heading}</h3>;
                                 }
                                 if (info.email) {
                                     return (
@@ -130,7 +130,7 @@ const CountyPageTemplate = ({ county }) => {
                 county.caltransDistricts.map((d, i) => (
                     <React.Fragment key={i}>
                         <span className='span'>
-                            <h3>Caltrans {d.label ? `(${d.label})` : ''}:</h3>
+                            <h2>Caltrans {d.label ? `(${d.label})` : ''}:</h2>
                             <CaltransDistrict id={d.id || d} />
                         </span>
                         <p className='border'></p>
@@ -139,7 +139,7 @@ const CountyPageTemplate = ({ county }) => {
             ) : county.caltransDistrict ? (
                 <>
                     <span className='span'>
-                        <h3>Caltrans:</h3>
+                        <h2>Caltrans:</h2>
                         <CaltransDistrict id={county.caltransDistrict} />
                     </span>
                     <p className='border'></p>
@@ -149,16 +149,16 @@ const CountyPageTemplate = ({ county }) => {
             {county.highway && (
                 <>
                     <span className='span'>
-                        <h3>DOT:</h3>
+                        <h2>DOT:</h2>
                         {county.highway.logo && (
                             <>
                                 <a href={county.highway.url || '#'} target='_blank' rel='noreferrer'>
-                                    <img alt='DOT Logo' src={county.highway.logo} width='200px' />
+                                    <img alt='DOT Logo' src={county.highway.logo} className='dot-logo' />
                                 </a>
                                 <br />
                             </>
                         )}
-                        {county.highway.title && <h4>{county.highway.title}</h4>}
+                        {county.highway.title && <h3>{county.highway.title}</h3>}
                         {county.highway.links && county.highway.links.map((link, idx) => (
                             <React.Fragment key={idx}>
                                 <a href={link.url} target='_blank' rel='noreferrer'>{link.label}</a>

@@ -38,7 +38,7 @@ const CaliforniaMapSVG = () => {
                 "</ul>";
 
             container.querySelectorAll('.county-path[data-zone="' + zone + '"]').forEach(el => {
-                el.style.fill = "blue";
+                el.classList.add("is-highlighted");
             });
         }
 
@@ -64,7 +64,7 @@ const CaliforniaMapSVG = () => {
             tooltip.style.display = "none";
 
             container.querySelectorAll('.county-path[data-zone="' + zone + '"]').forEach(el => {
-                el.style.fill = "";
+                el.classList.remove("is-highlighted");
             });
         }
 
@@ -84,46 +84,15 @@ const CaliforniaMapSVG = () => {
     }, []);
 
     return (
-        <div ref={containerRef} style={{ position: "relative", display: "flex", justifyContent: "center", width: "100%" }}>
-            <svg width="100%" height="45rem" viewBox="-40 -10 170 160">
-                <style>{`
-                    .county-path {
-                        font-size: 12px;
-                        fill: #d0d0d0;
-                        fill-rule: nonzero;
-                        stroke: #000000;
-                        stroke-width: .7;
-                        stroke-linecap: butt;
-                        stroke-linejoin: bevel;
-                        stroke-miterlimit: 4;
-                        stroke-opacity: 1;
-                        stroke-dasharray: none;
-                        marker-start: none;
-                        transform: rotate(-14deg);
-                        cursor: pointer;
-                    }
-                    .zone-1 { fill: #ffcccc; }
-                    .zone-2 { fill: #ccffcc; }
-                    .zone-3 { fill: #ccccff; }
-                    .zone-4 { fill: #ffcc99; }
-                    .zone-5 { fill: #99ccff; }
-                    .zone-6 { fill: #ffccff; }
-                `}</style>
+        <div ref={containerRef} className="ca-map">
+            <svg
+                viewBox="-40 -10 170 160"
+                role="img"
+                aria-label="Map of California counties shaded by Calvada utility zone, 1 through 6 north to south"
+            >
                 <CaliforniaSVG />
             </svg>
-            <div ref={tooltipRef} style={{
-                position: "fixed",
-                display: "none",
-                padding: "10px",
-                background: "rgba(0, 0, 0, 0.8)",
-                color: "white",
-                borderRadius: "5px",
-                maxWidth: "200px",
-                fontSize: "14px",
-                lineHeight: "1.5",
-                zIndex: 10,
-                pointerEvents: "none",
-            }} />
+            <div ref={tooltipRef} className="ca-map-tooltip" role="tooltip" />
         </div>
     );
 };

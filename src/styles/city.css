@@ -1,9 +1,9 @@
 .city-title {
-  padding-top: 1rem;
-  color: #f3efcc;
+  padding-top: var(--space-4);
+  color: var(--text-heading-on-dark);
 }
 
-/* View Button on .\StatesFolder\California\CA_Components\CACities.js */
+/* View Button on the per-state city pages (CACities / AZCities / …) */
 .view-btn {
   display: flex;
   justify-content: space-between;
@@ -12,27 +12,38 @@
 }
 
 .view-btn button {
-  background-color: #f3efcc;
+  background-color: var(--bg-surface);
+  color: var(--text-on-surface);
   display: flex;
-  padding: 0.7rem;
-  border-radius: 7px;
+  font: inherit;
+  padding: var(--space-3);
+  border-radius: var(--radius-btn-sm);
   border: none;
   cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: background-color var(--duration-fast) var(--ease),
+    color var(--duration-fast) var(--ease);
 }
 
 .view-btn button:hover {
-  background-color: #ffffff;
-  color: #634060;
+  background-color: var(--bg-surface-hover);
+  color: var(--text-on-surface-hover);
 }
 
 .view-btn button:active {
-  background-color: #f7f5e8;
-  color: black;
+  background-color: var(--bg-surface-active);
+  color: var(--text-on-surface);
+}
+
+.view-btn button:focus-visible {
+  outline: none;
+  box-shadow: var(--focus-ring-on-dark);
 }
 
 .cities {
-  /* display: block; */
-  padding-bottom: 250px;
+  /* Reserves scroll room so the last row's absolutely-positioned
+     .city-dropdown-content is reachable instead of running off the page. */
+  padding-bottom: 16rem;
   text-align: center;
 }
 
@@ -43,8 +54,8 @@
   }
 
   .view-btn button {
-    padding: 0.5rem;
-    border-radius: 5px;
+    padding: var(--space-2);
+    border-radius: var(--radius-btn-xs);
   }
 }
 
@@ -56,7 +67,7 @@
   }
 
   .view-btn button {
-    padding: 0.4rem;
-    border-radius: 4px;
+    padding: var(--space-2);
+    border-radius: var(--radius-sm);
   }
 }

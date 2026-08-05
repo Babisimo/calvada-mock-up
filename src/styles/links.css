@@ -7,8 +7,9 @@
 .links {
   padding: 0;
   margin: 0;
-  background-color: #f3efcc;
-  border-radius: 7px;
+  background-color: var(--bg-surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
   max-height: 80vh;
   min-width: 50vh;
   overflow-y: auto;
@@ -16,43 +17,54 @@
 
 .link {
   display: flex;
-  font-size: large;
+  font-size: var(--text-md);
+}
+
+.link + .link {
+  border-top: 1px solid var(--border-hairline);
 }
 
 .link img {
-  margin: 0 1rem;
+  margin: 0 var(--space-4);
 }
 
 .link a {
-  padding: 2rem 1rem;
+  padding: var(--space-8) var(--space-4);
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #406343;
+  color: var(--text-on-surface);
   min-width: 100%;
+  text-decoration: none;
+  transition: background-color var(--duration-fast) var(--ease),
+    color var(--duration-fast) var(--ease);
 }
 
 .link a:hover {
-  color: #95b098;
-  background-color: rgba(255, 255, 255, 0.47);
+  color: var(--text-on-surface-hover);
+  background-color: var(--bg-surface-active);
+  text-decoration: underline;
+}
+
+.link a:focus-visible {
+  outline: none;
+  box-shadow: inset 0 0 0 3px var(--color-green-600);
 }
 
 @media screen and (max-width: 768px) {
   .block {
-    margin: 1rem;
-    max-height: 100vh; /* Adjust the maximum height to fit the screen */
-    overflow-y: auto; /* Add vertical scrolling if needed */
+    margin: var(--space-4);
+    max-height: 100vh;
+    overflow-y: auto;
   }
 
   .links {
     padding: 0;
     margin: 0;
-    background-color: #f3efcc;
-    border-radius: 7px;
     height: auto;
-    width: 100%; /* Set the width to 100% */
-    max-width: 50vh; /* Adjust the maximum width for mobile devices */
-    overflow-x: scroll; /* Add horizontal scrolling for small screens */
-    white-space: nowrap; /* Prevent line breaks within the links */
+    width: 100%;
+    max-width: 50vh;
+    overflow-x: auto;
+    white-space: nowrap;
   }
 }

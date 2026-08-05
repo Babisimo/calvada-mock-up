@@ -22,10 +22,10 @@ const UtilityPageTemplate = ({ utility }) => {
 
             {utility.sections && utility.sections.map((section, sIdx) => (
                 <span key={sIdx} className='span'>
-                    <h3 className='util-header'>{section.title}</h3>
+                    <h2 className='util-header'>{section.title}</h2>
                     {section.subsections && section.subsections.map((sub, ssIdx) => (
-                        <div key={ssIdx} style={{ marginBottom: '1rem' }}>
-                            {sub.name && <h4>{sub.name}</h4>}
+                        <div key={ssIdx} className='util-subsection'>
+                            {sub.name && <h3>{sub.name}</h3>}
                             {sub.links && sub.links.map((link, lIdx) => (
                                 <React.Fragment key={lIdx}>
                                     &nbsp;&nbsp;- <a href={link.url} target='_blank' rel='noreferrer'>{link.label}</a>

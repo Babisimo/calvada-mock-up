@@ -1,5 +1,10 @@
 import React from 'react';
 
+export const metadata = {
+    title: 'Contact',
+    description: 'Reach Calvada Surveying, Inc.',
+};
+
 const contacts = [
     { name: 'Calvada Website Contact', email: 'https://www.calvada.com/contact.html', phone: '951-280-9960', position: "" },
 ];
@@ -12,7 +17,7 @@ export default function Contact() {
                 <ul>
                     {contacts.map((contact, index) => (
                         <li key={index}>
-                            <h3>{contact.name}</h3>
+                            <h2>{contact.name}</h2>
                             <p><a href={contact.email}>{"Contact Us Form"}</a></p>
                             <p>Call Us: {contact.phone}</p>
                         </li>

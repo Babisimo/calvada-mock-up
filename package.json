@@ -17,7 +17,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "check-links": "node scripts/check-links.mjs"
+    "check-links": "node scripts/check-links.mjs",
+    "check-contrast": "node scripts/check-contrast.cjs --audit",
+    "assets": "node scripts/optimize-assets.cjs"
   },
   "browserslist": {
     "production": [

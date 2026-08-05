@@ -6,7 +6,7 @@ export default function CACities() {
   return (
     <>
       <div className="city-title">
-        <h2 className="title">California Cities</h2>
+        <h1 className="title">California Cities</h1>
       </div>
       <div className="cities">
         {californiaCities && Array.isArray(californiaCities) && californiaCities

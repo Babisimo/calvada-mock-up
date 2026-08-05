@@ -6,7 +6,7 @@ export default function AZCities() {
   return (
     <>
       <div className="city-title">
-        <h2 className="title">Arizona Cities</h2>
+        <h1 className="title">Arizona Cities</h1>
       </div>
       <div className="cities">
         {arizonaCities && Array.isArray(arizonaCities) && arizonaCities

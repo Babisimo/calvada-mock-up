@@ -1,6 +1,12 @@
 import React from "react";
 import Link from "next/link";
 
+export const metadata = {
+    title: 'Cities',
+    description:
+        'City research links by state — California, Arizona, Washington, and Nevada.',
+};
+
 export default function Cities() {
     return (
         <div>

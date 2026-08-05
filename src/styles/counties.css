@@ -5,12 +5,12 @@
 }
 
 .counties {
-  color: rgb(255, 255, 255);
+  color: var(--text-on-dark);
   display: grid;
 }
 
 .counties ul {
-  color: #000000;
+  color: var(--text-menu);
   padding: 0;
   margin: 0;
   list-style: none;
@@ -21,14 +21,14 @@
 }
 
 .counties li.search-selected {
-  background-color: #569156;
-  outline: 2px solid #406343;
-  border-radius: 6px;
+  background-color: var(--bg-brand);
+  outline: 2px solid var(--color-green-600);
+  border-radius: var(--radius-sm);
 }
 
 .counties li.search-selected a {
-  color: #ffffff;
-  font-weight: bold;
+  color: var(--text-on-brand);
+  font-weight: var(--weight-medium);
 }
 
 .counties a {
@@ -40,29 +40,34 @@
 /* Actual County Information */
 
 .county-info {
-  background-color: rgba(13, 26, 12, 0.445); /* Add a subtle background color */
-  padding: 10px; /* Adjust the padding as needed */
-  border-radius: 5px; /* Add border-radius for a rounded appearance */
+  background-color: var(--bg-panel);
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
 }
-
 
 .county-info a {
-  color: #f3efcc;
+  color: var(--text-link-on-dark);
   text-decoration: none;
-  transition: color 0.3s ease; /* Add transition for smooth color change */
-  font-weight: bold; /* Add font-weight to make the text more prominent */
+  transition: color var(--duration-fast) var(--ease);
+  font-weight: var(--weight-medium);
 }
 
-.county-info a:hover {
-  color: blueviolet;
+.county-info a:hover,
+.county-info a:focus-visible {
+  color: var(--text-link-on-dark-hover);
+  text-decoration: underline;
 }
 
 .span {
-  color: #f3efcc;
+  color: var(--text-on-dark);
+}
+
+.span h2 {
+  font-size: var(--text-lg);
 }
 
 .span h3 {
-  font-size: 1.5rem;
+  font-size: var(--text-md);
 }
 
 .span a {
@@ -70,17 +75,29 @@
 }
 
 .border {
-  margin: 20px 0;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.331);
+  margin: var(--space-6) 0;
+  border-bottom: 2px solid var(--border-rule-on-dark);
   width: 100%;
 }
 
 .apn-format {
   text-align: center;
-  margin: 20px 0;
-  padding: 10px;
-  color: #f3efcc;
-  background-color: #40634388;
+  margin: var(--space-6) 0;
+  padding: var(--space-3);
+  color: var(--text-on-dark);
+  background-color: var(--bg-panel-muted);
+  border-radius: var(--radius-sm);
+}
+
+/* State DOT logos come from external sites at unknown intrinsic sizes —
+   cap the box so a large source cannot blow out the layout. */
+.dot-logo {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  background-color: var(--color-white);
+  padding: var(--space-2);
+  border-radius: var(--radius-sm);
 }
 
 .county-btn {
@@ -92,51 +109,67 @@
 .county-btn a {
   text-decoration: none;
   width: max-content;
-  margin: 0 1rem;
-  border-radius: 20px;
+  margin: 0 var(--space-4);
+  border-radius: var(--radius-btn-lg);
 }
 
 .county-btn button {
-  font-weight: bold;
+  font: inherit;
+  font-weight: var(--weight-medium);
   border: none;
-  border-radius: 20px;
+  border-radius: var(--radius-btn-lg);
   cursor: pointer;
-  background-color: #f3efcc;
-  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
-  padding: 8px 30px;
+  background-color: var(--bg-surface);
+  color: var(--text-on-surface);
+  box-shadow: var(--shadow-md);
+  padding: var(--space-2) var(--space-8);
+  transition: background-color var(--duration-fast) var(--ease),
+    color var(--duration-fast) var(--ease),
+    box-shadow var(--duration-fast) var(--ease);
 }
 
 .county-btn button:hover {
-  background-color: white;
-  color: #634060;
+  background-color: var(--bg-surface-hover);
+  color: var(--text-on-surface-hover);
+  box-shadow: var(--shadow-lg);
+}
+
+.county-btn button:active {
+  background-color: var(--bg-surface-active);
+  box-shadow: var(--shadow-sm);
+}
+
+.county-btn button:focus-visible {
+  outline: none;
+  box-shadow: var(--focus-ring-on-dark);
 }
 
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
-  .span h3 {
-    font-size: 1.2rem;
+  .span h2 {
+    font-size: var(--text-md);
   }
-  
+
   .county-btn {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .county-btn a {
-    margin: 0.5rem 0;
+    margin: var(--space-2) 0;
   }
-  
+
   .county-btn button {
-    padding: 6px 20px;
+    padding: var(--space-2) var(--space-6);
   }
 }
 
 @media screen and (max-width: 480px) {
-  .span h3 {
-    font-size: 1rem;
+  .span h2 {
+    font-size: var(--text-base);
   }
-  
+
   .county-btn button {
-    padding: 4px 16px;
+    padding: var(--space-2) var(--space-4);
   }
 }

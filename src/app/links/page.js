@@ -1,6 +1,12 @@
 import React from 'react';
 import globalLinks from '../../data/global_links.json';
 
+export const metadata = {
+    title: 'Links',
+    description:
+        'Shared survey research links — NGS benchmarks, licence lookup, Caltrans right-of-way contacts, and more.',
+};
+
 export default function Links() {
     return (
         <div className='block'>
@@ -12,12 +18,11 @@ export default function Links() {
                             <div key={lIdx} className='link'>
                                 <a href={link.url} target='_blank' rel='noreferrer'>
                                     {link.imgSrc && (
-                                        <img 
-                                            src={link.imgSrc} 
-                                            alt={link.imgAlt || link.label} 
-                                            width={link.imgWidth || 'auto'} 
+                                        <img
+                                            src={link.imgSrc}
+                                            alt={link.imgAlt || link.label}
+                                            width={link.imgWidth || 'auto'}
                                             height={link.imgHeight || 'auto'}
-                                            style={{ marginRight: '1rem' }}
                                         />
                                     )}
                                     {link.label}

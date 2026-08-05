@@ -6,7 +6,7 @@ export default function NVCities() {
   return (
     <>
       <div className="city-title">
-        <h2 className="title">Nevada Cities</h2>
+        <h1 className="title">Nevada Cities</h1>
       </div>
       <div className="cities">
         {nevadaCities && Array.isArray(nevadaCities) && nevadaCities

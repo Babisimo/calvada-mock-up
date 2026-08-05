@@ -1,0 +1,72 @@
+/* California utility-zone map (components/CaliforniaMapSVG.js) */
+
+.ca-map {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.ca-map svg {
+  width: 100%;
+  height: 45rem;
+}
+
+.county-path {
+  fill: var(--color-map-land);
+  fill-rule: nonzero;
+  stroke: var(--color-map-stroke);
+  stroke-width: 0.7;
+  stroke-linecap: butt;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker-start: none;
+  transform: rotate(-14deg);
+  cursor: pointer;
+}
+
+.zone-1 { fill: var(--color-zone-1); }
+.zone-2 { fill: var(--color-zone-2); }
+.zone-3 { fill: var(--color-zone-3); }
+.zone-4 { fill: var(--color-zone-4); }
+.zone-5 { fill: var(--color-zone-5); }
+.zone-6 { fill: var(--color-zone-6); }
+
+/* Zone highlight on hover. */
+.county-path.is-highlighted {
+  fill: var(--color-map-highlight);
+}
+
+.ca-map-tooltip {
+  position: fixed;
+  display: none;
+  padding: var(--space-3);
+  background: rgba(10, 39, 23, 0.92);
+  color: var(--color-cream-100);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-lg);
+  max-width: 220px;
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+  z-index: var(--z-tooltip);
+  pointer-events: none;
+}
+
+.ca-map-tooltip h3 {
+  margin: 0 0 var(--space-1) 0;
+  font-size: var(--text-base);
+  color: var(--color-cream-200);
+}
+
+.ca-map-tooltip ul {
+  margin: 0;
+  padding-left: var(--space-4);
+}
+
+@media screen and (max-width: 768px) {
+  .ca-map svg {
+    height: 30rem;
+  }
+}

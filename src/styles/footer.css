@@ -1,11 +1,11 @@
 .site-footer {
-  margin-top: 3rem;
-  padding: 1rem;
+  margin-top: var(--space-12);
+  padding: var(--space-4);
   text-align: center;
-  font-size: 0.875rem;
-  color: #406343;
-  border-top: 1px solid #d6d2b3;
-  background-color: #f3efcc;
+  font-size: var(--text-sm);
+  color: var(--text-on-surface);
+  border-top: 1px solid var(--border-hairline);
+  background-color: var(--bg-surface);
 }
 
 .site-footer p {
@@ -17,29 +17,35 @@
   cursor: help;
   border-bottom: 1px dotted currentColor;
   outline: none;
+  border-radius: var(--radius-sm);
+}
+
+.footer-update:focus-visible {
+  box-shadow: 0 0 0 2px var(--bg-surface), 0 0 0 4px var(--color-green-600);
 }
 
 .footer-tooltip {
   position: absolute;
-  bottom: calc(100% + 0.5rem);
+  bottom: calc(100% + var(--space-2));
   left: 50%;
   transform: translateX(-50%);
   width: max-content;
   max-width: min(80vw, 400px);
-  padding: 0.5rem 0.75rem;
-  background-color: #406343;
-  color: #f3efcc;
-  border-radius: 4px;
-  font-size: 0.8125rem;
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--color-green-700);
+  color: var(--bg-surface);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
   line-height: 1.4;
   white-space: normal;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: var(--shadow-md);
   opacity: 0;
   visibility: hidden;
-  transition: opacity 0.15s ease, visibility 0.15s ease;
+  transition: opacity var(--duration-fast) var(--ease),
+    visibility var(--duration-fast) var(--ease);
   pointer-events: none;
-  z-index: 10;
+  z-index: var(--z-tooltip);
 }
 
 .footer-tooltip::after {
@@ -49,7 +55,7 @@
   left: 50%;
   transform: translateX(-50%);
   border: 5px solid transparent;
-  border-top-color: #406343;
+  border-top-color: var(--color-green-700);
 }
 
 .footer-update:hover .footer-tooltip,

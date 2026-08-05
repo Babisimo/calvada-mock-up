@@ -1,19 +1,26 @@
+/* Standards-based (Firefox, Chrome 121+) */
+* {
+  scrollbar-color: var(--color-neutral-600) var(--color-neutral-100);
+  scrollbar-width: auto;
+}
+
+/* WebKit fallback */
 ::-webkit-scrollbar {
   width: 15px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
-  border-radius: 7px;
+  background: var(--color-neutral-100);
+  border-radius: var(--radius-md);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 7px;
+  background: var(--color-neutral-600);
+  border-radius: var(--radius-md);
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: var(--color-neutral-700);
 }

@@ -23,6 +23,16 @@ export async function generateStaticParams() {
     }));
 }
 
+export async function generateMetadata({ params }) {
+    const { countyName } = await params;
+    const county = allCountiesList.find(c => c.id.toLowerCase() === countyName.toLowerCase());
+    if (!county) return { title: 'County Not Found' };
+    return {
+        title: county.name,
+        description: `Survey research reference for ${county.name}${county.state ? `, ${county.state}` : ''} — recorder and assessor links, APN format, public works contacts, and highway district information.`,
+    };
+}
+
 export default async function CountyPage({ params }) {
     const { countyName } = await params;
     let county = allCountiesList.find(c => c.id.toLowerCase() === countyName.toLowerCase());

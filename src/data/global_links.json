@@ -12,30 +12,30 @@
       {
         "label": "NGS Benchmarks",
         "url": "https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/1200px-NOAA_logo.svg.png",
+        "imgSrc": "https://www.noaa.gov/sites/default/files/2022-03/noaa_emblem_logo-2022.png",
         "imgAlt": "NGS-logo",
         "imgWidth": "60px"
       },
       {
         "label": "LS Lookup",
         "url": "https://search.dca.ca.gov/?BD=31",
-        "imgSrc": "https://search.dca.ca.gov/images/dcasearch.png",
+        "imgSrc": "https://cdn.dca.ca.gov/dca_search/images/dcasearch.png",
         "imgAlt": "DCA Search",
         "imgWidth": "180px"
       },
       {
         "label": "Caltrans ROW Contacts",
         "url": "https://dot.ca.gov/programs/right-of-way/rw-maps-surveys-records",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Caltrans.svg/1200px-Caltrans.svg.png",
+        "imgSrc": "https://dot.ca.gov/-/media/dot-media/images/logos/caltrans/caltranslogo.png?mw=300&hash=0540FA4538E34376D54F5CE31E454E45",
         "imgAlt": "BPR-logo",
         "imgWidth": "80px"
       },
       {
         "label": "Bureau Of Land Management",
         "url": "https://glorecords.blm.gov/default.aspx",
-        "imgSrc": "https://glorecords.blm.gov/images/blm_banner_home_abbreviated.png",
+        "imgSrc": "https://glorecords.blm.gov/file-asset/Shield?v=10",
         "imgAlt": "Bureau-logo",
-        "imgWidth": "440px",
+        "imgWidth": "400px",
         "imgHeight": "40px"
       },
       {

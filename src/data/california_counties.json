@@ -904,13 +904,10 @@
         "label": "TRA GIS",
         "url": "https://www.boe.ca.gov/maps/RiversideCo.htm#:~:text=Tax%20Rate%20Areas%20%E2%80%93%20Riverside%20County%202023&text=Each%20TRA%20is%20assigned%20a,the%20specified%20assessment%20roll%20year"
       },
+      {"empty": true},
       {
         "label": "RivCo Survey Scanned Images Directory",
         "url": "https://rivcounty.sharepoint.com/sites/tlmaXnt/RivCoSurvey/default.aspx"
-      },
-      {
-        "label": "Oswaldo",
-        "url": "mailto:ogonzalez@calvada.com?subject=RivCoSurvey Login&body=Can you please provide me with the login for RivCo Survey?"
       }
     ],
     "publicWorks": {

@@ -38,7 +38,7 @@ const CaltransDistrict = ({ id }) => {
             {(hasRequestForm || hasPostmile) && (
                 <>
                     <br />
-                    <h4>{hasRequestForm ? 'Request ROW Maps by Email:' : 'Request ROW by Email:'}</h4>
+                    <h3>{hasRequestForm ? 'Request ROW Maps by Email:' : 'Request ROW by Email:'}</h3>
                 </>
             )}
 
@@ -54,7 +54,7 @@ const CaltransDistrict = ({ id }) => {
             {contacts && contacts.map((c, i) => (
                 <React.Fragment key={i}>
                     <br />
-                    <h4>{c.heading || 'Contact:'}</h4>
+                    <h3>{c.heading || 'Contact:'}</h3>
                     <p>
                         {c.name || 'Right of Way Engineering Staff'}
                         {c.email && <> | <CopyEmail email={c.email} /></>}
