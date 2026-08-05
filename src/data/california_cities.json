@@ -40,7 +40,7 @@
     "name": "Anaheim",
     "links": [
       {
-        "url": "https://gis.anaheim.net/portal/apps/webappviewer/index.html?id=e1e1ec14535146f692dfe832391c92ec",
+        "url": "https://gis.anaheim.net/portal/apps/experiencebuilder/experience/?id=3e679d871e3549fc8063e0c807131b7f#data_s=id%3Awidget_22_output_config_default_geocode_utility_2_0%3A0%2Cid%3A52085b3010c04b3686acf4a4dd2b6f18-182f55912b5-layer-2%3A230",
         "label": "Benchmarks"
       },
       {
@@ -475,7 +475,7 @@
     "name": "Elk Grove",
     "links": [
       {
-        "url": "https://www.elkgrovecity.org/public-works/horizontal-and-vertical-control",
+        "url": "https://www.arcgis.com/home/item.html?id=0f865f8adc4d4ff4823a3ce78b5d5ea7&sublayer=0#visualize",
         "label": "Horizontal and Vertical Control"
       }
     ]
@@ -1140,7 +1140,7 @@
         "label": "Benchmarks"
       },
       {
-        "url": "https://pasadenasewercl.azurewebsites.net/public",
+        "url": "https://sewercl.cityofpasadena.net/public",
         "label": "Centerline Ties"
       },
       {
@@ -1787,11 +1787,11 @@
         "label": "Surveying"
       },
       {
-        "url": "https://www.victorvilleca.gov/home/showpublisheddocument/1511/636712133124270000",
+        "url": "https://www.victorvilleca.gov/files/assets/city/v/1/engineering/documents/approved/benchmark-map.pdf",
         "label": "Benchmarks PDF Map"
       },
       {
-        "url": "https://www.victorvilleca.gov/home/showpublisheddocument/1525/636712133134730000",
+        "url": "https://www.victorvilleca.gov/files/assets/city/v/1/engineering/documents/approved/benchmarks-numerical-listing.pdf",
         "label": "Benchmarks PDF List"
       }
     ]
@@ -1801,7 +1801,7 @@
     "name": "Visalia",
     "links": [
       {
-        "url": "https://www.visalia.city/civicax/filebank/blobdload.aspx?blobid=3751",
+        "url": "https://www.visalia.gov/DocumentCenter/View/768/Benchmark-Book-PDF",
         "label": "City Benchmarks PDF"
       },
       {

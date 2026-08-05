@@ -4,7 +4,7 @@
     "name": "Franklin",
     "links": [
       {
-        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal/apps/webappviewer/index.html?id=38d7697ee86e41e89116a889d355ff76",
+        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal2/apps/experiencebuilder/experience/?id=d6f10a2da68d462f8822a49e3e51d665",
         "label": "APN GIS Map"
       },
       {
@@ -12,7 +12,7 @@
         "label": "APN Search Portal"
       },
       {
-        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal/apps/webappviewer/index.html?id=cda111ac97064578bdd8d7a11d395b39",
+        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal2/apps/instant/sidebar/index.html?appid=8734670f3ce0423491ff7a59efaf6b5f",
         "label": "Planning GIS"
       },
       {
@@ -20,7 +20,7 @@
         "label": "Official Records Search"
       },
       {
-        "url": "https://www.franklincountywa.gov/Mapping-GIS",
+        "url": "https://gisportal.franklin.co.franklin.wa.us/arcgisportal2/home/index.html",
         "label": "Franklin County GIS Portal"
       },
       {
